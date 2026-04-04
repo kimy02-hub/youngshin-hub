@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DMS Mailbox · YS Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════ TOP BAR -->
+<header class="topbar">
+  <div class="topbar-left">
+    <span class="logo">✦ DMS Mailbox</span>
+    <span class="account-pill">Youngshin.Kim@austin.utexas.edu</span>
+  </div>
+
+  <nav class="tab-group" role="tablist">
+    <button class="tab active" data-tab="all"     onclick="switchTab('all')">All</button>
+    <button class="tab"        data-tab="unread"  onclick="switchTab('unread')">Unread</button>
+    <button class="tab"        data-tab="flagged" onclick="switchTab('flagged')">Flagged</button>
+  </nav>
+
+  <div class="topbar-right">
+    <span class="last-updated" id="lastUpdated">—</span>
+    <button class="refresh-btn" onclick="refreshData()" title="Refresh from GitHub">
+      <svg id="refreshIcon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="23 4 23 10 17 10"></polyline>
+        <polyline points="1 20 1 14 7 14"></polyline>
+        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+      </svg>
+      Refresh
+    </button>
+  </div>
+</header>
+
+<!-- ═══════════════════════════════════════════ MAIN SPLIT -->
+<main class="split">
+
+  <!-- ────── LEFT: EMAILS ────── -->
+  <section class="panel emails-panel">
+    <div class="panel-header">
+      <h2 class="panel-title">📬 Inbox</h2>
+      <span class="panel-count" id="emailCount">—</span>
+    </div>
+    <div class="email-list" id="emailList">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>Loading emails…</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ────── RIGHT: TASKS ────── -->
+  <section class="panel tasks-panel">
+    <div class="panel-header">
+      <h2 class="panel-title">🌸 Tasks</h2>
+      <div class="panel-actions">
+        <button class="add-task-btn" onclick="openAddTask()" title="Add task">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          Add Task
+        </button>
+      </div>
+    </div>
+
+    <!-- FLAGGED SECTION -->
+    <div class="task-section" id="flaggedSection" style="display:none">
+      <div class="section-label flagged-label">⚑ FLAGGED</div>
+      <div id="flaggedTasksList"></div>
+    </div>
+
+    <!-- ACTIVE TASKS -->
+    <div id="activeTasksList"></div>
+
+    <!-- COMPLETED (foldable) -->
+    <div class="completed-section" id="completedSection" style="display:none">
+      <button class="completed-toggle" onclick="toggleCompleted()">
+        <svg id="completedChevron" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        Completed (<span id="completedCount">0</span>)
+      </button>
+      <div id="completedTasksList" class="completed-collapsed"></div>
+    </div>
+
+    <div class="tasks-empty" id="tasksEmpty" style="display:none">
+      <span>No tasks yet 🌱</span>
+    </div>
+  </section>
+</main>
+
+<!-- ═══════════════════════════════════════════ ADD TASK MODAL -->
+<div class="modal-overlay" id="addTaskModal" onclick="closeAddTask(event)">
+  <div class="modal-card">
+    <h3 class="modal-title">✦ New Task</h3>
+    <div class="form-group">
+      <label>Task <span class="required">*</span></label>
+      <input type="text" id="newTaskTitle" placeholder="What needs to be done?" autocomplete="off">
+    </div>
+    <div class="form-group">
+      <label>Due Date</label>
+      <input type="date" id="newTaskDue">
+    </div>
+    <div class="form-group">
+      <label>CC / People involved</label>
+      <input type="text" id="newTaskCC" placeholder="names or emails">
+    </div>
+    <div class="form-actions">
+      <button class="btn-cancel" onclick="closeAddTask()">Cancel</button>
+      <button class="btn-add" onclick="addManualTask()">Add Task ✦</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
