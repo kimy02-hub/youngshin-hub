@@ -23,7 +23,7 @@ import sys
 from datetime import datetime
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-GITHUB_REPO_PATH = os.path.expanduser("~/your-github-repo")   # ← CHANGE THIS
+GITHUB_REPO_PATH = os.path.expanduser("~/kimy02-hub/youngshin-hub")   # ← CHANGE THIS
 EMAILS_JSON_PATH = os.path.join(GITHUB_REPO_PATH, "emails.json")
 MAX_EMAILS = 60
 ACCOUNT_NAME = "DMS"
