@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T17:15:11.987068",
+  "fetched_at": "2026-04-05T17:30:12.361683",
   "emails": [
     {
       "id": "SA6PR06MB10448EA5CA58C16853C19C90DA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
@@ -78,15 +78,6 @@
       "subject": "Prospective Medical Student Research Fellow",
       "sender": "Eshan Sayani <eshansayani@tamu.edu>",
       "date": "Sat Apr 04 2026 15:28:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAOWh29wucrZ5jfUnaSeQdQ7GpVn0aa3ysM0ziY_N1W8e-UwEww@mail.gmail.com",
-      "subject": "Re: Chloe Curlin - Medication Refill",
-      "sender": "Pete Curlin <petecurlin@gmail.com>",
-      "date": "Fri Apr 03 2026 17:12:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -537,6 +528,15 @@
       "subject": "Re: Hosting Eric Carter meeting",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 15:36:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR08MB4871612212B5A170642AA4B0ED51A@BYAPR08MB4871.namprd08.prod.outlook.com",
+      "subject": "RE: Kind Follow‑Up Regarding My Son’s Prescription _ Bian Shin",
+      "sender": "\"Shin, GilWoo\" <gilwoo.shin@asm.com>",
+      "date": "Thu Apr 02 2026 15:32:20 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
