@@ -1,144 +1,179 @@
 #!/usr/bin/env python3
-"""fetch_mail.py v4 - DMS Dashboard sync"""
-import subprocess, json, os, sys, ssl
-import datetime
+"""
+fetch_mail.py v5 - DMS Dashboard sync
+Cron: */15 * * * * /usr/bin/python3 ~/youngshin-hub/fetch_mail.py >> /tmp/fetchmail.log 2>&1
+"""
+import subprocess, json, os, sys, datetime
 
 REPO   = os.path.expanduser('~/youngshin-hub')
 EMAILS = os.path.join(REPO, 'emails.json')
 TASKS  = os.path.join(REPO, 'tasks.json')
-CERT   = os.path.join(REPO, '.cert/cert.pem')
-KEY    = os.path.join(REPO, '.cert/key.pem')
-PORT   = 8765
+DASHBOARD_URL = 'kimy02-hub.github.io/youngshin-hub'
 
-JXA = """
+# ?? JXA: fetch emails from Apple Mail ??????????????????????
+MAIL_JXA = """
 var Mail = Application('Mail');
-var acct = null;
-var accounts = Mail.accounts();
+var acct = null, accounts = Mail.accounts();
 for (var a=0;a<accounts.length;a++){
   if(accounts[a].name()==='DMS'){acct=accounts[a];break;}
 }
 if(!acct){'ERROR:Account not found';}
 else{
-  var mb=null,mbs=acct.mailboxes();
-  for(var b=0;b<mbs.length;b++){if(mbs[b].name()==='Inbox'){mb=mbs[b];break;}}
+  var mb=null, mbs=acct.mailboxes();
+  for(var b=0;b<mbs.length;b++){
+    if(mbs[b].name()==='Inbox'){mb=mbs[b];break;}
+  }
   if(!mb){'ERROR:Mailbox not found';}
   else{
-    var msgs=mb.messages(),count=Math.min(msgs.length,60),rows=[];
+    var msgs=mb.messages(), count=Math.min(msgs.length,60), rows=[];
     for(var i=0;i<count;i++){
       var m=msgs[i];
       var id=m.messageId()||'';
-      var subj=(m.subject()||'').replace(/~\|~/g,' ');
-      var from=(m.sender()||'').replace(/~\|~/g,' ');
+      var subj=(m.subject()||'').replace(/~|~/g,' ');
+      var from=(m.sender()||'').replace(/~|~/g,' ');
       var date=m.dateReceived().toString();
       var cc='';try{cc=m.ccAddress()||'';}catch(e){}
-      var r=m.readStatus(),fl=m.flaggedStatus();
-      rows.push([id,subj,from,date,r,fl,cc].join('~|~'));
+      rows.push([id,subj,from,date,m.readStatus(),m.flaggedStatus(),cc].join('~|~'));
     }
     rows.join('ROWSEP');
   }
 }
 """
 
-def jxa(s):
-    r=subprocess.run(['osascript','-l','JavaScript','-e',s],capture_output=True,text=True)
-    if r.returncode!=0: raise RuntimeError(r.stderr.strip())
+# ?? JXA: read tasks from Chrome localStorage ???????????????
+CHROME_JXA = """
+var chrome = Application('Google Chrome');
+var wins = chrome.windows();
+var result = null;
+for (var w=0; w<wins.length; w++){
+  var tabs = wins[w].tabs();
+  for (var t=0; t<tabs.length; t++){
+    if (tabs[t].url().indexOf('youngshin-hub') > -1){
+      result = tabs[t].execute({javascript: 'localStorage.getItem("dms_tasks_v3")'});
+      break;
+    }
+  }
+  if (result) break;
+}
+result || 'NOT_FOUND';
+"""
+
+def jxa(script_str, lang='JavaScript'):
+    r = subprocess.run(['osascript','-l',lang,'-e',script_str],
+                       capture_output=True, text=True)
+    if r.returncode != 0: raise RuntimeError(r.stderr.strip())
+    return r.stdout.strip()
+
+def jxa_file(path):
+    r = subprocess.run(['osascript','-l','JavaScript', path],
+                       capture_output=True, text=True)
+    if r.returncode != 0: raise RuntimeError(r.stderr.strip())
     return r.stdout.strip()
 
 def parse_emails(raw):
-    emails,seen=[],set()
+    emails, seen = [], set()
     for row in raw.split('ROWSEP'):
-        row=row.strip()
+        row = row.strip()
         if not row: continue
-        p=row.split('~|~')
-        if len(p)<6: continue
-        mid=p[0].strip()
+        p = row.split('~|~')
+        if len(p) < 6: continue
+        mid = p[0].strip()
         if mid in seen: continue
         seen.add(mid)
-        emails.append({'id':mid,'subject':p[1].strip() or '(no subject)',
-            'sender':p[2].strip(),'date':p[3].strip(),
+        emails.append({'id':mid, 'subject':p[1].strip() or '(no subject)',
+            'sender':p[2].strip(), 'date':p[3].strip(),
             'read':p[4].strip().lower()=='true',
             'flagged':p[5].strip().lower()=='true',
             'cc':p[6].strip() if len(p)>6 else ''})
     def sk(e):
         try: dt=datetime.datetime.strptime(e['date'][:24],'%a %b %d %Y %H:%M:%S')
         except: dt=datetime.datetime.min
-        return(e['read'],not e['flagged'],-dt.timestamp())
+        return (e['read'], not e['flagged'], -dt.timestamp())
     emails.sort(key=sk)
     return emails
 
-def read_tasks():
+def read_tasks_from_chrome():
+    """Read tasks from Chrome localStorage. Returns list or None if Chrome not open."""
     try:
-        with open(TASKS) as f: return json.load(f).get('tasks',[])
+        # Write JXA to temp file to avoid quoting issues
+        jxa_path = '/tmp/read_chrome_tasks.js'
+        with open(jxa_path, 'w') as f:
+            f.write(CHROME_JXA)
+        raw = jxa_file(jxa_path)
+        if raw == 'NOT_FOUND' or not raw or raw == 'null':
+            print('  Chrome: dashboard tab not open, keeping existing tasks')
+            return None
+        tasks = json.loads(raw)
+        print(f'  Chrome: read {len(tasks)} tasks from localStorage')
+        return tasks
+    except Exception as e:
+        print(f'  Chrome tasks: {e}')
+        return None
+
+def read_tasks_from_disk():
+    try:
+        with open(TASKS) as f: return json.load(f).get('tasks', [])
     except: return []
 
 def write_tasks(tlist):
-    with open(TASKS,'w') as f:
-        json.dump({'tasks':tlist,'saved_at':datetime.datetime.now().isoformat()},f,indent=2,ensure_ascii=False)
+    data = {'tasks': tlist, 'saved_at': datetime.datetime.now().isoformat()}
+    with open(TASKS, 'w') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 def write_emails(emails):
-    with open(EMAILS,'w') as f:
-        json.dump({'fetched_at':datetime.datetime.now().isoformat(),'emails':emails},f,indent=2,ensure_ascii=False)
-    print(f'Wrote {len(emails)} emails')
+    data = {'fetched_at': datetime.datetime.now().isoformat(), 'emails': emails}
+    with open(EMAILS, 'w') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f'  Wrote {len(emails)} emails')
+
+def merge_tasks(chrome_tasks, disk_tasks):
+    """Merge Chrome and disk tasks, Chrome wins on conflicts."""
+    if not chrome_tasks: return disk_tasks
+    chrome_ids = {t['id'] for t in chrome_tasks}
+    # Add any disk tasks not in Chrome (created on other devices)
+    extras = [t for t in disk_tasks if t['id'] not in chrome_ids]
+    merged = chrome_tasks + extras
+    if extras:
+        print(f'  Merged {len(extras)} tasks from other devices')
+    return merged
 
 def git_push(files):
     try:
         for fp in files:
-            subprocess.run(['git','-C',REPO,'add',os.path.relpath(fp,REPO)],check=True)
-        res=subprocess.run(['git','-C',REPO,'commit','-m',
-            f'Auto-update {datetime.datetime.now().strftime("%Y-%m-%d %H:%M")}'],
-            capture_output=True,text=True)
-        if 'nothing to commit' in res.stdout: print('No changes.'); return
-        subprocess.run(['git','-C',REPO,'push','--set-upstream','origin','main'],check=True)
-        print('Pushed!')
-    except subprocess.CalledProcessError as e: print(f'Git error:{e}')
+            subprocess.run(['git','-C',REPO,'add', os.path.relpath(fp,REPO)], check=True)
+        ts  = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+        res = subprocess.run(['git','-C',REPO,'commit','-m',f'Auto-update {ts}'],
+                             capture_output=True, text=True)
+        if 'nothing to commit' in res.stdout:
+            print('  No changes to push'); return
+        subprocess.run(['git','-C',REPO,'push','--set-upstream','origin','main'], check=True)
+        print('  Pushed to GitHub!')
+    except subprocess.CalledProcessError as e:
+        print(f'  Git error: {e}')
 
-def fetch_and_push():
-    print('Fetching emails...')
-    raw=jxa(JXA)
+def main():
+    now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    print(f'[{now}] Starting sync...')
+
+    # 1. Fetch emails
+    print('Fetching emails from Apple Mail...')
+    raw = jxa(MAIL_JXA)
     if raw.startswith('ERROR:'): print(raw); sys.exit(1)
-    emails=parse_emails(raw)
-    print(f'Found {len(emails)} emails')
+    emails = parse_emails(raw)
     write_emails(emails)
-    if not os.path.exists(TASKS): write_tasks([])
-    git_push([EMAILS])
 
-def run_server():
-    from http.server import HTTPServer, BaseHTTPRequestHandler
-    class H(BaseHTTPRequestHandler):
-        def log_message(self,fmt,*a):
-            ts=datetime.datetime.now().strftime('%H:%M:%S')
-            if '/save-tasks' in (a[0] if a else ''): print(f'[{ts}] {a}',flush=True)
-        def cors(self):
-            self.send_header('Access-Control-Allow-Origin','*')
-            self.send_header('Access-Control-Allow-Methods','POST,GET,OPTIONS')
-            self.send_header('Access-Control-Allow-Headers','Content-Type')
-        def do_OPTIONS(self): self.send_response(200);self.cors();self.end_headers()
-        def do_GET(self):
-            self.send_response(200);self.cors()
-            self.send_header('Content-Type','application/json');self.end_headers()
-            self.wfile.write(b'{"status":"ok","service":"DMS task sync"}')
-        def do_POST(self):
-            if self.path=='/save-tasks':
-                try:
-                    n=int(self.headers.get('Content-Length',0))
-                    data=json.loads(self.rfile.read(n))
-                    tlist=data.get('tasks',[])
-                    write_tasks(tlist)
-                    git_push([TASKS])
-                    self.send_response(200);self.cors()
-                    self.send_header('Content-Type','application/json');self.end_headers()
-                    self.wfile.write(json.dumps({'ok':True,'count':len(tlist)}).encode())
-                    ts=datetime.datetime.now().strftime('%H:%M:%S')
-                    print(f'[{ts}] Saved {len(tlist)} tasks to GitHub',flush=True)
-                except Exception as e: self.send_response(500);self.end_headers();self.wfile.write(str(e).encode())
-            else: self.send_response(404);self.end_headers()
-    server=HTTPServer(('127.0.0.1',PORT),H)
-    ctx=ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
-    ctx.load_cert_chain(CERT,KEY)
-    server.socket=ctx.wrap_socket(server.socket,server_side=True)
-    print(f'Task sync server on https://localhost:{PORT}',flush=True)
-    server.serve_forever()
+    # 2. Sync tasks from Chrome (if dashboard is open)
+    print('Syncing tasks from Chrome...')
+    chrome_tasks = read_tasks_from_chrome()
+    disk_tasks   = read_tasks_from_disk()
+    merged       = merge_tasks(chrome_tasks, disk_tasks)
+    write_tasks(merged)
+    print(f'  Tasks: {len(merged)} total ({len([t for t in merged if t["flagged"] and not t["done"]])} flagged, {len([t for t in merged if t["done"]])} done)')
 
-if __name__=='__main__':
-    if '--serve' in sys.argv: run_server()
-    else: fetch_and_push()
+    # 3. Push both to GitHub
+    print('Pushing to GitHub...')
+    git_push([EMAILS, TASKS])
+    print('Done!')
+
+if __name__ == '__main__':
+    main()
