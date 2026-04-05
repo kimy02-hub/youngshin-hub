@@ -1,15 +1,6 @@
 {
-  "fetched_at": "2026-04-05T16:15:16.016024",
+  "fetched_at": "2026-04-05T16:30:10.653817",
   "emails": [
-    {
-      "id": "69d2c9ab.050a0220.177f1b.914d.GMR@mx.google.com",
-      "subject": "Undeliverable: Delivery Status Notification (Failure)",
-      "sender": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
-      "date": "Sun Apr 05 2026 15:44:35 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
     {
       "id": "SA6PR06MB10448EA5CA58C16853C19C90DA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "subject": "FW: The Lancet: Submission Confirmation",
@@ -537,6 +528,15 @@
       "subject": "Re: Proposed Meeting Schedule for TCMHCC Executive Committee (October 2026 - August 2027)",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 15:40:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1071197A25A0155AFC9B3885EB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Hosting Eric Carter meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Thu Apr 02 2026 15:36:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
