@@ -113,7 +113,7 @@ body {
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* ════════════ SPLIT ════════════ */
-.split { flex: 1; display: grid; grid-template-columns: 1fr 1fr; overflow: hidden; }
+.split { flex: 1; display: grid; grid-template-columns: 1fr 2fr; overflow: hidden; }
 .panel { display: flex; flex-direction: column; overflow: hidden; }
 .emails-panel { background: var(--surface-1); border-right: 1px solid var(--surface-2); }
 .tasks-panel  { background: var(--surface-0); overflow-y: auto; }
