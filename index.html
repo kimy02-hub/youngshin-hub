@@ -112,7 +112,7 @@
   </div>
 </div>
 
-<script src="app.js"></script>
+<div class="modal-overlay" id="editTaskModal" onclick="closeEditTask(event)"><div class="modal-card modal-card-wide"><h3 class="modal-title">✏ Edit Task</h3><div class="form-group"><label>Task <span class="required">*</span></label><input type="text" id="editTaskTitle" autocomplete="off"></div><div class="form-group"><label>Due Date</label><input type="date" id="editTaskDue"></div><div class="form-group"><label>Note</label><textarea id="editTaskNote" class="note-textarea" placeholder="Add notes, context, or anything useful…"></textarea></div><div class="form-group"><label>Sub-tasks <button type="button" class="add-subtask-btn" onclick="addSubtask()">＋ Add</button></label><div id="subtaskList" class="subtask-list"></div></div><div class="form-actions"><button class="btn-cancel" onclick="closeEditTask()">Cancel</button><button class="btn-add" onclick="saveEditTask()">Save ✦</button></div></div></div><script src="app.js"></script>
 </body>
 </html>
 <!-- updated Sun Apr 5 17:14:26 CDT 2026 -->

@@ -1,97 +1,93 @@
-/* ═══════════════════════════════════════════════════════════
-   DMS Mailbox Dashboard · styles.css  v2
-   Palette: warm white · slate text · dusty rose (emails) 
-   · amber (tasks) · clear UX contrast throughout
-   ═══════════════════════════════════════════════════════════ */
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&display=swap');
+/* ?? EDIT TASK ADDITIONS ???????????????????????????????????? */
 
-:root {
-  /* ── Surfaces ── */
-  --surface-0: #ffffff;
-  --surface-1: #f6f2f0;
-  --surface-2: #ece6e3;
-  --surface-3: #ddd5d1;
+/* Wider modal for edit */
+.modal-card-wide { width: min(560px, 94vw); }
 
-  /* ── Text ── */
-  --text-primary:   #28201e;
-  --text-secondary: #574846;
-  --text-tertiary:  #9c8c88;
-  --text-ghost:     #c0b0ac;
+/* Edit pencil button on task card */
+.edit-task-btn {
+  font-size: 0.8rem; background: none;
+  border: 1px solid var(--surface-3); border-radius: 8px;
+  padding: 3px 7px; cursor: pointer;
+  transition: all .14s; color: var(--text-ghost); line-height: 1;
+}
+.edit-task-btn:hover { background: var(--surface-2); color: var(--text-secondary); border-color: var(--surface-3); }
 
-  /* ── Rose: flagged EMAILS ── */
-  --rose:        #c0526a;
-  --rose-bg:     #fef0f2;
-  --rose-border: #f0b8c4;
-
-  /* ── Amber: flagged TASKS ── */
-  --amber:        #a86828;
-  --amber-bg:     #fdf5ea;
-  --amber-border: #e8c080;
-
-  /* ── Due states ── */
-  --due-blue:    #4a7c9e;  --due-blue-bg:  #edf4f9;  --due-blue-bd:  #b8d4e8;
-  --due-today:   #a86828;  --due-today-bg: #fdf5ea;  --due-today-bd: #e8c080;
-  --due-late:    #b03030;  --due-late-bg:  #fdeaea;  --due-late-bd:  #e8aaaa;
-
-  /* ── Done ── */
-  --done-strike: #b03030;
-
-  /* ── Fonts ── */
-  --font-serif: 'Lora', Georgia, serif;
-  --font-sans:  'DM Sans', system-ui, -apple-system, sans-serif;
-
-  /* ── Geometry ── */
-  --r-sm: 7px;  --r-md: 13px;  --r-lg: 20px;
-  --top-h: 58px;
-
-  /* ── Shadows ── */
-  --sh-xs: 0 1px 4px rgba(40,32,30,.06);
-  --sh-sm: 0 2px 12px rgba(40,32,30,.09);
-  --sh-md: 0 6px 28px rgba(40,32,30,.13);
+/* Note preview on task card */
+.task-note-preview {
+  font-size: 0.72rem; color: var(--text-tertiary);
+  font-style: italic; margin: 3px 0 4px;
+  line-height: 1.4; word-break: break-word;
 }
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  font-family: var(--font-sans);
-  background: var(--surface-1);
-  color: var(--text-primary);
-  height: 100dvh;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  -webkit-font-smoothing: antialiased;
+/* Subtask count preview on task card */
+.task-sub-preview {
+  font-size: 0.69rem; color: var(--text-tertiary);
+  margin: 2px 0 4px;
 }
 
-/* ════════════ TOP BAR ════════════ */
-.topbar {
-  height: var(--top-h);
-  background: var(--surface-0);
-  border-bottom: 1px solid var(--surface-2);
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  padding: 0 24px;
-  flex-shrink: 0;
-  box-shadow: var(--sh-xs);
-  z-index: 10;
+/* Note textarea in edit modal */
+.note-textarea {
+  width: 100%; font-family: var(--font-sans);
+  font-size: 0.85rem; color: var(--text-primary);
+  background: var(--surface-1); border: 1px solid var(--surface-3);
+  border-radius: var(--r-sm); padding: 10px 13px;
+  outline: none; resize: vertical; min-height: 80px;
+  transition: all .14s; line-height: 1.5;
 }
-.topbar-left { display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0; }
-.logo { font-family: var(--font-serif); font-size: 1.05rem; font-weight: 600; color: var(--text-primary); white-space: nowrap; }
-.account-pill {
-  font-size: 0.7rem; color: var(--text-tertiary);
-  background: var(--surface-2); border: 1px solid var(--surface-3);
-  border-radius: 20px; padding: 3px 11px;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 260px;
+.note-textarea:focus { border-color: #b0a09a; background: white; }
+.note-textarea::placeholder { color: var(--text-ghost); }
+
+/* Add subtask button inside label */
+.add-subtask-btn {
+  font-family: var(--font-sans); font-size: 0.69rem; font-weight: 600;
+  color: var(--text-tertiary); background: var(--surface-2);
+  border: 1px solid var(--surface-3); border-radius: 10px;
+  padding: 2px 9px; cursor: pointer; margin-left: 8px;
+  transition: all .14s; vertical-align: middle;
 }
-.tab-group {
-  display: flex; gap: 2px;
-  background: var(--surface-2); border: 1px solid var(--surface-3);
-  border-radius: 26px; padding: 3px; flex-shrink: 0;
+.add-subtask-btn:hover { background: var(--surface-3); color: var(--text-primary); }
+
+/* Subtask list */
+.subtask-list { display: flex; flex-direction: column; gap: 7px; margin-top: 6px; }
+
+.subtask-row {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--surface-1); border: 1px solid var(--surface-2);
+  border-radius: var(--r-sm); padding: 6px 10px;
+  transition: all .14s;
 }
-.tab {
-  font-family: var(--font-sans); font-size: 0.78rem; font-weight: 500;
+.subtask-row:hover { border-color: var(--surface-3); }
+.subtask-row.subtask-done .subtask-input {
+  text-decoration: line-through; text-decoration-color: var(--done-strike);
+  text-decoration-thickness: 2px; color: var(--text-ghost);
+}
+
+.subtask-check {
+  width: 16px; height: 16px; border-radius: 4px;
+  border: 2px solid var(--surface-3); background: var(--surface-0);
+  cursor: pointer; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700; color: white;
+  transition: all .14s; user-select: none;
+}
+.subtask-check:hover { border-color: #7aae82; background: #f3faf4; }
+.subtask-row.subtask-done .subtask-check { background: var(--done-strike); border-color: var(--done-strike); }
+
+.subtask-input {
+  flex: 1; font-family: var(--font-sans); font-size: 0.82rem;
+  color: var(--text-primary); background: transparent;
+  border: none; outline: none; min-width: 0;
+}
+.subtask-input::placeholder { color: var(--text-ghost); }
+
+.subtask-del {
+  font-size: 1rem; line-height: 1; background: none; border: none;
+  cursor: pointer; color: var(--text-ghost); padding: 0 2px;
+  flex-shrink: 0; transition: color .14s;
+}
+.subtask-del:hover { color: var(--due-late); }
+t: 500;
   color: var(--text-tertiary); background: transparent;
   border: none; border-radius: 22px; padding: 5px 18px;
   cursor: pointer; transition: all .15s ease; white-space: nowrap;
