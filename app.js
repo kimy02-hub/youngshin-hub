@@ -1,21 +1,18 @@
+/* DMS Mailbox Dashboard - app.js v6 - with mobile support */
+let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
+const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json';
 
-// ?? MOBILE TAB SWITCHING ??????????????????????????????????????
-function mobileSwitchTab(tab) {
-  const split = document.querySelector('.split');
-  const inboxBtn = document.getElementById('mobileInboxBtn');
-  const tasksBtn = document.getElementById('mobileTasksBtn');
-  if (!split) return;
-  if (tab === 'tasks') {
-    split.classList.add('show-tasks');
-    if (tasksBtn) tasksBtn.classList.add('active');
-    if (inboxBtn) inboxBtn.classList.remove('active');
-  } else {
-    split.classList.remove('show-tasks');
-    if (inboxBtn) inboxBtn.classList.add('active');
-    if (tasksBtn) tasksBtn.classList.remove('active');
-  }
-}
+document.addEventListener('DOMContentLoaded', () => { loadTasks(); loadEmails(); });
 
+// -- EMAIL LOADING --
+async function loadEmails() {
+  try {
+    const res = await fetch(EMAILS_URL + '?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allEmails = data.emails || [];
+    updateLastUpdated(data.fetched_at);
+    renderEmails();
   } catch(e) {
     document.getElementById('emailList').innerHTML =
       `<div class="loading-state"><p style="color:var(--text-ghost)">Could not load emails.<br><small>${e.message}</small></p></div>`;
@@ -38,7 +35,7 @@ async function refreshData() {
   finally { setTimeout(() => { btn.classList.remove('spinning'); btn.disabled=false; }, 700); }
 }
 
-// -- TABS -------------------------------------------------------
+// -- TABS --
 function switchTab(tab) {
   currentTab = tab;
   document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab===tab));
@@ -50,7 +47,7 @@ function getFilteredEmails() {
   return allEmails;
 }
 
-// -- EMAIL RENDERING --------------------------------------------
+// -- EMAIL RENDERING --
 function renderEmails() {
   const list = getFilteredEmails();
   const container = document.getElementById('emailList');
@@ -85,16 +82,19 @@ function buildEmailCard(email, idx) {
   return card;
 }
 
-// -- TASK PERSISTENCE -------------------------------------------
+// -- TASK PERSISTENCE --
 function loadTasks() {
   try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
-  // Ensure all tasks have note/subtasks fields
   tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
   renderTasks();
+  updateMobileBadge();
 }
-function saveTasks() { localStorage.setItem(TASKS_KEY, JSON.stringify(tasks)); }
+function saveTasks() {
+  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+  updateMobileBadge();
+}
 
-// -- EMAIL TO TASK ----------------------------------------------
+// -- EMAIL TO TASK --
 function emailToTask(emailId) {
   const email = allEmails.find(e=>e.id===emailId);
   if (!email) return;
@@ -108,7 +108,7 @@ function emailToTask(emailId) {
   saveTasks(); renderTasks(); showToast('Task added!');
 }
 
-// -- MANUAL TASK ------------------------------------------------
+// -- MANUAL TASK --
 function addManualTask() {
   const title = document.getElementById('newTaskTitle').value.trim();
   if (!title) { document.getElementById('newTaskTitle').focus(); return; }
@@ -124,7 +124,7 @@ function addManualTask() {
   showToast(isToday ? 'Auto-flagged: due today!' : 'Task added!');
 }
 
-// -- TASK ACTIONS -----------------------------------------------
+// -- TASK ACTIONS --
 function toggleTaskDone(taskId) {
   const t = tasks.find(t=>t.id===taskId); if (!t) return;
   t.done = !t.done; t.doneAt = t.done ? new Date().toISOString() : null;
@@ -151,7 +151,7 @@ function editTaskCC(taskId) {
   setTimeout(()=>{ const el=document.getElementById('cc-input-'+taskId); if(el)el.focus(); },30);
 }
 
-// -- EDIT TASK MODAL --------------------------------------------
+// -- EDIT TASK MODAL --
 let editingTaskId = null;
 
 function openEditTask(taskId) {
@@ -166,13 +166,11 @@ function openEditTask(taskId) {
   document.getElementById('editTaskModal').classList.add('open');
   setTimeout(() => document.getElementById('editTaskTitle').focus(), 80);
 }
-
 function closeEditTask(e) {
   if (e && e.target !== document.getElementById('editTaskModal')) return;
   document.getElementById('editTaskModal').classList.remove('open');
   editingTaskId = null;
 }
-
 function saveEditTask() {
   const t = tasks.find(t=>t.id===editingTaskId); if (!t) return;
   const title = document.getElementById('editTaskTitle').value.trim();
@@ -187,7 +185,7 @@ function saveEditTask() {
   showToast('Task saved!');
 }
 
-// -- SUBTASK EDITOR ---------------------------------------------
+// -- SUBTASK EDITOR --
 function renderSubtaskEditor(t) {
   const list = document.getElementById('subtaskList');
   list.innerHTML = '';
@@ -203,7 +201,6 @@ function renderSubtaskEditor(t) {
     list.appendChild(row);
   });
 }
-
 function addSubtask() {
   const t = tasks.find(t=>t.id===editingTaskId); if (!t) return;
   if (!t.subtasks) t.subtasks = [];
@@ -227,23 +224,20 @@ function deleteSubtask(idx) {
   renderSubtaskEditor(t);
 }
 
-// -- TASK RENDERING ---------------------------------------------
+// -- TASK RENDERING --
 function renderTasks() {
   const active    = tasks.filter(t => !t.done && !t.flagged);
   const flaggedT  = tasks.filter(t => !t.done &&  t.flagged);
   const completed = tasks.filter(t =>  t.done).sort((a,b) => new Date(b.doneAt||0)-new Date(a.doneAt||0));
-
   const fSec  = document.getElementById('flaggedSection');
   const fList = document.getElementById('flaggedTasksList');
   if (flaggedT.length) {
     fSec.style.display = ''; fList.innerHTML = '';
     flaggedT.forEach((t,i) => fList.appendChild(buildTaskCard(t,i)));
   } else { fSec.style.display = 'none'; fList.innerHTML = ''; }
-
   const aList = document.getElementById('activeTasksList');
   aList.innerHTML = '';
   active.forEach((t,i) => aList.appendChild(buildTaskCard(t,i)));
-
   const cSec  = document.getElementById('completedSection');
   const cList = document.getElementById('completedTasksList');
   document.getElementById('completedCount').textContent = completed.length;
@@ -252,9 +246,9 @@ function renderTasks() {
     completed.forEach((t,i) => cList.appendChild(buildTaskCard(t,i)));
     cList.className = 'completed-list' + (completedOpen ? ' open' : '');
   } else { cSec.style.display = 'none'; }
-
   document.getElementById('taskCount').textContent = tasks.filter(t=>!t.done).length;
   document.getElementById('tasksEmpty').style.display = tasks.length ? 'none' : '';
+  updateMobileBadge();
 }
 
 function buildTaskCard(task, idx) {
@@ -264,43 +258,25 @@ function buildTaskCard(task, idx) {
   const card = document.createElement('div');
   card.className = cls.join(' ');
   card.style.animationDelay = (idx*0.025)+'s';
-
-  // Timestamp
   let tsLabel = '';
   if (task.type==='email' && task.emailDate) tsLabel = 'Received ' + formatTime(task.emailDate);
   else if (task.createdAt) tsLabel = 'Created ' + formatDateShort(task.createdAt);
-
-  // From
   let fromHtml = '';
   if (task.type==='email' && task.emailSender)
     fromHtml = `<span class="task-from">From: <strong>${esc(parseName(task.emailSender))}</strong></span>`;
-
-  // CC
   const ccDisplay = task.cc ? formatCC(task.cc) : '';
   const ccHtml = `<span class="task-cc" id="cc-wrap-${task.id}">
     ${ccDisplay
       ? `<span>&#128100; ${esc(ccDisplay)}</span><button class="cc-edit-btn" onclick="editTaskCC('${task.id}')" title="Edit CC">&#9998;</button>`
       : `<button class="cc-edit-btn" onclick="editTaskCC('${task.id}')" title="Add CC" style="opacity:.5">+ cc</button>`
     }</span>`;
-
-  // Due
   const dueHtml = task.due ? buildDueLabel(task.due) : '';
-
-  // Mail link
-  const mailLink = task.emailId
-    ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : '';
-
-  // Note preview
+  const mailLink = task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : '';
   const note = task.note || '';
-  const notePreview = note.trim()
-    ? `<div class="task-note-preview">${esc(note.trim().substring(0,80))}${note.length>80?'...':''}</div>` : '';
-
-  // Subtask preview
+  const notePreview = note.trim() ? `<div class="task-note-preview">${esc(note.trim().substring(0,80))}${note.length>80?'...':''}</div>` : '';
   const subs = task.subtasks || [];
   const doneSubs = subs.filter(s=>s.done).length;
-  const subPreview = subs.length
-    ? `<div class="task-sub-preview">&#9745; ${doneSubs}/${subs.length} sub-task${subs.length>1?'s':''}</div>` : '';
-
+  const subPreview = subs.length ? `<div class="task-sub-preview">&#9745; ${doneSubs}/${subs.length} sub-task${subs.length>1?'s':''}</div>` : '';
   card.innerHTML = `
     <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"></div>
     <div class="task-body">
@@ -333,7 +309,7 @@ function toggleCompleted() {
   if (svg) svg.style.transform = completedOpen ? 'rotate(180deg)' : '';
 }
 
-// -- MODALS -----------------------------------------------------
+// -- MODALS --
 function openAddTask() {
   ['newTaskTitle','newTaskDue','newTaskCC'].forEach(id => { document.getElementById(id).value=''; });
   document.getElementById('addTaskModal').classList.add('open');
@@ -352,7 +328,32 @@ document.addEventListener('keydown', e => {
   if (e.key==='Enter' && document.getElementById('addTaskModal').classList.contains('open')) addManualTask();
 });
 
-// -- TOAST ------------------------------------------------------
+// -- MOBILE TAB SWITCHING --
+function mobileSwitchTab(panel) {
+  const split      = document.querySelector('.split');
+  const inboxBtn   = document.getElementById('mobileInboxBtn');
+  const tasksBtn   = document.getElementById('mobileTasksBtn');
+  if (!split) return;
+  if (panel === 'tasks') {
+    split.classList.add('show-tasks');
+    if (tasksBtn) tasksBtn.classList.add('active');
+    if (inboxBtn) inboxBtn.classList.remove('active');
+  } else {
+    split.classList.remove('show-tasks');
+    if (inboxBtn) inboxBtn.classList.add('active');
+    if (tasksBtn) tasksBtn.classList.remove('active');
+  }
+}
+
+function updateMobileBadge() {
+  const badge = document.getElementById('tasksBadge');
+  if (!badge) return;
+  const active = tasks.filter(t => !t.done).length;
+  badge.textContent = active > 0 ? active : '';
+  badge.style.display = active > 0 ? 'block' : 'none';
+}
+
+// -- TOAST --
 let toastTimer;
 function showToast(msg) {
   let el = document.querySelector('.toast');
@@ -362,7 +363,7 @@ function showToast(msg) {
   toastTimer = setTimeout(() => el.classList.remove('show'), 2400);
 }
 
-// -- HELPERS ----------------------------------------------------
+// -- HELPERS --
 function esc(str) {
   return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
@@ -401,10 +402,3 @@ function buildMailUrl(emailId) {
   if (!emailId) return '#';
   return 'message://%3C' + encodeURIComponent(emailId) + '%3E';
 }
-
-// Mobile tab switching
-function mobileSwitchTab(tab) {
-  const split = document.querySelector(".split");
-  const inboxBtn = document.getElementById("mobileInboxBtn");
-  const tasksBtn = document.getElementById("mobileTasksBtn");
-  if (tab === "tasks") {
