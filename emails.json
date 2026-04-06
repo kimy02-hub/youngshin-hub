@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T16:00:12.285219",
+  "fetched_at": "2026-04-06T16:15:11.718124",
   "emails": [
+    {
+      "id": "CAMFZdz3s0Twdu+_L_PfTKBOZk-xUz+hhSzjrAhj-y=W2Lz8sUg@mail.gmail.com",
+      "subject": "Onboarding DCMC",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Mon Apr 06 2026 16:03:13 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "26ADE66A-0378-4AF4-A70B-47ED6FBE72D7@austin.utexas.edu",
       "subject": "Fwd: Request for call to learn about UTDMS YAM",
@@ -528,15 +537,6 @@
       "subject": "Papers for JAACAP Open AE Team Meeting on Wednesday?",
       "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
       "date": "Mon Apr 06 2026 09:27:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "FW: Cabinet",
-      "sender": "Kelsey Koch (DMS) <kelsey.koch1@ascension-external.org>",
-      "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
