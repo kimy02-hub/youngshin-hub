@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-06T12:45:11.255607",
+  "fetched_at": "2026-04-06T13:00:12.362834",
   "emails": [
+    {
+      "id": "BL4PR06MB9575C6883FC2C6A9D7DF93DD9D5DA@BL4PR06MB9575.namprd06.prod.outlook.com",
+      "subject": "[peds-division-directors] 4/7/26 - Pediatric Division Director Meeting Agenda",
+      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 12:59:50 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "EA17C454-062D-4E33-9871-BA7A5666464C@austin.utexas.edu",
+      "subject": "Re: Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 12:58:58 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
@@ -155,12 +173,21 @@
       "cc": ""
     },
     {
-      "id": "CACwu7d0tOf=9kbnXepTGOrSVbAaKFMswb+s8eEgj7W4Lc13VRQ@mail.gmail.com",
-      "subject": "Call Swap",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Fri Apr 03 2026 07:00:57 GMT-0500 (Central Daylight Time)",
+      "id": "728CE8A8-5D1C-43A7-AD19-8B53C0816D1A@austin.utexas.edu",
+      "subject": "Grant proposal meeting",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 12:52:50 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAA-Uk7sAipENw2HJoNFH-s+aK935HKT2nqh3+eZMMnn_pCvisA@mail.gmail.com",
+      "subject": "Re: Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
+      "sender": "Adriana Desalos <adriana.desalos@gmail.com>",
+      "date": "Mon Apr 06 2026 12:50:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -510,33 +537,6 @@
       "subject": "RE: Follow up on $75 reading gift cards",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Fri Apr 03 2026 07:49:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN8PR06MB619667D864FAFF09C786338ACC5EA@BN8PR06MB6196.namprd06.prod.outlook.com",
-      "subject": "Re: Shaddowing",
-      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 01:07:55 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "010f019d51efcf20-f1c9416c-c9b0-4572-aea2-e1a8b0b98cfa-000000@us-east-2.amazonses.com",
-      "subject": "Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:fef6c73f051ac8ae]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Fri Apr 03 2026 01:02:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR06MB9088F845C9FDB8570E48B15BD45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "Re: C.C. Progress Note 3/27/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Thu Apr 02 2026 23:47:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
