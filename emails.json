@@ -1,24 +1,6 @@
 {
-  "fetched_at": "2026-04-06T18:00:15.383108",
+  "fetched_at": "2026-04-06T18:14:13.531802",
   "emails": [
-    {
-      "id": "SN6PR06MB385634D02426B41752B6C211A75DA@SN6PR06MB3856.namprd06.prod.outlook.com",
-      "subject": "Accepted: Giftogram",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:54:17 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BY3PR06MB7908E620B68A9C59084331AAD05DA@BY3PR06MB7908.namprd06.prod.outlook.com",
-      "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "Lief Fenno <lief.fenno@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:47:49 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
     {
       "id": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
       "subject": "R01 application needs to be revised",
@@ -56,9 +38,18 @@
       "cc": ""
     },
     {
+      "id": "BY3PR06MB7908E620B68A9C59084331AAD05DA@BY3PR06MB7908.namprd06.prod.outlook.com",
+      "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "Lief Fenno <lief.fenno@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 17:47:49 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
       "id": "422175EC-18B5-49B9-92BD-CA7C10D4EA79@austin.utexas.edu",
       "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 17:43:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
@@ -537,6 +528,15 @@
       "subject": "SPARC Elective Spring Retreat Feedback 25-26",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
+      "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
+      "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
