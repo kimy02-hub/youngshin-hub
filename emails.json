@@ -1,83 +1,11 @@
 {
-  "fetched_at": "2026-04-06T10:00:18.088150",
+  "fetched_at": "2026-04-06T10:15:13.870664",
   "emails": [
     {
-      "id": "DM3PPF569F3D3B370AAE5C369DC650166B1A95DA@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
-      "subject": "Papers for JAACAP Open AE Team Meeting on Wednesday?",
-      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
-      "date": "Mon Apr 06 2026 09:27:42 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM3PPF569F3D3B3F5C29A98F795AE91A943A95DA@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
-      "subject": "RE: JAACAP Open AE Team Meeting",
-      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
-      "date": "Mon Apr 06 2026 09:25:19 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "calendar-0ae75d03-8a4e-4629-b20b-ffbe42b29221@google.com",
-      "subject": "Updated invitation: Mock Trial  @ Tue Apr 7, 2026 1pm - 4pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "Vanessa Castillo <vanessa.castillo@ascension.org>",
-      "date": "Mon Apr 06 2026 09:19:49 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "calendar-d9ce7d79-4108-47e2-be60-0707bf1893db@google.com",
-      "subject": "Mock Trial Reminder & Parking",
-      "sender": "Vanessa Castillo <vanessa.castillo@ascension.org>",
-      "date": "Mon Apr 06 2026 09:17:18 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB11266951C3C77C3750FDCD87BBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "Re: APT E-Review: Stephen Stayer, MD",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 09:01:13 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "PH0PR06MB801594E511E9F429F748E7C2B65DA@PH0PR06MB8015.namprd06.prod.outlook.com",
-      "subject": "RE: WAVE project",
-      "sender": "\"Altstein, Lily\" <lily.altstein@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 09:00:34 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BLAPR22MB21952488203430C69100CADCB25DA@BLAPR22MB2195.namprd22.prod.outlook.com",
-      "subject": "JSRF: Mentor support letter for Yusol Park (application submission #24480).",
-      "sender": "Anneke Archer <aarcher@aacap.org>",
-      "date": "Mon Apr 06 2026 08:35:53 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "FW: Cabinet",
-      "sender": "\"Kelsey Koch (DMS)\" <kelsey.koch1@ascension-external.org>",
-      "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAHbefe8LRkF=xm97NtvQuz0zuC_P8dRKQN8RNdR_RWoci-Y1PQ@mail.gmail.com",
-      "subject": "Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
-      "sender": "Riya Kannan <riya.kannan@utexas.edu>",
-      "date": "Mon Apr 06 2026 08:00:57 GMT-0500 (Central Daylight Time)",
+      "id": "CANYCf65RU12FY1=-de25gdb6shGL9kx_hTuk2S2spc109rbwgQ@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] Time Off Request - May 2026",
+      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 10:14:22 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -134,6 +62,24 @@
       "date": "Mon Apr 06 2026 05:26:35 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LV5PR06MB11266951C3C77C3750FDCD87BBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "Re: APT E-Review: Stephen Stayer, MD",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 09:01:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAHbefe8LRkF=xm97NtvQuz0zuC_P8dRKQN8RNdR_RWoci-Y1PQ@mail.gmail.com",
+      "subject": "Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
+      "sender": "Riya Kannan <riya.kannan@utexas.edu>",
+      "date": "Mon Apr 06 2026 08:00:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
       "cc": ""
     },
     {
@@ -272,10 +218,28 @@
       "cc": ""
     },
     {
-      "id": "IA3PR06MB1071143C5904D3C1CC25CF5DAB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "FW: Young Shin Kim/Amir Mian",
-      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 08:20:40 GMT-0500 (Central Daylight Time)",
+      "id": "CANYCf64p-scp-g7+=2o=mdf3dF21o7=HpT8HfsZg4MCOUY+0kg@mail.gmail.com",
+      "subject": "Time Off Request - May 2026",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 10:11:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DM3PPF569F3D3B370AAE5C369DC650166B1A95DA@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
+      "subject": "Papers for JAACAP Open AE Team Meeting on Wednesday?",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Mon Apr 06 2026 09:27:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "FW: Cabinet",
+      "sender": "\"Kelsey Koch (DMS)\" <kelsey.koch1@ascension-external.org>",
+      "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -537,6 +501,42 @@
       "subject": "Promotion cycle",
       "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
       "date": "Thu Apr 02 2026 22:14:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz2TAgNh8S5iwjs=A7BTJAVoS8Eo6BjS39bOegdrfF=1zQ@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] Clinical Onboarding",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Thu Apr 02 2026 21:19:10 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS0PR06MB9088BA9F66F3FD01FE9A3F21D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
+      "subject": "Re: C.C. Progress Note 3/27/26",
+      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
+      "date": "Thu Apr 02 2026 21:11:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz3wfzVWmw-=QRZJU62U4SmNQcq829CxR2QQuDdesvoznw@mail.gmail.com",
+      "subject": "Clinical Onboarding",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Thu Apr 02 2026 21:01:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CALLNj4dMBHMOvYk-nSnS=SYzFiSk_bEdpuX7CaTJPuPxHCmv5A@mail.gmail.com",
+      "subject": "Re: Regulating Together First Group Logistics",
+      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
+      "date": "Thu Apr 02 2026 19:13:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
