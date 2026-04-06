@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T10:45:12.607722",
+  "fetched_at": "2026-04-06T11:00:13.080224",
   "emails": [
+    {
+      "id": "CANYCf65tQMOp-ynUkjCUzC5NOxfAJ-GdEMZmjw8ca5sa1cs9fg@mail.gmail.com",
+      "subject": "SPARC Elective Spring Retreat Feedback 25-26",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
       "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
@@ -528,15 +537,6 @@
       "subject": "Promotion cycle",
       "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
       "date": "Thu Apr 02 2026 22:14:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz2TAgNh8S5iwjs=A7BTJAVoS8Eo6BjS39bOegdrfF=1zQ@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Clinical Onboarding",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Thu Apr 02 2026 21:19:10 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
