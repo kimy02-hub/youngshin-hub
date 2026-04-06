@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-04-06T12:00:15.035140",
+  "fetched_at": "2026-04-06T12:15:10.950961",
   "emails": [
+    {
+      "id": "11231012910.4@informz.net",
+      "subject": "OPEN FOR SUBMISSIONS: AACAP's Distinguished Member and Psychotherapy Focused Awards",
+      "sender": "\"AACAP Clinical Practice and Research, Grants, and Workforce Departments\" <research@aacap.org>",
+      "date": "Mon Apr 06 2026 12:06:52 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "SA6PR06MB10448F34BCEC5041E2BF193E9A35DA@SA6PR06MB10448.namprd06.prod.outlook.com",
+      "subject": "FW: P50 and ECHO & DMAC Stats Group Meeting",
+      "sender": "Li Luo <LLuo@salud.unm.edu>",
+      "date": "Mon Apr 06 2026 12:06:36 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d01NBuqabeWbfxZMsR2YrkCFjEhvZHR4eLemF5r5M0L2g@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] PCR Submission for Summer TCHATT Enrollment",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Mon Apr 06 2026 12:00:27 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "LV9PR06MB108954B0BF4CD1D5019C97F8BA95DA@LV9PR06MB10895.namprd06.prod.outlook.com",
       "subject": "Re: PCR Submission for Summer TCHATT Enrollment",
@@ -197,6 +224,15 @@
       "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "calendar-856eb961-afdd-4f48-a8fc-ccdf36c0f984@google.com",
+      "subject": "Accepted: Kari / Young Shin @ Thu Apr 16, 2026 4pm - 5pm (CDT) (Kari Whatley)",
+      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 12:08:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -501,42 +537,6 @@
       "subject": "G.N. Progress Note 4/3/26",
       "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
       "date": "Fri Apr 03 2026 10:18:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGR-5Sj2fou-ttBj8V+HSXsLBSdOA5jWC5Dx+TGX6kPwwg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 10:17:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107118530798E8FFFFD1A91E2B85EA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 08:55:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655B73E7D744785DD11AB64C55EA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: [EXTERNAL] PCR Draft for direct patient outreach",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 07:57:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB67425CB7D5BC37F36F6912D5BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Follow up on $75 reading gift cards",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 07:49:02 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
