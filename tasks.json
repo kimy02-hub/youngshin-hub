@@ -31,7 +31,7 @@
     {
       "id": "task_1775427681476",
       "title": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -39,7 +39,10 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:21.476Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": [],
+      "doneAt": "2026-04-06T06:21:56.118Z"
     },
     {
       "id": "task_1775427680338",
@@ -52,7 +55,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:20.338Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775427679288",
@@ -65,7 +70,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:19.288Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775427678521",
@@ -78,7 +85,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:18.521Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775427677462",
@@ -91,7 +100,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:17.462Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775427675281",
@@ -104,7 +115,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:15.281Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775427672808",
@@ -117,7 +130,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-05T22:21:12.808Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_synctest_1775421444289",
@@ -131,7 +146,9 @@
       "due": null,
       "createdAt": "2026-04-05T20:37:24.289Z",
       "type": "manual",
-      "doneAt": "2026-04-05T21:26:14.836Z"
+      "doneAt": "2026-04-05T21:26:14.836Z",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775328518414",
@@ -144,7 +161,9 @@
       "cc": "Austin Urban Vet Center: 512-476-2882",
       "due": "2026-04-06",
       "createdAt": "2026-04-04T18:48:38.414Z",
-      "type": "manual"
+      "type": "manual",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775274679073",
@@ -157,7 +176,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-04T03:51:19.073Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775274637553",
@@ -170,7 +191,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-04T03:50:37.553Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775274633143",
@@ -183,7 +206,9 @@
       "cc": "",
       "due": null,
       "createdAt": "2026-04-04T03:50:33.143Z",
-      "type": "email"
+      "type": "email",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775272015826",
@@ -197,7 +222,9 @@
       "due": "2026-04-22",
       "createdAt": "2026-04-04T03:06:55.826Z",
       "type": "manual",
-      "doneAt": "2026-04-04T03:07:05.997Z"
+      "doneAt": "2026-04-04T03:07:05.997Z",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775272005852",
@@ -211,7 +238,9 @@
       "due": null,
       "createdAt": "2026-04-04T03:06:45.852Z",
       "type": "email",
-      "doneAt": "2026-04-04T03:50:22.404Z"
+      "doneAt": "2026-04-04T03:50:22.404Z",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775271959922",
@@ -225,7 +254,9 @@
       "due": null,
       "createdAt": "2026-04-04T03:05:59.922Z",
       "type": "email",
-      "doneAt": "2026-04-04T19:06:03.013Z"
+      "doneAt": "2026-04-04T19:06:03.013Z",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775269910956",
@@ -237,7 +268,9 @@
       "due": "2026-04-29",
       "createdAt": "2026-04-04T02:31:50.956Z",
       "type": "manual",
-      "doneAt": "2026-04-05T20:20:30.522Z"
+      "doneAt": "2026-04-05T20:20:30.522Z",
+      "note": "",
+      "subtasks": []
     },
     {
       "id": "task_1775269871824",
@@ -250,8 +283,10 @@
       "due": null,
       "createdAt": "2026-04-04T02:31:11.824Z",
       "type": "email",
-      "doneAt": "2026-04-05T20:20:33.249Z"
+      "doneAt": "2026-04-05T20:20:33.249Z",
+      "note": "",
+      "subtasks": []
     }
   ],
-  "saved_at": "2026-04-06T01:15:16.530689"
+  "saved_at": "2026-04-06T01:30:40.161167"
 }
