@@ -2,7 +2,7 @@
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
 const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json';
 
-document.addEventListener('DOMContentLoaded', () => { loadTasks(); loadEmails(); });
+document.addEventListener('DOMContentLoaded', async () => { await loadTasks(); loadEmails(); });
 
 // -- EMAIL LOADING --
 async function loadEmails() {
@@ -84,18 +84,25 @@ function buildEmailCard(email, idx) {
 
 // -- TASK PERSISTENCE --
 async function loadTasks() {
-  try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
-  if (tasks.length === 0) {
-    try {
-      const res = await fetch('tasks.json?_=' + Date.now());
-      if (res.ok) {
-        const data = await res.json();
-        if (data.tasks && data.tasks.length > 0) {
-          tasks = data.tasks;
-          localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
-        }
+  // Always fetch from tasks.json (GitHub) so all devices stay in sync
+  try {
+    const res = await fetch('tasks.json?_=' + Date.now());
+    if (res.ok) {
+      const data = await res.json();
+      if (data.tasks && data.tasks.length > 0) {
+        tasks = data.tasks;
+        localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+      } else {
+        // Fallback to localStorage if tasks.json is empty
+        try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
       }
-    } catch(_) {}
+    } else {
+      // Fallback to localStorage if fetch fails
+      try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
+    }
+  } catch(_) {
+    // Fallback to localStorage if offline
+    try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
   }
   tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
   renderTasks();
