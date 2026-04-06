@@ -1,24 +1,6 @@
 {
-  "fetched_at": "2026-04-05T20:00:14.701024",
+  "fetched_at": "2026-04-05T20:15:11.762560",
   "emails": [
-    {
-      "id": "SA3PR06MB11062B19A3E82A1D35FE53F6BD15DA@SA3PR06MB11062.namprd06.prod.outlook.com",
-      "subject": "[epicusers] Final staff reminder: Athena read-only transition at 11:59 p.m.",
-      "sender": "\"Reetz, Jennifer\" <jennifer.reetz@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 19:18:34 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "1435700544.302627294.1775432705431@[10.0.47.253]",
-      "subject": "Top 10 Restaurants for UNBEATABLE Value",
-      "sender": "OpenTable <OpenTable@mgs.opentable.com>",
-      "date": "Sun Apr 05 2026 18:45:11 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
     {
       "id": "SA6PR06MB10448EA5CA58C16853C19C90DA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "subject": "FW: The Lancet: Submission Confirmation",
@@ -537,6 +519,24 @@
       "subject": "Re: Proposed Meeting Schedule for TCMHCC Executive Committee (October 2026 - August 2027)",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 15:40:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1071197A25A0155AFC9B3885EB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Hosting Eric Carter meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Thu Apr 02 2026 15:36:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR08MB4871612212B5A170642AA4B0ED51A@BYAPR08MB4871.namprd08.prod.outlook.com",
+      "subject": "RE: Kind Follow‑Up Regarding My Son’s Prescription _ Bian Shin",
+      "sender": "\"Shin, GilWoo\" <gilwoo.shin@asm.com>",
+      "date": "Thu Apr 02 2026 15:32:20 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
