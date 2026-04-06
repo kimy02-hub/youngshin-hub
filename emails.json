@@ -1,29 +1,20 @@
 {
-  "fetched_at": "2026-04-06T10:30:12.622645",
+  "fetched_at": "2026-04-06T10:45:12.607722",
   "emails": [
     {
-      "id": "BLAPR22MB219597EDCF1E7633EFD97C87B25DA@BLAPR22MB2195.namprd22.prod.outlook.com",
-      "subject": "RE: JSRF: Mentor support letter for Yusol Park (application submission #24480).",
-      "sender": "Anneke Archer <aarcher@aacap.org>",
-      "date": "Mon Apr 06 2026 10:24:49 GMT-0500 (Central Daylight Time)",
+      "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
+      "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
+      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "0100019d63647a41-0e884519-619a-42cc-a7b6-88064a487dd9-000000@email.amazonses.com",
-      "subject": "A new funding match is waiting for you",
-      "sender": "\"Academia.edu\" <updates@academia-mail.com>",
-      "date": "Mon Apr 06 2026 10:23:49 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB66964658F4D2A8E6B135F0BFED5DA@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Re: STUDY00009102 received a comment",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Mon Apr 06 2026 10:17:33 GMT-0500 (Central Daylight Time)",
+      "id": "CAFMPgGRhkhf6JQGzO+xr8N=uDkU_S2Ui2HGAJxMjWiE0M_FAGg@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] STUDY00009102 received a comment",
+      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "date": "Mon Apr 06 2026 10:33:51 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -33,15 +24,6 @@
       "subject": "Re: Re: [EXTERNAL] Time Off Request - May 2026",
       "sender": "Kari Whatley <kari.whatley@ascension.org>",
       "date": "Mon Apr 06 2026 10:14:22 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "1319934645.1596912.1775480179138@dell-PowerEdge-R540",
-      "subject": "Your article has been published in [Advances in Autism]",
-      "sender": "canyam@mail.vip.canyam.com",
-      "date": "Mon Apr 06 2026 07:56:43 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -245,6 +227,15 @@
       "cc": ""
     },
     {
+      "id": "CH2PR06MB66964658F4D2A8E6B135F0BFED5DA@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Re: STUDY00009102 received a comment",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Mon Apr 06 2026 10:17:33 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
       "id": "CANYCf64p-scp-g7+=2o=mdf3dF21o7=HpT8HfsZg4MCOUY+0kg@mail.gmail.com",
       "subject": "Time Off Request - May 2026",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
@@ -276,6 +267,15 @@
       "subject": "RE: Author query THELANCET THELANCET-D-26-01935",
       "sender": "\"Lancet, Editorial (ELS)\" <editorial@lancet.com>",
       "date": "Mon Apr 06 2026 08:09:16 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "1319934645.1596912.1775480179138@dell-PowerEdge-R540",
+      "subject": "Your article has been published in [Advances in Autism]",
+      "sender": "canyam@mail.vip.canyam.com",
+      "date": "Mon Apr 06 2026 07:56:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
