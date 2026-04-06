@@ -16,6 +16,14 @@
         {
           "text": "Schedule interview call",
           "done": false
+        },
+        {
+          "text": "Review CV and publications",
+          "done": false
+        },
+        {
+          "text": "Schedule 30 min meeting",
+          "done": false
         }
       ],
       "note": "Test note: follow up next week"
@@ -245,5 +253,5 @@
       "doneAt": "2026-04-05T20:20:33.249Z"
     }
   ],
-  "saved_at": "2026-04-05T20:15:12.163311"
+  "saved_at": "2026-04-05T20:30:11.696121"
 }
