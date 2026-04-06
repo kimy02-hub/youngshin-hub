@@ -546,3 +546,9 @@ body {
 .flag-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;}
 .to-task-btn{font-weight:700!important;}
 .panel-count{font-weight:700!important;}
+.edit-task-btn{font-size:0.82rem!important;padding:5px 11px!important;min-width:42px!important;text-align:center!important;}
+.flag-task-btn{font-size:0.88rem!important;padding:5px 11px!important;min-width:42px!important;text-align:center!important;}
+.open-task-mail-btn{font-size:0.76rem!important;padding:4px 9px!important;}
+.task-actions{gap:6px!important;min-width:48px!important;}
+.tab-group{border-radius:26px!important;padding:3px!important;}
+.tab.active{background:var(--surface-0)!important;color:var(--text-primary)!important;font-weight:700!important;border-radius:20px!important;box-shadow:0 1px 3px rgba(36,30,28,.07)!important;}
