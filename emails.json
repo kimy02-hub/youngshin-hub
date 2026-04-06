@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T18:15:11.383154",
+  "fetched_at": "2026-04-06T18:30:11.342893",
   "emails": [
+    {
+      "id": "F6F57664-C976-43CC-B913-B4A760D72FCF@austin.utexas.edu",
+      "subject": "Fwd: [Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 18:16:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
       "subject": "R01 application needs to be revised",
@@ -35,6 +44,15 @@
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CA+2uqrU5JHoZZ6eXsfqQLdzO2GKYFtwbDVrdRVEoZEmDiKbBnA@mail.gmail.com",
+      "subject": "Re: Prospective Medical Student Research Fellow",
+      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
+      "date": "Mon Apr 06 2026 18:17:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -519,24 +537,6 @@
       "subject": "RE: CR-26-083 || WAVE Pilot Study - Consent Form(s) REVISIONS REQUIRED",
       "sender": "txaus-mb-siteapproval@ascension.org",
       "date": "Mon Apr 06 2026 11:17:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf65tQMOp-ynUkjCUzC5NOxfAJ-GdEMZmjw8ca5sa1cs9fg@mail.gmail.com",
-      "subject": "SPARC Elective Spring Retreat Feedback 25-26",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
-      "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
