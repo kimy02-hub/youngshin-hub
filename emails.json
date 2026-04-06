@@ -1,31 +1,13 @@
 {
-  "fetched_at": "2026-04-06T17:30:11.891533",
+  "fetched_at": "2026-04-06T17:45:11.973654",
   "emails": [
     {
-      "id": "DS7PR06MB698327373A3F1C91FCC5D81DD55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
-      "subject": "RE: Alexandra Thomas Zoom Interview Itinerary",
-      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:53:12 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CO6PR06MB731665634AD95A4DAEF04688BE5DA@CO6PR06MB7316.namprd06.prod.outlook.com",
-      "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "Tara Upchurch <tara.upchurch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:30:07 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SendPageAsEmail-068957a4-7d9a-447a-8cc6-c18a687c4999;rcid_526a07a2-f0a5-6000-639d-99c6e307bb9c;wiid_4614ed65-38be-49c5-adce-91edcdcd6810;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_23f6261b-9ebe-4e6e-abb0-54af42fc9805@odspnotify",
-      "subject": "Hot off the Presses - More Copilot Training in April!",
-      "sender": "\"Coast, Jenn\" <jenn.coast@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:25:30 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
+      "id": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
+      "subject": "R01 application needs to be revised",
+      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 15:23:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
       "cc": ""
     },
     {
@@ -53,6 +35,15 @@
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "422175EC-18B5-49B9-92BD-CA7C10D4EA79@austin.utexas.edu",
+      "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 17:43:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -155,10 +146,19 @@
       "cc": ""
     },
     {
-      "id": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
-      "subject": "R01 application needs to be revised",
-      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:23:08 GMT-0500 (Central Daylight Time)",
+      "id": "DS7PR06MB698327373A3F1C91FCC5D81DD55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: Alexandra Thomas Zoom Interview Itinerary",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 15:53:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB731665634AD95A4DAEF04688BE5DA@CO6PR06MB7316.namprd06.prod.outlook.com",
+      "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "Tara Upchurch <tara.upchurch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 15:30:07 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
