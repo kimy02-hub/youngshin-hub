@@ -122,7 +122,7 @@
     {
       "id": "task_1775427672808",
       "title": "FW: The Lancet: Submission Confirmation",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SA6PR06MB10448EA5CA58C16853C19C90DA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -132,7 +132,8 @@
       "createdAt": "2026-04-05T22:21:12.808Z",
       "type": "email",
       "note": "",
-      "subtasks": []
+      "subtasks": [],
+      "doneAt": "2026-04-06T15:18:50.197Z"
     },
     {
       "id": "task_synctest_1775421444289",
@@ -153,7 +154,7 @@
     {
       "id": "task_1775328518414",
       "title": "Jimmy Vet Internal Parasite Test and Ear Check",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": null,
       "emailSender": null,
@@ -163,7 +164,8 @@
       "createdAt": "2026-04-04T18:48:38.414Z",
       "type": "manual",
       "note": "",
-      "subtasks": []
+      "subtasks": [],
+      "doneAt": "2026-04-06T15:18:43.030Z"
     },
     {
       "id": "task_1775274679073",
@@ -183,7 +185,7 @@
     {
       "id": "task_1775274637553",
       "title": "RE: meeting request",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": "SJ0PR06MB847585E6AE01F933DC17FCC9FB5EA@SJ0PR06MB8475.namprd06.prod.outlook.com",
       "emailSender": "\"Barton, Karen M\" <kbarton@austin.utexas.edu>",
@@ -193,7 +195,8 @@
       "createdAt": "2026-04-04T03:50:37.553Z",
       "type": "email",
       "note": "",
-      "subtasks": []
+      "subtasks": [],
+      "doneAt": "2026-04-06T15:18:45.730Z"
     },
     {
       "id": "task_1775274633143",
@@ -288,5 +291,5 @@
       "subtasks": []
     }
   ],
-  "saved_at": "2026-04-06T10:15:14.346418"
+  "saved_at": "2026-04-06T10:30:13.292551"
 }
