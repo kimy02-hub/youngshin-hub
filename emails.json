@@ -1,87 +1,6 @@
 {
-  "fetched_at": "2026-04-06T11:15:11.200538",
+  "fetched_at": "2026-04-06T11:30:11.015361",
   "emails": [
-    {
-      "id": "CANYCf65tQMOp-ynUkjCUzC5NOxfAJ-GdEMZmjw8ca5sa1cs9fg@mail.gmail.com",
-      "subject": "SPARC Elective Spring Retreat Feedback 25-26",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
-      "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
-      "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGRhkhf6JQGzO+xr8N=uDkU_S2Ui2HGAJxMjWiE0M_FAGg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] STUDY00009102 received a comment",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
-      "date": "Mon Apr 06 2026 10:33:51 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf65RU12FY1=-de25gdb6shGL9kx_hTuk2S2spc109rbwgQ@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Time Off Request - May 2026",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:14:22 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "autogen-java-4a398302-19a6-40c2-98d9-6cf00152ca2d@google.com",
-      "subject": "-phi- DCMC MHU End of Shift Report",
-      "sender": "\"Chelsea Taylor (via Google Docs)\" <chelsea.taylor@ascension.org>",
-      "date": "Mon Apr 06 2026 07:08:57 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMq9Dcr8qEk__yAOCqe_8F87UuwXCbx6ZaDCTeLo8jtkcVngZQ@mail.gmail.com",
-      "subject": "ANNOUNCEMENT: Pediatric Grand Rounds - Friday, April 10, 2026 (In Person or Via Zoom (link provided)",
-      "sender": "Pam Knight <pam.knight@ascension.org>",
-      "date": "Mon Apr 06 2026 06:31:31 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LHmGoScImuxkAkNrdBs8AZo7VwZCbACQp0YjFJqYU@redcap.ascension.org",
-      "subject": "RE: CR-26-087 || Site Approval Request Submission Confirmation",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 06:21:23 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "WKSBxc9C3LvhmPfZFpiYYUmEIbq9jeSxWhoB3jDNMnw@redcap.ascension.org",
-      "subject": "RE: CR-26-087 || Site Approval Request - Track Your Submission",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 06:21:21 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS2PR06MB112995BD4809A8269EBD09D5ADB5DA@DS2PR06MB11299.namprd06.prod.outlook.com",
-      "subject": "[epicusers] Great news: We’re live on Epic!",
-      "sender": "\"Pareja, Alex R\" <alexandre.pareja@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 05:26:35 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
     {
       "id": "LV5PR06MB11266951C3C77C3750FDCD87BBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
       "subject": "Re: APT E-Review: Stephen Stayer, MD",
@@ -236,10 +155,55 @@
       "cc": ""
     },
     {
+      "id": "cntMgzAbf6WJmVmd7P79JfbkRxDdQEriVaPnGNJs@redcap.ascension.org",
+      "subject": "RE: CR-26-083 || WAVE Pilot Study - Consent Form(s) REVISIONS REQUIRED",
+      "sender": "\"txaus-mb-siteapproval@ascension.org\" <txaus-mb-siteapproval@ascension.org>",
+      "date": "Mon Apr 06 2026 11:17:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf65tQMOp-ynUkjCUzC5NOxfAJ-GdEMZmjw8ca5sa1cs9fg@mail.gmail.com",
+      "subject": "SPARC Elective Spring Retreat Feedback 25-26",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
+      "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
+      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGRhkhf6JQGzO+xr8N=uDkU_S2Ui2HGAJxMjWiE0M_FAGg@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] STUDY00009102 received a comment",
+      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "date": "Mon Apr 06 2026 10:33:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
       "id": "CH2PR06MB66964658F4D2A8E6B135F0BFED5DA@CH2PR06MB6696.namprd06.prod.outlook.com",
       "subject": "Re: STUDY00009102 received a comment",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Mon Apr 06 2026 10:17:33 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf65RU12FY1=-de25gdb6shGL9kx_hTuk2S2spc109rbwgQ@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] Time Off Request - May 2026",
+      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 10:14:22 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -281,10 +245,19 @@
       "cc": ""
     },
     {
-      "id": "1319934645.1596912.1775480179138@dell-PowerEdge-R540",
-      "subject": "Your article has been published in [Advances in Autism]",
-      "sender": "canyam@mail.vip.canyam.com",
-      "date": "Mon Apr 06 2026 07:56:43 GMT-0500 (Central Daylight Time)",
+      "id": "LHmGoScImuxkAkNrdBs8AZo7VwZCbACQp0YjFJqYU@redcap.ascension.org",
+      "subject": "RE: CR-26-087 || Site Approval Request Submission Confirmation",
+      "sender": "txaus-mb-siteapproval@ascension.org",
+      "date": "Mon Apr 06 2026 06:21:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "WKSBxc9C3LvhmPfZFpiYYUmEIbq9jeSxWhoB3jDNMnw@redcap.ascension.org",
+      "subject": "RE: CR-26-087 || Site Approval Request - Track Your Submission",
+      "sender": "txaus-mb-siteapproval@ascension.org",
+      "date": "Mon Apr 06 2026 06:21:21 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -537,6 +510,33 @@
       "subject": "Promotion cycle",
       "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
       "date": "Thu Apr 02 2026 22:14:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz2TAgNh8S5iwjs=A7BTJAVoS8Eo6BjS39bOegdrfF=1zQ@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] Clinical Onboarding",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Thu Apr 02 2026 21:19:10 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS0PR06MB9088BA9F66F3FD01FE9A3F21D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
+      "subject": "Re: C.C. Progress Note 3/27/26",
+      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
+      "date": "Thu Apr 02 2026 21:11:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz3wfzVWmw-=QRZJU62U4SmNQcq829CxR2QQuDdesvoznw@mail.gmail.com",
+      "subject": "Clinical Onboarding",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Thu Apr 02 2026 21:01:09 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
