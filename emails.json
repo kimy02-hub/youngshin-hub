@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T07:45:34.817074",
+  "fetched_at": "2026-04-06T08:00:11.136622",
   "emails": [
     {
       "id": "calendar-bc387655-1c68-4511-8671-8508cc76d415@google.com",
@@ -31,7 +31,7 @@
     {
       "id": "LHmGoScImuxkAkNrdBs8AZo7VwZCbACQp0YjFJqYU@redcap.ascension.org",
       "subject": "RE: CR-26-087 || Site Approval Request Submission Confirmation",
-      "sender": "\"txaus-mb-siteapproval@ascension.org\" <txaus-mb-siteapproval@ascension.org>",
+      "sender": "txaus-mb-siteapproval@ascension.org",
       "date": "Mon Apr 06 2026 06:21:23 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
@@ -40,7 +40,7 @@
     {
       "id": "WKSBxc9C3LvhmPfZFpiYYUmEIbq9jeSxWhoB3jDNMnw@redcap.ascension.org",
       "subject": "RE: CR-26-087 || Site Approval Request - Track Your Submission",
-      "sender": "\"txaus-mb-siteapproval@ascension.org\" <txaus-mb-siteapproval@ascension.org>",
+      "sender": "txaus-mb-siteapproval@ascension.org",
       "date": "Mon Apr 06 2026 06:21:21 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
