@@ -1,58 +1,49 @@
 {
-  "fetched_at": "2026-04-06T14:45:11.376618",
+  "fetched_at": "2026-04-06T15:00:10.663452",
   "emails": [
     {
-      "id": "fadda6a8-d204-4cc0-8951-054fff64cb15@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:26 GMT-0500 (Central Daylight Time)",
+      "id": "DM6PR13MB31799CA7058ADDE3CFBB677BEF5DA@DM6PR13MB3179.namprd13.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
+      "date": "Mon Apr 06 2026 14:49:41 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "ba5555cc-39c9-4514-b829-252bb7612e17@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:25 GMT-0500 (Central Daylight Time)",
+      "id": "IA3PR06MB107113FA5488C06807A298C24B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 14:48:23 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "b7642b76-dce6-4c72-89fb-a09db33492ba@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:24 GMT-0500 (Central Daylight Time)",
+      "id": "IA3PR06MB107111F9B160D9468A0C16104B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: PCR | UT DMS | 2026-02-06 Response",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 14:47:50 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "681771de-dd9e-4a0f-a487-4b9fe4847dfd@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:23 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
+      "id": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "Re: APT Pre-Review: Erica Schwarz",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:58:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "68a06450-b9bd-4dc2-af40-69d38d1a4b5c@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:22 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "cf96273e-c173-4dd9-8f46-287b09921192@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
+      "id": "LV5PR06MB11266050A69CF2E7ED2F2E8D0BA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "APT Pre-Review: Erica Schwarz",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:49:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
       "cc": ""
     },
     {
@@ -119,39 +110,12 @@
       "cc": ""
     },
     {
-      "id": "SA6PR06MB10448F6C295C4045CCB94CE93A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: JAACAPOPEN-D-26-00021 Editor Reminder - [EMID:7e33fa90f1a1c74c]",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:13 GMT-0500 (Central Daylight Time)",
+      "id": "BL0PR06MB4850D47AC832E824709E2903A65DA@BL0PR06MB4850.namprd06.prod.outlook.com",
+      "subject": "Thank you.. !",
+      "sender": "\"Mian, Amir\" <amir.mian@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 14:52:28 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB10448607AAC2603F62EB8AB3AA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: JAACAPOPEN-D-25-00163R1 Editor Reminder - [EMID:3cc1d0734bf7e0a6]",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB104481472C7813EAA328FD46EA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: JAACAPOPEN-D-25-00172R1 Editor Reminder - [EMID:cd6e652b955a95da]",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:04:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:04:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -245,9 +209,63 @@
       "cc": ""
     },
     {
+      "id": "fadda6a8-d204-4cc0-8951-054fff64cb15@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "ba5555cc-39c9-4514-b829-252bb7612e17@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:25 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "b7642b76-dce6-4c72-89fb-a09db33492ba@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "681771de-dd9e-4a0f-a487-4b9fe4847dfd@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "68a06450-b9bd-4dc2-af40-69d38d1a4b5c@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "cf96273e-c173-4dd9-8f46-287b09921192@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
       "id": "CO1PR22MB27690CD84F0DF6EF4A04EF34CB5DA@CO1PR22MB2769.namprd22.prod.outlook.com",
       "subject": "Re: JAACAP Open AE Team Meeting",
-      "sender": "\"Manpreet K. Singh\" <mksingh@jaacap.org>",
+      "sender": "Manpreet K. Singh <mksingh@jaacap.org>",
       "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
@@ -272,15 +290,6 @@
       "cc": ""
     },
     {
-      "id": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "Re: APT Pre-Review: Erica Schwarz",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:58:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
       "id": "DS7PR06MB698344FBFC722352D5CFBDEED55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
       "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
       "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
@@ -294,15 +303,6 @@
       "subject": "Dr. Alexandra Thomas Zoom Interview - Young Shin",
       "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <dellmedpsych@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 13:57:06 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB11266050A69CF2E7ED2F2E8D0BA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "APT Pre-Review: Erica Schwarz",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:49:04 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
