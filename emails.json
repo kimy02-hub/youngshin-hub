@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-06T13:30:12.062107",
+  "fetched_at": "2026-04-06T13:45:11.070456",
   "emails": [
+    {
+      "id": "CH2PR06MB6742F3071DB474CBA6CFD061BE5DA@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Payment for RT Training",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:39:27 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711431B90A1487B0814939DB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:36:32 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711A195B11470E333FCFA9CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:34:28 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1071134703427A5548531F5DAB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Use of Giftogram",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:31:15 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
@@ -501,42 +537,6 @@
       "subject": "Z.M. Progress Note 4/3/26",
       "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
       "date": "Fri Apr 03 2026 12:05:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGSQ3ygsz_FcEj6GSjtraWnj8kC18dZzSC5X83KwKKnXyw@mail.gmail.com",
-      "subject": "Regulating Together Program- TCSC Group Room Reservation",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 10:23:17 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR06MB9088DD6B04F963F4E2D834F9D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "G.N. Progress Note 4/3/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 10:18:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGR-5Sj2fou-ttBj8V+HSXsLBSdOA5jWC5Dx+TGX6kPwwg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 10:17:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107118530798E8FFFFD1A91E2B85EA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 08:55:40 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
