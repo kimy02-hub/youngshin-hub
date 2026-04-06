@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-06T17:00:12.242813",
+  "fetched_at": "2026-04-06T17:15:12.254938",
   "emails": [
+    {
+      "id": "CALLNj4ffQ2HdM63ovabD6hNugD0HOZc1WtyoDvEAVosNi1SD-w@mail.gmail.com",
+      "subject": "Scheduling for 10 week group - Regulating Together",
+      "sender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
+      "date": "Mon Apr 06 2026 17:13:36 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "calendar-b17dd52f-287c-441e-b76c-fefc4a5ffddf@google.com",
+      "subject": "Accepted: Giftogram @ Mon Apr 13, 2026 1:30pm - 2pm (CDT) (Adriana Desalos)",
+      "sender": "Adriana Desalos <adriana.desalos@gmail.com>",
+      "date": "Mon Apr 06 2026 17:09:27 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711B06B542997669C846924B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Use of Giftogram",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 17:04:56 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "MWHPR0601MB3641567B9F0F669ABD0A379CA95DA@MWHPR0601MB3641.namprd06.prod.outlook.com",
+      "subject": "Re: Use of Giftogram",
+      "sender": "\"Desalos, Adriana\" <ad48994@my.utexas.edu>",
+      "date": "Mon Apr 06 2026 17:02:44 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "069A5A74-A0FE-4E65-8ACB-D0D1EDD721EC@austin.utexas.edu",
       "subject": "Re: Use of Giftogram",
@@ -501,42 +537,6 @@
       "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGRhkhf6JQGzO+xr8N=uDkU_S2Ui2HGAJxMjWiE0M_FAGg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] STUDY00009102 received a comment",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Mon Apr 06 2026 10:33:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB66964658F4D2A8E6B135F0BFED5DA@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Re: STUDY00009102 received a comment",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Mon Apr 06 2026 10:17:33 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf65RU12FY1=-de25gdb6shGL9kx_hTuk2S2spc109rbwgQ@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Time Off Request - May 2026",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:14:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf64p-scp-g7+=2o=mdf3dF21o7=HpT8HfsZg4MCOUY+0kg@mail.gmail.com",
-      "subject": "Time Off Request - May 2026",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:11:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
