@@ -25,7 +25,7 @@ else{
   }
   if(!mb){'ERROR:Mailbox not found';}
   else{
-    var msgs=mb.messages(), count=Math.min(msgs.length,60), rows=[];
+    var allMsgs=mb.messages(); var flaggedMsgs=[]; for(var fi=0;fi<allMsgs.length;fi++){if(allMsgs[fi].flaggedStatus())flaggedMsgs.push(allMsgs[fi]);} var recentMsgs=allMsgs.slice(0,100); var seen=new Set(); var combined=[]; flaggedMsgs.forEach(function(m){var id=m.id();seen.add(id);combined.push(m);}); recentMsgs.forEach(function(m){if(!seen.has(m.id()))combined.push(m);}); var count=combined.length, rows=[]; var msgs=combined;
     for(var i=0;i<count;i++){
       var m=msgs[i];
       var id=m.messageId()||'';
