@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-06T17:45:11.973654",
+  "fetched_at": "2026-04-06T18:00:15.383108",
   "emails": [
+    {
+      "id": "SN6PR06MB385634D02426B41752B6C211A75DA@SN6PR06MB3856.namprd06.prod.outlook.com",
+      "subject": "Accepted: Giftogram",
+      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 17:54:17 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "BY3PR06MB7908E620B68A9C59084331AAD05DA@BY3PR06MB7908.namprd06.prod.outlook.com",
+      "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "Lief Fenno <lief.fenno@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 17:47:49 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
       "subject": "R01 application needs to be revised",
@@ -479,15 +497,6 @@
       "cc": ""
     },
     {
-      "id": "EA17C454-062D-4E33-9871-BA7A5666464C@austin.utexas.edu",
-      "subject": "Re: Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 12:58:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
       "id": "728CE8A8-5D1C-43A7-AD19-8B53C0816D1A@austin.utexas.edu",
       "subject": "Grant proposal meeting",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -497,28 +506,10 @@
       "cc": ""
     },
     {
-      "id": "CAA-Uk7sAipENw2HJoNFH-s+aK935HKT2nqh3+eZMMnn_pCvisA@mail.gmail.com",
-      "subject": "Re: Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
-      "sender": "Adriana Desalos <adriana.desalos@gmail.com>",
-      "date": "Mon Apr 06 2026 12:50:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
       "id": "IA3PR06MB107117C27A969ED8F69E17458B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "Re: Prospective Medical Student Research Fellow",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 11:41:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR13MB4555DC565A9DACD30E25FE838D5DA@CH2PR13MB4555.namprd13.prod.outlook.com",
-      "subject": "Re: P50 and ECHO & DMAC Stats Group Meeting",
-      "sender": "Li Luo <LLuo@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 11:36:31 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -537,6 +528,15 @@
       "subject": "RE: CR-26-083 || WAVE Pilot Study - Consent Form(s) REVISIONS REQUIRED",
       "sender": "txaus-mb-siteapproval@ascension.org",
       "date": "Mon Apr 06 2026 11:17:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf65tQMOp-ynUkjCUzC5NOxfAJ-GdEMZmjw8ca5sa1cs9fg@mail.gmail.com",
+      "subject": "SPARC Elective Spring Retreat Feedback 25-26",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
