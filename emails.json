@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T05:15:25.519742",
+  "fetched_at": "2026-04-06T05:30:14.127163",
   "emails": [
+    {
+      "id": "DS2PR06MB112995BD4809A8269EBD09D5ADB5DA@DS2PR06MB11299.namprd06.prod.outlook.com",
+      "subject": "[epicusers] Great news: We’re live on Epic!",
+      "sender": "\"Pareja, Alex R\" <alexandre.pareja@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 05:26:35 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DM6PR10MB39794C318FE90F4C5DA90AECFA5DA@DM6PR10MB3979.namprd10.prod.outlook.com",
       "subject": "FW: UCSF STAR Center Volunteer Application - Selen Karakilic",
@@ -528,15 +537,6 @@
       "subject": "Re: Proposed Meeting Schedule for TCMHCC Executive Committee (October 2026 - August 2027)",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 15:40:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071197A25A0155AFC9B3885EB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:36:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
