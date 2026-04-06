@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T15:30:11.318489",
+  "fetched_at": "2026-04-06T15:45:12.031917",
   "emails": [
+    {
+      "id": "CO6PR06MB731665634AD95A4DAEF04688BE5DA@CO6PR06MB7316.namprd06.prod.outlook.com",
+      "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "Tara Upchurch <tara.upchurch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 15:30:07 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "SendPageAsEmail-068957a4-7d9a-447a-8cc6-c18a687c4999;rcid_526a07a2-f0a5-6000-639d-99c6e307bb9c;wiid_4614ed65-38be-49c5-adce-91edcdcd6810;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_23f6261b-9ebe-4e6e-abb0-54af42fc9805@odspnotify",
       "subject": "Hot off the Presses - More Copilot Training in April!",
@@ -528,15 +537,6 @@
       "subject": "RE: Author query THELANCET THELANCET-D-26-01935",
       "sender": "\"Lancet, Editorial (ELS)\" <editorial@lancet.com>",
       "date": "Mon Apr 06 2026 08:09:16 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LHmGoScImuxkAkNrdBs8AZo7VwZCbACQp0YjFJqYU@redcap.ascension.org",
-      "subject": "RE: CR-26-087 || Site Approval Request Submission Confirmation",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 06:21:23 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
