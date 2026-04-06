@@ -271,7 +271,7 @@ function buildTaskCard(task, idx) {
   const subs    = task.subtasks||[];
   const doneSubs= subs.filter(s=>s.done).length;
   const notePreview = hasNote?`<div class="task-note-preview">${esc(task.note.trim().substring(0,80))}${task.note.length>80?'Ã':''}</div>`:'';
-  const subPreview  = subs.length?`<div class="task-sub-preview">? ${doneSubs}/${subs.length} sub-tasks</div>`:'';
+  const subPreview  = subs.length?`<div class="task-sub-preview">&#9745; ${doneSubs}/${subs.length} sub-tasks</div>`:'';
   card.innerHTML=`
     <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"></div>
     <div class="task-body">
