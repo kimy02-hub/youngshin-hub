@@ -1,20 +1,36 @@
 
-/* == POLISH v2 == */
-.task-checkbox { border-color: #9a8880 !important; background: #fff !important; }
-.edit-task-btn { background: #f5efec !important; border-color: #c8bab5 !important; color: #574846 !important; font-weight: 700 !important; }
-.flag-task-btn { background: #f5efec !important; border-color: #c8bab5 !important; }
-.flag-task-btn.is-flagged { background: var(--amber-bg) !important; border-color: var(--amber-border) !important; color: var(--amber) !important; }
-.flagged-label { background: var(--amber-bg) !important; padding: 4px 14px !important; border-radius: 20px !important; border-left: 3px solid var(--amber) !important; font-size: 0.8rem !important; }
-.task-from { font-size: 0.82rem !important; }
-.task-timestamp { font-size: 0.76rem !important; }
-.to-task-btn { background: #ede6e2 !important; border-color: #c8bab5 !important; color: #3d2f2c !important; font-weight: 700 !important; }
-.tasks-body { padding: 12px 24px 32px !important; }
-.email-list { padding: 10px 12px 16px !important; }
-.task-card.task-flagged { border-left: 3px solid var(--amber) !important; }
-.email-card.unread { border-left: 4px solid var(--rose) !important; }
-.panel-count { background: #ede6e2 !important; border-color: #c8bab5 !important; color: #3d2f2c !important; font-weight: 700 !important; }
-.panel-header { border-bottom: 2px solid var(--surface-2) !important; }
-column;
+/* Polish additions */
+.task-checkbox{border:2px solid #9a8880!important;background:#fff!important;}
+.task-card.task-flagged{border-left:4px solid var(--amber)!important;}
+.email-card.unread{border-left:4px solid var(--rose)!important;}
+.edit-task-btn{background:var(--surface-2)!important;border:1.5px solid var(--surface-3)!important;color:var(--text-secondary)!important;font-weight:700!important;}
+.flag-task-btn{background:var(--surface-2)!important;border:1.5px solid var(--surface-3)!important;}
+.to-task-btn{font-weight:700!important;}
+.panel-count{font-weight:700!important;}
+:  #b8d4e8;
+  --due-today:      #a86828;  --due-today-bg: #fdf5ea;  --due-today-bd: #e8c080;
+  --due-late:       #b03030;  --due-late-bg:  #fdeaea;  --due-late-bd:  #e8aaaa;
+  --done-strike:    #b03030;
+  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --r-sm: 7px;  --r-md: 13px;  --r-lg: 20px;
+  --top-h: 62px;
+  --sh-xs: 0 1px 4px rgba(40,32,30,.06);
+  --sh-sm: 0 2px 12px rgba(40,32,30,.09);
+  --sh-md: 0 6px 28px rgba(40,32,30,.13);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-sans);
+  font-size: 15px;
+  background: var(--surface-1);
+  color: var(--text-primary);
+  height: 100dvh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -274,7 +290,7 @@ column;
   justify-content: space-between; gap: 10px; margin-bottom: 5px;
 }
 .task-title {
-  font-size: 0.98rem;
+  font-size: 0.97rem;
   font-weight: 600;
   color: var(--text-primary);
   line-height: 1.35;
@@ -347,7 +363,7 @@ column;
   font-size: 0.88rem; background: none;
   border: 1px solid var(--surface-3); border-radius: 8px;
   padding: 4px 9px; cursor: pointer;
-  transition: all .14s; color: var(--text-secondary); line-height: 1; font-weight: 600;
+  transition: all .14s; color: var(--text-ghost); line-height: 1;
 }
 .edit-task-btn:hover { background: var(--surface-2); color: var(--text-secondary); border-color: var(--surface-3); }
 
@@ -355,7 +371,7 @@ column;
   font-size: 0.88rem; background: none;
   border: 1px solid var(--surface-3); border-radius: 8px;
   padding: 4px 9px; cursor: pointer;
-  transition: all .14s; color: var(--text-secondary); line-height: 1; font-weight: 600;
+  transition: all .14s; color: var(--text-ghost); line-height: 1;
 }
 .flag-task-btn:hover { background: var(--amber-bg); border-color: var(--amber-border); color: var(--amber); }
 .flag-task-btn.is-flagged { background: var(--amber-bg); border-color: var(--amber-border); color: var(--amber); }
@@ -522,3 +538,11 @@ column;
   .account-pill { display: none; }
   .tab { padding: 5px 12px; }
 }
+
+/* Polish */
+.task-checkbox{border:2px solid #9a8880!important;background:#fff!important;}
+.task-card.task-flagged{border-left:4px solid #a86828!important;}
+.edit-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;color:#524240!important;font-weight:700!important;}
+.flag-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;}
+.to-task-btn{font-weight:700!important;}
+.panel-count{font-weight:700!important;}
