@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-06T15:45:12.031917",
+  "fetched_at": "2026-04-06T16:00:12.285219",
   "emails": [
+    {
+      "id": "26ADE66A-0378-4AF4-A70B-47ED6FBE72D7@austin.utexas.edu",
+      "subject": "Fwd: Request for call to learn about UTDMS YAM",
+      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 15:59:47 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB698327373A3F1C91FCC5D81DD55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: Alexandra Thomas Zoom Interview Itinerary",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 15:53:12 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "CO6PR06MB731665634AD95A4DAEF04688BE5DA@CO6PR06MB7316.namprd06.prod.outlook.com",
       "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
@@ -69,15 +87,6 @@
       "subject": "Re: APT E-Review: Stephen Stayer, MD",
       "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 09:01:13 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAHbefe8LRkF=xm97NtvQuz0zuC_P8dRKQN8RNdR_RWoci-Y1PQ@mail.gmail.com",
-      "subject": "Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
-      "sender": "Riya Kannan <riya.kannan@utexas.edu>",
-      "date": "Mon Apr 06 2026 08:00:57 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -528,15 +537,6 @@
       "subject": "FW: Cabinet",
       "sender": "Kelsey Koch (DMS) <kelsey.koch1@ascension-external.org>",
       "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR08MB344957BF36FEC2BB9E68F29C815DA@DM5PR08MB3449.namprd08.prod.outlook.com",
-      "subject": "RE: Author query THELANCET THELANCET-D-26-01935",
-      "sender": "\"Lancet, Editorial (ELS)\" <editorial@lancet.com>",
-      "date": "Mon Apr 06 2026 08:09:16 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
