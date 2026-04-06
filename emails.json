@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-04-06T11:45:11.858274",
+  "fetched_at": "2026-04-06T12:00:15.035140",
   "emails": [
+    {
+      "id": "LV9PR06MB108954B0BF4CD1D5019C97F8BA95DA@LV9PR06MB10895.namprd06.prod.outlook.com",
+      "subject": "Re: PCR Submission for Summer TCHATT Enrollment",
+      "sender": "Rick Ortiz <enrique.ortizjr@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 11:54:49 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "57c9893941e1a7d695d270c57.1a604f3f7d.20260406165302.de8a8efc2b.924b5171@mail75.usw2001.mcdlv.net",
+      "subject": "Submission Deadline Thursday April 9",
+      "sender": "Gatlinburg Conference <contact@gatlinburgconference.org>",
+      "date": "Mon Apr 06 2026 11:53:19 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB75064E887A92AC78EC81BBA1A75DA@CO6PR06MB7506.namprd06.prod.outlook.com",
+      "subject": "Re: PCR Submission for Summer TCHATT Enrollment",
+      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 11:46:02 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "SJ0PR04MB7213F9DD93F6ADDDDFE5835BDF5DA@SJ0PR04MB7213.namprd04.prod.outlook.com",
       "subject": "RE: Proposed Meeting Schedule for TCMHCC Executive Committee (October 2026 - August 2027)",
@@ -168,15 +195,6 @@
       "subject": "Social Work Intern Onboarding Follow Up",
       "sender": "Leo N Pratt <prattleo@utexas.edu>",
       "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d0tOf=9kbnXepTGOrSVbAaKFMswb+s8eEgj7W4Lc13VRQ@mail.gmail.com",
-      "subject": "Call Swap",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Fri Apr 03 2026 07:00:57 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -519,24 +537,6 @@
       "subject": "RE: Follow up on $75 reading gift cards",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Fri Apr 03 2026 07:49:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN8PR06MB619667D864FAFF09C786338ACC5EA@BN8PR06MB6196.namprd06.prod.outlook.com",
-      "subject": "Re: Shaddowing",
-      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 01:07:55 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "010f019d51efcf20-f1c9416c-c9b0-4572-aea2-e1a8b0b98cfa-000000@us-east-2.amazonses.com",
-      "subject": "Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:fef6c73f051ac8ae]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Fri Apr 03 2026 01:02:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
