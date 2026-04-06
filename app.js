@@ -1,18 +1,21 @@
-/* DMS Mailbox Dashboard - app.js v5 - clean rebuild */
-let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
-const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json';
 
-document.addEventListener('DOMContentLoaded', () => { loadTasks(); loadEmails(); });
+// ?? MOBILE TAB SWITCHING ??????????????????????????????????????
+function mobileSwitchTab(tab) {
+  const split = document.querySelector('.split');
+  const inboxBtn = document.getElementById('mobileInboxBtn');
+  const tasksBtn = document.getElementById('mobileTasksBtn');
+  if (!split) return;
+  if (tab === 'tasks') {
+    split.classList.add('show-tasks');
+    if (tasksBtn) tasksBtn.classList.add('active');
+    if (inboxBtn) inboxBtn.classList.remove('active');
+  } else {
+    split.classList.remove('show-tasks');
+    if (inboxBtn) inboxBtn.classList.add('active');
+    if (tasksBtn) tasksBtn.classList.remove('active');
+  }
+}
 
-// -- EMAIL LOADING ----------------------------------------------
-async function loadEmails() {
-  try {
-    const res = await fetch(EMAILS_URL + '?_=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const data = await res.json();
-    allEmails = data.emails || [];
-    updateLastUpdated(data.fetched_at);
-    renderEmails();
   } catch(e) {
     document.getElementById('emailList').innerHTML =
       `<div class="loading-state"><p style="color:var(--text-ghost)">Could not load emails.<br><small>${e.message}</small></p></div>`;
@@ -398,3 +401,10 @@ function buildMailUrl(emailId) {
   if (!emailId) return '#';
   return 'message://%3C' + encodeURIComponent(emailId) + '%3E';
 }
+
+// Mobile tab switching
+function mobileSwitchTab(tab) {
+  const split = document.querySelector(".split");
+  const inboxBtn = document.getElementById("mobileInboxBtn");
+  const tasksBtn = document.getElementById("mobileTasksBtn");
+  if (tab === "tasks") {

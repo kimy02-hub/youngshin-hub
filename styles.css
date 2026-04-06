@@ -560,3 +560,9 @@ body {
 .to-task-btn{font-weight:700!important;}
 .panel-count{font-weight:700!important;}
 .task-actions{gap:6px!important;}
+.mobile-nav{display:none;position:fixed;bottom:0;left:0;right:0;height:56px;background:var(--surface-0);border-top:1.5px solid var(--surface-2);z-index:50;align-items:stretch;}
+.mobile-nav-btn{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;background:none;border:none;cursor:pointer;font-family:var(--font-sans);font-size:0.68rem;font-weight:600;color:var(--text-tertiary);transition:all .15s;padding:6px 0;}
+.mobile-nav-btn.active{color:var(--text-primary);}
+.mobile-nav-icon{font-size:1.2rem;line-height:1;}
+.mobile-nav-badge{position:absolute;top:6px;right:calc(50% - 18px);background:var(--rose);color:white;font-size:0.58rem;font-weight:800;border-radius:10px;padding:1px 5px;min-width:16px;text-align:center;}
+.mobile-nav-btn{position:relative;}
