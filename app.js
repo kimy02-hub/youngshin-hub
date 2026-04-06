@@ -1,4 +1,4 @@
-/* DMS Mailbox Dashboard � app.js  v4 */
+/* DMS Mailbox Dashboard Ã¡ app.js  v4 */
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
 const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json';
 
@@ -108,7 +108,7 @@ function addManualTask() {
     emailId:null, emailSender:null, emailDate:null, cc, due,
     note:'', subtasks:[], createdAt:new Date().toISOString(), type:'manual' });
   saveTasks(); renderTasks(); closeAddTask();
-  showToast(isToday?'? Auto-flagged � due today!':'? Task added!');
+  showToast(isToday?'? Auto-flagged Ã due today!':'? Task added!');
 }
 
 // ?? TASK ACTIONS ???????????????????????????????????????????????
@@ -131,7 +131,7 @@ function editTaskCC(taskId) {
   const wrap=document.getElementById('cc-wrap-'+taskId); if (!wrap) return;
   const t=tasks.find(t=>t.id===taskId); if (!t) return;
   wrap.innerHTML=`<div class="cc-edit-wrap"><span style="font-size:.69rem;color:var(--text-tertiary)">?</span>
-    <input class="task-cc-input" id="cc-input-${taskId}" value="${esc(t.cc||'')}" placeholder="add cc�"
+    <input class="task-cc-input" id="cc-input-${taskId}" value="${esc(t.cc||'')}" placeholder="add ccÃ"
       onkeydown="if(event.key==='Enter')saveTaskCC('${taskId}');if(event.key==='Escape')renderTasks();"></input>
     <button class="cc-save-btn" onclick="saveTaskCC('${taskId}')">?</button></div>`;
   setTimeout(()=>{ const el=document.getElementById('cc-input-'+taskId); if(el)el.focus(); },30);
@@ -182,7 +182,7 @@ function renderSubtaskEditor(t) {
     row.className = 'subtask-row' + (s.done?' subtask-done':'');
     row.innerHTML = `
       <div class="subtask-check" onclick="toggleSubtask(${i})">${s.done?'?':''}</div>
-      <input class="subtask-input" value="${esc(s.text)}" placeholder="Sub-task�"
+      <input class="subtask-input" value="${esc(s.text)}" placeholder="Sub-taskÃ"
         onchange="updateSubtask(${i},this.value)"
         onkeydown="if(event.key==='Enter'){event.preventDefault();addSubtask();}">
       <button class="subtask-del" onclick="deleteSubtask(${i})" title="Remove">*</button>`;
@@ -270,7 +270,7 @@ function buildTaskCard(task, idx) {
   const hasNote = task.note && task.note.trim();
   const subs    = task.subtasks||[];
   const doneSubs= subs.filter(s=>s.done).length;
-  const notePreview = hasNote?`<div class="task-note-preview">${esc(task.note.trim().substring(0,80))}${task.note.length>80?'�':''}</div>`:'';
+  const notePreview = hasNote?`<div class="task-note-preview">${esc(task.note.trim().substring(0,80))}${task.note.length>80?'Ã':''}</div>`:'';
   const subPreview  = subs.length?`<div class="task-sub-preview">? ${doneSubs}/${subs.length} sub-tasks</div>`:'';
   card.innerHTML=`
     <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"></div>
@@ -283,8 +283,8 @@ function buildTaskCard(task, idx) {
       <div class="task-meta">${dueHtml}${fromHtml}${ccHtml}</div>
     </div>
     <div class="task-actions">
-      <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit task">?</button>
-      ${!task.done?`<button class="flag-task-btn ${task.flagged?'is-flagged':''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged?'Unflag':'Flag'}">?</button>`:''}
+      <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit task">&#9998;</button>
+      ${!task.done?`<button class="flag-task-btn ${task.flagged?'is-flagged':''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged?'Unflag':'Flag'}">&#9873;</button>`:''}
       ${mailLink}
     </div>`;
   return card;
