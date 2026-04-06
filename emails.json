@@ -1,6 +1,51 @@
 {
-  "fetched_at": "2026-04-06T06:45:12.063450",
+  "fetched_at": "2026-04-06T07:45:34.817074",
   "emails": [
+    {
+      "id": "calendar-bc387655-1c68-4511-8671-8508cc76d415@google.com",
+      "subject": "Canceled event: Weekly Clinic Operations (except 2nd Wed of Month) @ Wed Apr 8, 2026 10am - 11am (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "Grace Brady <grace.brady@ascension.org>",
+      "date": "Mon Apr 06 2026 07:43:14 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "autogen-java-4a398302-19a6-40c2-98d9-6cf00152ca2d@google.com",
+      "subject": "-phi- DCMC MHU End of Shift Report",
+      "sender": "\"Chelsea Taylor (via Google Docs)\" <chelsea.taylor@ascension.org>",
+      "date": "Mon Apr 06 2026 07:08:57 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAMq9Dcr8qEk__yAOCqe_8F87UuwXCbx6ZaDCTeLo8jtkcVngZQ@mail.gmail.com",
+      "subject": "ANNOUNCEMENT: Pediatric Grand Rounds - Friday, April 10, 2026 (In Person or Via Zoom (link provided)",
+      "sender": "Pam Knight <pam.knight@ascension.org>",
+      "date": "Mon Apr 06 2026 06:31:31 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LHmGoScImuxkAkNrdBs8AZo7VwZCbACQp0YjFJqYU@redcap.ascension.org",
+      "subject": "RE: CR-26-087 || Site Approval Request Submission Confirmation",
+      "sender": "\"txaus-mb-siteapproval@ascension.org\" <txaus-mb-siteapproval@ascension.org>",
+      "date": "Mon Apr 06 2026 06:21:23 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "WKSBxc9C3LvhmPfZFpiYYUmEIbq9jeSxWhoB3jDNMnw@redcap.ascension.org",
+      "subject": "RE: CR-26-087 || Site Approval Request - Track Your Submission",
+      "sender": "\"txaus-mb-siteapproval@ascension.org\" <txaus-mb-siteapproval@ascension.org>",
+      "date": "Mon Apr 06 2026 06:21:21 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DS2PR06MB112995BD4809A8269EBD09D5ADB5DA@DS2PR06MB11299.namprd06.prod.outlook.com",
       "subject": "[epicusers] Great news: We’re live on Epic!",
@@ -492,51 +537,6 @@
       "subject": "RE: meeting request",
       "sender": "\"Barton, Karen M\" <kbarton@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 16:10:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "MW5PR19MB560329FB7485577EA8645AD7B651A@MW5PR19MB5603.namprd19.prod.outlook.com",
-      "subject": "AADCAP: Closing Soon! Spring Meeting Registration - Agenda Added",
-      "sender": "info@aadcap.org",
-      "date": "Thu Apr 02 2026 15:50:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB11184A8A79D712A1423670BF4DD51A@DS4PR06MB11184.namprd06.prod.outlook.com",
-      "subject": "RE: Faculty Non-Renewal Request - Department of Psychiatry & Behavioral Sciences",
-      "sender": "\"Dobbins, Teagan\" <teagan.dobbins@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:46:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB1093062C636C425E387A45776C451A@DS4PR06MB10930.namprd06.prod.outlook.com",
-      "subject": "Re: Thank You from Outgoing Dean Im",
-      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:42:09 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071135A0F0FC365ED4DD15DCB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: meeting request",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:41:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711B2C6C9C16161097BDA12B851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Proposed Meeting Schedule for TCMHCC Executive Committee (October 2026 - August 2027)",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:40:31 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
