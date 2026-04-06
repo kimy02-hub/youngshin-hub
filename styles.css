@@ -566,3 +566,5 @@ body {
 .mobile-nav-icon{font-size:1.2rem;line-height:1;}
 .mobile-nav-badge{position:absolute;top:6px;right:calc(50% - 18px);background:var(--rose);color:white;font-size:0.58rem;font-weight:800;border-radius:10px;padding:1px 5px;min-width:16px;text-align:center;}
 .mobile-nav-btn{position:relative;}
+.mobile-nav{display:none!important;}
+@media(max-width:720px){.mobile-nav{display:flex!important;}}
