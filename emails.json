@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T18:30:11.342893",
+  "fetched_at": "2026-04-06T18:32:43.227780",
   "emails": [
+    {
+      "id": "DM4PR05MB908863F1BD6F8F20A1FD4722E45DA@DM4PR05MB9088.namprd05.prod.outlook.com",
+      "subject": "Accepted: Dinner with Champaigne",
+      "sender": "\"Bishop, Somer\" <Somer.Bishop@ucsf.edu>",
+      "date": "Mon Apr 06 2026 18:31:04 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "F6F57664-C976-43CC-B913-B4A760D72FCF@austin.utexas.edu",
       "subject": "Fwd: [Psy Research Faculty] Potential Research Funding Opportunities",
@@ -528,15 +537,6 @@
       "subject": "RE: CR-26-087 || INSPIRE Data Bank - Consent Form(s) REVISIONS REQUIRED",
       "sender": "txaus-mb-siteapproval@ascension.org",
       "date": "Mon Apr 06 2026 11:32:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "cntMgzAbf6WJmVmd7P79JfbkRxDdQEriVaPnGNJs@redcap.ascension.org",
-      "subject": "RE: CR-26-083 || WAVE Pilot Study - Consent Form(s) REVISIONS REQUIRED",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 11:17:32 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
