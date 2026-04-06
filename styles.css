@@ -1,47 +1,20 @@
-/* DMS Mailbox Dashboard - styles.css v5
-   Font: Helvetica Neue / Helvetica
-   Sizes: bumped up ~15% across the board
-*/
 
-:root {
-  --surface-0: #ffffff;
-  --surface-1: #f6f2f0;
-  --surface-2: #ece6e3;
-  --surface-3: #ddd5d1;
-  --text-primary:   #28201e;
-  --text-secondary: #574846;
-  --text-tertiary:  #9c8c88;
-  --text-ghost:     #c0b0ac;
-  --rose:           #c0526a;
-  --rose-bg:        #fef0f2;
-  --rose-border:    #f0b8c4;
-  --amber:          #a86828;
-  --amber-bg:       #fdf5ea;
-  --amber-border:   #e8c080;
-  --due-blue:       #4a7c9e;  --due-blue-bg:  #edf4f9;  --due-blue-bd:  #b8d4e8;
-  --due-today:      #a86828;  --due-today-bg: #fdf5ea;  --due-today-bd: #e8c080;
-  --due-late:       #b03030;  --due-late-bg:  #fdeaea;  --due-late-bd:  #e8aaaa;
-  --done-strike:    #b03030;
-  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --font-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --r-sm: 7px;  --r-md: 13px;  --r-lg: 20px;
-  --top-h: 62px;
-  --sh-xs: 0 1px 4px rgba(40,32,30,.06);
-  --sh-sm: 0 2px 12px rgba(40,32,30,.09);
-  --sh-md: 0 6px 28px rgba(40,32,30,.13);
-}
-
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  font-family: var(--font-sans);
-  font-size: 15px;
-  background: var(--surface-1);
-  color: var(--text-primary);
-  height: 100dvh;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
+/* == POLISH v2 == */
+.task-checkbox { border-color: #9a8880 !important; background: #fff !important; }
+.edit-task-btn { background: #f5efec !important; border-color: #c8bab5 !important; color: #574846 !important; font-weight: 700 !important; }
+.flag-task-btn { background: #f5efec !important; border-color: #c8bab5 !important; }
+.flag-task-btn.is-flagged { background: var(--amber-bg) !important; border-color: var(--amber-border) !important; color: var(--amber) !important; }
+.flagged-label { background: var(--amber-bg) !important; padding: 4px 14px !important; border-radius: 20px !important; border-left: 3px solid var(--amber) !important; font-size: 0.8rem !important; }
+.task-from { font-size: 0.82rem !important; }
+.task-timestamp { font-size: 0.76rem !important; }
+.to-task-btn { background: #ede6e2 !important; border-color: #c8bab5 !important; color: #3d2f2c !important; font-weight: 700 !important; }
+.tasks-body { padding: 12px 24px 32px !important; }
+.email-list { padding: 10px 12px 16px !important; }
+.task-card.task-flagged { border-left: 3px solid var(--amber) !important; }
+.email-card.unread { border-left: 4px solid var(--rose) !important; }
+.panel-count { background: #ede6e2 !important; border-color: #c8bab5 !important; color: #3d2f2c !important; font-weight: 700 !important; }
+.panel-header { border-bottom: 2px solid var(--surface-2) !important; }
+column;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -176,8 +149,8 @@ body {
   background: var(--surface-0);
   border: 1px solid var(--surface-2);
   border-radius: var(--r-md);
-  padding: 13px 15px;
-  margin-bottom: 9px;
+  padding: 10px 13px;
+  margin-bottom: 7px;
   transition: all .14s ease;
   animation: fadeIn .22s ease both;
   cursor: default;
@@ -262,8 +235,8 @@ body {
   background: var(--surface-0);
   border: 1px solid var(--surface-2);
   border-radius: var(--r-md);
-  padding: 13px 15px;
-  margin-bottom: 9px;
+  padding: 10px 13px;
+  margin-bottom: 7px;
   display: flex;
   align-items: flex-start;
   gap: 11px;
@@ -301,7 +274,7 @@ body {
   justify-content: space-between; gap: 10px; margin-bottom: 5px;
 }
 .task-title {
-  font-size: 0.92rem;
+  font-size: 0.98rem;
   font-weight: 600;
   color: var(--text-primary);
   line-height: 1.35;
@@ -374,7 +347,7 @@ body {
   font-size: 0.88rem; background: none;
   border: 1px solid var(--surface-3); border-radius: 8px;
   padding: 4px 9px; cursor: pointer;
-  transition: all .14s; color: var(--text-ghost); line-height: 1;
+  transition: all .14s; color: var(--text-secondary); line-height: 1; font-weight: 600;
 }
 .edit-task-btn:hover { background: var(--surface-2); color: var(--text-secondary); border-color: var(--surface-3); }
 
@@ -382,7 +355,7 @@ body {
   font-size: 0.88rem; background: none;
   border: 1px solid var(--surface-3); border-radius: 8px;
   padding: 4px 9px; cursor: pointer;
-  transition: all .14s; color: var(--text-ghost); line-height: 1;
+  transition: all .14s; color: var(--text-secondary); line-height: 1; font-weight: 600;
 }
 .flag-task-btn:hover { background: var(--amber-bg); border-color: var(--amber-border); color: var(--amber); }
 .flag-task-btn.is-flagged { background: var(--amber-bg); border-color: var(--amber-border); color: var(--amber); }
