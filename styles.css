@@ -1,13 +1,24 @@
+/* DMS Mailbox Dashboard - styles.css v5
+   Font: Helvetica Neue / Helvetica
+   Sizes: bumped up ~15% across the board
+*/
 
-/* Polish additions */
-.task-checkbox{border:2px solid #9a8880!important;background:#fff!important;}
-.task-card.task-flagged{border-left:4px solid var(--amber)!important;}
-.email-card.unread{border-left:4px solid var(--rose)!important;}
-.edit-task-btn{background:var(--surface-2)!important;border:1.5px solid var(--surface-3)!important;color:var(--text-secondary)!important;font-weight:700!important;}
-.flag-task-btn{background:var(--surface-2)!important;border:1.5px solid var(--surface-3)!important;}
-.to-task-btn{font-weight:700!important;}
-.panel-count{font-weight:700!important;}
-:  #b8d4e8;
+:root {
+  --surface-0: #ffffff;
+  --surface-1: #f6f2f0;
+  --surface-2: #ece6e3;
+  --surface-3: #ddd5d1;
+  --text-primary:   #28201e;
+  --text-secondary: #574846;
+  --text-tertiary:  #9c8c88;
+  --text-ghost:     #c0b0ac;
+  --rose:           #c0526a;
+  --rose-bg:        #fef0f2;
+  --rose-border:    #f0b8c4;
+  --amber:          #a86828;
+  --amber-bg:       #fdf5ea;
+  --amber-border:   #e8c080;
+  --due-blue:       #4a7c9e;  --due-blue-bg:  #edf4f9;  --due-blue-bd:  #b8d4e8;
   --due-today:      #a86828;  --due-today-bg: #fdf5ea;  --due-today-bd: #e8c080;
   --due-late:       #b03030;  --due-late-bg:  #fdeaea;  --due-late-bd:  #e8aaaa;
   --done-strike:    #b03030;
@@ -165,8 +176,8 @@ body {
   background: var(--surface-0);
   border: 1px solid var(--surface-2);
   border-radius: var(--r-md);
-  padding: 10px 13px;
-  margin-bottom: 7px;
+  padding: 13px 15px;
+  margin-bottom: 9px;
   transition: all .14s ease;
   animation: fadeIn .22s ease both;
   cursor: default;
@@ -251,8 +262,8 @@ body {
   background: var(--surface-0);
   border: 1px solid var(--surface-2);
   border-radius: var(--r-md);
-  padding: 10px 13px;
-  margin-bottom: 7px;
+  padding: 13px 15px;
+  margin-bottom: 9px;
   display: flex;
   align-items: flex-start;
   gap: 11px;
@@ -290,7 +301,7 @@ body {
   justify-content: space-between; gap: 10px; margin-bottom: 5px;
 }
 .task-title {
-  font-size: 0.97rem;
+  font-size: 0.92rem;
   font-weight: 600;
   color: var(--text-primary);
   line-height: 1.35;
@@ -539,16 +550,13 @@ body {
   .tab { padding: 5px 12px; }
 }
 
-/* Polish */
+/* == Polish v3 == */
 .task-checkbox{border:2px solid #9a8880!important;background:#fff!important;}
+.edit-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;color:#524240!important;font-weight:700!important;font-size:0.84rem!important;padding:5px 12px!important;min-width:44px!important;}
+.flag-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;font-size:0.88rem!important;padding:5px 11px!important;min-width:44px!important;}
+.flag-task-btn.is-flagged{background:var(--amber-bg)!important;border-color:var(--amber-border)!important;color:var(--amber)!important;}
 .task-card.task-flagged{border-left:4px solid #a86828!important;}
-.edit-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;color:#524240!important;font-weight:700!important;}
-.flag-task-btn{background:#e8e0dc!important;border:1.5px solid #d4c8c2!important;}
+.email-card.unread{border-left:4px solid var(--rose)!important;}
 .to-task-btn{font-weight:700!important;}
 .panel-count{font-weight:700!important;}
-.edit-task-btn{font-size:0.82rem!important;padding:5px 11px!important;min-width:42px!important;text-align:center!important;}
-.flag-task-btn{font-size:0.88rem!important;padding:5px 11px!important;min-width:42px!important;text-align:center!important;}
-.open-task-mail-btn{font-size:0.76rem!important;padding:4px 9px!important;}
-.task-actions{gap:6px!important;min-width:48px!important;}
-.tab-group{border-radius:26px!important;padding:3px!important;}
-.tab.active{background:var(--surface-0)!important;color:var(--text-primary)!important;font-weight:700!important;border-radius:20px!important;box-shadow:0 1px 3px rgba(36,30,28,.07)!important;}
+.task-actions{gap:6px!important;}
