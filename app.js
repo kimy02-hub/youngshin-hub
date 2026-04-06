@@ -83,8 +83,20 @@ function buildEmailCard(email, idx) {
 }
 
 // -- TASK PERSISTENCE --
-function loadTasks() {
+async function loadTasks() {
   try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
+  if (tasks.length === 0) {
+    try {
+      const res = await fetch('tasks.json?_=' + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        if (data.tasks && data.tasks.length > 0) {
+          tasks = data.tasks;
+          localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+        }
+      }
+    } catch(_) {}
+  }
   tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
   renderTasks();
   updateMobileBadge();
