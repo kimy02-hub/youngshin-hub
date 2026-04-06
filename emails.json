@@ -1,114 +1,6 @@
 {
-  "fetched_at": "2026-04-06T14:30:11.300077",
+  "fetched_at": "2026-04-06T14:45:11.376618",
   "emails": [
-    {
-      "id": "DM6PR13MB3179A4D7160D7D8393CBBEB3EF5DA@DM6PR13MB3179.namprd13.prod.outlook.com",
-      "subject": "Accepted: Grant Proposal Meeting",
-      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:26:45 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB561851BC4E8B0B125552A339F55DA@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "Accepted: Grant Proposal Meeting",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Mon Apr 06 2026 14:26:11 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107114117BB51B54CC6B5A76CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:25:51 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR13MB627657ABAAE55FD0B2BFA0828A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
-      "subject": "Accepted: Grant Proposal Meeting",
-      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:25:51 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALZkp+t4rG3827O6WPMzTYGf30_w92PpHUeou8fSSrWi7o_X3w@mail.gmail.com",
-      "subject": "Valencia -- Request PTO for 5/2026",
-      "sender": "Celeste Valencia <Celeste.Valencia@ascension-external.org>",
-      "date": "Mon Apr 06 2026 14:21:58 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR13MB3179FB1E04BE076AA9D07A61EF5DA@DM6PR13MB3179.namprd13.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:18:02 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR13MB62762EEF2A573F312ED40ECA8A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
-      "subject": "RE: Grant proposal meeting",
-      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:13:00 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071110B3DF1D12901B40EC24B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:08:56 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR13MB627626CE99A87F62A8F9C29D8A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
-      "subject": "RE: Grant proposal meeting",
-      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:08:29 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB56185CDCACD8197409085147F55DA@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "RE: Grant proposal meeting",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Mon Apr 06 2026 14:07:17 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711780C492D2D64EFA519F4B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Pin this - AADCAP Banquet Ticket",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:06:20 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "0135eac7-ebac-402d-aece-2f4b0ca3dd95@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:37 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
     {
       "id": "fadda6a8-d204-4cc0-8951-054fff64cb15@smtp-relay.sendinblue.com",
       "subject": "AACAP Awards Submission Endorsement Request",
@@ -159,42 +51,6 @@
       "subject": "AACAP Awards Submission Endorsement Request",
       "sender": "aacap2@confex.com",
       "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CO1PR22MB27690CD84F0DF6EF4A04EF34CB5DA@CO1PR22MB2769.namprd22.prod.outlook.com",
-      "subject": "Re: JAACAP Open AE Team Meeting",
-      "sender": "\"Manpreet K. Singh\" <mksingh@jaacap.org>",
-      "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "2e0bb51a-64aa-499f-b941-a31ad93ee503@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:20 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "gHkiAgzlQGGVm26eSCd_Dg@geopod-ismtpd-2",
-      "subject": "Thanks for registering! Here are your tickets",
-      "sender": "AADCAP <info@aadcap.org>",
-      "date": "Mon Apr 06 2026 14:04:23 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "Re: APT Pre-Review: Erica Schwarz",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:58:34 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -278,6 +134,150 @@
       "date": "Sun Apr 05 2026 15:05:05 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA6PR06MB104481472C7813EAA328FD46EA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
+      "subject": "FW: JAACAPOPEN-D-25-00172R1 Editor Reminder - [EMID:cd6e652b955a95da]",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "date": "Sun Apr 05 2026 15:04:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
+      "subject": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "date": "Sun Apr 05 2026 15:04:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "MN2PR04MB6175EAEF7BD55AF922B79853AE5DA@MN2PR04MB6175.namprd04.prod.outlook.com",
+      "subject": "Re: PCR | UT DMS | 2026-02-06 Response",
+      "sender": "\"Jew, Rachel\" <rjew@utsystem.edu>",
+      "date": "Mon Apr 06 2026 14:38:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB107114117BB51B54CC6B5A76CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 14:25:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CALZkp+t4rG3827O6WPMzTYGf30_w92PpHUeou8fSSrWi7o_X3w@mail.gmail.com",
+      "subject": "Valencia -- Request PTO for 5/2026",
+      "sender": "Celeste Valencia <Celeste.Valencia@ascension-external.org>",
+      "date": "Mon Apr 06 2026 14:21:58 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR13MB3179FB1E04BE076AA9D07A61EF5DA@DM6PR13MB3179.namprd13.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
+      "date": "Mon Apr 06 2026 14:18:02 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS0PR13MB62762EEF2A573F312ED40ECA8A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
+      "subject": "RE: Grant proposal meeting",
+      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
+      "date": "Mon Apr 06 2026 14:13:00 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1071110B3DF1D12901B40EC24B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 14:08:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS0PR13MB627626CE99A87F62A8F9C29D8A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
+      "subject": "RE: Grant proposal meeting",
+      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
+      "date": "Mon Apr 06 2026 14:08:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "BN7PR08MB56185CDCACD8197409085147F55DA@BN7PR08MB5618.namprd08.prod.outlook.com",
+      "subject": "RE: Grant proposal meeting",
+      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
+      "date": "Mon Apr 06 2026 14:07:17 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711780C492D2D64EFA519F4B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Pin this - AADCAP Banquet Ticket",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 14:06:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "0135eac7-ebac-402d-aece-2f4b0ca3dd95@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:37 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CO1PR22MB27690CD84F0DF6EF4A04EF34CB5DA@CO1PR22MB2769.namprd22.prod.outlook.com",
+      "subject": "Re: JAACAP Open AE Team Meeting",
+      "sender": "\"Manpreet K. Singh\" <mksingh@jaacap.org>",
+      "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "2e0bb51a-64aa-499f-b941-a31ad93ee503@smtp-relay.sendinblue.com",
+      "subject": "AACAP Awards Submission Endorsement Request",
+      "sender": "aacap2@confex.com",
+      "date": "Mon Apr 06 2026 14:05:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "gHkiAgzlQGGVm26eSCd_Dg@geopod-ismtpd-2",
+      "subject": "Thanks for registering! Here are your tickets",
+      "sender": "AADCAP <info@aadcap.org>",
+      "date": "Mon Apr 06 2026 14:04:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "Re: APT Pre-Review: Erica Schwarz",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:58:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
