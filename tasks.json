@@ -10,7 +10,7 @@
       "emailDate": null,
       "cc": "Ashley, Brandon, Bennett, Deb, Shuting",
       "due": "2026-06-30",
-      "note": "",
+      "note": "PA-25-301 (Parent R01): \nNIEHS Strategic Plan: 2025-2029\nhttps://www.niehs.nih.gov/about/strategicplan\nhttps://www.niehs.nih.gov/about/strategicplan/research",
       "subtasks": [
         {
           "text": "set up a meeting",
@@ -346,5 +346,5 @@
       "subtasks": []
     }
   ],
-  "saved_at": "2026-04-06T13:45:11.872472"
+  "saved_at": "2026-04-06T14:00:11.635375"
 }

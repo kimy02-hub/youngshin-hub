@@ -1,38 +1,20 @@
 {
-  "fetched_at": "2026-04-06T13:45:11.070456",
+  "fetched_at": "2026-04-06T14:00:10.915746",
   "emails": [
     {
-      "id": "CH2PR06MB6742F3071DB474CBA6CFD061BE5DA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Payment for RT Training",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:39:27 GMT-0500 (Central Daylight Time)",
+      "id": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "Re: APT Pre-Review: Erica Schwarz",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:58:34 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "IA3PR06MB10711431B90A1487B0814939DB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:36:32 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711A195B11470E333FCFA9CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:34:28 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071134703427A5548531F5DAB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Use of Giftogram",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:31:15 GMT-0500 (Central Daylight Time)",
+      "id": "SN6PR06MB64134E0AFC80ED1B544DB34F885DA@SN6PR06MB6413.namprd06.prod.outlook.com",
+      "subject": "Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <dellmedpsych@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:57:06 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -182,12 +164,66 @@
       "cc": ""
     },
     {
-      "id": "CANtXoy6EmuctwV1_Q5Uvxb+zQjHfEJLdB58FXMtVWS3VQGyeHA@mail.gmail.com",
-      "subject": "Social Work Intern Onboarding Follow Up",
-      "sender": "Leo N Pratt <prattleo@utexas.edu>",
-      "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
+      "id": "DS7PR06MB698344FBFC722352D5CFBDEED55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:57:15 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LV5PR06MB11266050A69CF2E7ED2F2E8D0BA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "APT Pre-Review: Erica Schwarz",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:49:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB69833D5FD5984C936405CAFED55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:47:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742F3071DB474CBA6CFD061BE5DA@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Payment for RT Training",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:39:27 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711431B90A1487B0814939DB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:36:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711A195B11470E333FCFA9CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Grant proposal meeting",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:34:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1071134703427A5548531F5DAB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Use of Giftogram",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:31:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -501,42 +537,6 @@
       "subject": "RE: Regulating Together First Group Logistics",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Fri Apr 03 2026 12:45:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB3265F54144E3021583E1A5BCFC5EA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Fri Apr 03 2026 12:29:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4eZ8TgFSMzTXec9PaeVtGT2viUvR35rzJbp9EXDM-giFg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Fri Apr 03 2026 12:27:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGReteBTWEKL_JrB=cWZf14R=FQ89g8DitnK1AE1PhhZMg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 12:24:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR06MB90885E8694B742DE9FCED203D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "Z.M. Progress Note 4/3/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 12:05:32 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
