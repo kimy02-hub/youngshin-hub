@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-06T16:45:12.013563",
+  "fetched_at": "2026-04-06T17:00:12.242813",
   "emails": [
+    {
+      "id": "069A5A74-A0FE-4E65-8ACB-D0D1EDD721EC@austin.utexas.edu",
+      "subject": "Re: Use of Giftogram",
+      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 16:52:50 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "0614ABEF-862C-4782-B3B8-A5AB8B4996A4@austin.utexas.edu",
       "subject": "Re: WAVE project",
@@ -528,15 +537,6 @@
       "subject": "Time Off Request - May 2026",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Mon Apr 06 2026 10:11:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM3PPF569F3D3B370AAE5C369DC650166B1A95DA@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
-      "subject": "Papers for JAACAP Open AE Team Meeting on Wednesday?",
-      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
-      "date": "Mon Apr 06 2026 09:27:42 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
