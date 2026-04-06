@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-06T16:30:11.313140",
+  "fetched_at": "2026-04-06T16:45:12.013563",
   "emails": [
+    {
+      "id": "0614ABEF-862C-4782-B3B8-A5AB8B4996A4@austin.utexas.edu",
+      "subject": "Re: WAVE project",
+      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 16:44:50 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR06MB9997349D75316BB23A615F6112D25DA@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "TCDS ECHO: Please review and submit form",
+      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 16:36:56 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "CAMFZdz3s0Twdu+_L_PfTKBOZk-xUz+hhSzjrAhj-y=W2Lz8sUg@mail.gmail.com",
       "subject": "Onboarding DCMC",
@@ -60,15 +78,6 @@
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB11266951C3C77C3750FDCD87BBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "Re: APT E-Review: Stephen Stayer, MD",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 09:01:13 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -528,15 +537,6 @@
       "subject": "Papers for JAACAP Open AE Team Meeting on Wednesday?",
       "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
       "date": "Mon Apr 06 2026 09:27:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "FW: Cabinet",
-      "sender": "Kelsey Koch (DMS) <kelsey.koch1@ascension-external.org>",
-      "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
