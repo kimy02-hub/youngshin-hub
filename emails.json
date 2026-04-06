@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-04-06T13:00:12.362834",
+  "fetched_at": "2026-04-06T13:15:12.617700",
   "emails": [
     {
-      "id": "BL4PR06MB9575C6883FC2C6A9D7DF93DD9D5DA@BL4PR06MB9575.namprd06.prod.outlook.com",
-      "subject": "[peds-division-directors] 4/7/26 - Pediatric Division Director Meeting Agenda",
-      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 12:59:50 GMT-0500 (Central Daylight Time)",
+      "id": "DS7PR06MB69833DCD3EFF56AA97A0DC3AD55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:14:41 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "EA17C454-062D-4E33-9871-BA7A5666464C@austin.utexas.edu",
-      "subject": "Re: Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
-      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 12:58:58 GMT-0500 (Central Daylight Time)",
+      "id": "DS7PR06MB6983275B43F42C382F3A06F4D55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 13:06:20 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -170,6 +170,24 @@
       "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BL4PR06MB9575C6883FC2C6A9D7DF93DD9D5DA@BL4PR06MB9575.namprd06.prod.outlook.com",
+      "subject": "[peds-division-directors] 4/7/26 - Pediatric Division Director Meeting Agenda",
+      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 12:59:50 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "EA17C454-062D-4E33-9871-BA7A5666464C@austin.utexas.edu",
+      "subject": "Re: Undergraduate Research Assistant Inquiry – Kim Lab (Fall 2026)",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "date": "Mon Apr 06 2026 12:58:58 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -519,24 +537,6 @@
       "subject": "Re: Hosting Eric Carter meeting",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Fri Apr 03 2026 08:55:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655B73E7D744785DD11AB64C55EA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: [EXTERNAL] PCR Draft for direct patient outreach",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 07:57:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB67425CB7D5BC37F36F6912D5BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Follow up on $75 reading gift cards",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 07:49:02 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
