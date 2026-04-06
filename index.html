@@ -3,28 +3,26 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DMS Mailbox · YS Dashboard</title>
+<title>DMS Mailbox &middot; YS Dashboard</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<!-- ═══════════════ TOP BAR ═══════════════ -->
+<!-- TOP BAR -->
 <header class="topbar">
   <div class="topbar-left">
-    <span class="logo">✦ DMS Mailbox</span>
+    <span class="logo">&#10022; DMS Mailbox</span>
     <span class="account-pill">Youngshin.Kim@austin.utexas.edu</span>
   </div>
-
   <nav class="tab-group" role="tablist">
     <button class="tab active" data-tab="all"     onclick="switchTab('all')">All</button>
     <button class="tab"        data-tab="unread"  onclick="switchTab('unread')">Unread</button>
     <button class="tab"        data-tab="flagged" onclick="switchTab('flagged')">Flagged</button>
   </nav>
-
   <div class="topbar-right">
-    <span class="last-updated" id="lastUpdated">—</span>
-    <button class="refresh-btn" onclick="refreshData()" title="Refresh from GitHub">
-      <svg id="refreshIcon" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <span class="last-updated" id="lastUpdated">&mdash;</span>
+    <button class="refresh-btn" onclick="refreshData()" title="Refresh">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
         <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
       </svg>
@@ -33,47 +31,38 @@
   </div>
 </header>
 
-<!-- ═══════════════ MAIN SPLIT ═══════════════ -->
+<!-- SPLIT -->
 <main class="split">
 
-  <!-- ── LEFT: EMAILS ── -->
+  <!-- EMAILS -->
   <section class="panel emails-panel">
     <div class="panel-header">
-      <h2 class="panel-title">📬 Inbox</h2>
-      <span class="panel-count" id="emailCount">—</span>
+      <h2 class="panel-title">&#128236; Inbox</h2>
+      <span class="panel-count" id="emailCount">&mdash;</span>
     </div>
     <div class="email-list" id="emailList">
-      <div class="loading-state">
-        <div class="spinner"></div>
-        <p>Loading emails…</p>
-      </div>
+      <div class="loading-state"><div class="spinner"></div><p>Loading emails&hellip;</p></div>
     </div>
   </section>
 
-  <!-- ── RIGHT: TASKS ── -->
+  <!-- TASKS -->
   <section class="panel tasks-panel">
     <div class="panel-header">
-      <h2 class="panel-title">🌸 Tasks</h2>
+      <h2 class="panel-title">&#127800; Tasks</h2>
       <div class="panel-actions">
-        <span class="panel-count" id="taskCount">—</span>
+        <span class="panel-count" id="taskCount">&mdash;</span>
         <button class="add-task-btn" onclick="openAddTask()">
           <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
           Add Task
         </button>
       </div>
     </div>
-
     <div class="tasks-body">
-      <!-- FLAGGED section -->
       <div id="flaggedSection" style="display:none">
-        <div class="section-label flagged-label">⚑ FLAGGED</div>
+        <div class="section-label flagged-label">&#9873; FLAGGED</div>
         <div id="flaggedTasksList"></div>
       </div>
-
-      <!-- Active tasks -->
       <div id="activeTasksList"></div>
-
-      <!-- Completed (foldable) -->
       <div class="completed-section" id="completedSection" style="display:none">
         <button class="completed-toggle" onclick="toggleCompleted()">
           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
@@ -81,18 +70,15 @@
         </button>
         <div id="completedTasksList" class="completed-list"></div>
       </div>
-
-      <div class="tasks-empty" id="tasksEmpty" style="display:none">
-        No tasks yet 🌱
-      </div>
+      <div class="tasks-empty" id="tasksEmpty" style="display:none">No tasks yet &#127826;</div>
     </div>
   </section>
 </main>
 
-<!-- ═══════════════ ADD TASK MODAL ═══════════════ -->
+<!-- ADD TASK MODAL -->
 <div class="modal-overlay" id="addTaskModal" onclick="closeAddTask(event)">
   <div class="modal-card">
-    <h3 class="modal-title">✦ New Task</h3>
+    <h3 class="modal-title">&#10022; New Task</h3>
     <div class="form-group">
       <label>Task <span class="required">*</span></label>
       <input type="text" id="newTaskTitle" placeholder="What needs to be done?" autocomplete="off">
@@ -107,12 +93,41 @@
     </div>
     <div class="form-actions">
       <button class="btn-cancel" onclick="closeAddTask()">Cancel</button>
-      <button class="btn-add" onclick="addManualTask()">Add Task ✦</button>
+      <button class="btn-add" onclick="addManualTask()">Add Task &#10022;</button>
     </div>
   </div>
 </div>
 
-<div class="modal-overlay" id="editTaskModal" onclick="closeEditTask(event)"><div class="modal-card modal-card-wide"><h3 class="modal-title">✏ Edit Task</h3><div class="form-group"><label>Task <span class="required">*</span></label><input type="text" id="editTaskTitle" autocomplete="off"></div><div class="form-group"><label>Due Date</label><input type="date" id="editTaskDue"></div><div class="form-group"><label>Note</label><textarea id="editTaskNote" class="note-textarea" placeholder="Add notes, context, or anything useful…"></textarea></div><div class="form-group"><label>Sub-tasks <button type="button" class="add-subtask-btn" onclick="addSubtask()">＋ Add</button></label><div id="subtaskList" class="subtask-list"></div></div><div class="form-actions"><button class="btn-cancel" onclick="closeEditTask()">Cancel</button><button class="btn-add" onclick="saveEditTask()">Save ✦</button></div></div></div><script src="app.js"></script>
+<!-- EDIT TASK MODAL -->
+<div class="modal-overlay" id="editTaskModal" onclick="closeEditTask(event)">
+  <div class="modal-card modal-card-wide">
+    <h3 class="modal-title">&#9998; Edit Task</h3>
+    <div class="form-group">
+      <label>Task <span class="required">*</span></label>
+      <input type="text" id="editTaskTitle" autocomplete="off">
+    </div>
+    <div class="form-group">
+      <label>Due Date</label>
+      <input type="date" id="editTaskDue">
+    </div>
+    <div class="form-group">
+      <label>Note</label>
+      <textarea id="editTaskNote" class="note-textarea" placeholder="Add notes, context, links, anything useful&hellip;"></textarea>
+    </div>
+    <div class="form-group">
+      <label>
+        Sub-tasks
+        <button type="button" class="add-subtask-btn" onclick="addSubtask()">+ Add</button>
+      </label>
+      <div id="subtaskList" class="subtask-list"></div>
+    </div>
+    <div class="form-actions">
+      <button class="btn-cancel" onclick="closeEditTask()">Cancel</button>
+      <button class="btn-add" onclick="saveEditTask()">Save &#10022;</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
 </body>
 </html>
-<!-- updated Sun Apr 5 17:14:26 CDT 2026 -->
