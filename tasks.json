@@ -16,22 +16,6 @@
       "type": "email"
     },
     {
-      "id": "task_1775516205562",
-      "title": "Fwd: MyTMB Security Enhancement: MFA Now Active",
-      "done": true,
-      "flagged": true,
-      "emailId": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
-      "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "emailDate": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
-      "cc": "",
-      "due": null,
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-06T22:56:45.562Z",
-      "type": "email",
-      "doneAt": "2026-04-07T03:28:40.130Z"
-    },
-    {
       "id": "task_1775516200986",
       "title": "Re: APT Pre-Review: Erica Schwarz",
       "done": false,
@@ -62,34 +46,6 @@
       "type": "email"
     },
     {
-      "id": "task_1775497111837",
-      "title": "Grant application for environmental exposure and neurodevelopmental outcomes",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "Ashley, Brandon, Bennett, Deb, Shuting",
-      "due": "2026-06-30",
-      "note": "PA-25-301 (Parent R01): \nNIEHS Strategic Plan: 2025-2029\nhttps://www.niehs.nih.gov/about/strategicplan\nhttps://www.niehs.nih.gov/about/strategicplan/research\nhttps://grants.nih.gov/grants/guide/pa-files/PA-25-301.html",
-      "subtasks": [
-        {
-          "text": "set up a meeting",
-          "done": true
-        },
-        {
-          "text": "Theme and RFA search",
-          "done": true
-        },
-        {
-          "text": "",
-          "done": false
-        }
-      ],
-      "createdAt": "2026-04-06T17:38:31.837Z",
-      "type": "manual"
-    },
-    {
       "id": "task_1775493814286",
       "title": "FW: UCSF STAR Center Volunteer Application - Selen Karakilic",
       "done": false,
@@ -103,67 +59,6 @@
       "subtasks": [],
       "createdAt": "2026-04-06T16:43:34.286Z",
       "type": "email"
-    },
-    {
-      "id": "task_1775489993124",
-      "title": "Invitation of SW Interns to Autism Meeting",
-      "done": true,
-      "flagged": true,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "Leo, Josha Heater. Yjem Eboni back up",
-      "due": "2026-04-06",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-06T15:39:53.124Z",
-      "type": "manual",
-      "doneAt": "2026-04-07T03:28:54.078Z"
-    },
-    {
-      "id": "task_1775427685603",
-      "title": "Prospective Medical Student Research Fellow",
-      "done": true,
-      "flagged": false,
-      "emailId": "CA+2uqrVgSh2E461xSMQ61UxsxEDA8-oXcfxrD9UW+Ukynnfs0A@mail.gmail.com",
-      "emailSender": "Eshan Sayani <eshansayani@tamu.edu>",
-      "emailDate": "Sat Apr 04 2026 15:28:00 GMT-0500 (Central Daylight Time)",
-      "cc": "",
-      "due": null,
-      "createdAt": "2026-04-05T22:21:25.603Z",
-      "type": "email",
-      "subtasks": [
-        {
-          "text": "Schedule interview call",
-          "done": false
-        },
-        {
-          "text": "Review CV and publications",
-          "done": false
-        },
-        {
-          "text": "Schedule 30 min meeting",
-          "done": false
-        }
-      ],
-      "note": "Test note: follow up next week",
-      "doneAt": "2026-04-06T16:39:49.368Z"
-    },
-    {
-      "id": "task_1775427681476",
-      "title": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
-      "done": true,
-      "flagged": true,
-      "emailId": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "emailDate": "Sun Apr 05 2026 15:04:48 GMT-0500 (Central Daylight Time)",
-      "cc": "",
-      "due": null,
-      "createdAt": "2026-04-05T22:21:21.476Z",
-      "type": "email",
-      "note": "",
-      "subtasks": [],
-      "doneAt": "2026-04-06T06:21:56.118Z"
     },
     {
       "id": "task_1775427680338",
@@ -241,6 +136,112 @@
       "subtasks": []
     },
     {
+      "id": "task_1775274679073",
+      "title": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
+      "done": false,
+      "flagged": true,
+      "emailId": "010f019d5525c175-88ff9eb1-4f8f-4331-9c0a-7a716d6e1b2b-000000@us-east-2.amazonses.com",
+      "emailSender": "JAACAP Open <em@editorialmanager.com>",
+      "emailDate": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "createdAt": "2026-04-04T03:51:19.073Z",
+      "type": "email",
+      "note": "",
+      "subtasks": []
+    },
+    {
+      "id": "task_1775274633143",
+      "title": "purchasing giftcard for research participants on the Navajo project",
+      "done": false,
+      "flagged": true,
+      "emailId": "CH2PR06MB67422D6DDFBA5C4E9C4843E7BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "emailSender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "emailDate": "Fri Apr 03 2026 16:18:59 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": "2026-04-07",
+      "createdAt": "2026-04-04T03:50:33.143Z",
+      "type": "email",
+      "note": "Do we have IRB for reading assessments? UT IRB protocol number is necessary for gift card purchase. Get incentives to our fund we need UT IRB number. Waiver to get the record number.\nBack up plan: YNM pays the incentives and we will pay back with unspent fund.",
+      "subtasks": []
+    },
+    {
+      "id": "task_1775497111837",
+      "title": "Grant application for environmental exposure and neurodevelopmental outcomes",
+      "done": false,
+      "flagged": false,
+      "emailId": null,
+      "emailSender": null,
+      "emailDate": null,
+      "cc": "Ashley, Brandon, Bennett, Deb, Shuting",
+      "due": "2026-06-30",
+      "note": "PA-25-301 (Parent R01): \nNIEHS Strategic Plan: 2025-2029\nhttps://www.niehs.nih.gov/about/strategicplan\nhttps://www.niehs.nih.gov/about/strategicplan/research\nhttps://grants.nih.gov/grants/guide/pa-files/PA-25-301.html",
+      "subtasks": [
+        {
+          "text": "set up a meeting",
+          "done": true
+        },
+        {
+          "text": "Theme and RFA search",
+          "done": true
+        },
+        {
+          "text": "",
+          "done": false
+        }
+      ],
+      "createdAt": "2026-04-06T17:38:31.837Z",
+      "type": "manual"
+    },
+    {
+      "id": "task_1775516205562",
+      "title": "Fwd: MyTMB Security Enhancement: MFA Now Active",
+      "done": true,
+      "flagged": true,
+      "emailId": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
+      "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "emailDate": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-06T22:56:45.562Z",
+      "type": "email",
+      "doneAt": "2026-04-07T03:28:40.130Z"
+    },
+    {
+      "id": "task_1775489993124",
+      "title": "Invitation of SW Interns to Autism Meeting",
+      "done": true,
+      "flagged": true,
+      "emailId": null,
+      "emailSender": null,
+      "emailDate": null,
+      "cc": "Leo, Josha Heater. Yjem Eboni back up",
+      "due": "2026-04-06",
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-06T15:39:53.124Z",
+      "type": "manual",
+      "doneAt": "2026-04-07T03:28:54.078Z"
+    },
+    {
+      "id": "task_1775427681476",
+      "title": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
+      "done": true,
+      "flagged": true,
+      "emailId": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
+      "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "emailDate": "Sun Apr 05 2026 15:04:48 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "createdAt": "2026-04-05T22:21:21.476Z",
+      "type": "email",
+      "note": "",
+      "subtasks": [],
+      "doneAt": "2026-04-06T06:21:56.118Z"
+    },
+    {
       "id": "task_1775427672808",
       "title": "FW: The Lancet: Submission Confirmation",
       "done": true,
@@ -255,6 +256,66 @@
       "note": "",
       "subtasks": [],
       "doneAt": "2026-04-06T15:18:50.197Z"
+    },
+    {
+      "id": "task_1775272005852",
+      "title": "Re: CME and CEU- Claim Credit for Grand Rounds on 3.31.26",
+      "done": true,
+      "flagged": true,
+      "emailId": "DM5PR0601MB37490CAB838E120A91B7BD44D15EA@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "emailSender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "emailDate": "Fri Apr 03 2026 16:33:47 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "createdAt": "2026-04-04T03:06:45.852Z",
+      "type": "email",
+      "doneAt": "2026-04-04T03:50:22.404Z",
+      "note": "",
+      "subtasks": []
+    },
+    {
+      "id": "task_1775269871824",
+      "title": "Re: Chloe Curlin - Medication Refill",
+      "done": true,
+      "flagged": true,
+      "emailId": "CAOWh29wucrZ5jfUnaSeQdQ7GpVn0aa3ysM0ziY_N1W8e-UwEww@mail.gmail.com",
+      "emailSender": "Pete Curlin <petecurlin@gmail.com>",
+      "cc": "",
+      "due": null,
+      "createdAt": "2026-04-04T02:31:11.824Z",
+      "type": "email",
+      "doneAt": "2026-04-05T20:20:33.249Z",
+      "note": "",
+      "subtasks": []
+    },
+    {
+      "id": "task_1775427685603",
+      "title": "Prospective Medical Student Research Fellow",
+      "done": true,
+      "flagged": false,
+      "emailId": "CA+2uqrVgSh2E461xSMQ61UxsxEDA8-oXcfxrD9UW+Ukynnfs0A@mail.gmail.com",
+      "emailSender": "Eshan Sayani <eshansayani@tamu.edu>",
+      "emailDate": "Sat Apr 04 2026 15:28:00 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "createdAt": "2026-04-05T22:21:25.603Z",
+      "type": "email",
+      "subtasks": [
+        {
+          "text": "Schedule interview call",
+          "done": false
+        },
+        {
+          "text": "Review CV and publications",
+          "done": false
+        },
+        {
+          "text": "Schedule 30 min meeting",
+          "done": false
+        }
+      ],
+      "note": "Test note: follow up next week",
+      "doneAt": "2026-04-06T16:39:49.368Z"
     },
     {
       "id": "task_synctest_1775421444289",
@@ -289,21 +350,6 @@
       "doneAt": "2026-04-06T15:18:43.030Z"
     },
     {
-      "id": "task_1775274679073",
-      "title": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
-      "done": false,
-      "flagged": true,
-      "emailId": "010f019d5525c175-88ff9eb1-4f8f-4331-9c0a-7a716d6e1b2b-000000@us-east-2.amazonses.com",
-      "emailSender": "JAACAP Open <em@editorialmanager.com>",
-      "emailDate": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
-      "cc": "",
-      "due": null,
-      "createdAt": "2026-04-04T03:51:19.073Z",
-      "type": "email",
-      "note": "",
-      "subtasks": []
-    },
-    {
       "id": "task_1775274637553",
       "title": "RE: meeting request",
       "done": true,
@@ -320,21 +366,6 @@
       "doneAt": "2026-04-06T15:18:45.730Z"
     },
     {
-      "id": "task_1775274633143",
-      "title": "purchasing giftcard for research participants on the Navajo project",
-      "done": false,
-      "flagged": true,
-      "emailId": "CH2PR06MB67422D6DDFBA5C4E9C4843E7BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "emailSender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "emailDate": "Fri Apr 03 2026 16:18:59 GMT-0500 (Central Daylight Time)",
-      "cc": "",
-      "due": "2026-04-07",
-      "createdAt": "2026-04-04T03:50:33.143Z",
-      "type": "email",
-      "note": "Do we have IRB for reading assessments? UT IRB protocol number is necessary for gift card purchase. Get incentives to our fund we need UT IRB number. Waiver to get the record number.\nBack up plan: YNM pays the incentives and we will pay back with unspent fund.",
-      "subtasks": []
-    },
-    {
       "id": "task_1775272015826",
       "title": "sdfgsd",
       "done": true,
@@ -347,22 +378,6 @@
       "createdAt": "2026-04-04T03:06:55.826Z",
       "type": "manual",
       "doneAt": "2026-04-04T03:07:05.997Z",
-      "note": "",
-      "subtasks": []
-    },
-    {
-      "id": "task_1775272005852",
-      "title": "Re: CME and CEU- Claim Credit for Grand Rounds on 3.31.26",
-      "done": true,
-      "flagged": true,
-      "emailId": "DM5PR0601MB37490CAB838E120A91B7BD44D15EA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "emailSender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "emailDate": "Fri Apr 03 2026 16:33:47 GMT-0500 (Central Daylight Time)",
-      "cc": "",
-      "due": null,
-      "createdAt": "2026-04-04T03:06:45.852Z",
-      "type": "email",
-      "doneAt": "2026-04-04T03:50:22.404Z",
       "note": "",
       "subtasks": []
     },
@@ -395,22 +410,7 @@
       "doneAt": "2026-04-05T20:20:30.522Z",
       "note": "",
       "subtasks": []
-    },
-    {
-      "id": "task_1775269871824",
-      "title": "Re: Chloe Curlin - Medication Refill",
-      "done": true,
-      "flagged": true,
-      "emailId": "CAOWh29wucrZ5jfUnaSeQdQ7GpVn0aa3ysM0ziY_N1W8e-UwEww@mail.gmail.com",
-      "emailSender": "Pete Curlin <petecurlin@gmail.com>",
-      "cc": "",
-      "due": null,
-      "createdAt": "2026-04-04T02:31:11.824Z",
-      "type": "email",
-      "doneAt": "2026-04-05T20:20:33.249Z",
-      "note": "",
-      "subtasks": []
     }
   ],
-  "saved_at": "2026-04-07T17:45:30.311167"
+  "saved_at": "2026-04-07T17:47:42.156918"
 }
