@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-07T14:30:30.388336",
+  "fetched_at": "2026-04-07T14:45:40.172747",
   "emails": [
+    {
+      "id": "BLAPR06MB677250AAF6301C48BF320236DA5AA@BLAPR06MB6772.namprd06.prod.outlook.com",
+      "subject": "Re: Child & Adolescent Psychiatry Updates",
+      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 14:39:23 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "PH0PR06MB777266CC661846E6AD28BF55AF5AA@PH0PR06MB7772.namprd06.prod.outlook.com",
+      "subject": "RE: Child & Adolescent Psychiatry Updates",
+      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 14:37:17 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "BLAPR06MB6772D59DDFEF4CAE35481CA3DA5AA@BLAPR06MB6772.namprd06.prod.outlook.com",
+      "subject": "Child & Adolescent Psychiatry Updates",
+      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 14:35:25 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CACRBQ8Ozb8jgCeVAWRjSc9wHDKWXmNMSfEJhOR24YOoNj8YioQ@mail.gmail.com",
+      "subject": "Re: CCC: Moonlighting Request - Chunara",
+      "sender": "Jane Ripperger-Suhler <JARippergersuhler@ascension.org>",
+      "date": "Tue Apr 07 2026 14:33:03 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "ifbgb.ukzroo.u46ia68c@e2ma.net",
       "subject": "Take the Campus Master Plan Survey",
@@ -1761,42 +1797,6 @@
       "subject": "Re: connecting",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 12:41:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB10763399011F610EAC1F278ABC951A@DS4PR06MB10763.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 11:30:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107113B56DE9017263FC13A71B851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 11:25:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BYAPR08MB5621629BDAA44AEB46C213CDF551A@BYAPR08MB5621.namprd08.prod.outlook.com",
-      "subject": "RE: Psychiatry.org - Proposed Changes ..would love your feedback on this",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Thu Apr 02 2026 10:26:10 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "99C8163A-020F-4D6A-9745-EB8DBF5B55DF@me.com",
-      "subject": "Re: Psychiatry.org - Proposed Changes ..would love your feedback on this",
-      "sender": "\"Gabrielle Shapiro, M.D.\" <gabrielleshapiro@me.com>",
-      "date": "Thu Apr 02 2026 10:08:32 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
