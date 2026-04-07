@@ -84,27 +84,30 @@ function buildEmailCard(email, idx) {
 
 // -- TASK PERSISTENCE --
 async function loadTasks() {
-  // Always fetch from tasks.json (GitHub) so all devices stay in sync
+  // Load local tasks first
+  let localTasks = [];
+  try { localTasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { localTasks=[]; }
+  // Fetch from GitHub and MERGE - never lose locally added tasks
   try {
     const res = await fetch('tasks.json?_=' + Date.now());
     if (res.ok) {
       const data = await res.json();
       if (data.tasks && data.tasks.length > 0) {
-        tasks = data.tasks;
-        localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+        const githubIds = new Set(data.tasks.map(t => t.id));
+        // Keep any local tasks not yet pushed to GitHub
+        const localOnly = localTasks.filter(t => !githubIds.has(t.id));
+        tasks = [...data.tasks, ...localOnly];
       } else {
-        // Fallback to localStorage if tasks.json is empty
-        try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
+        tasks = localTasks;
       }
     } else {
-      // Fallback to localStorage if fetch fails
-      try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
+      tasks = localTasks;
     }
   } catch(_) {
-    // Fallback to localStorage if offline
-    try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
+    tasks = localTasks;
   }
   tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
+  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   renderTasks();
   updateMobileBadge();
 }
