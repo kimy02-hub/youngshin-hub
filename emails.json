@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T07:45:32.052616",
+  "fetched_at": "2026-04-07T08:00:36.499624",
   "emails": [
+    {
+      "id": "A1A46A48-BCE2-4482-811C-F61C2E62379A@austin.utexas.edu",
+      "subject": "Re: Dinner with Dev Manoli in May",
+      "sender": "\"Ekker, Stephen C\" <stephen.ekker@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 07:59:00 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "PH8PR06MB91268AFCC834051D4295E33BE95AA@PH8PR06MB9126.namprd06.prod.outlook.com",
       "subject": "RE: Request for call to learn about UTDMS YAM",
@@ -1788,15 +1797,6 @@
       "subject": "RE: FW: [EXTERNAL] PCR | UT DMS | 2026-02-06 Response",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Tue Mar 31 2026 14:52:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD2OJXsNQp00000082@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00007049-MOD03 received a comment",
-      "sender": "no-reply@utexas.edu",
-      "date": "Tue Mar 31 2026 14:49:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
