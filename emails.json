@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-07T13:15:31.160933",
+  "fetched_at": "2026-04-07T13:30:31.354053",
   "emails": [
     {
       "id": "calendar-4b2a8866-e525-4e89-8295-c8123c08b290@google.com",
@@ -15,24 +15,6 @@
       "subject": "Need to Know",
       "sender": "Dell Medical School — Official <noreply@utexas.edu>",
       "date": "Tue Apr 07 2026 13:07:22 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "3F.A3.17531.99745D96@i-09339186bb763501a.mta1vrest.sd.prd.sparkpost",
-      "subject": "[UTEXAS: POSSIBLY MALICIOUS CONTENT] Confirm your email address to start using Smartsheet",
-      "sender": "Smartsheet <welcome@system.smartsheet.com>",
-      "date": "Tue Apr 07 2026 13:06:23 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB5618B4D9CC2979294962BFB4F55AA@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Tue Apr 07 2026 12:26:49 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -623,6 +605,24 @@
       "cc": ""
     },
     {
+      "id": "CANYCf67WLeAvt6aYFphqL51HrcD-PAijTi2iU1a+Wmija5YrZw@mail.gmail.com",
+      "subject": "Re: Valencia -- Request PTO for 5/2026",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Tue Apr 07 2026 13:22:49 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "3F.A3.17531.99745D96@i-09339186bb763501a.mta1vrest.sd.prd.sparkpost",
+      "subject": "[UTEXAS: POSSIBLY MALICIOUS CONTENT] Confirm your email address to start using Smartsheet",
+      "sender": "Smartsheet <welcome@system.smartsheet.com>",
+      "date": "Tue Apr 07 2026 13:06:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
       "id": "CAC-7AikYZQ9ySJ4h9npAFzJ2NzLrZ=TWBAvYqJdJHSXJEc1-Jw@mail.gmail.com",
       "subject": "Shadowing Friday",
       "sender": "Jay Youn <younjw23@gmail.com>",
@@ -636,6 +636,15 @@
       "subject": "Call Proposal",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Tue Apr 07 2026 12:36:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "BN7PR08MB5618B4D9CC2979294962BFB4F55AA@BN7PR08MB5618.namprd08.prod.outlook.com",
+      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
+      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
+      "date": "Tue Apr 07 2026 12:26:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -1788,15 +1797,6 @@
       "subject": "Re: Thank You from Outgoing Dean Im",
       "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 07:45:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "AS8PR10MB68921E2875D9BCF4B104C183FC51A@AS8PR10MB6892.EURPRD10.PROD.OUTLOOK.COM",
-      "subject": "AW: Final verification of author information for TD GWAS manuscript submission",
-      "sender": "\"Müller-Vahl, Kirsten Prof. Dr.\" <Mueller-Vahl.Kirsten@mh-hannover.de>",
-      "date": "Thu Apr 02 2026 01:53:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
