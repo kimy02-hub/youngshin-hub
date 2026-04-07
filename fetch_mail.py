@@ -26,15 +26,17 @@ else{
   if(!mb){'ERROR:Mailbox not found';}
   else{
     var msgs=mb.messages(), rows=[];
+    var cutoff = new Date('2026-03-01T00:00:00');
     for(var i=0;i<msgs.length;i++){
       var m=msgs[i];
       if(!m.flaggedStatus()) continue;
+      var date=m.dateReceived();
+      if(date < cutoff) continue;
       var id=m.messageId()||'';
       var subj=(m.subject()||'').replace(/~|~/g,' ');
       var from=(m.sender()||'').replace(/~|~/g,' ');
-      var date=m.dateReceived().toString();
       var cc='';try{cc=m.ccAddress()||'';}catch(e){}
-      rows.push([id,subj,from,date,m.readStatus(),m.flaggedStatus(),cc].join('~|~'));
+      rows.push([id,subj,from,date.toString(),m.readStatus(),m.flaggedStatus(),cc].join('~|~'));
       if(rows.length>=100) break;
     }
     rows.join('ROWSEP');
