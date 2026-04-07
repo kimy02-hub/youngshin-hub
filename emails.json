@@ -1,11 +1,29 @@
 {
-  "fetched_at": "2026-04-07T12:00:29.270078",
+  "fetched_at": "2026-04-07T12:15:36.060182",
   "emails": [
     {
-      "id": "calendar-33f40879-2e64-4e45-87c7-9298503bdd30@google.com",
-      "subject": "Invitation: Didactic Course Director Meeting AY 26-27 @ Tue Apr 21, 2026 12:15pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "Vanessa Castillo <vanessa.castillo@ascension.org>",
-      "date": "Tue Apr 07 2026 11:48:38 GMT-0500 (Central Daylight Time)",
+      "id": "SN7PR06MB70857CDD652D6FE38360E9B8D85AA@SN7PR06MB7085.namprd06.prod.outlook.com",
+      "subject": "Re: ECHO Session 3, Review & Submit",
+      "sender": "\"Vanegas, Sandra\" <sandra.vanegas@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 12:14:23 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "1461104749.3570683.1775581850071@jwm-588959cb74-tt5t7",
+      "subject": "Reminder: Brief Survey on Faculty AI Use",
+      "sender": "George Veletsianos <noreply-survey@umn.edu>",
+      "date": "Tue Apr 07 2026 12:10:53 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAO9MUiYfv5W2Gce8VYmz92OubHJBJVjskUuGQ+=3uaxAg17p1A@mail.gmail.com",
+      "subject": "Re: RE: [EXTERNAL] Scheduling for 10 week group - Regulating Together",
+      "sender": "Ali Hernandez <ali.hernandez3@ascension.org>",
+      "date": "Tue Apr 07 2026 12:03:01 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -299,6 +317,15 @@
       "cc": ""
     },
     {
+      "id": "LV8PR22MB4740E1B03EA07C38F231471FBE5AA@LV8PR22MB4740.namprd22.prod.outlook.com",
+      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
+      "sender": "Jill Zeigenfus Brafford <jbrafford@aacap.org>",
+      "date": "Tue Apr 07 2026 11:48:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "DM5PR0601MB37495F8BC8EC1B109A2399ADD15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
       "subject": "Fw: GR Dinner with Dr. Bishop",
       "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
@@ -569,15 +596,6 @@
       "cc": ""
     },
     {
-      "id": "SN6PR04MB3855724FBAC1437EE6C975D9C450A@SN6PR04MB3855.namprd04.prod.outlook.com",
-      "subject": "DDPC Meeting Documents for 4/8/2026",
-      "sender": "\"Vaaler, Margaret\" <mvaaler@utsystem.edu>",
-      "date": "Wed Apr 01 2026 17:32:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CH2PR06MB67426B49C20ED74471B8C987BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
       "subject": "RE: Scheduling for 10 week group - Regulating Together",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
@@ -587,10 +605,10 @@
       "cc": ""
     },
     {
-      "id": "LV8PR22MB4740E1B03EA07C38F231471FBE5AA@LV8PR22MB4740.namprd22.prod.outlook.com",
-      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
-      "sender": "Jill Zeigenfus Brafford <jbrafford@aacap.org>",
-      "date": "Tue Apr 07 2026 11:48:59 GMT-0500 (Central Daylight Time)",
+      "id": "calendar-33f40879-2e64-4e45-87c7-9298503bdd30@google.com",
+      "subject": "Invitation: Didactic Course Director Meeting AY 26-27 @ Tue Apr 21, 2026 12:15pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "Vanessa Castillo <vanessa.castillo@ascension.org>",
+      "date": "Tue Apr 07 2026 11:48:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -1779,24 +1797,6 @@
       "subject": "RE: AACAP Substance Use Fellowship",
       "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
       "date": "Wed Apr 01 2026 20:11:44 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR04MB38552F9A3BA1EFD977378F93C450A@SN6PR04MB3855.namprd04.prod.outlook.com",
-      "subject": "Recall: DDPC Meeting Documents for 4/8/2026",
-      "sender": "\"Vaaler, Margaret\" <mvaaler@utsystem.edu>",
-      "date": "Wed Apr 01 2026 17:32:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR04MB3855FF3324F4E0938624D8EBC450A@SN6PR04MB3855.namprd04.prod.outlook.com",
-      "subject": "DDPC Meeting Documents for 4/8/2026",
-      "sender": "\"Vaaler, Margaret\" <mvaaler@utsystem.edu>",
-      "date": "Wed Apr 01 2026 17:30:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
