@@ -222,3 +222,5 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
   .email-list{padding:8px 10px 14px;}
   .panel-header{padding:13px 16px 10px;}
 }
+.note-link{color:#3d7a9e!important;text-decoration:underline!important;word-break:break-all!important;font-style:normal!important;}
+.note-link:hover{color:#c0526a!important;}

@@ -292,7 +292,7 @@ function buildTaskCard(task, idx) {
   const dueHtml = task.due ? buildDueLabel(task.due) : '';
   const mailLink = task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : '';
   const note = task.note || '';
-  const notePreview = note.trim() ? `<div class="task-note-preview">${esc(note.trim().substring(0,80))}${note.length>80?'...':''}</div>` : '';
+  const notePreview = note.trim() ? `<div class="task-note-preview">${linkify(note.trim().substring(0,200))}${note.length>200?'...':''}</div>` : '';
   const subs = task.subtasks || [];
   const doneSubs = subs.filter(s=>s.done).length;
   const subPreview = subs.length ? `<div class="task-sub-preview">&#9745; ${doneSubs}/${subs.length} sub-task${subs.length>1?'s':''}</div>` : '';
@@ -408,6 +408,15 @@ function showToast(msg) {
 }
 
 // -- HELPERS --
+// Convert URLs in text to clickable links
+function linkify(text) {
+  if (!text) return '';
+  const urlRegex = /(https?:\/\/[^\s<>"]+)/g;
+  return esc(text).replace(urlRegex, (url) => {
+    const cleanUrl = url.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
+    return '<a href="' + cleanUrl + '" target="_blank" class="note-link" onclick="event.stopPropagation()">' + (cleanUrl.length > 40 ? cleanUrl.substring(0,40)+'...' : cleanUrl) + '</a>';
+  });
+}
 function esc(str) {
   return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
