@@ -27,7 +27,7 @@ else{
   else{
     var msgs=mb.messages(), rows=[];
     var cutoff = new Date('2026-03-01T00:00:00');
-    for(var i=0;i<msgs.length;i++){
+    var scanLimit=Math.min(msgs.length,300);for(var i=0;i<scanLimit;i++){
       var m=msgs[i];
       if(!m.flaggedStatus()) continue;
       var date=m.dateReceived();
@@ -37,7 +37,7 @@ else{
       var from=(m.sender()||'').replace(/~|~/g,' ');
       var cc='';try{cc=m.ccAddress()||'';}catch(e){}
       rows.push([id,subj,from,date.toString(),m.readStatus(),m.flaggedStatus(),cc].join('~|~'));
-      if(rows.length>=100) break;
+      if(rows.length>=30) break;
     }
     rows.join('ROWSEP');
   }
