@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-07T07:00:28.395837",
+  "fetched_at": "2026-04-07T07:15:32.823590",
   "emails": [
+    {
+      "id": "autogen-java-e490c85b-a47a-4344-b35e-8b142e3f326f@google.com",
+      "subject": "-phi- DCMC MHU End of Shift Report",
+      "sender": "Chelsea Taylor (via Google Docs) <chelsea.taylor@ascension.org>",
+      "date": "Tue Apr 07 2026 07:12:54 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "6EF27C6C-74B7-492F-A79D-0A4F5612F7B2@austin.utexas.edu",
+      "subject": "(no subject)",
+      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 07:05:16 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "97754edd318e64e9fb31d3cd1cf95cd8@susy.mdpi.com",
       "subject": "[Disabilities] Manuscript ID: disabilities-4187114 - Review Request Cancelled",
@@ -1779,24 +1797,6 @@
       "subject": "Re: Happy New Year and Follow-Up",
       "sender": "Thomas Kim <thomas.a.kim94@gmail.com>",
       "date": "Tue Mar 31 2026 14:46:41 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz2TwwjfbVs1u5qnqoiKQ_=y5oGC1x4e7VbygcBKu1QTXg@mail.gmail.com",
-      "subject": "Re: HILLC-0250088 - Hill Country Community Mental Health and Mental Retardation Center",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Tue Mar 31 2026 14:46:13 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM3PPF569F3D3B319AEF76F9A34EF2FC157A953A@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
-      "subject": "RE: Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:0c2d0b0d2f97cd1c]",
-      "sender": "JAACAP Open Editorial Office <JOSupport@jaacap.org>",
-      "date": "Tue Mar 31 2026 14:39:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
