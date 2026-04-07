@@ -127,14 +127,33 @@ def write_emails(emails):
     print(f'  Wrote {len(emails)} emails')
 
 def merge_tasks(chrome_tasks, disk_tasks):
-    """Merge Chrome and disk tasks, Chrome wins on conflicts."""
+    """Merge Chrome and disk tasks. Most recently modified wins."""
     if not chrome_tasks: return disk_tasks
+    if not disk_tasks: return chrome_tasks
+    # Build a map of all tasks by id, newer version wins
+    merged_map = {}
+    def task_time(t):
+        # Use updatedAt if available, else createdAt
+        ts = t.get('updatedAt') or t.get('doneAt') or t.get('createdAt') or ''
+        return ts
+    for t in disk_tasks:
+        merged_map[t['id']] = t
+    for t in chrome_tasks:
+        tid = t['id']
+        if tid not in merged_map:
+            merged_map[tid] = t
+        else:
+            # Keep whichever was more recently modified
+            if task_time(t) >= task_time(merged_map[tid]):
+                merged_map[tid] = t
+    merged = list(merged_map.values())
+    # Sort: flagged+active first, then by createdAt desc
+    merged.sort(key=lambda t: (t.get('done',False), not t.get('flagged',False), -(len(t.get('createdAt','')) and __import__('datetime').datetime.fromisoformat(t['createdAt'].replace('Z','+00:00')).timestamp() or 0)))
+    disk_ids = {t['id'] for t in disk_tasks}
     chrome_ids = {t['id'] for t in chrome_tasks}
-    # Add any disk tasks not in Chrome (created on other devices)
-    extras = [t for t in disk_tasks if t['id'] not in chrome_ids]
-    merged = chrome_tasks + extras
-    if extras:
-        print(f'  Merged {len(extras)} tasks from other devices')
+    mobile_only = [t for t in disk_tasks if t['id'] not in chrome_ids]
+    if mobile_only:
+        print(f'  Merged {len(mobile_only)} tasks from mobile/other devices')
     return merged
 
 def git_push(files):

@@ -211,6 +211,7 @@ function saveEditTask() {
   t.title = title;
   t.due   = document.getElementById('editTaskDue').value  || null;
   t.note  = document.getElementById('editTaskNote').value.trim();
+  t.updatedAt = new Date().toISOString();
   if (t.due && t.due === new Date().toISOString().split('T')[0]) t.flagged = true;
   saveTasks(); renderTasks();
   document.getElementById('editTaskModal').classList.remove('open');
