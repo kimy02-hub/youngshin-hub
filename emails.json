@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-07T08:30:28.444191",
+  "fetched_at": "2026-04-07T08:45:31.870622",
   "emails": [
+    {
+      "id": "IA3PR06MB10711F3FEBD21B2539258EF8EB85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "REMINDER: CPI Training Today in TAO",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 08:40:05 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "6C.ED.22595.D1905D96@i-03eb9cb9906c4145a.mta3vrest.sd.prd.sparkpost",
+      "subject": "JAACAP Call for Papers: Quality Improvement in Children's Mental Health",
+      "sender": "Elsevier Psychiatry journals <services-solutions@journals.email.elsevier.com>",
+      "date": "Tue Apr 07 2026 08:39:53 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "14E7C600-135F-4712-B23B-3B0040F8A29D@austin.utexas.edu",
+      "subject": "Re: PCR Submission for Summer TCHATT Enrollment",
+      "sender": "\"Lunsford Calbow, Eboni S\" <eboni.calbow@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 08:39:01 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA1PR06MB110967877B12DC738CE59B3D7D85AA@IA1PR06MB11096.namprd06.prod.outlook.com",
+      "subject": "Re: Getting started on June R01 submission",
+      "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 08:33:44 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "PH8PR06MB9126F0BF6807C31C69A31093E95AA@PH8PR06MB9126.namprd06.prod.outlook.com",
       "subject": "Declined: Charlie / YS biweekly",
@@ -456,15 +492,6 @@
       "subject": "connecting",
       "sender": "\"Mian, Amir\" <amir.mian@austin.utexas.edu>",
       "date": "Wed Apr 01 2026 09:19:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf65tn_0i89ze1fEE2bGZY5SD-WZe9r1FO5ROqhiqQFTJjA@mail.gmail.com",
-      "subject": "PMHNP Student Rotations Fall 2026 - Planning!",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Mar 31 2026 16:32:42 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -1770,33 +1797,6 @@
       "subject": "Re: Patient Safety Conference 4/28/26",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Tue Mar 31 2026 16:58:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf66NreyvNJ0BbZfLcReEEgrkhex7hv=j+miM=hJL_LDCkw@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] FOLLOW-UP'S: Puja/Debbie/Kari/Young Shin",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Mar 31 2026 16:48:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV8PR06MB9819B3EFA027AF3A656217BDC753A@LV8PR06MB9819.namprd06.prod.outlook.com",
-      "subject": "RE: Requiring sign-off: WAVE ISO Policy Exception (Expired - 15 March 2026)",
-      "sender": "\"Macclements, Jonathan E\" <jonathan.macclements@austin.utexas.edu>",
-      "date": "Tue Mar 31 2026 16:39:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAC-7AinZqaKrfAc9VgZ9Cipqu3t9i=ctrpXnupnj0FAxW-2Caw@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] Conference & Lab Dinner Tonight",
-      "sender": "Jay Youn <younjw23@gmail.com>",
-      "date": "Tue Mar 31 2026 16:31:57 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
