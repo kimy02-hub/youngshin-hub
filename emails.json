@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T12:45:32.568815",
+  "fetched_at": "2026-04-07T13:00:30.531325",
   "emails": [
+    {
+      "id": "CAC-7AikYZQ9ySJ4h9npAFzJ2NzLrZ=TWBAvYqJdJHSXJEc1-Jw@mail.gmail.com",
+      "subject": "Shadowing Friday",
+      "sender": "Jay Youn <younjw23@gmail.com>",
+      "date": "Tue Apr 07 2026 12:57:47 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10655F872CCE028BF1C2CC172C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "Call Proposal",
@@ -1788,15 +1797,6 @@
       "subject": "Reviewer Invitation Reminder JAACAPOPEN-D-25-00163R1 - [EMID:0a5b0a8e402bf6e1]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Thu Apr 02 2026 01:11:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "20260402043634.D9816700B6F9@clinentry12.be-md.ncbi.nlm.nih.gov",
-      "subject": "ClinicalTrials.gov PRS Account Reset",
-      "sender": "ClinicalTrials.gov Registration <register@clinicaltrials.gov>",
-      "date": "Wed Apr 01 2026 23:36:41 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
