@@ -1,6 +1,60 @@
 {
-  "fetched_at": "2026-04-07T08:00:36.499624",
+  "fetched_at": "2026-04-07T08:15:30.926185",
   "emails": [
+    {
+      "id": "PH8PR06MB9126F0BF6807C31C69A31093E95AA@PH8PR06MB9126.namprd06.prod.outlook.com",
+      "subject": "Declined: Charlie / YS biweekly",
+      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 08:11:17 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "t90fb.t55gsm.dlr3608e@e2ma.net",
+      "subject": "Epic go-live daily report",
+      "sender": "\"Command Center, Project Cornerstone\" <noreply@utexas.edu>",
+      "date": "Tue Apr 07 2026 08:08:25 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DM5PR04MB0906F93CB9CB938BB7230473BC5AA@DM5PR04MB0906.namprd04.prod.outlook.com",
+      "subject": "Re: Request for call to learn about UTDMS YAM",
+      "sender": "\"Niday, Claire\" <cniday@utsystem.edu>",
+      "date": "Tue Apr 07 2026 08:08:22 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DM5PR04MB090606228CC0B58DD288C49FBC5AA@DM5PR04MB0906.namprd04.prod.outlook.com",
+      "subject": "Request for call to learn about UTDMS YAM",
+      "sender": "\"Niday, Claire\" <cniday@utsystem.edu>",
+      "date": "Tue Apr 07 2026 08:05:22 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "ReactionDigest-9f18d443-593e-4236-b0c3-62389ee8bf6d;rcid_b649e4e6-5f10-4ce5-9511-b9d8372c8f79;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_b649e4e6-5f10-4ce5-9511-b9d8372c8f79@odspnotify",
+      "subject": "Reaction Daily Digest - Tuesday, April 7, 2026",
+      "sender": "UT Austin (Do Not Reply) <noreply@utexas.edu>",
+      "date": "Tue Apr 07 2026 08:03:28 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAKWPZpW0wtB0hOm=sgRr8m-f306_qfZnAp_tw_mYa71BMVMUxg@mail.gmail.com",
+      "subject": "Research Volunteer Opportunity",
+      "sender": "Zoe Bronwasser <zowensatx@gmail.com>",
+      "date": "Tue Apr 07 2026 08:00:38 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "A1A46A48-BCE2-4482-811C-F61C2E62379A@austin.utexas.edu",
       "subject": "Re: Dinner with Dev Manoli in May",
@@ -411,15 +465,6 @@
       "subject": "PMHNP Student Rotations Fall 2026 - Planning!",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Tue Mar 31 2026 16:32:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d0aVe9sBp=rPBT=KsRDz1iqA+qcqUy5qG+dODPuB9T+Lw@mail.gmail.com",
-      "subject": "Fwd: [EXTERNAL] HTB POD Issue",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Tue Mar 31 2026 15:37:52 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -1752,51 +1797,6 @@
       "subject": "Re: [EXTERNAL] Conference & Lab Dinner Tonight",
       "sender": "Jay Youn <younjw23@gmail.com>",
       "date": "Tue Mar 31 2026 16:31:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAF4QQuMGm+i0-t754S0hAQ8JWnJmbLr6yd1930KTjFVretPcow@mail.gmail.com",
-      "subject": "Re: CCC: Moonlighting Request - Chunara",
-      "sender": "John Borkovich <jack.borkovich@ascension-external.org>",
-      "date": "Tue Mar 31 2026 16:03:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "927a3f33-3f3d-4202-a414-62de0e94f31d",
-      "subject": "Your receipt from UT Health Austin",
-      "sender": "UT Health Austin <noreply@patient-message.com>",
-      "date": "Tue Mar 31 2026 16:00:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "hgpmHj5wyAD9uZ2GiNVZ04SUOscdquzlGObN0aaY6c@redcap.ascension.org",
-      "subject": "RE: CR-26-083 || Device/Supply Acknowledgement (Dell Children's Medical Center)",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Tue Mar 31 2026 15:45:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655066B00C0E50615BEEC20C553A@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: PCR | UT DMS | 2026-02-06 Response",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Mar 31 2026 15:27:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655CC520A882BFD2BEB7743C553A@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: FW: [EXTERNAL] PCR | UT DMS | 2026-02-06 Response",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Mar 31 2026 14:52:20 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
