@@ -224,3 +224,5 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 }
 .note-link{color:#3d7a9e!important;text-decoration:underline!important;word-break:break-all!important;font-style:normal!important;}
 .note-link:hover{color:#c0526a!important;}
+.delete-task-btn{font-size:0.82rem;background:none;border:1.5px solid #e4aaaa!important;border-radius:8px;padding:5px 10px;cursor:pointer;transition:all .14s;color:#c08080;line-height:1;min-width:44px;text-align:center;}
+.delete-task-btn:hover{background:#fce8e8!important;border-color:#e4aaaa!important;color:#b03030!important;}

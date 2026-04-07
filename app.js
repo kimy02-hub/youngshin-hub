@@ -121,6 +121,14 @@ async function syncTasksFromGitHub() {
   } catch(_) {}
 }
 
+function deleteTask(taskId) {
+  if (!confirm('Delete this task? This cannot be undone.')) return;
+  tasks = tasks.filter(t => t.id !== taskId);
+  saveTasks();
+  renderTasks();
+  showToast('Task deleted');
+}
+
 function saveTasks() {
   // Save to localStorage immediately - never lose data
   localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
@@ -324,6 +332,7 @@ function buildTaskCard(task, idx) {
     <div class="task-actions">
       <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
       ${!task.done ? `<button class="flag-task-btn ${task.flagged?'is-flagged':''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged?'Unflag':'Flag'}">&#9873;</button>` : ''}
+      <button class="delete-task-btn" onclick="deleteTask('${task.id}')" title="Delete task">&#10005;</button>
       ${mailLink}
     </div>`;
   return card;
