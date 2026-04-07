@@ -1,12 +1,21 @@
 {
-  "fetched_at": "2026-04-07T01:00:27.579422",
+  "fetched_at": "2026-04-07T01:15:29.253711",
   "emails": [
+    {
+      "id": "010f019d668a8878-623be89b-f1b2-4072-a221-6cc4a061521a-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:393eb92194d366b1]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Apr 07 2026 01:04:13 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DM6PR10MB397900D74D2B9DEDBBF10D39FA5AA@DM6PR10MB3979.namprd10.prod.outlook.com",
       "subject": "FW: 송금 및 상품제안",
       "sender": "Young Shin Kim <kimy02@gmail.com>",
       "date": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
-      "read": false,
+      "read": true,
       "flagged": true,
       "cc": ""
     },
@@ -1788,15 +1797,6 @@
       "subject": "Re: CCC: Moonlighting Request - Chunara",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Tue Mar 31 2026 13:35:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAHomBRw7PdiByZvtLUhZYRaEM7Zr1JroC-7q1YLjan8YET4yAw@mail.gmail.com",
-      "subject": "Requiring sign-off: WAVE ISO Policy Exception (Expired - 15 March 2026)",
-      "sender": "Yoon jae Cho <yoon.jae.cho@ascension.org>",
-      "date": "Tue Mar 31 2026 13:29:00 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
