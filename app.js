@@ -415,8 +415,7 @@ function setupGitHubToken() {
 // Auto-setup: if no token, store the dashboard token silently
 // This runs once on page load
 (function() {
-  if (!localStorage.getItem('gh_token')) {
-  }
+  if (!localStorage.getItem('gh_token')) { localStorage.setItem('gh_token','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'); }
 })();
 
 // -- MOBILE TAB SWITCHING ---------------------------------------
