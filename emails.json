@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-04-07T08:45:31.870622",
+  "fetched_at": "2026-04-07T09:00:55.894831",
   "emails": [
+    {
+      "id": "CANYCf67TfKjAcF8ZWQurWVUbh+2GvQULWByWjsX5=gu=skA5vw@mail.gmail.com",
+      "subject": "Fwd: Weekday MHU coverage",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Tue Apr 07 2026 08:56:42 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CACmqGSN3mhZ+ZvscyUrjedE7+JHwtpaqS+8gF9egc7=PEF3fWg@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] REMINDER: CPI Training Today in TAO",
+      "sender": "Yvonne Uyanwune (TCHATT) <yvonne.uyanwune@ascension-external.org>",
+      "date": "Tue Apr 07 2026 08:46:37 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CACmqGSP2T5HUK-mZZQAja-VRQ9UNW8OM-yQHBmEcX1U_887tRg@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] REMINDER: CPI Training Today in TAO",
+      "sender": "Yvonne Uyanwune (TCHATT) <yvonne.uyanwune@ascension-external.org>",
+      "date": "Tue Apr 07 2026 08:46:17 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "IA3PR06MB10711F3FEBD21B2539258EF8EB85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "REMINDER: CPI Training Today in TAO",
@@ -1770,33 +1797,6 @@
       "subject": "Re: Help on Ascension site approval",
       "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
       "date": "Tue Mar 31 2026 19:01:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB106559A3B952BF48483DECB58C553A@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "PCR, Dell Med and Central Support Request",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Mar 31 2026 17:34:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf648Pq1PqmQQb3y+W0DaE8vcQw=SUFhisqHuEpdwNhfzHQ@mail.gmail.com",
-      "subject": "Re: Clarification on Accepted Insurances - TCSC/Embedded Clinics",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Mar 31 2026 17:03:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf64xJvHS=ut-PC8HY8-x0e7=JT-9oAMdF1_Q+R64_VUE4g@mail.gmail.com",
-      "subject": "Re: Patient Safety Conference 4/28/26",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Mar 31 2026 16:58:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
