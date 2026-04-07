@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-07T09:00:55.894831",
+  "fetched_at": "2026-04-07T09:15:39.448300",
   "emails": [
+    {
+      "id": "calendar-bc985079-90e7-4ef4-98e7-51ea629ef7bb@google.com",
+      "subject": "Synced invitation: MH Strategic Planning Meeting @ Thu Mar 19, 2026 1pm - 2pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "Fatima Ramirez <framirez1@ascension.org>",
+      "date": "Tue Apr 07 2026 09:07:05 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "calendar-dbc02070-3d0a-492b-bc0a-25e9cfb5d7b7@google.com",
+      "subject": "Updated invitation: MH Strategic Planning Meeting @ Weekly from 1pm to 2pm on Thursday (CST) (youngshin.kim@austin.utexas.edu)",
+      "sender": "Fatima Ramirez <framirez1@ascension.org>",
+      "date": "Tue Apr 07 2026 09:07:03 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "calendar-b777881f-a680-4133-85f7-06a7201ca53a@google.com",
+      "subject": "Synced invitation: MH Strategic Planning Meeting @ Weekly from 1pm to 2pm on Thursday (CST) (youngshin.kim@austin.utexas.edu)",
+      "sender": "Fatima Ramirez <framirez1@ascension.org>",
+      "date": "Tue Apr 07 2026 09:06:42 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "calendar-9fd35005-0661-4b0d-8539-595421436835@google.com",
+      "subject": "Synced invitation: MH Strategic Planning Meeting @ Thu Apr 2, 2026 1pm - 2pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "framirez1@ascension.org",
+      "date": "Tue Apr 07 2026 09:06:25 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "CANYCf67TfKjAcF8ZWQurWVUbh+2GvQULWByWjsX5=gu=skA5vw@mail.gmail.com",
       "subject": "Fwd: Weekday MHU coverage",
@@ -1761,42 +1797,6 @@
       "subject": "APT E-Review: Stephen Stayer, MD",
       "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
       "date": "Wed Apr 01 2026 09:18:24 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "autogen-java-c569af94-dd02-499b-9db6-5315ef23f7f2@google.com",
-      "subject": "-phi- DCMC MHU End of Shift Report",
-      "sender": "Luciana Benitez Ramallo (via Google Docs) <luciana.benitez.ramallo@ascension.org>",
-      "date": "Wed Apr 01 2026 05:14:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d3f=T86dCcwg5dac-4zWBRq9mFbaQzst1kYUK2ip56Rqw@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] HTB POD Issue",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Wed Apr 01 2026 04:57:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAN=rh-wR2Urqr1hPa9zgw6pb10Mw4QJZKES=4YtJbC3AKVFRBg@mail.gmail.com",
-      "subject": "Re: Happy New Year and Follow-Up",
-      "sender": "Thomas Kim <thomas.a.kim94@gmail.com>",
-      "date": "Tue Mar 31 2026 22:02:29 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB3856C5C82FA10FEE1721EF0BA753A@SN6PR06MB3856.namprd06.prod.outlook.com",
-      "subject": "Re: Help on Ascension site approval",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Tue Mar 31 2026 19:01:35 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
