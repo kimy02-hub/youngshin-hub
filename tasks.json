@@ -331,7 +331,7 @@
       "due": "2026-04-07",
       "createdAt": "2026-04-04T03:50:33.143Z",
       "type": "email",
-      "note": "Do we have IRB for reading assessments? UT IRB protocol number is necessary for gift card purchase. Get incentives to our fund we need UT IRB number. Waiver to get the record number.",
+      "note": "Do we have IRB for reading assessments? UT IRB protocol number is necessary for gift card purchase. Get incentives to our fund we need UT IRB number. Waiver to get the record number.\nBack up plan: YNM pays the incentives and we will pay back with unspent fund.",
       "subtasks": []
     },
     {
@@ -412,5 +412,5 @@
       "subtasks": []
     }
   ],
-  "saved_at": "2026-04-07T10:45:30.066277"
+  "saved_at": "2026-04-07T11:00:28.089107"
 }

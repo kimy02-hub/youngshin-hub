@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T10:45:29.380511",
+  "fetched_at": "2026-04-07T11:00:27.481842",
   "emails": [
+    {
+      "id": "IA3PR06MB1071164F403F265CFC576BFCAB85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Prospective Medical Student Research Fellow",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 10:52:11 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "BN6PR13MB326529FB98120D11F92D596FFC5AA@BN6PR13MB3265.namprd13.prod.outlook.com",
       "subject": "Re: Follow up on $75 reading gift cards",
@@ -105,15 +114,6 @@
       "subject": "Re: PCR Submission for Summer TCHATT Enrollment",
       "sender": "\"Lunsford Calbow, Eboni S\" <eboni.calbow@austin.utexas.edu>",
       "date": "Tue Apr 07 2026 08:39:01 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA1PR06MB110967877B12DC738CE59B3D7D85AA@IA1PR06MB11096.namprd06.prod.outlook.com",
-      "subject": "Re: Getting started on June R01 submission",
-      "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 08:33:44 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -533,15 +533,6 @@
       "cc": ""
     },
     {
-      "id": "010f019d4a5f5406-78c3122f-f6b8-4681-87a0-d334491d50f1-000000@us-east-2.amazonses.com",
-      "subject": "Reviews Complete JAACAPOPEN-D-25-00172R1 - [EMID:2049c9fdb5738563]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Wed Apr 01 2026 13:47:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CAFMPgGTp5N-Fwg5SyzyKVhbTrG9m=8sT8ac6VyHi-9AmDyjGZw@mail.gmail.com",
       "subject": "Re: Regulating Together Program- TCSC Group Room Reservation",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
@@ -591,6 +582,15 @@
       "subject": "Fwd: Weekday MHU coverage",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Tue Apr 07 2026 08:56:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA1PR06MB110967877B12DC738CE59B3D7D85AA@IA1PR06MB11096.namprd06.prod.outlook.com",
+      "subject": "Re: Getting started on June R01 submission",
+      "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 08:33:44 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
