@@ -1,24 +1,6 @@
 {
-  "fetched_at": "2026-04-06T22:15:33.027201",
+  "fetched_at": "2026-04-06T22:30:31.492812",
   "emails": [
-    {
-      "id": "5D3DD102-0F10-425F-96D7-70C359030903@austin.utexas.edu",
-      "subject": "Test4",
-      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 21:23:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "F6F57664-C976-43CC-B913-B4A760D72FCF@austin.utexas.edu",
-      "subject": "Fwd: [Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 18:16:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
     {
       "id": "D504D566-95F9-4C02-B37F-E6487D4CBF19@austin.utexas.edu",
       "subject": "Re: CR-26-083 || WAVE Pilot Study",
@@ -335,12 +317,21 @@
       "cc": ""
     },
     {
-      "id": "autogen-java-a28c16a3-8835-4861-8719-3873a3a18fca@google.com",
-      "subject": "-phi- DCMC MHU End of Shift Report",
-      "sender": "\"Jacob Schribman (via Google Docs)\" <jacob.schribman@ascension.org>",
-      "date": "Mon Apr 06 2026 19:17:38 GMT-0500 (Central Daylight Time)",
+      "id": "CANYCf65tn_0i89ze1fEE2bGZY5SD-WZe9r1FO5ROqhiqQFTJjA@mail.gmail.com",
+      "subject": "PMHNP Student Rotations Fall 2026 - Planning!",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Tue Mar 31 2026 16:32:42 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d0aVe9sBp=rPBT=KsRDz1iqA+qcqUy5qG+dODPuB9T+Lw@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] HTB POD Issue",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Tue Mar 31 2026 15:37:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
       "cc": ""
     },
     {
@@ -366,60 +357,6 @@
       "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 17:43:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD22TRqf69000001b2@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00007049 received a comment",
-      "sender": "no-reply@utexas.edu",
-      "date": "Mon Apr 06 2026 17:17:24 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4ffQ2HdM63ovabD6hNugD0HOZc1WtyoDvEAVosNi1SD-w@mail.gmail.com",
-      "subject": "Scheduling for 10 week group - Regulating Together",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Mon Apr 06 2026 17:13:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "calendar-b17dd52f-287c-441e-b76c-fefc4a5ffddf@google.com",
-      "subject": "Accepted: Giftogram @ Mon Apr 13, 2026 1:30pm - 2pm (CDT) (Adriana Desalos)",
-      "sender": "Adriana Desalos <adriana.desalos@gmail.com>",
-      "date": "Mon Apr 06 2026 17:09:27 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711B06B542997669C846924B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Use of Giftogram",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:04:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "MWHPR0601MB3641567B9F0F669ABD0A379CA95DA@MWHPR0601MB3641.namprd06.prod.outlook.com",
-      "subject": "Re: Use of Giftogram",
-      "sender": "\"Desalos, Adriana\" <ad48994@my.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:02:44 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "069A5A74-A0FE-4E65-8ACB-D0D1EDD721EC@austin.utexas.edu",
-      "subject": "Re: Use of Giftogram",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 16:52:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -753,15 +690,6 @@
       "subject": "Re: Grant proposal meeting",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 13:34:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071134703427A5548531F5DAB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Use of Giftogram",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:31:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -1797,6 +1725,78 @@
       "subject": "Re: [EXTERNAL] FOLLOW-UP'S: Puja/Debbie/Kari/Young Shin",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Tue Mar 31 2026 16:48:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LV8PR06MB9819B3EFA027AF3A656217BDC753A@LV8PR06MB9819.namprd06.prod.outlook.com",
+      "subject": "RE: Requiring sign-off: WAVE ISO Policy Exception (Expired - 15 March 2026)",
+      "sender": "\"Macclements, Jonathan E\" <jonathan.macclements@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 16:39:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAC-7AinZqaKrfAc9VgZ9Cipqu3t9i=ctrpXnupnj0FAxW-2Caw@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Conference & Lab Dinner Tonight",
+      "sender": "Jay Youn <younjw23@gmail.com>",
+      "date": "Tue Mar 31 2026 16:31:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAF4QQuMGm+i0-t754S0hAQ8JWnJmbLr6yd1930KTjFVretPcow@mail.gmail.com",
+      "subject": "Re: CCC: Moonlighting Request - Chunara",
+      "sender": "John Borkovich <jack.borkovich@ascension-external.org>",
+      "date": "Tue Mar 31 2026 16:03:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "927a3f33-3f3d-4202-a414-62de0e94f31d",
+      "subject": "Your receipt from UT Health Austin",
+      "sender": "UT Health Austin <noreply@patient-message.com>",
+      "date": "Tue Mar 31 2026 16:00:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "hgpmHj5wyAD9uZ2GiNVZ04SUOscdquzlGObN0aaY6c@redcap.ascension.org",
+      "subject": "RE: CR-26-083 || Device/Supply Acknowledgement (Dell Children's Medical Center)",
+      "sender": "txaus-mb-siteapproval@ascension.org",
+      "date": "Tue Mar 31 2026 15:45:36 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655066B00C0E50615BEEC20C553A@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "RE: PCR | UT DMS | 2026-02-06 Response",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 15:27:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655CC520A882BFD2BEB7743C553A@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "RE: FW: [EXTERNAL] PCR | UT DMS | 2026-02-06 Response",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 14:52:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD2OJXsNQp00000082@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00007049-MOD03 received a comment",
+      "sender": "no-reply@utexas.edu",
+      "date": "Tue Mar 31 2026 14:49:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
