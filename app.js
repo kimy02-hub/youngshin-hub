@@ -2,7 +2,7 @@
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
 const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json';
 
-document.addEventListener('DOMContentLoaded', async () => { await loadTasks(); loadEmails(); });
+document.addEventListener('DOMContentLoaded', async () => { await loadTasks(); loadEmails(); startAutoRefresh(); });
 
 // -- EMAIL LOADING --
 async function loadEmails() {
@@ -370,6 +370,16 @@ function updateMobileBadge() {
   const active = tasks.filter(t => !t.done).length;
   badge.textContent = active > 0 ? active : '';
   badge.style.display = active > 0 ? 'block' : 'none';
+}
+
+// -- AUTO REFRESH --
+function startAutoRefresh() {
+  // Refresh emails and tasks every 15 minutes automatically
+  setInterval(async () => {
+    await loadEmails();
+    await loadTasks();
+    showToast('Auto-refreshed!');
+  }, 15 * 60 * 1000);
 }
 
 // -- TOAST --
