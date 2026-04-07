@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T12:15:36.060182",
+  "fetched_at": "2026-04-07T12:30:29.778802",
   "emails": [
+    {
+      "id": "BN7PR08MB5618B4D9CC2979294962BFB4F55AA@BN7PR08MB5618.namprd08.prod.outlook.com",
+      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
+      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
+      "date": "Tue Apr 07 2026 12:26:49 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "SN7PR06MB70857CDD652D6FE38360E9B8D85AA@SN7PR06MB7085.namprd06.prod.outlook.com",
       "subject": "Re: ECHO Session 3, Review & Submit",
@@ -582,15 +591,6 @@
       "subject": "TCMHCC Resource Sharing Draft Policy",
       "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
       "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4cHgVQ4SYLJiDx0Y4RpkcDr15tH2=k2Eb27AmFTCk4zQA@mail.gmail.com",
-      "subject": "Re: -phi- KG update for 3/27 visit",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Wed Apr 01 2026 19:16:21 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
