@@ -402,6 +402,31 @@ document.addEventListener('keydown', e => {
   if (e.key==='Enter' && document.getElementById('addTaskModal').classList.contains('open')) addManualTask();
 });
 
+// -- GITHUB TOKEN SETUP
+function setupGitHubToken() {
+  const existing = localStorage.getItem('gh_token');
+  if (existing) {
+    if (confirm('GitHub token already stored. Replace it?')) {
+      localStorage.removeItem('gh_token');
+    } else { return; }
+  }
+  const token = prompt('Paste your GitHub token (starts with ghp_):');
+  if (token && token.startsWith('ghp_')) {
+    localStorage.setItem('gh_token', token.trim());
+    alert('Token saved! This device can now sync tasks instantly.');
+  } else if (token) {
+    alert('Invalid token. Make sure it starts with ghp_');
+  }
+}
+
+// Auto-setup: if no token, store the dashboard token silently
+// This runs once on page load
+(function() {
+  if (!localStorage.getItem('gh_token')) {
+    localStorage.setItem('gh_token', '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');
+  }
+})();
+
 // -- MOBILE TAB SWITCHING ---------------------------------------
 function mobileSwitchTab(panel) {
   const split    = document.querySelector('.split');
