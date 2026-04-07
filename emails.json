@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T14:15:45.289814",
+  "fetched_at": "2026-04-07T14:30:30.388336",
   "emails": [
+    {
+      "id": "ifbgb.ukzroo.u46ia68c@e2ma.net",
+      "subject": "Take the Campus Master Plan Survey",
+      "sender": "David Vanden Bout & Brent Stringfellow <campusmasterplan@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 14:20:49 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "CO6PR04MB7763F5C148619B1064BCD8FB8E5AA@CO6PR04MB7763.namprd04.prod.outlook.com",
       "subject": "Re: Call Swap",
@@ -231,15 +240,6 @@
       "subject": "April CIRM Project meeting",
       "sender": "\"Wise, Laura\" <Laura.Wise@ucsf.edu>",
       "date": "Tue Apr 07 2026 11:17:32 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR05MB7277DBA0F96C7FEF0263CEB0EE5AA@SJ0PR05MB7277.namprd05.prod.outlook.com",
-      "subject": "April CIRM Project meeting",
-      "sender": "\"Wise, Laura\" <Laura.Wise@ucsf.edu>",
-      "date": "Tue Apr 07 2026 11:16:53 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -735,15 +735,6 @@
       "subject": "RE: Scheduling for 10 week group - Regulating Together",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Tue Apr 07 2026 11:52:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "calendar-33f40879-2e64-4e45-87c7-9298503bdd30@google.com",
-      "subject": "Invitation: Didactic Course Director Meeting AY 26-27 @ Tue Apr 21, 2026 12:15pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "Vanessa Castillo <vanessa.castillo@ascension.org>",
-      "date": "Tue Apr 07 2026 11:48:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
@@ -1797,6 +1788,15 @@
       "subject": "RE: Psychiatry.org - Proposed Changes ..would love your feedback on this",
       "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
       "date": "Thu Apr 02 2026 10:26:10 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "99C8163A-020F-4D6A-9745-EB8DBF5B55DF@me.com",
+      "subject": "Re: Psychiatry.org - Proposed Changes ..would love your feedback on this",
+      "sender": "\"Gabrielle Shapiro, M.D.\" <gabrielleshapiro@me.com>",
+      "date": "Thu Apr 02 2026 10:08:32 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
