@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T11:45:30.730694",
+  "fetched_at": "2026-04-07T12:00:29.270078",
   "emails": [
+    {
+      "id": "calendar-33f40879-2e64-4e45-87c7-9298503bdd30@google.com",
+      "subject": "Invitation: Didactic Course Director Meeting AY 26-27 @ Tue Apr 21, 2026 12:15pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "Vanessa Castillo <vanessa.castillo@ascension.org>",
+      "date": "Tue Apr 07 2026 11:48:38 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10655F82B78586275D5F40BB0C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "RE: Kim FTE",
@@ -24,15 +33,6 @@
       "subject": "Re: Journal Club 4/14",
       "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
       "date": "Tue Apr 07 2026 11:41:10 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAO9MUiaVZAjOerTnEiOLbVOgeY0PDjrFs3g43=ruvVk4WVcf0g@mail.gmail.com",
-      "subject": "Re: Scheduling for 10 week group - Regulating Together",
-      "sender": "Ali Hernandez <ali.hernandez3@ascension.org>",
-      "date": "Tue Apr 07 2026 11:32:23 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -578,12 +578,30 @@
       "cc": ""
     },
     {
-      "id": "SN7PR04MB8740E990110DAE2F429B4D6ECC50A@SN7PR04MB8740.namprd04.prod.outlook.com",
-      "subject": "Final verification of author information for TD GWAS manuscript submission",
-      "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
-      "date": "Wed Apr 01 2026 16:55:56 GMT-0500 (Central Daylight Time)",
+      "id": "CH2PR06MB67426B49C20ED74471B8C987BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Scheduling for 10 week group - Regulating Together",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 11:52:46 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "LV8PR22MB4740E1B03EA07C38F231471FBE5AA@LV8PR22MB4740.namprd22.prod.outlook.com",
+      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
+      "sender": "Jill Zeigenfus Brafford <jbrafford@aacap.org>",
+      "date": "Tue Apr 07 2026 11:48:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAO9MUiaVZAjOerTnEiOLbVOgeY0PDjrFs3g43=ruvVk4WVcf0g@mail.gmail.com",
+      "subject": "Re: Scheduling for 10 week group - Regulating Together",
+      "sender": "Ali Hernandez <ali.hernandez3@ascension.org>",
+      "date": "Tue Apr 07 2026 11:32:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -1779,24 +1797,6 @@
       "subject": "DDPC Meeting Documents for 4/8/2026",
       "sender": "\"Vaaler, Margaret\" <mvaaler@utsystem.edu>",
       "date": "Wed Apr 01 2026 17:30:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "t90fb.h0h1rm.dlr3608e@e2ma.net",
-      "subject": "Action required: Complete Epic training to avoid access issues on April 6",
-      "sender": "\"Epic Training Team, Dell Medical School\" <noreply@utexas.edu>",
-      "date": "Wed Apr 01 2026 17:22:09 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH8PR06MB11105651105268FB5F060D1788850A@CH8PR06MB11105.namprd06.prod.outlook.com",
-      "subject": "[texashealthcatalystapplicants] Thank You and Best Wishes for Your Continued Success",
-      "sender": "\"Rathnasingham, Ruben\" <Rubenr@austin.utexas.edu>",
-      "date": "Wed Apr 01 2026 17:17:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
