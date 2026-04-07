@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T18:15:28.272089",
+  "fetched_at": "2026-04-07T18:21:27.573635",
   "emails": [
+    {
+      "id": "CAPjAibosgqLfiOMKHJUs9YQ-0ecrZyxK0x40+rUE+PLOoSfjHg@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] CR-26-083 || WAVE Pilot Study",
+      "sender": "TXAUS-MB Site Approval <txaus-mb-siteapproval@ascension.org>",
+      "date": "Tue Apr 07 2026 18:17:55 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "BL3PR04MB79647783629C2C41D467E9D3C35AA@BL3PR04MB7964.namprd04.prod.outlook.com",
       "subject": "RE: UTDMS FY27, 28, 29 TCMH Submission",
@@ -769,7 +778,7 @@
     {
       "id": "IA3PR06MB107114BA6D1AFB9D5EDFE04B8B85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "FW: Monthly meeting • Deb/Young Shin",
-      "sender": "\"Brown, Debra M. (Ascension Health)\" <dmbrown1@ascension.org>",
+      "sender": "\"Brown, Debra M. (Ascension Health)\" <dmBrown1@ascension.org>",
       "date": "Tue Apr 07 2026 14:00:35 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
@@ -1336,7 +1345,7 @@
     {
       "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "FW: Cabinet",
-      "sender": "\"Kelsey Koch (DMS)\" <kelsey.koch1@ascension-external.org>",
+      "sender": "Kelsey Koch (DMS) <kelsey.koch1@ascension-external.org>",
       "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
@@ -1788,15 +1797,6 @@
       "subject": "STUDY00009102 received a comment",
       "sender": "no-reply@utexas.edu",
       "date": "Thu Apr 02 2026 15:18:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711CD638978C33F8BB9128DB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 14:44:09 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
