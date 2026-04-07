@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-04-07T07:30:31.722696",
+  "fetched_at": "2026-04-07T07:45:32.052616",
   "emails": [
+    {
+      "id": "PH8PR06MB91268AFCC834051D4295E33BE95AA@PH8PR06MB9126.namprd06.prod.outlook.com",
+      "subject": "RE: Request for call to learn about UTDMS YAM",
+      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 07:41:52 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "MN2PR04MB617550391B97A61F533FBDA0AE5AA@MN2PR04MB6175.namprd04.prod.outlook.com",
+      "subject": "DMS PCR - CPWE - CommUnity Care",
+      "sender": "\"Jew, Rachel\" <rjew@utsystem.edu>",
+      "date": "Tue Apr 07 2026 07:41:08 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d3xbeW_5t6nt=+w1Dcqi8geHd2x5Qx=td4X3o6U7_yZNw@mail.gmail.com",
+      "subject": "Re: Fwd: [EXTERNAL] Request for call to learn about UTDMS YAM",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Tue Apr 07 2026 07:39:33 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "autogen-java-e490c85b-a47a-4344-b35e-8b142e3f326f@google.com",
       "subject": "-phi- DCMC MHU End of Shift Report",
@@ -1770,33 +1797,6 @@
       "subject": "STUDY00007049-MOD03 received a comment",
       "sender": "no-reply@utexas.edu",
       "date": "Tue Mar 31 2026 14:49:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD2FVjCRGr0000007f@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00007049-MOD03 letter was updated",
-      "sender": "no-reply@utexas.edu",
-      "date": "Tue Mar 31 2026 14:48:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD2FRaqbC80000007c@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00007049-MOD03 has been approved",
-      "sender": "no-reply@utexas.edu",
-      "date": "Tue Mar 31 2026 14:47:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAN=rh-xXxyRZqHP3+nUkO-cUTKie5DckODOisJMcUrHvdPVhXA@mail.gmail.com",
-      "subject": "Re: Happy New Year and Follow-Up",
-      "sender": "Thomas Kim <thomas.a.kim94@gmail.com>",
-      "date": "Tue Mar 31 2026 14:46:41 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
