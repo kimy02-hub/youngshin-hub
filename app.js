@@ -1,10 +1,15 @@
-/* DMS Mailbox Dashboard - app.js v6 - with mobile support */
+/* DMS Mailbox Dashboard - app.js v7 - simple & reliable */
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
-const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json';
+const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json', TASKS_URL = 'tasks.json';
 
-document.addEventListener('DOMContentLoaded', async () => { await loadTasks(); loadEmails(); startAutoRefresh(); });
+document.addEventListener('DOMContentLoaded', async () => {
+  loadTasksFromStorage(); // show tasks instantly from localStorage
+  await loadEmails();
+  await syncTasksFromGitHub(); // then sync from GitHub in background
+  startAutoRefresh();
+});
 
-// -- EMAIL LOADING --
+// -- EMAIL LOADING ----------------------------------------------
 async function loadEmails() {
   try {
     const res = await fetch(EMAILS_URL + '?_=' + Date.now());
@@ -31,11 +36,14 @@ function updateLastUpdated(isoStr) {
 async function refreshData() {
   const btn = document.querySelector('.refresh-btn');
   btn.classList.add('spinning'); btn.disabled = true;
-  try { await loadEmails(); showToast('Inbox refreshed!'); }
-  finally { setTimeout(() => { btn.classList.remove('spinning'); btn.disabled=false; }, 700); }
+  try {
+    await loadEmails();
+    await syncTasksFromGitHub();
+    showToast('Refreshed!');
+  } finally { setTimeout(() => { btn.classList.remove('spinning'); btn.disabled=false; }, 700); }
 }
 
-// -- TABS --
+// -- TABS -------------------------------------------------------
 function switchTab(tab) {
   currentTab = tab;
   document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab===tab));
@@ -47,7 +55,7 @@ function getFilteredEmails() {
   return allEmails;
 }
 
-// -- EMAIL RENDERING --
+// -- EMAIL RENDERING --------------------------------------------
 function renderEmails() {
   const list = getFilteredEmails();
   const container = document.getElementById('emailList');
@@ -82,41 +90,44 @@ function buildEmailCard(email, idx) {
   return card;
 }
 
-// -- TASK PERSISTENCE --
-async function loadTasks() {
-  // Load local tasks first
-  let localTasks = [];
-  try { localTasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { localTasks=[]; }
-  // Fetch from GitHub and MERGE - never lose locally added tasks
-  try {
-    const res = await fetch('tasks.json?_=' + Date.now());
-    if (res.ok) {
-      const data = await res.json();
-      if (data.tasks && data.tasks.length > 0) {
-        const githubIds = new Set(data.tasks.map(t => t.id));
-        // Keep any local tasks not yet pushed to GitHub
-        const localOnly = localTasks.filter(t => !githubIds.has(t.id));
-        tasks = [...data.tasks, ...localOnly];
-      } else {
-        tasks = localTasks;
-      }
-    } else {
-      tasks = localTasks;
-    }
-  } catch(_) {
-    tasks = localTasks;
-  }
+// -- TASK PERSISTENCE -------------------------------------------
+// localStorage is the PRIMARY store. GitHub is synced in background.
+// Tasks are NEVER lost because we always save locally first.
+
+function loadTasksFromStorage() {
+  try { tasks = JSON.parse(localStorage.getItem(TASKS_KEY)||'[]'); } catch(_) { tasks=[]; }
   tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
-  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   renderTasks();
   updateMobileBadge();
 }
+
+async function syncTasksFromGitHub() {
+  // Merge GitHub tasks with local - local tasks always survive
+  try {
+    const res = await fetch(TASKS_URL + '?_=' + Date.now());
+    if (!res.ok) return;
+    const data = await res.json();
+    if (!data.tasks || !data.tasks.length) return;
+    // Keep any local tasks not in GitHub yet (just added, not yet cron-pushed)
+    const githubIds = new Set(data.tasks.map(t => t.id));
+    const localOnly = tasks.filter(t => !githubIds.has(t.id));
+    if (localOnly.length > 0 || data.tasks.length !== tasks.length) {
+      tasks = [...data.tasks, ...localOnly];
+      tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
+      localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+      renderTasks();
+      updateMobileBadge();
+    }
+  } catch(_) {}
+}
+
 function saveTasks() {
+  // Save to localStorage immediately - never lose data
   localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   updateMobileBadge();
 }
 
-// -- EMAIL TO TASK --
+// -- EMAIL TO TASK ----------------------------------------------
 function emailToTask(emailId) {
   const email = allEmails.find(e=>e.id===emailId);
   if (!email) return;
@@ -130,7 +141,7 @@ function emailToTask(emailId) {
   saveTasks(); renderTasks(); showToast('Task added!');
 }
 
-// -- MANUAL TASK --
+// -- MANUAL TASK ------------------------------------------------
 function addManualTask() {
   const title = document.getElementById('newTaskTitle').value.trim();
   if (!title) { document.getElementById('newTaskTitle').focus(); return; }
@@ -146,7 +157,7 @@ function addManualTask() {
   showToast(isToday ? 'Auto-flagged: due today!' : 'Task added!');
 }
 
-// -- TASK ACTIONS --
+// -- TASK ACTIONS -----------------------------------------------
 function toggleTaskDone(taskId) {
   const t = tasks.find(t=>t.id===taskId); if (!t) return;
   t.done = !t.done; t.doneAt = t.done ? new Date().toISOString() : null;
@@ -173,7 +184,7 @@ function editTaskCC(taskId) {
   setTimeout(()=>{ const el=document.getElementById('cc-input-'+taskId); if(el)el.focus(); },30);
 }
 
-// -- EDIT TASK MODAL --
+// -- EDIT TASK MODAL --------------------------------------------
 let editingTaskId = null;
 
 function openEditTask(taskId) {
@@ -207,7 +218,7 @@ function saveEditTask() {
   showToast('Task saved!');
 }
 
-// -- SUBTASK EDITOR --
+// -- SUBTASK EDITOR ---------------------------------------------
 function renderSubtaskEditor(t) {
   const list = document.getElementById('subtaskList');
   list.innerHTML = '';
@@ -246,7 +257,7 @@ function deleteSubtask(idx) {
   renderSubtaskEditor(t);
 }
 
-// -- TASK RENDERING --
+// -- TASK RENDERING ---------------------------------------------
 function renderTasks() {
   const active    = tasks.filter(t => !t.done && !t.flagged);
   const flaggedT  = tasks.filter(t => !t.done &&  t.flagged);
@@ -331,7 +342,7 @@ function toggleCompleted() {
   if (svg) svg.style.transform = completedOpen ? 'rotate(180deg)' : '';
 }
 
-// -- MODALS --
+// -- MODALS -----------------------------------------------------
 function openAddTask() {
   ['newTaskTitle','newTaskDue','newTaskCC'].forEach(id => { document.getElementById(id).value=''; });
   document.getElementById('addTaskModal').classList.add('open');
@@ -350,11 +361,11 @@ document.addEventListener('keydown', e => {
   if (e.key==='Enter' && document.getElementById('addTaskModal').classList.contains('open')) addManualTask();
 });
 
-// -- MOBILE TAB SWITCHING --
+// -- MOBILE TAB SWITCHING ---------------------------------------
 function mobileSwitchTab(panel) {
-  const split      = document.querySelector('.split');
-  const inboxBtn   = document.getElementById('mobileInboxBtn');
-  const tasksBtn   = document.getElementById('mobileTasksBtn');
+  const split    = document.querySelector('.split');
+  const inboxBtn = document.getElementById('mobileInboxBtn');
+  const tasksBtn = document.getElementById('mobileTasksBtn');
   if (!split) return;
   if (panel === 'tasks') {
     split.classList.add('show-tasks');
@@ -375,13 +386,11 @@ function updateMobileBadge() {
   badge.style.display = active > 0 ? 'block' : 'none';
 }
 
-// -- AUTO REFRESH --
+// -- AUTO REFRESH (emails only) ---------------------------------
 function startAutoRefresh() {
-  // Refresh every 5 minutes
   const INTERVAL = 5 * 60 * 1000;
   let nextRefresh = Date.now() + INTERVAL;
-
-  // Countdown in the last-updated label
+  // Countdown timer
   setInterval(() => {
     const secsLeft = Math.max(0, Math.round((nextRefresh - Date.now()) / 1000));
     const mins = Math.floor(secsLeft / 60);
@@ -391,15 +400,14 @@ function startAutoRefresh() {
       el.textContent = el.textContent.split(' | ')[0] + ' | next in ' + mins + ':' + String(secs).padStart(2,'0');
     }
   }, 1000);
-
-  // Actual refresh
+  // Auto-refresh emails only - tasks stay in localStorage until cron syncs
   setInterval(async () => {
     nextRefresh = Date.now() + INTERVAL;
     await loadEmails();
   }, INTERVAL);
 }
 
-// -- TOAST --
+// -- TOAST ------------------------------------------------------
 let toastTimer;
 function showToast(msg) {
   let el = document.querySelector('.toast');
@@ -409,14 +417,13 @@ function showToast(msg) {
   toastTimer = setTimeout(() => el.classList.remove('show'), 2400);
 }
 
-// -- HELPERS --
-// Convert URLs in text to clickable links
+// -- HELPERS ----------------------------------------------------
 function linkify(text) {
   if (!text) return '';
   const urlRegex = /(https?:\/\/[^\s<>"]+)/g;
   return esc(text).replace(urlRegex, (url) => {
-    const cleanUrl = url.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
-    return '<a href="' + cleanUrl + '" target="_blank" class="note-link" onclick="event.stopPropagation()">' + (cleanUrl.length > 40 ? cleanUrl.substring(0,40)+'...' : cleanUrl) + '</a>';
+    const clean = url.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
+    return '<a href="' + clean + '" target="_blank" class="note-link" onclick="event.stopPropagation()">' + (clean.length>40?clean.substring(0,40)+'...':clean) + '</a>';
   });
 }
 function esc(str) {
