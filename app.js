@@ -396,7 +396,6 @@ function startAutoRefresh() {
   setInterval(async () => {
     nextRefresh = Date.now() + INTERVAL;
     await loadEmails();
-    await loadTasks();
   }, INTERVAL);
 }
 
