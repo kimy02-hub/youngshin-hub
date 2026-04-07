@@ -1,20 +1,29 @@
 {
-  "fetched_at": "2026-04-07T13:00:30.531325",
+  "fetched_at": "2026-04-07T13:15:31.160933",
   "emails": [
     {
-      "id": "CAC-7AikYZQ9ySJ4h9npAFzJ2NzLrZ=TWBAvYqJdJHSXJEc1-Jw@mail.gmail.com",
-      "subject": "Shadowing Friday",
-      "sender": "Jay Youn <younjw23@gmail.com>",
-      "date": "Tue Apr 07 2026 12:57:47 GMT-0500 (Central Daylight Time)",
+      "id": "calendar-4b2a8866-e525-4e89-8295-c8123c08b290@google.com",
+      "subject": "Updated invitation: Monthly Pediatrics Division Director Meeting  @ Tue Apr 7, 2026 12pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "\"Esteban De Santiago (Dell Medical School)\" <esteban.de.santiago@ascension-external.org>",
+      "date": "Tue Apr 07 2026 13:11:41 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
     },
     {
-      "id": "DS1PR06MB10655F872CCE028BF1C2CC172C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "Call Proposal",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 12:36:26 GMT-0500 (Central Daylight Time)",
+      "id": "t90fb.pu6ism.dlr3608e@e2ma.net",
+      "subject": "Need to Know",
+      "sender": "Dell Medical School — Official <noreply@utexas.edu>",
+      "date": "Tue Apr 07 2026 13:07:22 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "3F.A3.17531.99745D96@i-09339186bb763501a.mta1vrest.sd.prd.sparkpost",
+      "subject": "[UTEXAS: POSSIBLY MALICIOUS CONTENT] Confirm your email address to start using Smartsheet",
+      "sender": "Smartsheet <welcome@system.smartsheet.com>",
+      "date": "Tue Apr 07 2026 13:06:23 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -611,6 +620,24 @@
       "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAC-7AikYZQ9ySJ4h9npAFzJ2NzLrZ=TWBAvYqJdJHSXJEc1-Jw@mail.gmail.com",
+      "subject": "Shadowing Friday",
+      "sender": "Jay Youn <younjw23@gmail.com>",
+      "date": "Tue Apr 07 2026 12:57:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655F872CCE028BF1C2CC172C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "Call Proposal",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 12:36:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -1770,33 +1797,6 @@
       "subject": "AW: Final verification of author information for TD GWAS manuscript submission",
       "sender": "\"Müller-Vahl, Kirsten Prof. Dr.\" <Mueller-Vahl.Kirsten@mh-hannover.de>",
       "date": "Thu Apr 02 2026 01:53:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "010f019d4cf0cc40-7a4b9fc1-1230-45a1-ad68-db5a2622f639-000000@us-east-2.amazonses.com",
-      "subject": "Review for Personalized Medicine in Psychiatry - invitation reminder",
-      "sender": "Charles Nemeroff <em@editorialmanager.com>",
-      "date": "Thu Apr 02 2026 01:45:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "010f019d4cd165c0-c8e70181-81b0-49fd-889b-04ab831582ec-000000@us-east-2.amazonses.com",
-      "subject": "Reviewer Invitation Reminder JAACAPOPEN-D-25-00163R1 - [EMID:8564686030c51877]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Thu Apr 02 2026 01:11:33 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "010f019d4cd16149-a98c8c8c-a109-422f-9277-475f0b6a471b-000000@us-east-2.amazonses.com",
-      "subject": "Reviewer Invitation Reminder JAACAPOPEN-D-25-00163R1 - [EMID:0a5b0a8e402bf6e1]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Thu Apr 02 2026 01:11:28 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
