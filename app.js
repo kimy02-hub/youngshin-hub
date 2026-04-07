@@ -1,8 +1,5 @@
 /* DMS Mailbox Dashboard - app.js v7 - simple & reliable */
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
-const GITHUB_TOKEN = localStorage.getItem('gh_token') || '';
-const GITHUB_REPO  = 'kimy02-hub/youngshin-hub';
-const TASKS_FILE   = 'tasks.json';
 const TASKS_KEY = 'dms_tasks_v3', EMAILS_URL = 'emails.json', TASKS_URL = 'tasks.json';
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -132,28 +129,6 @@ function deleteTask(taskId) {
   showToast('Task deleted');
 }
 
-async function pushTasksToGitHub() {
-  // Write tasks.json directly to GitHub so ALL devices see changes immediately
-  try {
-    // First get current file SHA (required for update)
-    const getRes = await fetch(
-      'https://api.github.com/repos/' + GITHUB_REPO + '/contents/' + TASKS_FILE,
-      { headers: { 'Authorization': 'Bearer ' + GITHUB_TOKEN, 'Accept': 'application/vnd.github.v3+json' } }
-    );
-    if (!getRes.ok) return;
-    const fileInfo = await getRes.json();
-    const sha = fileInfo.sha;
-    // Prepare updated tasks.json content
-    const content = { tasks: tasks, saved_at: new Date().toISOString() };
-    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(content, null, 2))));
-    // Push to GitHub
-    await fetch(
-      'https://api.github.com/repos/' + GITHUB_REPO + '/contents/' + TASKS_FILE,
-      {
-        method: 'PUT',
-        headers: { 'Authorization': 'Bearer ' + GITHUB_TOKEN, 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: 'tasks update from dashboard', content: encoded, sha: sha })
-      }
     );
   } catch(_) {}
 }
@@ -162,8 +137,6 @@ function saveTasks() {
   // Save to localStorage immediately - never lose data
   localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   updateMobileBadge();
-  // Also push to GitHub so all devices sync immediately
-  pushTasksToGitHub();
 }
 
 // -- EMAIL TO TASK ----------------------------------------------
@@ -423,7 +396,6 @@ function setupGitHubToken() {
 // This runs once on page load
 (function() {
   if (!localStorage.getItem('gh_token')) {
-    localStorage.setItem('gh_token', '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');
   }
 })();
 
