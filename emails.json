@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-07T09:30:31.627924",
+  "fetched_at": "2026-04-07T09:45:28.227553",
   "emails": [
+    {
+      "id": "CH2PR06MB6696F089FF4C0EB822C6EA63ED5AA@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Blue Goji IRB Revisions",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Tue Apr 07 2026 09:44:13 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB67425FABD4F2CD8F37BA3BC7BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "Re: Journal Club 4/14",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 09:40:06 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB6348100AB3F0F885268D1934BA5AA@DM6PR06MB6348.namprd06.prod.outlook.com",
+      "subject": "Canceled: Cancelled: TCMHP/CABH Leadership Touchbase",
+      "sender": "\"Jain, Ritika\" <ritika.jain@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 09:17:12 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB634821E25185B070D0A333A1BA5AA@DM6PR06MB6348.namprd06.prod.outlook.com",
+      "subject": "Canceled: Cancelled: TCMHP Leadership Working Sessions",
+      "sender": "\"Jain, Ritika\" <ritika.jain@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 09:16:39 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "calendar-bc985079-90e7-4ef4-98e7-51ea629ef7bb@google.com",
       "subject": "Synced invitation: MH Strategic Planning Meeting @ Thu Mar 19, 2026 1pm - 2pm (CDT) (youngshin.kim@austin.utexas.edu)",
@@ -110,15 +146,6 @@
       "cc": ""
     },
     {
-      "id": "t90fb.t55gsm.dlr3608e@e2ma.net",
-      "subject": "Epic go-live daily report",
-      "sender": "\"Command Center, Project Cornerstone\" <noreply@utexas.edu>",
-      "date": "Tue Apr 07 2026 08:08:25 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
       "id": "DM5PR04MB0906F93CB9CB938BB7230473BC5AA@DM5PR04MB0906.namprd04.prod.outlook.com",
       "subject": "Re: Request for call to learn about UTDMS YAM",
       "sender": "\"Niday, Claire\" <cniday@utsystem.edu>",
@@ -173,15 +200,6 @@
       "cc": ""
     },
     {
-      "id": "MN2PR04MB617550391B97A61F533FBDA0AE5AA@MN2PR04MB6175.namprd04.prod.outlook.com",
-      "subject": "DMS PCR - CPWE - CommUnity Care",
-      "sender": "\"Jew, Rachel\" <rjew@utsystem.edu>",
-      "date": "Tue Apr 07 2026 07:41:08 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
       "id": "CACwu7d3xbeW_5t6nt=+w1Dcqi8geHd2x5Qx=td4X3o6U7_yZNw@mail.gmail.com",
       "subject": "Re: Fwd: [EXTERNAL] Request for call to learn about UTDMS YAM",
       "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
@@ -204,15 +222,6 @@
       "subject": "(no subject)",
       "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
       "date": "Tue Apr 07 2026 07:05:16 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "97754edd318e64e9fb31d3cd1cf95cd8@susy.mdpi.com",
-      "subject": "[Disabilities] Manuscript ID: disabilities-4187114 - Review Request Cancelled",
-      "sender": "Disabilities Editorial Office <disabilities@mdpi.com>",
-      "date": "Tue Apr 07 2026 05:45:47 GMT-0500 (Central Daylight Time)",
       "read": false,
       "flagged": false,
       "cc": ""
@@ -1788,15 +1797,6 @@
       "subject": "Mark Your Calendars for AACAP’s 2026 Annual Meeting!",
       "sender": "AACAP Meetings Department <meetings@aacap.org>",
       "date": "Wed Apr 01 2026 10:09:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB11266553AD3914CC91C787684BA53A@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "APT E-Review: Stephen Stayer, MD",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Wed Apr 01 2026 09:18:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
