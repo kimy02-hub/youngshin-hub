@@ -1,29 +1,11 @@
 {
-  "fetched_at": "2026-04-06T21:15:27.841312",
+  "fetched_at": "2026-04-06T21:30:29.389016",
   "emails": [
     {
-      "id": "02547B22-4BB0-4DB5-99C8-1A1ECAB3B6ED@austin.utexas.edu",
-      "subject": "Test 3",
+      "id": "5D3DD102-0F10-425F-96D7-70C359030903@austin.utexas.edu",
+      "subject": "Test4",
       "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 21:02:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "C83F458F-A42A-4427-92EE-4683BD175CB9@austin.utexas.edu",
-      "subject": "Test 2",
-      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 20:48:45 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "autogen-java-a28c16a3-8835-4861-8719-3873a3a18fca@google.com",
-      "subject": "-phi- DCMC MHU End of Shift Report",
-      "sender": "\"Jacob Schribman (via Google Docs)\" <jacob.schribman@ascension.org>",
-      "date": "Mon Apr 06 2026 19:17:38 GMT-0500 (Central Daylight Time)",
+      "date": "Mon Apr 06 2026 21:23:58 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -350,6 +332,15 @@
       "date": "Wed Apr 01 2026 09:19:56 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "autogen-java-a28c16a3-8835-4861-8719-3873a3a18fca@google.com",
+      "subject": "-phi- DCMC MHU End of Shift Report",
+      "sender": "\"Jacob Schribman (via Google Docs)\" <jacob.schribman@ascension.org>",
+      "date": "Mon Apr 06 2026 19:17:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
       "cc": ""
     },
     {
@@ -1797,6 +1788,15 @@
       "subject": "Re: Patient Safety Conference 4/28/26",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Tue Mar 31 2026 16:58:36 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf66NreyvNJ0BbZfLcReEEgrkhex7hv=j+miM=hJL_LDCkw@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] FOLLOW-UP'S: Puja/Debbie/Kari/Young Shin",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Tue Mar 31 2026 16:48:51 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
