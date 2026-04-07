@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-07T10:30:28.610204",
+  "fetched_at": "2026-04-07T10:45:29.380511",
   "emails": [
+    {
+      "id": "BN6PR13MB326529FB98120D11F92D596FFC5AA@BN6PR13MB3265.namprd13.prod.outlook.com",
+      "subject": "Re: Follow up on $75 reading gift cards",
+      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
+      "date": "Tue Apr 07 2026 10:38:07 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "SN6PR06MB64131F835FBA9261179084CB885AA@SN6PR06MB6413.namprd06.prod.outlook.com",
+      "subject": "Dr. Alexandra Thomas Zoom Interview - Young Shin",
+      "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <dellmedpsych@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 10:32:00 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "BN7PR06MB51703105F3CBE757D13D2D43B35AA@BN7PR06MB5170.namprd06.prod.outlook.com",
       "subject": "RE: PSY Executive Committee Meeting",
@@ -519,24 +537,6 @@
       "subject": "Reviews Complete JAACAPOPEN-D-25-00172R1 - [EMID:2049c9fdb5738563]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Wed Apr 01 2026 13:47:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV2PR06MB9997344037240CD0F8DFF05A90D250A@LV2PR06MB999734.namprd06.prod.outlook.com",
-      "subject": "ACT LEND Program Showcase Invite",
-      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
-      "date": "Wed Apr 01 2026 13:20:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "tyzWbdhxSlG42G_SH9zdIw@geopod-ismtpd-canary-0",
-      "subject": "Ascension Disclosure of Financial Relationships - ACTION REQUIRED",
-      "sender": "Ascension <ce-cme@ascension-ce-cme.cloud-cme.com>",
-      "date": "Wed Apr 01 2026 13:06:34 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
