@@ -111,7 +111,7 @@ async function syncTasksFromGitHub() {
     // Keep any local tasks not in GitHub yet (just added, not yet cron-pushed)
     const githubIds = new Set(data.tasks.map(t => t.id));
     const localOnly = tasks.filter(t => !githubIds.has(t.id));
-    if (localOnly.length > 0 || data.tasks.length !== tasks.length) {
+    if (true) {
       tasks = [...data.tasks, ...localOnly];
       tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
       localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
