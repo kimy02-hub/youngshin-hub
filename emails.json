@@ -1,366 +1,6 @@
 {
-  "fetched_at": "2026-04-07T18:42:29.217368",
+  "fetched_at": "2026-04-07T18:45:31.027519",
   "emails": [
-    {
-      "id": "E4D095A5-8C5F-4348-8B2A-8C20BA24C0D5@austin.utexas.edu",
-      "subject": "CR-26-083 || WAVE Pilot Study - IRB approval letter",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 18:25:18 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAPjAibosgqLfiOMKHJUs9YQ-0ecrZyxK0x40+rUE+PLOoSfjHg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] CR-26-083 || WAVE Pilot Study",
-      "sender": "TXAUS-MB Site Approval <txaus-mb-siteapproval@ascension.org>",
-      "date": "Tue Apr 07 2026 18:17:55 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BL3PR04MB79647783629C2C41D467E9D3C35AA@BL3PR04MB7964.namprd04.prod.outlook.com",
-      "subject": "RE: UTDMS FY27, 28, 29 TCMH Submission",
-      "sender": "\"Vlahodimitropoulos, Alex\" <avlahodimitropoulos@utsystem.edu>",
-      "date": "Tue Apr 07 2026 17:26:01 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR06MB613996DAE96259507388F2C6AC5AA@DM6PR06MB6139.namprd06.prod.outlook.com",
-      "subject": "Re: Connecting on child psychiatry",
-      "sender": "\"Sawhney, Rishi\" <Rishi.Sawhney@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 17:07:33 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB32655C070CEFF5101B2E369CFC5AA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Tue Apr 07 2026 16:48:35 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB674208D96D86C153E6703F76BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:45:18 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGRrFaXenxJkhTzXxMBd-C3d5AFe9Dm-RJEpXSYh2-UyZA@mail.gmail.com",
-      "subject": "Re: RE: [EXTERNAL] Scheduling for 10 week group - Regulating Together",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
-      "date": "Tue Apr 07 2026 16:38:39 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB674235D0DB260F71A22450D2BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: RE: [EXTERNAL] Scheduling for 10 week group - Regulating Together",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:36:17 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB11306DB85FCA6188AC70DF516CA5AA@IA3PR06MB11306.namprd06.prod.outlook.com",
-      "subject": "Accepted: Meeting with Dr Kochel",
-      "sender": "\"Kochel, Robin Page\" <kochel@bcm.edu>",
-      "date": "Tue Apr 07 2026 16:32:01 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB67420855DAF812D8F9CD7034BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "FW: Job Requisition - Successfully Completed",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:29:35 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711D41BF8F1C403FADE00CCB85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Meeting Request with Dr. Kochel",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:18:52 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR0601MB374938CA450ECE0EFF485965D15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "Re: Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:03:44 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SN7PR06MB70857CDD652D6FE38360E9B8D85AA@SN7PR06MB7085.namprd06.prod.outlook.com",
-      "subject": "Re: ECHO Session 3, Review & Submit",
-      "sender": "\"Vanegas, Sandra\" <sandra.vanegas@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 12:14:23 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655F82B78586275D5F40BB0C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Kim FTE",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 11:44:12 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "calendar-58c080ee-16f4-4ad2-bc32-edab3bde014f@google.com",
-      "subject": "Accepted: Prospective Medical Student Research Fellow @ Mon Apr 13, 2026 11am - 11:30am (CDT) (Eshan Sayani)",
-      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
-      "date": "Tue Apr 07 2026 11:43:56 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CO1PR06MB8060C1875BFEB6AF74BA4FF6C25AA@CO1PR06MB8060.namprd06.prod.outlook.com",
-      "subject": "Re: Journal Club 4/14",
-      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 11:41:10 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB106559CE75EEE24DE1816C730C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "Kim FTE",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 11:32:20 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107115214A6201AE54A71C8D0B85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Dinner with Dev Manoli in May",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 11:29:14 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR05MB7277337EEA3A695C14556C2EEE5AA@SJ0PR05MB7277.namprd05.prod.outlook.com",
-      "subject": "April CIRM Project meeting",
-      "sender": "\"Wise, Laura\" <Laura.Wise@ucsf.edu>",
-      "date": "Tue Apr 07 2026 11:17:32 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071164F403F265CFC576BFCAB85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Prospective Medical Student Research Fellow",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:52:11 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB64131F835FBA9261179084CB885AA@SN6PR06MB6413.namprd06.prod.outlook.com",
-      "subject": "Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <dellmedpsych@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:32:00 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB51703105F3CBE757D13D2D43B35AA@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "RE: PSY Executive Committee Meeting",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:26:57 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB517075FE51AD907C4A375553B35AA@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "PSY Executive Committee Meeting",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:26:40 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB106553F3DD0F8B8D8459EFC86C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "FW: Contract Adjustments - UT Austin + Integral Care",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:21:52 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711169EF766307E7CE88BD8B85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Research Volunteer Opportunity",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:19:47 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACmqGSN3mhZ+ZvscyUrjedE7+JHwtpaqS+8gF9egc7=PEF3fWg@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] REMINDER: CPI Training Today in TAO",
-      "sender": "Yvonne Uyanwune (TCHATT) <yvonne.uyanwune@ascension-external.org>",
-      "date": "Tue Apr 07 2026 08:46:37 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACmqGSP2T5HUK-mZZQAja-VRQ9UNW8OM-yQHBmEcX1U_887tRg@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] REMINDER: CPI Training Today in TAO",
-      "sender": "Yvonne Uyanwune (TCHATT) <yvonne.uyanwune@ascension-external.org>",
-      "date": "Tue Apr 07 2026 08:46:17 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711F3FEBD21B2539258EF8EB85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "REMINDER: CPI Training Today in TAO",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 08:40:05 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "6C.ED.22595.D1905D96@i-03eb9cb9906c4145a.mta3vrest.sd.prd.sparkpost",
-      "subject": "JAACAP Call for Papers: Quality Improvement in Children's Mental Health",
-      "sender": "Elsevier Psychiatry journals <services-solutions@journals.email.elsevier.com>",
-      "date": "Tue Apr 07 2026 08:39:53 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "14E7C600-135F-4712-B23B-3B0040F8A29D@austin.utexas.edu",
-      "subject": "Re: PCR Submission for Summer TCHATT Enrollment",
-      "sender": "\"Lunsford Calbow, Eboni S\" <eboni.calbow@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 08:39:01 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR04MB0906F93CB9CB938BB7230473BC5AA@DM5PR04MB0906.namprd04.prod.outlook.com",
-      "subject": "Re: Request for call to learn about UTDMS YAM",
-      "sender": "\"Niday, Claire\" <cniday@utsystem.edu>",
-      "date": "Tue Apr 07 2026 08:08:22 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR04MB090606228CC0B58DD288C49FBC5AA@DM5PR04MB0906.namprd04.prod.outlook.com",
-      "subject": "Request for call to learn about UTDMS YAM",
-      "sender": "\"Niday, Claire\" <cniday@utsystem.edu>",
-      "date": "Tue Apr 07 2026 08:05:22 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "ReactionDigest-9f18d443-593e-4236-b0c3-62389ee8bf6d;rcid_b649e4e6-5f10-4ce5-9511-b9d8372c8f79;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_b649e4e6-5f10-4ce5-9511-b9d8372c8f79@odspnotify",
-      "subject": "Reaction Daily Digest - Tuesday, April 7, 2026",
-      "sender": "UT Austin (Do Not Reply) <noreply@utexas.edu>",
-      "date": "Tue Apr 07 2026 08:03:28 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAKWPZpW0wtB0hOm=sgRr8m-f306_qfZnAp_tw_mYa71BMVMUxg@mail.gmail.com",
-      "subject": "Research Volunteer Opportunity",
-      "sender": "Zoe Bronwasser <zowensatx@gmail.com>",
-      "date": "Tue Apr 07 2026 08:00:38 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "A1A46A48-BCE2-4482-811C-F61C2E62379A@austin.utexas.edu",
-      "subject": "Re: Dinner with Dev Manoli in May",
-      "sender": "\"Ekker, Stephen C\" <stephen.ekker@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 07:59:00 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "PH8PR06MB91268AFCC834051D4295E33BE95AA@PH8PR06MB9126.namprd06.prod.outlook.com",
-      "subject": "RE: Request for call to learn about UTDMS YAM",
-      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 07:41:52 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d3xbeW_5t6nt=+w1Dcqi8geHd2x5Qx=td4X3o6U7_yZNw@mail.gmail.com",
-      "subject": "Re: Fwd: [EXTERNAL] Request for call to learn about UTDMS YAM",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Tue Apr 07 2026 07:39:33 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "autogen-java-e490c85b-a47a-4344-b35e-8b142e3f326f@google.com",
-      "subject": "-phi- DCMC MHU End of Shift Report",
-      "sender": "Chelsea Taylor (via Google Docs) <chelsea.taylor@ascension.org>",
-      "date": "Tue Apr 07 2026 07:12:54 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "6EF27C6C-74B7-492F-A79D-0A4F5612F7B2@austin.utexas.edu",
-      "subject": "(no subject)",
-      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 07:05:16 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAHkx7_JPQ25jx3NZGmPQ1w2YATcgZobOtEv7qhs08OO7a_OT9g@mail.gmail.com",
-      "subject": "Re: 성신여대 김동희입니다.",
-      "sender": "김동희 (간호학과) <dhkim@sungshin.ac.kr>",
-      "date": "Tue Apr 07 2026 03:39:15 GMT-0500 (Central Daylight Time)",
-      "read": false,
-      "flagged": false,
-      "cc": ""
-    },
     {
       "id": "1B81B839-0230-491A-BCF1-6ECD16473DC0@austin.utexas.edu",
       "subject": "Rick",
@@ -614,1191 +254,651 @@
       "cc": ""
     },
     {
-      "id": "CH8PR06MB11106BFFE4976DD587A999A9CC05AA@CH8PR06MB11106.namprd06.prod.outlook.com",
-      "subject": "UTDMS FY27, 28, 29 TCMH Submission",
-      "sender": "\"Hannah, Natalie\" <natalie.hannah@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 17:19:53 GMT-0500 (Central Daylight Time)",
+      "id": "SN7PR04MB87409CB430491C993F3D3C55CC51A@SN7PR04MB8740.namprd04.prod.outlook.com",
+      "subject": "RE: Final verification of author information for TD GWAS manuscript submission",
+      "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
+      "date": "Thu Apr 02 2026 10:01:01 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "BN6PR13MB326538675C8075CABCD73393FC5AA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Tue Apr 07 2026 16:41:16 GMT-0500 (Central Daylight Time)",
+      "id": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
+      "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CH2PR06MB67421A26AAAC7BCED8B425BABE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Follow up on $75 reading gift cards",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:35:04 GMT-0500 (Central Daylight Time)",
+      "id": "SJ0PR04MB7213262360E8098FA03CADE5DF51A@SJ0PR04MB7213.namprd04.prod.outlook.com",
+      "subject": "TCMHCC Resource Sharing Draft Policy",
+      "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
+      "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "PH0PR06MB77720BA689A62E0117FE0791AF5AA@PH0PR06MB7772.namprd06.prod.outlook.com",
-      "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
-      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:41:21 GMT-0500 (Central Daylight Time)",
+      "id": "CALLNj4cHgVQ4SYLJiDx0Y4RpkcDr15tH2=k2Eb27AmFTCk4zQA@mail.gmail.com",
+      "subject": "Re: -phi- KG update for 3/27 visit",
+      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
+      "date": "Wed Apr 01 2026 19:16:21 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "PH0PR06MB777228FB31DA0CB53427248BAF5AA@PH0PR06MB7772.namprd06.prod.outlook.com",
-      "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
-      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:35:00 GMT-0500 (Central Daylight Time)",
+      "id": "SN6PR04MB3855724FBAC1437EE6C975D9C450A@SN6PR04MB3855.namprd04.prod.outlook.com",
+      "subject": "DDPC Meeting Documents for 4/8/2026",
+      "sender": "\"Vaaler, Margaret\" <mvaaler@utsystem.edu>",
+      "date": "Wed Apr 01 2026 17:32:56 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "PH0PR06MB77724E916C158CBE947DF2F8AF5AA@PH0PR06MB7772.namprd06.prod.outlook.com",
-      "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
-      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:34:07 GMT-0500 (Central Daylight Time)",
+      "id": "SN7PR04MB8740E990110DAE2F429B4D6ECC50A@SN7PR04MB8740.namprd04.prod.outlook.com",
+      "subject": "Final verification of author information for TD GWAS manuscript submission",
+      "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
+      "date": "Wed Apr 01 2026 16:55:56 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DS1PR06MB106559766EBBAC4DB0332845BC55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:24:29 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR06MB6139EAB53BE2381778B280DDAC5AA@DM6PR06MB6139.namprd06.prod.outlook.com",
-      "subject": "Connecting on child psychiatry",
-      "sender": "\"Sawhney, Rishi\" <Rishi.Sawhney@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:19:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR0601MB37498A34A2BE9ADEB15DDC1AD15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:14:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB51703167C4DBFEC744B2B52FB35AA@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "Comp Eval Request",
+      "id": "BN7PR06MB517044457DE47E18D10F5410B350A@BN7PR06MB5170.namprd06.prod.outlook.com",
+      "subject": "ADAA CAP Patient Guide - Chapter PAST DUE",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:52:09 GMT-0500 (Central Daylight Time)",
+      "date": "Wed Apr 01 2026 15:21:17 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "PH0PR06MB777229C479D9B0947B644EEDAF5AA@PH0PR06MB7772.namprd06.prod.outlook.com",
-      "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
-      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:46:23 GMT-0500 (Central Daylight Time)",
+      "id": "SJ4PPF573A2A572368C29845387260A4061A950A@SJ4PPF573A2A572.namprd22.prod.outlook.com",
+      "subject": "RE: EO Meet w/ Young Shin",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Wed Apr 01 2026 15:17:47 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "BLAPR06MB677250AAF6301C48BF320236DA5AA@BLAPR06MB6772.namprd06.prod.outlook.com",
-      "subject": "Re: Child & Adolescent Psychiatry Updates",
-      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:39:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "PH0PR06MB777266CC661846E6AD28BF55AF5AA@PH0PR06MB7772.namprd06.prod.outlook.com",
-      "subject": "RE: Child & Adolescent Psychiatry Updates",
-      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:37:17 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BLAPR06MB6772D59DDFEF4CAE35481CA3DA5AA@BLAPR06MB6772.namprd06.prod.outlook.com",
-      "subject": "Child & Adolescent Psychiatry Updates",
-      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:35:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CO6PR04MB7763F5C148619B1064BCD8FB8E5AA@CO6PR04MB7763.namprd04.prod.outlook.com",
-      "subject": "Re: Call Swap",
-      "sender": "\"LaGrone, Michele\" <michele.lagrone@bbtrails.org>",
-      "date": "Tue Apr 07 2026 14:12:54 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB561862B8937771361519C248F55AA@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Tue Apr 07 2026 14:11:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB3265E137D4EE18CA88BE74F8FC5AA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Tue Apr 07 2026 14:11:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB106555F5BE7B14A90A9FA6627C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "FW: Payment for RT Training",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:08:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655F935BF955DEA972C9E4FC55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Payment for RT Training",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 14:02:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107114BA6D1AFB9D5EDFE04B8B85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "FW: Monthly meeting • Deb/Young Shin",
-      "sender": "\"Brown, Debra M. (Ascension Health)\" <dmBrown1@ascension.org>",
-      "date": "Tue Apr 07 2026 14:00:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf66sOAv_=kHpdeVd4t75K7LE=jaObtoYCMUWUA_BKbbw4Q@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] PTO request",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Apr 07 2026 13:59:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742FE676CA7A07081F5A119BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Follow up on $75 reading gift cards",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 13:55:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB106550E0B720E86A24FDC41C3C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 13:43:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf67WLeAvt6aYFphqL51HrcD-PAijTi2iU1a+Wmija5YrZw@mail.gmail.com",
-      "subject": "Re: Valencia -- Request PTO for 5/2026",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Apr 07 2026 13:22:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "t90fb.pu6ism.dlr3608e@e2ma.net",
-      "subject": "Need to Know",
-      "sender": "Dell Medical School — Official <noreply@utexas.edu>",
-      "date": "Tue Apr 07 2026 13:07:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "3F.A3.17531.99745D96@i-09339186bb763501a.mta1vrest.sd.prd.sparkpost",
-      "subject": "[UTEXAS: POSSIBLY MALICIOUS CONTENT] Confirm your email address to start using Smartsheet",
-      "sender": "Smartsheet <welcome@system.smartsheet.com>",
-      "date": "Tue Apr 07 2026 13:06:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAC-7AikYZQ9ySJ4h9npAFzJ2NzLrZ=TWBAvYqJdJHSXJEc1-Jw@mail.gmail.com",
-      "subject": "Shadowing Friday",
-      "sender": "Jay Youn <younjw23@gmail.com>",
-      "date": "Tue Apr 07 2026 12:57:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655F872CCE028BF1C2CC172C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "Call Proposal",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 12:36:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB5618B4D9CC2979294962BFB4F55AA@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Tue Apr 07 2026 12:26:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB326529FB98120D11F92D596FFC5AA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Tue Apr 07 2026 10:38:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGTp5N-Fwg5SyzyKVhbTrG9m=8sT8ac6VyHi-9AmDyjGZw@mail.gmail.com",
-      "subject": "Re: Regulating Together Program- TCSC Group Room Reservation",
+      "id": "CAFMPgGS4Sj6Wu3Taj=nEhSy03K2TNn=2Rx9OHS_6=3ouAyrzzQ@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] purchase for RT group",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Tue Apr 07 2026 10:04:51 GMT-0500 (Central Daylight Time)",
+      "date": "Wed Apr 01 2026 14:28:54 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "BL4PR06MB9973271DE11CF6C620E6AA74E85AA@BL4PR06MB9973.namprd06.prod.outlook.com",
-      "subject": "PTO request",
-      "sender": "\"Lagrone, Jacquelyn M\" <lagrone@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 10:02:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB1065518BD3FD5BDC5D7FDE4CBC55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Payment for RT Training",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 09:55:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAH71Vwg7Tw+8yrxAdUUh-kyxB1X-x1Zja3MELiNi7XddurQuWQ@mail.gmail.com",
-      "subject": "Re: Regulating Together Program- TCSC Group Room Reservation",
-      "sender": "Jessica De la rosa <jessica.de.la.rosa@ascension.org>",
-      "date": "Tue Apr 07 2026 09:54:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGRd7=tCNX9p-AAUGHOKoe9RC-pAnR6y=529Lo3L7hUY3A@mail.gmail.com",
-      "subject": "Re: Regulating Together Program- TCSC Group Room Reservation",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
-      "date": "Tue Apr 07 2026 09:50:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf67TfKjAcF8ZWQurWVUbh+2GvQULWByWjsX5=gu=skA5vw@mail.gmail.com",
-      "subject": "Fwd: Weekday MHU coverage",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Apr 07 2026 08:56:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA1PR06MB110967877B12DC738CE59B3D7D85AA@IA1PR06MB11096.namprd06.prod.outlook.com",
-      "subject": "Re: Getting started on June R01 submission",
-      "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 08:33:44 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "010f019d668a8878-623be89b-f1b2-4072-a221-6cc4a061521a-000000@us-east-2.amazonses.com",
-      "subject": "JAACAP Open Editor Summary - [EMID:393eb92194d366b1]",
+      "id": "010f019d4a5f5406-78c3122f-f6b8-4681-87a0-d334491d50f1-000000@us-east-2.amazonses.com",
+      "subject": "Reviews Complete JAACAPOPEN-D-25-00172R1 - [EMID:2049c9fdb5738563]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Tue Apr 07 2026 01:04:13 GMT-0500 (Central Daylight Time)",
+      "date": "Wed Apr 01 2026 13:47:47 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CA+2uqrU5JHoZZ6eXsfqQLdzO2GKYFtwbDVrdRVEoZEmDiKbBnA@mail.gmail.com",
-      "subject": "Re: Prospective Medical Student Research Fellow",
-      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
-      "date": "Mon Apr 06 2026 18:17:03 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BY3PR06MB7908E620B68A9C59084331AAD05DA@BY3PR06MB7908.namprd06.prod.outlook.com",
-      "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "Lief Fenno <lief.fenno@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:47:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "422175EC-18B5-49B9-92BD-CA7C10D4EA79@austin.utexas.edu",
-      "subject": "Re: [Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:43:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "0614ABEF-862C-4782-B3B8-A5AB8B4996A4@austin.utexas.edu",
-      "subject": "Re: WAVE project",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 16:44:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV2PR06MB9997349D75316BB23A615F6112D25DA@LV2PR06MB999734.namprd06.prod.outlook.com",
-      "subject": "TCDS ECHO: Please review and submit form",
+      "id": "LV2PR06MB9997344037240CD0F8DFF05A90D250A@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "ACT LEND Program Showcase Invite",
       "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 16:36:56 GMT-0500 (Central Daylight Time)",
+      "date": "Wed Apr 01 2026 13:20:47 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CAMFZdz3s0Twdu+_L_PfTKBOZk-xUz+hhSzjrAhj-y=W2Lz8sUg@mail.gmail.com",
-      "subject": "Onboarding DCMC",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Mon Apr 06 2026 16:03:13 GMT-0500 (Central Daylight Time)",
+      "id": "tyzWbdhxSlG42G_SH9zdIw@geopod-ismtpd-canary-0",
+      "subject": "Ascension Disclosure of Financial Relationships - ACTION REQUIRED",
+      "sender": "Ascension <ce-cme@ascension-ce-cme.cloud-cme.com>",
+      "date": "Wed Apr 01 2026 13:06:34 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "26ADE66A-0378-4AF4-A70B-47ED6FBE72D7@austin.utexas.edu",
-      "subject": "Fwd: Request for call to learn about UTDMS YAM",
-      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:59:47 GMT-0500 (Central Daylight Time)",
+      "id": "LV5PR06MB11266DB034D1BBCCA1E3E25CCBA50A@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "Re: 3/26 APT Committee Meeting: Minutes and Action Items",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Wed Apr 01 2026 09:54:29 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DS7PR06MB698327373A3F1C91FCC5D81DD55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
-      "subject": "RE: Alexandra Thomas Zoom Interview Itinerary",
-      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:53:12 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CO6PR06MB731665634AD95A4DAEF04688BE5DA@CO6PR06MB7316.namprd06.prod.outlook.com",
-      "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
-      "sender": "Tara Upchurch <tara.upchurch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:30:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BL0PR06MB4850D47AC832E824709E2903A65DA@BL0PR06MB4850.namprd06.prod.outlook.com",
-      "subject": "Thank you.. !",
+      "id": "DM6PR06MB48580025C3FFE492B044A79FA650A@DM6PR06MB4858.namprd06.prod.outlook.com",
+      "subject": "connecting",
       "sender": "\"Mian, Amir\" <amir.mian@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:52:28 GMT-0500 (Central Daylight Time)",
+      "date": "Wed Apr 01 2026 09:19:56 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DM6PR13MB31799CA7058ADDE3CFBB677BEF5DA@DM6PR13MB3179.namprd13.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:49:41 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107113FA5488C06807A298C24B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:48:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107111F9B160D9468A0C16104B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: PCR | UT DMS | 2026-02-06 Response",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:47:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "MN2PR04MB6175EAEF7BD55AF922B79853AE5DA@MN2PR04MB6175.namprd04.prod.outlook.com",
-      "subject": "Re: PCR | UT DMS | 2026-02-06 Response",
-      "sender": "\"Jew, Rachel\" <rjew@utsystem.edu>",
-      "date": "Mon Apr 06 2026 14:38:24 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107114117BB51B54CC6B5A76CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:25:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALZkp+t4rG3827O6WPMzTYGf30_w92PpHUeou8fSSrWi7o_X3w@mail.gmail.com",
-      "subject": "Valencia -- Request PTO for 5/2026",
-      "sender": "Celeste Valencia <Celeste.Valencia@ascension-external.org>",
-      "date": "Mon Apr 06 2026 14:21:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR13MB3179FB1E04BE076AA9D07A61EF5DA@DM6PR13MB3179.namprd13.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:18:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR13MB62762EEF2A573F312ED40ECA8A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
-      "subject": "RE: Grant proposal meeting",
-      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:13:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071110B3DF1D12901B40EC24B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:08:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR13MB627626CE99A87F62A8F9C29D8A5DA@DS0PR13MB6276.namprd13.prod.outlook.com",
-      "subject": "RE: Grant proposal meeting",
-      "sender": "Debra A MacKenzie <DMacKenzie@salud.unm.edu>",
-      "date": "Mon Apr 06 2026 14:08:29 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB56185CDCACD8197409085147F55DA@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "RE: Grant proposal meeting",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Mon Apr 06 2026 14:07:17 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711780C492D2D64EFA519F4B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Pin this - AADCAP Banquet Ticket",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 14:06:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CO1PR22MB27690CD84F0DF6EF4A04EF34CB5DA@CO1PR22MB2769.namprd22.prod.outlook.com",
-      "subject": "Re: JAACAP Open AE Team Meeting",
-      "sender": "Manpreet K. Singh <mksingh@jaacap.org>",
-      "date": "Mon Apr 06 2026 14:05:21 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "2e0bb51a-64aa-499f-b941-a31ad93ee503@smtp-relay.sendinblue.com",
-      "subject": "AACAP Awards Submission Endorsement Request",
-      "sender": "aacap2@confex.com",
-      "date": "Mon Apr 06 2026 14:05:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "gHkiAgzlQGGVm26eSCd_Dg@geopod-ismtpd-2",
-      "subject": "Thanks for registering! Here are your tickets",
-      "sender": "AADCAP <info@aadcap.org>",
-      "date": "Mon Apr 06 2026 14:04:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS7PR06MB698344FBFC722352D5CFBDEED55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
-      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:57:15 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS7PR06MB69833D5FD5984C936405CAFED55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
-      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:47:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742F3071DB474CBA6CFD061BE5DA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Payment for RT Training",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:39:27 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711431B90A1487B0814939DB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:36:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711A195B11470E333FCFA9CB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Grant proposal meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:34:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS7PR06MB69833DCD3EFF56AA97A0DC3AD55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
-      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:14:41 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS7PR06MB6983275B43F42C382F3A06F4D55DA@DS7PR06MB6983.namprd06.prod.outlook.com",
-      "subject": "RE: Dr. Alexandra Thomas Zoom Interview - Young Shin",
-      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:06:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BL4PR06MB9575C6883FC2C6A9D7DF93DD9D5DA@BL4PR06MB9575.namprd06.prod.outlook.com",
-      "subject": "[peds-division-directors] 4/7/26 - Pediatric Division Director Meeting Agenda",
-      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 12:59:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "728CE8A8-5D1C-43A7-AD19-8B53C0816D1A@austin.utexas.edu",
-      "subject": "Grant proposal meeting",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 12:52:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107117C27A969ED8F69E17458B85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Prospective Medical Student Research Fellow",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 11:41:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "cgxt1EZiUhk2KGpDMSbCgkdmM1XH4JxFYubEhi5WVY@redcap.ascension.org",
-      "subject": "RE: CR-26-087 || INSPIRE Data Bank - Consent Form(s) REVISIONS REQUIRED",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 11:32:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "cntMgzAbf6WJmVmd7P79JfbkRxDdQEriVaPnGNJs@redcap.ascension.org",
-      "subject": "RE: CR-26-083 || WAVE Pilot Study - Consent Form(s) REVISIONS REQUIRED",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 11:17:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf65tQMOp-ynUkjCUzC5NOxfAJ-GdEMZmjw8ca5sa1cs9fg@mail.gmail.com",
-      "subject": "SPARC Elective Spring Retreat Feedback 25-26",
+      "id": "CANYCf65tn_0i89ze1fEE2bGZY5SD-WZe9r1FO5ROqhiqQFTJjA@mail.gmail.com",
+      "subject": "PMHNP Student Rotations Fall 2026 - Planning!",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:46:13 GMT-0500 (Central Daylight Time)",
+      "date": "Tue Mar 31 2026 16:32:42 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CAFMPgGQat0LaNqXvwu4FkZJgxQY7yV51mAZcwZSAif815S2sTg@mail.gmail.com",
-      "subject": "Fwd: CR-26-087 || Site Approval Request Submission Confirmation",
+      "id": "CACwu7d0aVe9sBp=rPBT=KsRDz1iqA+qcqUy5qG+dODPuB9T+Lw@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] HTB POD Issue",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Tue Mar 31 2026 15:37:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB106554415156ED0F9B12D76C6C553A@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "Everything You Want to Know About Publishing Quality-Improvement Work (But Were Afraid to Ask)",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 12:29:55 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR06MB99973497F77090A2D9F199D040D253A@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "Re: ECHO Session 3, Review & Submit",
+      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 10:37:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "PH0PR06MB7772B5E7D3F60CA20C306F06AF53A@PH0PR06MB7772.namprd06.prod.outlook.com",
+      "subject": "RE: [EXTERNAL] Sophia Wang Interview Feedback",
+      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 10:21:41 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB1019486D8AE97CD4F592F67CDC353A@DS1PR06MB10194.namprd06.prod.outlook.com",
+      "subject": "FOLLOW-UP'S: Puja/Debbie/Kari/Young Shin",
+      "sender": "\"Trammell, Shannon K\" <shannon.trammell@austin.utexas.edu>",
+      "date": "Tue Mar 31 2026 08:50:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d425d958a-1b3793c8-8330-4395-89c2-b6a54c4712d1-000000@us-east-2.amazonses.com",
+      "subject": "Reminder of Late Review for JAACAPOPEN-D-25-00196R1 - [EMID:5f6fde0f78cccbab]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Mar 31 2026 00:28:50 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d425d99e4-7bff981f-cbcd-458b-b7a9-0a1f7252d872-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:835359d3fae6bf9c]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Mar 31 2026 00:28:49 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "274C11E6-478B-4B62-8EC5-00B9BE589AFD@ucsf.edu",
+      "subject": "Tentative schedule?",
+      "sender": "\"Bishop, Somer\" <Somer.Bishop@ucsf.edu>",
+      "date": "Mon Mar 30 2026 20:06:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGSLP67dxJZDazbmGpnEYokMoyDPnR6G=87DDCD0NsW0Fw@mail.gmail.com",
+      "subject": "INSPIRE SAT Question",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Mon Apr 06 2026 10:34:11 GMT-0500 (Central Daylight Time)",
+      "date": "Mon Mar 30 2026 12:19:33 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CAFMPgGRhkhf6JQGzO+xr8N=uDkU_S2Ui2HGAJxMjWiE0M_FAGg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] STUDY00009102 received a comment",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Mon Apr 06 2026 10:33:51 GMT-0500 (Central Daylight Time)",
+      "id": "CAB+P=v4u31GZgT1EDyC2_4_uQ-aeLMKqQXfsS_mFRaq0MR0TXQ@mail.gmail.com",
+      "subject": "Re: [UTEXAS: POSSIBLY MALICIOUS CONTENT] Follow up items",
+      "sender": "Elise Scipioni <elise@bluegoji.com>",
+      "date": "Mon Mar 30 2026 10:53:28 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CH2PR06MB66964658F4D2A8E6B135F0BFED5DA@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Re: STUDY00009102 received a comment",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Mon Apr 06 2026 10:17:33 GMT-0500 (Central Daylight Time)",
+      "id": "DS7PR06MB6983A76CE877485E2E610CF4D552A@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "Alexandra Thomas Zoom Interview Itinerary",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Mon Mar 30 2026 09:17:14 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CANYCf65RU12FY1=-de25gdb6shGL9kx_hTuk2S2spc109rbwgQ@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Time Off Request - May 2026",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:14:22 GMT-0500 (Central Daylight Time)",
+      "id": "LV5PR06MB112661AA5136DA0C68A764382BA57A@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "3/26 APT Committee Meeting: Minutes and Action Items",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Fri Mar 27 2026 13:43:12 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CANYCf64p-scp-g7+=2o=mdf3dF21o7=HpT8HfsZg4MCOUY+0kg@mail.gmail.com",
-      "subject": "Time Off Request - May 2026",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 06 2026 10:11:08 GMT-0500 (Central Daylight Time)",
+      "id": "DS0PR06MB90888CA3EAC193E643907C25D457A@DS0PR06MB9088.namprd06.prod.outlook.com",
+      "subject": "C.C. Progress Note 3/27/26",
+      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
+      "date": "Fri Mar 27 2026 11:43:30 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DM3PPF569F3D3B370AAE5C369DC650166B1A95DA@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
+      "id": "DS0PR06MB90886BA62B15DA870ECF4F1FD457A@DS0PR06MB9088.namprd06.prod.outlook.com",
+      "subject": "K.G. Progress Note 3/27/26",
+      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
+      "date": "Fri Mar 27 2026 11:15:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS4PR06MB1093077B79BDFB22E6060D268C457A@DS4PR06MB10930.namprd06.prod.outlook.com",
+      "subject": "FW: Thank You from Outgoing Dean Im",
+      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
+      "date": "Fri Mar 27 2026 10:01:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BN7PR06MB51705A5631BE2DFA9652271EB357A@BN7PR06MB5170.namprd06.prod.outlook.com",
+      "subject": "Recruiting Visit - Jamie Peters, PhD",
+      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
+      "date": "Fri Mar 27 2026 09:05:54 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CALLNj4fTweBjnssXR=qv1TQTaK931_AJac0T40=oPkHTD_S=kw@mail.gmail.com",
+      "subject": "-phi- KG update for 3/27 visit",
+      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
+      "date": "Thu Mar 26 2026 21:54:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACRBQ8MQMagUYmLFGPeys4GX8LmzjYbmBt14__fZOAg0__knGA@mail.gmail.com",
+      "subject": "(no subject)",
+      "sender": "Jane Ripperger-Suhler <JARippergersuhler@ascension.org>",
+      "date": "Thu Mar 26 2026 16:15:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1071187F88F078173DA2EEACCB856A@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: DECISION NEEDED: All-Division Meeting Dates",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Thu Mar 26 2026 14:35:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019d2b168ce2-8ded4fe4-186b-4a5f-9ddf-ab2d4baccd67-000000@us-west-2.amazonses.com",
+      "subject": "Kivuto Customer Support - Ticket ID: KIVUCS-17024 - New Request: OTH Support Request Form",
+      "sender": "Kivuto Customer Support <KIVUCS@kivuto.com>",
+      "date": "Thu Mar 26 2026 12:00:00 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM3PPF569F3D3B30178B592C73CFC664C1FA956A@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
+      "subject": "RE: EO Meet w/ Young Shin",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Thu Mar 26 2026 10:38:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "5F0ECFBB-C795-41F7-93F4-8A329C48870F@yahoo.com",
+      "subject": "Re: Great catching up at AACaP",
+      "sender": "iliyan ivanov <iliyani@yahoo.com>",
+      "date": "Thu Mar 26 2026 08:28:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d28b6d30b-d526c8f6-0861-4559-908f-4154cec2d0ba-000000@us-east-2.amazonses.com",
+      "subject": "Reminder of Late Review for JAACAPOPEN-D-25-00196R1 - [EMID:64ade40b27623a65]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Thu Mar 26 2026 00:56:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "7BF6BB5B-8C58-4DCC-BD2D-07BD1893883B@austin.utexas.edu",
+      "subject": "DPRI 2.0 Narrative",
+      "sender": "\"Ekker, Stephen C\" <stephen.ekker@austin.utexas.edu>",
+      "date": "Wed Mar 25 2026 22:32:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA2PR06MB76257D0810409B83CFDE309DFE56A@SA2PR06MB7625.namprd06.prod.outlook.com",
+      "subject": "Down syndrome association cocktail bash",
+      "sender": "\"Cohen, Deborah\" <dacohen@austin.utexas.edu>",
+      "date": "Wed Mar 25 2026 19:35:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "11208672936.4@informz.net",
+      "subject": "Your Voice Matters: Announcing the 2026 AACAP Election Slate",
+      "sender": "AACAP Executive Office <executive@aacap.org>",
+      "date": "Wed Mar 25 2026 15:14:06 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz1JCvJhkG0z2=rOKrwFrOkuY=+jRwXBRk43PwnDGPt+Bg@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] FOR REVIEW: Long-Term Planning Draft and Data/Metrics Request",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Wed Mar 25 2026 14:32:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "1023754369.346597321774451720849.JavaMail.app@bg31-ca-ue1.prod.awspr",
+      "subject": "Dr. Sara Pavitt Named Chief of Child Neurology at Dell Children’s",
+      "sender": "\"Adam Messer, President, Dell Children's Medical Center\" <txfeedback@ascension.org>",
+      "date": "Wed Mar 25 2026 10:17:30 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "96980078550c57ada7bd8bab8.e3e94af9b0.20260325141526.28bf9c959f.17aa3039@mail59.suw231.rsgsv.net",
+      "subject": "Your $264 Gift Card Balance Is Waiting",
+      "sender": "Viva Day Spa + Med Spa <info@vivadayspa.com>",
+      "date": "Wed Mar 25 2026 09:17:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANR6XRCpLfb_1jtmZLdj5XLAwYz9xwHF3FbiGu9ZeyP4hj3bcw@mail.gmail.com",
+      "subject": "Re: RE: [EXTERNAL] SAGE Research Recruitment through Pediatric Neurology",
+      "sender": "Jenny Cahill <jccahill@ascension.org>",
+      "date": "Wed Mar 25 2026 08:54:58 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SJ2PR12MB88824AC4A32C78F20FC3E9AC9649A@SJ2PR12MB8882.namprd12.prod.outlook.com",
+      "subject": "AACAP Substance Use Fellowship",
+      "sender": "\"Park, Yusol (Medical Student)\" <YAPark@mednet.ucla.edu>",
+      "date": "Tue Mar 24 2026 22:44:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0B916301-4DD3-4A3A-8B5D-C913C2D29620@austin.utexas.edu",
+      "subject": "Dell Children’s",
+      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
+      "date": "Tue Mar 24 2026 18:23:49 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB101948F67AB9542722BB03522C348A@DS1PR06MB10194.namprd06.prod.outlook.com",
+      "subject": "DECISION NEEDED: All-Division Meeting Dates",
+      "sender": "\"Trammell, Shannon K\" <shannon.trammell@austin.utexas.edu>",
+      "date": "Tue Mar 24 2026 15:44:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKWPZpWs0YXPGT8odCN=ZAOj4WY7Ap7h6j+ufMC27hm9W-NmdQ@mail.gmail.com",
+      "subject": "Volunteer Research Opportunities",
+      "sender": "Zoe Bronwasser <zowensatx@gmail.com>",
+      "date": "Tue Mar 24 2026 14:48:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA2PR06MB7370FE0CD3A12EF5AD38FB48E748A@SA2PR06MB7370.namprd06.prod.outlook.com",
+      "subject": "EHP Update",
+      "sender": "DellMed Employee Health <DellMedEmployeeHealth@austin.utexas.edu>",
+      "date": "Tue Mar 24 2026 14:03:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SJ0PR04MB7213346CEF98F3BB448C460BDF48A@SJ0PR04MB7213.namprd04.prod.outlook.com",
+      "subject": "Discussion Item/Resource Policy - EC Meeting, Monday, March 30",
+      "sender": "\"Garcia, Gabriela\" <gabgarcia@utsystem.edu>",
+      "date": "Tue Mar 24 2026 13:43:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR06MB999734975B61D50FEC574363E7D24FA@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "ECHO Session 3, Review & Submit",
+      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
+      "date": "Tue Mar 24 2026 09:34:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "PH0PR06MB73172555601B86B9226EB7EDBE48A@PH0PR06MB7317.namprd06.prod.outlook.com",
+      "subject": "FW: Volunteer Research Opportunities",
+      "sender": "Tara Upchurch <tara.upchurch@austin.utexas.edu>",
+      "date": "Tue Mar 24 2026 08:36:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d1e74eba3-f0d9e3eb-91be-45f9-a5c5-99e6d8208a7b-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:8e600ec083a9b559]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Mar 24 2026 01:07:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d1bbea9d7-91764027-74dd-4757-a363-53ad0189ccd1-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-25-00172R1 Editor Reminder - [EMID:cd6e652b955a95da]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Mar 23 2026 12:29:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d1bbea9d4-0a1bb77c-a4e1-4975-ae40-2070d93b8610-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-25-00163R1 Editor Reminder - [EMID:3cc1d0734bf7e0a6]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Mar 23 2026 12:29:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d1bbea9e7-a30a0da8-b333-4e57-9ceb-631b54395375-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00021 Editor Reminder - [EMID:7e33fa90f1a1c74c]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Mar 23 2026 12:29:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM3PPF569F3D3B3647982D404BE47B14D42A94BA@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
       "subject": "Papers for JAACAP Open AE Team Meeting on Wednesday?",
       "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
-      "date": "Mon Apr 06 2026 09:27:42 GMT-0500 (Central Daylight Time)",
+      "date": "Mon Mar 23 2026 12:06:35 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "FW: Cabinet",
-      "sender": "Kelsey Koch (DMS) <kelsey.koch1@ascension-external.org>",
-      "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
+      "id": "BY1PR06MB106811A6401DB6D302912B38DA34BA@BY1PR06MB10681.namprd06.prod.outlook.com",
+      "subject": "Precepting UT Student",
+      "sender": "\"Allison-Kolb, Sarah K\" <sarah.allisonkolb@austin.utexas.edu>",
+      "date": "Mon Mar 23 2026 11:18:37 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DM5PR08MB344957BF36FEC2BB9E68F29C815DA@DM5PR08MB3449.namprd08.prod.outlook.com",
-      "subject": "RE: Author query THELANCET THELANCET-D-26-01935",
-      "sender": "\"Lancet, Editorial (ELS)\" <editorial@lancet.com>",
-      "date": "Mon Apr 06 2026 08:09:16 GMT-0500 (Central Daylight Time)",
+      "id": "0.0.1.AA.1DCBADE988A37F6.220054@rspmtadfw-02.alchemer.com",
+      "subject": "AACAP 2026 Election",
+      "sender": "AACAP <AACAP@intelliscanvotes.com>",
+      "date": "Mon Mar 23 2026 11:03:37 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "LHmGoScImuxkAkNrdBs8AZo7VwZCbACQp0YjFJqYU@redcap.ascension.org",
-      "subject": "RE: CR-26-087 || Site Approval Request Submission Confirmation",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 06:21:23 GMT-0500 (Central Daylight Time)",
+      "id": "CAEncoAXkptxWS9HXMyZXR14QQ4EnS1whKg2a=biEnM7Rfxee6A@mail.gmail.com",
+      "subject": "Re: Clarification on Accepted Insurances - TCSC/Embedded Clinics",
+      "sender": "Grace Brady <grace.brady@ascension.org>",
+      "date": "Mon Mar 23 2026 09:49:15 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "WKSBxc9C3LvhmPfZFpiYYUmEIbq9jeSxWhoB3jDNMnw@redcap.ascension.org",
-      "subject": "RE: CR-26-087 || Site Approval Request - Track Your Submission",
-      "sender": "txaus-mb-siteapproval@ascension.org",
-      "date": "Mon Apr 06 2026 06:21:21 GMT-0500 (Central Daylight Time)",
+      "id": "CAEncoAVeeOTLBvZK3jLMOsxubMTeosy33Yza5Pee_gacMV6htA@mail.gmail.com",
+      "subject": "Clinic Closed Good Friday",
+      "sender": "Grace Brady <grace.brady@ascension.org>",
+      "date": "Fri Mar 20 2026 15:41:37 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "HRSPUTAPROD2c6hcbsZ00000019@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00008537 is waiting for clarification",
-      "sender": "no-reply@utexas.edu",
-      "date": "Sun Apr 05 2026 01:00:37 GMT-0500 (Central Daylight Time)",
+      "id": "autogen-java-57d85c8f-7a37-44ed-888a-1d09fa1845ac@google.com",
+      "subject": "Invitation to respond to the form \"CAP Policy Votes\"",
+      "sender": "Vanessa Castillo (via Google Forms) <vanessa.castillo@ascension.org>",
+      "date": "Fri Mar 20 2026 15:31:12 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "BYAPR08MB4871790F220518C0DD36D30CED5FA@BYAPR08MB4871.namprd08.prod.outlook.com",
-      "subject": "RE: Kind Follow‑Up Regarding My Son’s Prescription _ Bian Shin (Walgreens Pharmacy)",
-      "sender": "\"Shin, GilWoo\" <gilwoo.shin@asm.com>",
-      "date": "Sat Apr 04 2026 17:13:06 GMT-0500 (Central Daylight Time)",
+      "id": "CACM56_yGjgnkCV3yiFmrB==4KNjDB+2MFO94M2hhXdMETZgSjw@mail.gmail.com",
+      "subject": "Re: NBCS CBCL paper acknowledgements",
+      "sender": "MINA KREUTZER JOO <minakjoo@g.ucla.edu>",
+      "date": "Fri Mar 20 2026 14:59:11 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DM5PR0601MB37490CAB838E120A91B7BD44D15EA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "Re: CME and CEU- Claim Credit for Grand Rounds on 3.31.26",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 16:33:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR06MB847585E6AE01F933DC17FCC9FB5EA@SJ0PR06MB8475.namprd06.prod.outlook.com",
-      "subject": "RE: meeting request",
-      "sender": "\"Barton, Karen M\" <kbarton@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 16:01:06 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "MW5PR19MB5603855585C818DBADABEEBAB65EA@MW5PR19MB5603.namprd19.prod.outlook.com",
-      "subject": "AADCAP: Closing Soon! Spring Meeting Registration",
-      "sender": "info@aadcap.org",
-      "date": "Fri Apr 03 2026 15:04:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB32656D8C2EEDC74BFD3D18B1FC5EA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Fri Apr 03 2026 14:51:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR17MB753191F447C89B7717FF3A55F75EA@DS4PR17MB7531.namprd17.prod.outlook.com",
-      "subject": "Re: Update: Coordinate on SBHCC Behavioral Health System Assessment Survey",
-      "sender": "Troy Duker <troy.duker@chatexas.com>",
-      "date": "Fri Apr 03 2026 14:35:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf67VnRfUz1F0tug_TQqo1TQDh75wqBC5pU00Sbky6nb_gg@mail.gmail.com",
-      "subject": "Applying for Fellowship in Medical Education",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Fri Apr 03 2026 14:14:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGS-MsgRFrVaq_LdfqHZBOdi1msdVds+nKehNh9sPK3CAA@mail.gmail.com",
-      "subject": "Re: RE: [EXTERNAL] Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 13:49:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711C75804E63210F1854696B85EA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Social Work Intern Onboarding Follow Up",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 13:23:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR0601MB37498A349851C205FF94359CD151A@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "CME and CEU- Claim Credit for Grand Rounds on 3.31.26",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 13:09:03 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d2Y9CvJEp+m_JmVt7R68O0XrQp6fpWjTE71i8ww48nfqQ@mail.gmail.com",
-      "subject": "Draft PCR Direct Patient Outreach",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Fri Apr 03 2026 13:06:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4dwQQRd-EjPuEzvev6Cm5-d6XpThX4iJcpNkLDinYDrMA@mail.gmail.com",
-      "subject": "Re: RE: [EXTERNAL] Regulating Together First Group Logistics",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Fri Apr 03 2026 12:55:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742DF7BE6A37C62BF639A95BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Regulating Together First Group Logistics",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 12:45:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB3265F54144E3021583E1A5BCFC5EA@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Fri Apr 03 2026 12:29:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4eZ8TgFSMzTXec9PaeVtGT2viUvR35rzJbp9EXDM-giFg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Fri Apr 03 2026 12:27:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGReteBTWEKL_JrB=cWZf14R=FQ89g8DitnK1AE1PhhZMg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 12:24:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR06MB90885E8694B742DE9FCED203D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "Z.M. Progress Note 4/3/26",
+      "id": "DS0PR06MB9088FE474C41A5E8B2CA54D9D44CA@DS0PR06MB9088.namprd06.prod.outlook.com",
+      "subject": "I.O. Initial Visit Note",
       "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 12:05:32 GMT-0500 (Central Daylight Time)",
+      "date": "Fri Mar 20 2026 11:14:51 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CAFMPgGSQ3ygsz_FcEj6GSjtraWnj8kC18dZzSC5X83KwKKnXyw@mail.gmail.com",
-      "subject": "Regulating Together Program- TCSC Group Room Reservation",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 10:23:17 GMT-0500 (Central Daylight Time)",
+      "id": "2128774468.10165.1774021938503@jvmail-p01.its.utexas.edu",
+      "subject": "Request for Travel Authorization (RTA) TV25324750 approved",
+      "sender": "Meail Flowers <meail.flowers@austin.utexas.edu>",
+      "date": "Fri Mar 20 2026 10:52:26 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DS0PR06MB9088DD6B04F963F4E2D834F9D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "G.N. Progress Note 4/3/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 10:18:39 GMT-0500 (Central Daylight Time)",
+      "id": "SA3PR06MB9443B1BBB4609CF34706384BD94FA@SA3PR06MB9443.namprd06.prod.outlook.com",
+      "subject": "Dataset Merge and Descriptive Analysis Summary",
+      "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
+      "date": "Thu Mar 19 2026 18:20:22 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CAFMPgGR-5Sj2fou-ttBj8V+HSXsLBSdOA5jWC5Dx+TGX6kPwwg@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Fri Apr 03 2026 10:17:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107118530798E8FFFFD1A91E2B85EA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 08:55:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655B73E7D744785DD11AB64C55EA@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: [EXTERNAL] PCR Draft for direct patient outreach",
+      "id": "DS1PR06MB106552593E42621CADE75CA60C541A@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "RE: Zingman Recruitment Ask",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 07:57:25 GMT-0500 (Central Daylight Time)",
+      "date": "Tue Mar 17 2026 16:05:39 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "CH2PR06MB67425CB7D5BC37F36F6912D5BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Follow up on $75 reading gift cards",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 07:49:02 GMT-0500 (Central Daylight Time)",
+      "id": "SA2PR06MB7370331AC55F27C5949518A1E741A@SA2PR06MB7370.namprd06.prod.outlook.com",
+      "subject": "RE: Employee Immunization Records Requirement",
+      "sender": "DellMed Employee Health <DellMedEmployeeHealth@austin.utexas.edu>",
+      "date": "Tue Mar 17 2026 15:35:13 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "BN8PR06MB619667D864FAFF09C786338ACC5EA@BN8PR06MB6196.namprd06.prod.outlook.com",
-      "subject": "Re: Shaddowing",
-      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
-      "date": "Fri Apr 03 2026 01:07:55 GMT-0500 (Central Daylight Time)",
+      "id": "CH2PR06MB66964C70A51327BFACDBA648ED45A@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Re: CTRN Project IRB",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Fri Mar 13 2026 12:53:11 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "010f019d51efcf20-f1c9416c-c9b0-4572-aea2-e1a8b0b98cfa-000000@us-east-2.amazonses.com",
-      "subject": "Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:fef6c73f051ac8ae]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Fri Apr 03 2026 01:02:48 GMT-0500 (Central Daylight Time)",
+      "id": "8F382CE1-4AAC-4FA2-9326-6CB770C0454B@gmail.com",
+      "subject": "Next appointment",
+      "sender": "Rebecca Nurse <raanurse@gmail.com>",
+      "date": "Fri Mar 13 2026 10:42:24 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     },
     {
-      "id": "DS0PR06MB9088F845C9FDB8570E48B15BD45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "Re: C.C. Progress Note 3/27/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Thu Apr 02 2026 23:47:38 GMT-0500 (Central Daylight Time)",
+      "id": "CAB+P=v4S=m1dHWQ_=+awqmP1Y12+aQUtMN0egKrY1eDFGefpZw@mail.gmail.com",
+      "subject": "Re: [UTEXAS: POSSIBLY MALICIOUS CONTENT] Follow up items",
+      "sender": "Elise Scipioni <elise@bluegoji.com>",
+      "date": "Thu Mar 12 2026 09:33:11 GMT-0500 (Central Daylight Time)",
       "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d3+g_yCfxPZREpCjBo62Vb6rRx-uhg-nGStwzah_+OF6g@mail.gmail.com",
-      "subject": "Promotion cycle",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Thu Apr 02 2026 22:14:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz2TAgNh8S5iwjs=A7BTJAVoS8Eo6BjS39bOegdrfF=1zQ@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Clinical Onboarding",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Thu Apr 02 2026 21:19:10 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR06MB9088BA9F66F3FD01FE9A3F21D45EA@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "Re: C.C. Progress Note 3/27/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Thu Apr 02 2026 21:11:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz3wfzVWmw-=QRZJU62U4SmNQcq829CxR2QQuDdesvoznw@mail.gmail.com",
-      "subject": "Clinical Onboarding",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Thu Apr 02 2026 21:01:09 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4dMBHMOvYk-nSnS=SYzFiSk_bEdpuX7CaTJPuPxHCmv5A@mail.gmail.com",
-      "subject": "Re: Regulating Together First Group Logistics",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Thu Apr 02 2026 19:13:15 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN8PR06MB61965D680456AC3D0F0D4625CC51A@BN8PR06MB6196.namprd06.prod.outlook.com",
-      "subject": "Shaddowing",
-      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
-      "date": "Thu Apr 02 2026 18:54:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV9PR06MB10799C376B887C5D21BD67FCDB951A@LV9PR06MB10799.namprd06.prod.outlook.com",
-      "subject": "Med Student Presentation: Harm Reduction Workshop for Parents of Teens",
-      "sender": "\"Harris, Z Leah\" <zena.harris@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 17:58:54 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGQivT--WmCv6W1AcukbNR37dPKp-69SWPyDxuVV9ZMiUw@mail.gmail.com",
-      "subject": "Regulating Together First Group Logistics",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Thu Apr 02 2026 17:21:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "8D910178-4E73-453C-ACE3-A3BD9D945C04@austin.utexas.edu",
-      "subject": "Re: NNDC Conference - Poster Submissions",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 17:04:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071110C32D967A58CE02B12BB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: meeting request",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 16:43:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR06MB84754DEFA48E329FD21F193EFB51A@SJ0PR06MB8475.namprd06.prod.outlook.com",
-      "subject": "RE: meeting request",
-      "sender": "\"Barton, Karen M\" <kbarton@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 16:15:37 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR06MB847542B06CF95066D7642CEDFB51A@SJ0PR06MB8475.namprd06.prod.outlook.com",
-      "subject": "RE: meeting request",
-      "sender": "\"Barton, Karen M\" <kbarton@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 16:10:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "MW5PR19MB560329FB7485577EA8645AD7B651A@MW5PR19MB5603.namprd19.prod.outlook.com",
-      "subject": "AADCAP: Closing Soon! Spring Meeting Registration - Agenda Added",
-      "sender": "info@aadcap.org",
-      "date": "Thu Apr 02 2026 15:50:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB11184A8A79D712A1423670BF4DD51A@DS4PR06MB11184.namprd06.prod.outlook.com",
-      "subject": "RE: Faculty Non-Renewal Request - Department of Psychiatry & Behavioral Sciences",
-      "sender": "\"Dobbins, Teagan\" <teagan.dobbins@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:46:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB1093062C636C425E387A45776C451A@DS4PR06MB10930.namprd06.prod.outlook.com",
-      "subject": "Re: Thank You from Outgoing Dean Im",
-      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:42:09 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071135A0F0FC365ED4DD15DCB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: meeting request",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:41:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB1071197A25A0155AFC9B3885EB851A@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Hosting Eric Carter meeting",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 15:36:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BYAPR08MB4871612212B5A170642AA4B0ED51A@BYAPR08MB4871.namprd08.prod.outlook.com",
-      "subject": "RE: Kind Follow‑Up Regarding My Son’s Prescription _ Bian Shin",
-      "sender": "\"Shin, GilWoo\" <gilwoo.shin@asm.com>",
-      "date": "Thu Apr 02 2026 15:32:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "LV3PR22MB51019CB11CA0A0652FBA7584A851A@LV3PR22MB5101.namprd22.prod.outlook.com",
-      "subject": "Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
-      "sender": "Michelle Cravez <mcravez@aacap.org>",
-      "date": "Thu Apr 02 2026 15:19:54 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
+      "flagged": true,
       "cc": ""
     }
   ]
