@@ -133,10 +133,30 @@ function deleteTask(taskId) {
   } catch(_) {}
 }
 
+async function pushTasksToGitHub() {
+  const token = localStorage.getItem('gh_token');
+  if (!token) return;
+  try {
+    const api = 'https://api.github.com/repos/kimy02-hub/youngshin-hub/contents/tasks.json';
+    const headers = { 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' };
+    const getRes = await fetch(api, { headers });
+    if (!getRes.ok) return;
+    const fileInfo = await getRes.json();
+    const content = { tasks: tasks, saved_at: new Date().toISOString() };
+    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(content, null, 2))));
+    await fetch(api, {
+      method: 'PUT', headers,
+      body: JSON.stringify({ message: 'tasks update', content: encoded, sha: fileInfo.sha })
+    });
+  } catch(_) {}
+}
+
 function saveTasks() {
   // Save to localStorage immediately - never lose data
   localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   updateMobileBadge();
+  // Push to GitHub so all devices sync
+  pushTasksToGitHub();
 }
 
 // -- EMAIL TO TASK ----------------------------------------------
