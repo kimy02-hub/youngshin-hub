@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T03:30:34.033844",
+  "fetched_at": "2026-04-07T03:45:40.607506",
   "emails": [
+    {
+      "id": "CAHkx7_JPQ25jx3NZGmPQ1w2YATcgZobOtEv7qhs08OO7a_OT9g@mail.gmail.com",
+      "subject": "Re: 성신여대 김동희입니다.",
+      "sender": "김동희 (간호학과) <dhkim@sungshin.ac.kr>",
+      "date": "Tue Apr 07 2026 03:39:15 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DM6PR10MB397900D74D2B9DEDBBF10D39FA5AA@DM6PR10MB3979.namprd10.prod.outlook.com",
       "subject": "FW: 송금 및 상품제안",
@@ -1788,15 +1797,6 @@
       "subject": "Re: CCC: Moonlighting Request - Chunara",
       "sender": "Victoria Felkl (DMS) <victoria.felkl@ascension-external.org>",
       "date": "Tue Mar 31 2026 13:40:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf66u=3RX=4vbP12PJ2r4Srm+MnE0vBkZFyrEF9U6w_zn0w@mail.gmail.com",
-      "subject": "Re: CCC: Moonlighting Request - Chunara",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Tue Mar 31 2026 13:35:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
