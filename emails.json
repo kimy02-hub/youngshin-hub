@@ -1,6 +1,51 @@
 {
-  "fetched_at": "2026-04-07T11:30:27.043105",
+  "fetched_at": "2026-04-07T11:45:30.730694",
   "emails": [
+    {
+      "id": "DS1PR06MB10655F82B78586275D5F40BB0C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "RE: Kim FTE",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 11:44:12 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "calendar-58c080ee-16f4-4ad2-bc32-edab3bde014f@google.com",
+      "subject": "Accepted: Prospective Medical Student Research Fellow @ Mon Apr 13, 2026 11am - 11:30am (CDT) (Eshan Sayani)",
+      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
+      "date": "Tue Apr 07 2026 11:43:56 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CO1PR06MB8060C1875BFEB6AF74BA4FF6C25AA@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "Re: Journal Club 4/14",
+      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 11:41:10 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CAO9MUiaVZAjOerTnEiOLbVOgeY0PDjrFs3g43=ruvVk4WVcf0g@mail.gmail.com",
+      "subject": "Re: Scheduling for 10 week group - Regulating Together",
+      "sender": "Ali Hernandez <ali.hernandez3@ascension.org>",
+      "date": "Tue Apr 07 2026 11:32:23 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB106559CE75EEE24DE1816C730C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "Kim FTE",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 11:32:20 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "IA3PR06MB107115214A6201AE54A71C8D0B85AA@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "Re: Dinner with Dev Manoli in May",
@@ -537,15 +582,6 @@
       "subject": "Final verification of author information for TD GWAS manuscript submission",
       "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
       "date": "Wed Apr 01 2026 16:55:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB517044457DE47E18D10F5410B350A@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "ADAA CAP Patient Guide - Chapter PAST DUE",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Wed Apr 01 2026 15:21:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -1761,42 +1797,6 @@
       "subject": "[texashealthcatalystapplicants] Thank You and Best Wishes for Your Continued Success",
       "sender": "\"Rathnasingham, Ruben\" <Rubenr@austin.utexas.edu>",
       "date": "Wed Apr 01 2026 17:17:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d0EH1kXgx2MYOaHqm58KMoU0fRTGRGPMTS-QWG5Sh0FVA@mail.gmail.com",
-      "subject": "Re: FW: [EXTERNAL] PeriPAN IE Survey - Concern noted",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Wed Apr 01 2026 16:54:14 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz3YrPD7CtUf38Q2XxPs0De-=bkLCgob2zmvKxz5ih43ag@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Question",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Wed Apr 01 2026 16:08:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf656QPzg=j1N5vqO5SF44Nf4kwjAxyfM27-8MTn8soxKSw@mail.gmail.com",
-      "subject": "CAP Fellow Awards 2026 - Votes Open 4/1/26 - 4/24/26",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Wed Apr 01 2026 15:36:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "PH0PR02MB7589C2B6D0B1F3C3DC943E91F450A@PH0PR02MB7589.namprd02.prod.outlook.com",
-      "subject": "Re: Reviewer Invitation Reminder JAACAPOPEN-D-25-00163R1 - [EMID:9754f53deb860447]",
-      "sender": "Bora Kim <borakim2@stanford.edu>",
-      "date": "Wed Apr 01 2026 15:19:34 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
