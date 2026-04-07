@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T00:45:27.408381",
+  "fetched_at": "2026-04-07T01:00:27.579422",
   "emails": [
+    {
+      "id": "DM6PR10MB397900D74D2B9DEDBBF10D39FA5AA@DM6PR10MB3979.namprd10.prod.outlook.com",
+      "subject": "FW: 송금 및 상품제안",
+      "sender": "Young Shin Kim <kimy02@gmail.com>",
+      "date": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "D504D566-95F9-4C02-B37F-E6487D4CBF19@austin.utexas.edu",
       "subject": "Re: CR-26-083 || WAVE Pilot Study",
@@ -1788,15 +1797,6 @@
       "subject": "Requiring sign-off: WAVE ISO Policy Exception (Expired - 15 March 2026)",
       "sender": "Yoon jae Cho <yoon.jae.cho@ascension.org>",
       "date": "Tue Mar 31 2026 13:29:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CAMMASR6wy5anTCEwfq6kUVQKzWc6QxmfnGv514iNd4dTsTis4Q@mail.gmail.com",
-      "subject": "Re: HILLC-0250088 - Hill Country Community Mental Health and Mental Retardation Center",
-      "sender": "Melissa Cole cammack <melissa.cammack@ascension.org>",
-      "date": "Tue Mar 31 2026 12:52:35 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
