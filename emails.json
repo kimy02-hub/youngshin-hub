@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T12:30:29.778802",
+  "fetched_at": "2026-04-07T12:45:32.568815",
   "emails": [
+    {
+      "id": "DS1PR06MB10655F872CCE028BF1C2CC172C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "Call Proposal",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 12:36:26 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "BN7PR08MB5618B4D9CC2979294962BFB4F55AA@BN7PR08MB5618.namprd08.prod.outlook.com",
       "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
@@ -1093,7 +1102,7 @@
     {
       "id": "IA3PR06MB10711621AE186E97F2E02EFBCB85DA@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "FW: Cabinet",
-      "sender": "Kelsey Koch (DMS) <kelsey.koch1@ascension-external.org>",
+      "sender": "\"Kelsey Koch (DMS)\" <kelsey.koch1@ascension-external.org>",
       "date": "Mon Apr 06 2026 08:20:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
@@ -1788,15 +1797,6 @@
       "subject": "ClinicalTrials.gov PRS Account Reset",
       "sender": "ClinicalTrials.gov Registration <register@clinicaltrials.gov>",
       "date": "Wed Apr 01 2026 23:36:41 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB561802A16E3D83C6FA1F0223F551A@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "RE: AACAP Substance Use Fellowship",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Wed Apr 01 2026 20:11:44 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
