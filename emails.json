@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-04-07T13:45:37.921676",
+  "fetched_at": "2026-04-07T14:01:03.474045",
   "emails": [
+    {
+      "id": "CANYCf66sOAv_=kHpdeVd4t75K7LE=jaObtoYCMUWUA_BKbbw4Q@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] PTO request",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Tue Apr 07 2026 13:59:07 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1130660B970A6C31BDE6BDEFFCA5AA@IA3PR06MB11306.namprd06.prod.outlook.com",
+      "subject": "Re: Meeting Request with Dr. Kochel",
+      "sender": "\"Kochel, Robin Page\" <kochel@bcm.edu>",
+      "date": "Tue Apr 07 2026 13:55:47 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742FE676CA7A07081F5A119BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Follow up on $75 reading gift cards",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 13:55:28 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB106550E0B720E86A24FDC41C3C55AA@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "RE: Dell Children's - PRC Approval - Gandhi replacement",
@@ -627,15 +654,6 @@
       "subject": "RE: Final verification of author information for TD GWAS manuscript submission",
       "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
       "date": "Thu Apr 02 2026 10:01:01 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
-      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
-      "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
-      "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -1779,24 +1797,6 @@
       "subject": "Re: ECHO Session 3, Review & Submit",
       "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
       "date": "Thu Apr 02 2026 09:05:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB64133F42BA323633AEA6B4508851A@SN6PR06MB6413.namprd06.prod.outlook.com",
-      "subject": "[Psy Research Faculty] NNDC Conference - Poster Submissions",
-      "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <dellmedpsych@austin.utexas.edu>",
-      "date": "Thu Apr 02 2026 09:03:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d1dyZS5ZpXSH1Hc4Km+ULcnheKbZ78XEOxNyHb9zjgpcg@mail.gmail.com",
-      "subject": "Re: Help with Referrals at TCSC",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Thu Apr 02 2026 09:02:53 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
