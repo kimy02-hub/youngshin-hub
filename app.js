@@ -374,12 +374,27 @@ function updateMobileBadge() {
 
 // -- AUTO REFRESH --
 function startAutoRefresh() {
-  // Refresh emails and tasks every 15 minutes automatically
+  // Refresh every 5 minutes
+  const INTERVAL = 5 * 60 * 1000;
+  let nextRefresh = Date.now() + INTERVAL;
+
+  // Countdown in the last-updated label
+  setInterval(() => {
+    const secsLeft = Math.max(0, Math.round((nextRefresh - Date.now()) / 1000));
+    const mins = Math.floor(secsLeft / 60);
+    const secs = secsLeft % 60;
+    const el = document.getElementById('lastUpdated');
+    if (el && secsLeft > 0) {
+      el.textContent = el.textContent.split(' | ')[0] + ' | next in ' + mins + ':' + String(secs).padStart(2,'0');
+    }
+  }, 1000);
+
+  // Actual refresh
   setInterval(async () => {
+    nextRefresh = Date.now() + INTERVAL;
     await loadEmails();
     await loadTasks();
-    showToast('Auto-refreshed!');
-  }, 15 * 60 * 1000);
+  }, INTERVAL);
 }
 
 // -- TOAST --
