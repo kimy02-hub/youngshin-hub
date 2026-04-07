@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-07T18:24:27.522796",
+  "fetched_at": "2026-04-07T18:27:32.463688",
   "emails": [
+    {
+      "id": "E4D095A5-8C5F-4348-8B2A-8C20BA24C0D5@austin.utexas.edu",
+      "subject": "CR-26-083 || WAVE Pilot Study - IRB approval letter",
+      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 18:25:18 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": false,
+      "cc": ""
+    },
     {
       "id": "CAPjAibosgqLfiOMKHJUs9YQ-0ecrZyxK0x40+rUE+PLOoSfjHg@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] CR-26-083 || WAVE Pilot Study",
@@ -1788,15 +1797,6 @@
       "subject": "Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
       "sender": "Michelle Cravez <mcravez@aacap.org>",
       "date": "Thu Apr 02 2026 15:19:54 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": false,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD2IEAOeIi00000167@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00009102 received a comment",
-      "sender": "no-reply@utexas.edu",
-      "date": "Thu Apr 02 2026 15:18:02 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": false,
       "cc": ""
