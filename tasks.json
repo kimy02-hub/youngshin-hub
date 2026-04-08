@@ -1,43 +1,18 @@
 {
   "tasks": [
     {
-      "id": "mobile_test_1775607406289",
-      "title": "TEST from Mac - verify push works",
+      "id": "task_1775607369051",
+      "title": "Test10",
       "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T00:16:46.289Z"
-    },
-    {
-      "id": "task_1775607093332",
-      "title": "Trdt5",
-      "done": false,
-      "flagged": false,
+      "flagged": null,
       "emailId": null,
       "emailSender": null,
       "emailDate": null,
       "cc": "",
-      "due": "2026-04-07",
+      "due": null,
       "note": "",
       "subtasks": [],
-      "createdAt": "2026-04-08T00:11:33.332Z",
-      "type": "manual"
-    },
-    {
-      "id": "task_1775606996612",
-      "title": "Test2",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": "2026-04-07",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T00:09:56.612Z",
+      "createdAt": "2026-04-08T00:16:09.051Z",
       "type": "manual"
     },
     {
@@ -204,21 +179,6 @@
       "type": "email",
       "note": "Do we have IRB for reading assessments? UT IRB protocol number is necessary for gift card purchase. Get incentives to our fund we need UT IRB number. Waiver to get the record number.\nBack up plan: YNM pays the incentives and we will pay back with unspent fund.",
       "subtasks": []
-    },
-    {
-      "id": "test_sync_1775603708476",
-      "title": "SYNC TEST - added from Mac",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": null,
-      "note": "testing real-time sync",
-      "subtasks": [],
-      "createdAt": "2026-04-07T23:15:08.476Z",
-      "type": "manual"
     },
     {
       "id": "task_1775497111837",
@@ -465,7 +425,37 @@
       "doneAt": "2026-04-05T20:20:30.522Z",
       "note": "",
       "subtasks": []
+    },
+    {
+      "id": "task_1775607093332",
+      "title": "Trdt5",
+      "done": false,
+      "flagged": false,
+      "emailId": null,
+      "emailSender": null,
+      "emailDate": null,
+      "cc": "",
+      "due": "2026-04-07",
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-08T00:11:33.332Z",
+      "type": "manual"
+    },
+    {
+      "id": "task_1775606996612",
+      "title": "Test2",
+      "done": false,
+      "flagged": false,
+      "emailId": null,
+      "emailSender": null,
+      "emailDate": null,
+      "cc": "",
+      "due": "2026-04-07",
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-08T00:09:56.612Z",
+      "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T00:16:46.908Z"
+  "saved_at": "2026-04-08T00:18:30.224Z"
 }
