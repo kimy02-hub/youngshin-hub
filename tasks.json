@@ -539,22 +539,7 @@
       "note": "Ã¬ÂÂÃ«ÂÂÃ­ÂÂÃ¬ÂÂ¸Ã¬ÂÂ",
       "subtasks": [],
       "createdAt": "2026-04-08T15:37:49.915Z"
-    },
-    {
-      "id": "task_1775623954003",
-      "title": "testmacair",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": null,
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T04:52:34.003Z",
-      "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T16:14:51.211Z"
+  "saved_at": "2026-04-08T16:14:55.211Z"
 }
