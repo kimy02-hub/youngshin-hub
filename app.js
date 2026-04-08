@@ -27,7 +27,7 @@ async function pushTasks() {
     if (!gr.ok) return;
     const fi = await gr.json();
     const body = { tasks: tasks, saved_at: new Date().toISOString() };
-    const enc = btoa(unescape(encodeURIComponent(JSON.stringify(body, null, 2))));
+    const enc = btoa(encodeURIComponent(JSON.stringify(body, null, 2)).replace(/%([0-9A-F]{2})/g, function(m,p1){return String.fromCharCode(parseInt(p1,16))}));
     await fetch(API_BASE + TASKS_FILE, {
       method: 'PUT', headers: hdrs,
       body: JSON.stringify({ message: 'sync', content: enc, sha: fi.sha })
