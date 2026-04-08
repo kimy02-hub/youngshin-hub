@@ -1,28 +1,6 @@
 {
   "tasks": [
     {
-      "id": "test_1775621960558",
-      "title": "SYNC TEST",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T04:19:20.558Z",
-      "updatedAt": "2026-04-08T04:19:20.558Z"
-    },
-    {
-      "id": "synctest_1775620847773",
-      "title": "SYNC TEST 11:00:47 PM",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "test",
-      "subtasks": [],
-      "createdAt": "2026-04-08T04:00:47.773Z",
-      "updatedAt": "2026-04-08T04:00:47.773Z"
-    },
-    {
       "id": "task_1775595779400",
       "title": "Coleman Email",
       "done": false,
@@ -464,5 +442,5 @@
       "subtasks": []
     }
   ],
-  "saved_at": "2026-04-07T23:27:11.891868"
+  "saved_at": "2026-04-08T04:28:57.216Z"
 }
