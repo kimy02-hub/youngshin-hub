@@ -166,21 +166,6 @@
       "subtasks": []
     },
     {
-      "id": "test_sync_1775603708476",
-      "title": "SYNC TEST - added from Mac",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": null,
-      "note": "testing real-time sync",
-      "subtasks": [],
-      "createdAt": "2026-04-07T23:15:08.476Z",
-      "type": "manual"
-    },
-    {
       "id": "task_1775497111837",
       "title": "Grant application for environmental exposure and neurodevelopmental outcomes",
       "done": false,
@@ -427,5 +412,5 @@
       "subtasks": []
     }
   ],
-  "saved_at": "2026-04-08T00:12:59.313Z"
+  "saved_at": "2026-04-08T00:13:08.277Z"
 }
