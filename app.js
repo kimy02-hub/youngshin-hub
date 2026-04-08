@@ -45,7 +45,7 @@ async function pullTasksFromGitHub() {
     if (!res.ok) return;
     const fi = await res.json();
     if (!fi.content) return;
-    const data = JSON.parse(atob(fi.content.replace(/\n/g, '')));
+    const data = JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(fi.content.replace(/\n/g,'')),c=>c.charCodeAt(0))));
     if (!data.tasks || !data.tasks.length) return;
     // Merge: GitHub is truth + keep any local tasks not yet pushed
     const githubIds = new Set(data.tasks.map(t => t.id));
