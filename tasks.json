@@ -503,17 +503,7 @@
       "subtasks": [],
       "createdAt": "2026-04-08T04:40:53.520Z",
       "type": "manual"
-    },
-    {
-      "id": "synctest_1775662585721",
-      "title": "Korean test: Ã¬ÂÂÃ«ÂÂÃ­ÂÂÃ¬ÂÂ¸Ã¬ÂÂ",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:36:25.721Z"
     }
   ],
-  "saved_at": "2026-04-08T16:07:15.076Z"
+  "saved_at": "2026-04-08T16:07:22.363Z"
 }
