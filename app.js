@@ -143,8 +143,11 @@ async function syncTasksFromGitHub() {
     );
     // Keep local tasks not yet pushed
     const githubIds = new Set(data.tasks.map(t => t.id));
-    const localOnly = tasks.filter(t => !githubIds.has(t.id));
-    // Merge: github tasks minus deleted, plus local-only
+    // IDs deleted on GitHub (by any device)
+    const githubDeleted = new Set(data.tasks.filter(t => t.deleted).map(t => t.id));
+    // Keep local tasks not in GitHub AND not deleted on GitHub
+    const localOnly = tasks.filter(t => !githubIds.has(t.id) && !githubDeleted.has(t.id));
+    // Merge: github tasks minus any deleted, plus local-only
     tasks = [
       ...data.tasks.filter(t => !localDeleted.has(t.id) && !t.deleted),
       ...localOnly
