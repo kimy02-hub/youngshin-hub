@@ -400,7 +400,7 @@ function setupGitHubToken() {
       localStorage.removeItem('gh_token');
     } else { return; }
   }
-  const token = prompt('Paste your GitHub token (starts with ghp_):');
+  const token = prompt('Paste the sync token (ask Claude for it):');
   if (token && token.startsWith('ghp_')) {
     localStorage.setItem('gh_token', token.trim());
     alert('Token saved! This device can now sync tasks instantly.');
@@ -409,11 +409,7 @@ function setupGitHubToken() {
   }
 }
 
-// Auto-setup: if no token, store the dashboard token silently
-// This runs once on page load
-(function() {
-  if (!localStorage.getItem('gh_token')) { localStorage.setItem('gh_token','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'); }
-})();
+
 
 // -- MOBILE TAB SWITCHING ---------------------------------------
 function mobileSwitchTab(panel) {

@@ -23,7 +23,7 @@
     <button class="tab"        data-tab="unread"  onclick="switchTab('unread')">Unread</button>
     <button class="tab"        data-tab="flagged" onclick="switchTab('flagged')">Flagged</button>
   </nav>
-  <div class="topbar-right">
+  <div class="topbar-right"><button class="sync-setup-btn" onclick="setupGitHubToken()" title="Setup mobile sync">&#9881; Sync</button>
     <span class="last-updated" id="lastUpdated">&mdash;</span>
     <button class="refresh-btn" onclick="refreshData()" title="Refresh">
       <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
