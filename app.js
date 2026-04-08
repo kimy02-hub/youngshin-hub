@@ -136,23 +136,12 @@ async function syncTasksFromGitHub() {
     if (!res.ok) return;
     const data = await res.json();
     if (!data.tasks || !data.tasks.length) return;
-    // IDs deleted locally
-    const localDeleted = new Set(
-      JSON.parse(localStorage.getItem(TASKS_KEY) || '[]')
-        .filter(t => t.deleted).map(t => t.id)
-    );
-    // Keep local tasks not yet pushed
+    // GitHub is source of truth
+    // Add any local tasks not yet on GitHub
     const githubIds = new Set(data.tasks.map(t => t.id));
-    // IDs deleted on GitHub (by any device)
-    const githubDeleted = new Set(data.tasks.filter(t => t.deleted).map(t => t.id));
-    // Keep local tasks not in GitHub AND not deleted on GitHub
-    const localOnly = tasks.filter(t => !githubIds.has(t.id) && !githubDeleted.has(t.id));
-    // Merge: github tasks minus any deleted, plus local-only
-    tasks = [
-      ...data.tasks.filter(t => !localDeleted.has(t.id) && !t.deleted),
-      ...localOnly
-    ];
-    tasks.forEach(t => { if (!t.note) t.note = ''; if (!t.subtasks) t.subtasks = []; });
+    const localOnly = tasks.filter(t => !githubIds.has(t.id));
+    tasks = [...data.tasks, ...localOnly];
+    tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
     localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
     renderTasks();
     updateMobileBadge();
@@ -199,18 +188,9 @@ function addManualTask() {
 // -- TASK ACTIONS ----------------------------------------------
 function deleteTask(taskId) {
   if (!confirm('Delete this task?')) return;
-  // Mark deleted and push FIRST - before removing from local array
-  const t = tasks.find(t => t.id === taskId);
-  if (t) {
-    t.deleted = true;
-    t.deletedAt = new Date().toISOString();
-  }
-  // Push with deleted flag before removing locally
+  tasks = tasks.filter(t => t.id !== taskId);
   localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   pushTasksToGitHub();
-  // Now remove from local view
-  tasks = tasks.filter(t => !t.deleted);
-  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   renderTasks();
   updateMobileBadge();
   showToast('Task deleted');
