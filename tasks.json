@@ -427,21 +427,6 @@
       "subtasks": []
     },
     {
-      "id": "task_1775607093332",
-      "title": "Trdt5",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": "2026-04-07",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T00:11:33.332Z",
-      "type": "manual"
-    },
-    {
       "id": "task_1775606996612",
       "title": "Test2",
       "done": false,
@@ -457,5 +442,5 @@
       "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T00:18:30.224Z"
+  "saved_at": "2026-04-08T00:18:33.880Z"
 }
