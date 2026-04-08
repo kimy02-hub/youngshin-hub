@@ -246,12 +246,13 @@
           "done": true
         },
         {
-          "text": "",
+          "text": "Proposal submission form",
           "done": false
         }
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
-      "type": "manual"
+      "type": "manual",
+      "updatedAt": "2026-04-08T04:56:18.301Z"
     },
     {
       "id": "task_1775516205562",
@@ -498,5 +499,5 @@
       "updatedAt": "2026-04-08T04:00:47.773Z"
     }
   ],
-  "saved_at": "2026-04-08T04:54:04.599Z"
+  "saved_at": "2026-04-08T04:56:18.719Z"
 }
