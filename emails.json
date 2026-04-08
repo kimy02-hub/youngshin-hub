@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T12:21:13.825342",
+  "fetched_at": "2026-04-08T12:27:16.917878",
   "emails": [
     {
       "id": "IA3PR06MB10711744035012C96C669C4CBB85B2@IA3PR06MB10711.namprd06.prod.outlook.com",
@@ -47,6 +47,15 @@
       "cc": ""
     },
     {
+      "id": "DS4PR17MB753151F973B49C8803613B9AF75B2@DS4PR17MB7531.namprd17.prod.outlook.com",
+      "subject": "Request: Behavioral Health Workgroup Agenda Items",
+      "sender": "Troy Duker <troy.duker@chatexas.com>",
+      "date": "Wed Apr 08 2026 10:29:41 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "CAHkx7_+DpEPSnQu0H81OAJ-zn00cZ2Ngs6L8b9oJKaJxbSPUMw@mail.gmail.com",
       "subject": "Re: 성신여대 김동희입니다.",
       "sender": "김동희 (간호학과) <dhkim@sungshin.ac.kr>",
@@ -60,6 +69,15 @@
       "subject": "Re: Email",
       "sender": "\"Yuen, Eunice\" <eunice.yuen@yale.edu>",
       "date": "Wed Apr 08 2026 09:18:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "716B4520-EA81-46CB-804A-FAC4F1A40E2D@me.com",
+      "subject": "Email",
+      "sender": "\"Gabrielle Shapiro, M.D.\" <gabrielleshapiro@me.com>",
+      "date": "Wed Apr 08 2026 09:02:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -249,24 +267,6 @@
       "subject": "FW: JAACAPOPEN-D-25-00172R1 Editor Reminder - [EMID:cd6e652b955a95da]",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Sun Apr 05 2026 15:04:56 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:04:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB674273C103D0666B57ECA544BE5CA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: purchasing giftcard for research participants on the Navajo project",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 08:25:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
