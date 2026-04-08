@@ -493,7 +493,7 @@ function updateMobileBadge() {
 
 // -- AUTO REFRESH (emails only) --------------------------------
 function startAutoRefresh() {
-  const INTERVAL = 5 * 60 * 1000;
+  const INTERVAL = 3 * 60 * 1000;
   let next = Date.now() + INTERVAL;
 
   setInterval(() => {
