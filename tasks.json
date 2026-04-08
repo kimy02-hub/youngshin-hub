@@ -16,21 +16,6 @@
       "type": "manual"
     },
     {
-      "id": "task_1775607534334",
-      "title": "Test test",
-      "done": false,
-      "flagged": null,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": null,
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T00:18:54.334Z",
-      "type": "manual"
-    },
-    {
       "id": "task_1775543421937",
       "title": "송금 및 상품제안",
       "done": false,
@@ -472,5 +457,5 @@
       "type": "email"
     }
   ],
-  "saved_at": "2026-04-08T00:26:00.693Z"
+  "saved_at": "2026-04-08T00:26:04.092Z"
 }
