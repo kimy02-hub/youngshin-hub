@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-07T19:12:13.456083",
+  "fetched_at": "2026-04-07T22:05:33.301296",
   "emails": [
+    {
+      "id": "DM5PR0601MB374938CA450ECE0EFF485965D15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "subject": "Re: Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
+      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 16:03:44 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM5PR0601MB37498A34A2BE9ADEB15DDC1AD15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "subject": "Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
+      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "date": "Tue Apr 07 2026 15:14:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "1B81B839-0230-491A-BCF1-6ECD16473DC0@austin.utexas.edu",
       "subject": "Rick",
@@ -51,15 +69,6 @@
       "subject": "FW: 송금 및 상품제안",
       "sender": "Young Shin Kim <kimy02@gmail.com>",
       "date": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "D504D566-95F9-4C02-B37F-E6487D4CBF19@austin.utexas.edu",
-      "subject": "Re: CR-26-083 || WAVE Pilot Study",
-      "sender": "\"Cho, Yoonjae\" <yoonjae.cho@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 17:19:03 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -195,15 +204,6 @@
       "subject": "RE: purchasing giftcard for research participants on the Navajo project",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Sun Apr 05 2026 08:25:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CA+2uqrVgSh2E461xSMQ61UxsxEDA8-oXcfxrD9UW+Ukynnfs0A@mail.gmail.com",
-      "subject": "Prospective Medical Student Research Fellow",
-      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
-      "date": "Sat Apr 04 2026 15:28:00 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
