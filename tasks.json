@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "id": "sync_1775663902950",
-      "title": "SYNC TEST 10:58:22 AM",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:58:22.950Z"
-    },
-    {
       "id": "task_1775595779400",
       "title": "Coleman Email",
       "done": false,
@@ -505,5 +495,5 @@
       "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T16:07:22.363Z"
+  "saved_at": "2026-04-08T16:07:34.943Z"
 }
