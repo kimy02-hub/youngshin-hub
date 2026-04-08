@@ -223,7 +223,7 @@ def main():
 
     # 3. Push to GitHub
     print('Pushing to GitHub...')
-    git_push([EMAILS, TASKS])
+    git_push([EMAILS])  # Tasks pushed by dashboard directly, not cron
     print('Done!')
 
 if __name__ == '__main__':
