@@ -132,12 +132,24 @@ function loadTasksFromStorage() {
 
 async function syncTasksFromGitHub() {
   try {
-    const res = await fetch(TASKS_URL + '?_=' + Date.now());
-    if (!res.ok) return;
-    const data = await res.json();
-    if (!data.tasks || !data.tasks.length) return;
-    // GitHub is source of truth
-    // Add any local tasks not yet on GitHub
+    const token = localStorage.getItem('gh_token');
+    let data;
+    if (token) {
+      // Use GitHub API directly - bypasses CDN cache
+      const api = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/' + TASKS_URL;
+      const res = await fetch(api, { headers: { 'Authorization': 'Bearer ' + token } });
+      if (!res.ok) return;
+      const fi = await res.json();
+      if (!fi.content) return;
+      data = JSON.parse(atob(fi.content.replace(/
+/g, '')));
+    } else {
+      // Fallback to CDN
+      const res = await fetch(TASKS_URL + '?_=' + Date.now());
+      if (!res.ok) return;
+      data = await res.json();
+    }
+    if (!data || !data.tasks || !data.tasks.length) return;
     const githubIds = new Set(data.tasks.map(t => t.id));
     const localOnly = tasks.filter(t => !githubIds.has(t.id));
     tasks = [...data.tasks, ...localOnly];
