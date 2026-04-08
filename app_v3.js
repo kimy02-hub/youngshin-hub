@@ -401,7 +401,6 @@ function buildTaskCard(task, idx) {
     <div class="task-actions">
       <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
       ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;</button>` : ''}
-      <button class="delete-task-btn" onclick="deleteTask('${task.id}')" title="Delete">&#10005;</button>
       ${task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : ''}
     </div>`;
   return card;
