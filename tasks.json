@@ -3,12 +3,14 @@
     {
       "id": "iphone_test_1775678330378",
       "title": "iPhone sync test",
-      "done": false,
+      "done": true,
       "flagged": true,
       "type": "manual",
       "note": "",
       "subtasks": [],
-      "createdAt": "2026-04-08T19:58:50.378Z"
+      "createdAt": "2026-04-08T19:58:50.378Z",
+      "doneAt": "2026-04-08T20:01:35.569Z",
+      "updatedAt": "2026-04-08T20:01:35.569Z"
     },
     {
       "id": "task_1775595779400",
@@ -596,5 +598,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-08T19:58:50.687Z"
+  "saved_at": "2026-04-08T20:01:35.812Z"
 }
