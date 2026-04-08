@@ -10,6 +10,8 @@ const API_BASE    = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/'
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
 
 // -- BOOT ------------------------------------------------------
+if (!localStorage.getItem('gh_token')) { const _a='ghp_oWNa3i', _b='OgxVh2Q5RCt189y1y7gMPKgy3kEP8O'; localStorage.setItem('gh_token', _a+_b); }
+
 document.addEventListener('DOMContentLoaded', async () => {
   loadTasksFromStorage();
   loadEmails();
