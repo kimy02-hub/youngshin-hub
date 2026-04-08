@@ -523,22 +523,7 @@
       "note": "ìëíì¸ì",
       "subtasks": [],
       "createdAt": "2026-04-08T15:37:49.915Z"
-    },
-    {
-      "id": "task_1775623822285",
-      "title": "Test1211",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": null,
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T04:50:22.285Z",
-      "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T15:51:17.537Z"
+  "saved_at": "2026-04-08T15:51:21.870Z"
 }
