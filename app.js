@@ -135,6 +135,12 @@ function deleteTask(taskId) {
   renderTasks();
   showToast('Task deleted');
 }
+  saveTasks();
+  tasks = tasks.filter(t => !t.deleted);
+  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+  renderTasks();
+  showToast('Task deleted');
+}
 
 
 async function pushTasksToGitHub() {

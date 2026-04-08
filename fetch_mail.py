@@ -169,6 +169,7 @@ def git_push(files):
                              capture_output=True, text=True)
         if 'nothing to commit' in res.stdout:
             print('  No changes to push'); return
+        subprocess.run(['git','-C',REPO,'pull','--rebase','origin','main'], capture_output=True)
         subprocess.run(['git','-C',REPO,'push','--set-upstream','origin','main'], check=True)
         print('  Pushed to GitHub!')
     except subprocess.CalledProcessError as e:
