@@ -192,21 +192,6 @@
       "subtasks": []
     },
     {
-      "id": "task_1775607741953",
-      "title": "Coleman Email for Poster Presentation",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": "2026-04-07",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T00:22:21.953Z",
-      "type": "manual"
-    },
-    {
       "id": "task_1775581106440",
       "title": "Re: Journal Club 4/14",
       "done": false,
@@ -468,5 +453,5 @@
       "subtasks": []
     }
   ],
-  "saved_at": "2026-04-07T23:15:15.714378"
+  "saved_at": "2026-04-08T04:17:48.540Z"
 }
