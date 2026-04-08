@@ -1,21 +1,6 @@
 {
   "tasks": [
     {
-      "id": "task_1775607741953",
-      "title": "Coleman Email for Poster Presentation",
-      "done": false,
-      "flagged": false,
-      "emailId": null,
-      "emailSender": null,
-      "emailDate": null,
-      "cc": "",
-      "due": "2026-04-07",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T00:22:21.953Z",
-      "type": "manual"
-    },
-    {
       "id": "task_1775607562242",
       "title": "tes test test",
       "done": false,
@@ -487,5 +472,5 @@
       "type": "email"
     }
   ],
-  "saved_at": "2026-04-08T00:22:22.873Z"
+  "saved_at": "2026-04-08T00:22:47.374Z"
 }
