@@ -469,7 +469,7 @@
     {
       "id": "task_1775622546574",
       "title": "1",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": null,
       "emailSender": null,
@@ -479,7 +479,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T04:29:06.574Z",
-      "type": "manual"
+      "type": "manual",
+      "doneAt": "2026-04-08T16:11:38.510Z",
+      "updatedAt": "2026-04-08T16:11:38.510Z"
     },
     {
       "id": "task_1775623253520",
@@ -497,5 +499,5 @@
       "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T16:10:43.673Z"
+  "saved_at": "2026-04-08T16:11:38.527Z"
 }
