@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1775678672683",
+      "title": "Re: Leadership Assessment",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAMFZdz3W4sERh8aP=iwuFJSuiuiqfpJM=H1muXaLXwSjTkvA_w@mail.gmail.com",
+      "emailSender": "Puja Patel <pgpatel@ascension.org>",
+      "emailDate": "Wed Apr 08 2026 11:13:46 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-08T20:04:32.683Z",
+      "type": "email"
+    },
+    {
       "id": "task_1775678530947",
       "title": "Re: Publication charges for ECHO/Navajo grant?",
       "done": false,
@@ -628,5 +643,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-08T20:02:11.139Z"
+  "saved_at": "2026-04-08T20:04:32.699Z"
 }
