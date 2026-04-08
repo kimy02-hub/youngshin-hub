@@ -150,7 +150,7 @@ def merge_tasks(chrome_tasks, disk_tasks):
             # Keep whichever was more recently modified
             if task_time(t) >= task_time(merged_map[tid]):
                 merged_map[tid] = t
-    merged = list(merged_map.values())
+    merged = [t for t in merged_map.values() if not t.get("deleted", False)]
     # Sort: flagged+active first, then by createdAt desc
     merged.sort(key=lambda t: (t.get('done',False), not t.get('flagged',False), -(len(t.get('createdAt','')) and __import__('datetime').datetime.fromisoformat(t['createdAt'].replace('Z','+00:00')).timestamp() or 0)))
     disk_ids = {t['id'] for t in disk_tasks}

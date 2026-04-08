@@ -109,10 +109,14 @@ async function syncTasksFromGitHub() {
     const data = await res.json();
     if (!data.tasks || !data.tasks.length) return;
     // Keep any local tasks not in GitHub yet (just added, not yet cron-pushed)
+    // Build set of locally deleted task ids
+    const localDeleted = new Set(tasks.filter(t => t.deleted).map(t => t.id));
     const githubIds = new Set(data.tasks.map(t => t.id));
-    const localOnly = tasks.filter(t => !githubIds.has(t.id));
+    // Keep local tasks not yet in GitHub, skip deleted ones
+    const localOnly = tasks.filter(t => !githubIds.has(t.id) && !t.deleted);
+    // Remove tasks deleted on this device from GitHub tasks
     if (true) {
-      tasks = [...data.tasks, ...localOnly];
+      tasks = [...data.tasks.filter(t => !localDeleted.has(t.id) && !t.deleted), ...localOnly];
       tasks.forEach(t => { if (!t.note) t.note=''; if (!t.subtasks) t.subtasks=[]; });
       localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
       renderTasks();
@@ -123,8 +127,11 @@ async function syncTasksFromGitHub() {
 
 function deleteTask(taskId) {
   if (!confirm('Delete this task? This cannot be undone.')) return;
-  tasks = tasks.filter(t => t.id !== taskId);
+  const t = tasks.find(t => t.id === taskId);
+  if (t) { t.deleted = true; t.deletedAt = new Date().toISOString(); }
   saveTasks();
+  tasks = tasks.filter(t => !t.deleted);
+  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   renderTasks();
   showToast('Task deleted');
 }
