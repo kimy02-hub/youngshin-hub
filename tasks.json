@@ -445,13 +445,14 @@
     {
       "id": "synctest_1775620847773",
       "title": "SYNC TEST 11:00:47 PM",
-      "done": false,
+      "done": true,
       "flagged": true,
       "type": "manual",
       "note": "test",
       "subtasks": [],
       "createdAt": "2026-04-08T04:00:47.773Z",
-      "updatedAt": "2026-04-08T04:00:47.773Z"
+      "updatedAt": "2026-04-08T16:10:43.357Z",
+      "doneAt": "2026-04-08T16:10:43.357Z"
     },
     {
       "id": "test_1775621960558",
@@ -496,5 +497,5 @@
       "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T16:10:41.022Z"
+  "saved_at": "2026-04-08T16:10:43.673Z"
 }
