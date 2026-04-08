@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-08T09:54:18.094843",
+  "fetched_at": "2026-04-08T09:57:17.597622",
   "emails": [
+    {
+      "id": "CAHkx7_+DpEPSnQu0H81OAJ-zn00cZ2Ngs6L8b9oJKaJxbSPUMw@mail.gmail.com",
+      "subject": "Re: 성신여대 김동희입니다.",
+      "sender": "김동희 (간호학과) <dhkim@sungshin.ac.kr>",
+      "date": "Wed Apr 08 2026 09:19:36 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR08MB1100537190786629A4C9B3DA8895BA@LV2PR08MB11005.namprd08.prod.outlook.com",
+      "subject": "Re: Email",
+      "sender": "\"Yuen, Eunice\" <eunice.yuen@yale.edu>",
+      "date": "Wed Apr 08 2026 09:18:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DM5PR0601MB374938CA450ECE0EFF485965D15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
       "subject": "Re: Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
@@ -249,24 +267,6 @@
       "subject": "Call Swap",
       "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
       "date": "Fri Apr 03 2026 07:00:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN7PR04MB87409CB430491C993F3D3C55CC51A@SN7PR04MB8740.namprd04.prod.outlook.com",
-      "subject": "RE: Final verification of author information for TD GWAS manuscript submission",
-      "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
-      "date": "Thu Apr 02 2026 10:01:01 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
-      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
-      "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
-      "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
