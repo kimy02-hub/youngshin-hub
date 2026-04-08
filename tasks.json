@@ -3,7 +3,7 @@
     {
       "id": "task_1775595779400",
       "title": "Coleman Email",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": null,
       "emailSender": null,
@@ -13,7 +13,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-07T21:02:59.400Z",
-      "type": "manual"
+      "type": "manual",
+      "doneAt": "2026-04-08T19:04:54.210Z",
+      "updatedAt": "2026-04-08T19:04:54.210Z"
     },
     {
       "id": "task_1775543421937",
@@ -518,5 +520,5 @@
       "updatedAt": "2026-04-08T16:11:40.406Z"
     }
   ],
-  "saved_at": "2026-04-08T18:33:55.261Z"
+  "saved_at": "2026-04-08T19:04:54.627Z"
 }
