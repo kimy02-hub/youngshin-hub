@@ -550,12 +550,14 @@
     {
       "id": "final_test_1775662937917",
       "title": "ì¡ê¸ íì¤í¸",
-      "done": false,
+      "done": true,
       "flagged": true,
       "type": "manual",
       "note": "",
       "subtasks": [],
-      "createdAt": "2026-04-08T15:42:17.917Z"
+      "createdAt": "2026-04-08T15:42:17.917Z",
+      "doneAt": "2026-04-08T19:38:58.070Z",
+      "updatedAt": "2026-04-08T19:38:58.070Z"
     },
     {
       "id": "synctest_1775662585721",
@@ -578,5 +580,5 @@
       "createdAt": "2026-04-08T15:37:49.915Z"
     }
   ],
-  "saved_at": "2026-04-08T19:38:55.723Z"
+  "saved_at": "2026-04-08T19:38:58.357Z"
 }
