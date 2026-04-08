@@ -65,7 +65,7 @@
     {
       "id": "task_1775678528877",
       "title": "Re: Comp Eval Request",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "IA3PR06MB10711778604A2B2DA964F80B6B85B2@IA3PR06MB10711.namprd06.prod.outlook.com",
       "emailSender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
@@ -75,7 +75,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T20:02:08.878Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-08T21:35:16.014Z",
+      "updatedAt": "2026-04-08T21:35:16.014Z"
     },
     {
       "id": "iphone_test_1775678330378",
@@ -675,5 +677,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-08T20:10:51.849Z"
+  "saved_at": "2026-04-08T21:35:16.060Z"
 }
