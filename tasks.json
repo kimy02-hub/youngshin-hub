@@ -13,7 +13,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T04:50:22.285Z",
-      "type": "manual"
+      "type": "manual",
+      "deleted": true,
+      "deletedAt": "2026-04-08T05:06:20.372Z"
     },
     {
       "id": "task_1775622546574",
@@ -497,7 +499,18 @@
       "subtasks": [],
       "createdAt": "2026-04-08T04:00:47.773Z",
       "updatedAt": "2026-04-08T04:00:47.773Z"
+    },
+    {
+      "id": "test_1775621960558",
+      "title": "SYNC TEST",
+      "done": false,
+      "flagged": true,
+      "type": "manual",
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-08T04:19:20.558Z",
+      "updatedAt": "2026-04-08T04:19:20.558Z"
     }
   ],
-  "saved_at": "2026-04-08T04:56:18.719Z"
+  "saved_at": "2026-04-08T05:06:20.787Z"
 }
