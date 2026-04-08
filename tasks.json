@@ -49,7 +49,7 @@
     {
       "id": "task_1775516199082",
       "title": "R01 application needs to be revised",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
       "emailSender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
@@ -59,7 +59,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-06T22:56:39.082Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-08T18:28:15.740Z",
+      "updatedAt": "2026-04-08T18:28:15.740Z"
     },
     {
       "id": "task_1775493814286",
@@ -502,5 +504,5 @@
       "updatedAt": "2026-04-08T16:11:40.406Z"
     }
   ],
-  "saved_at": "2026-04-08T18:26:14.873Z"
+  "saved_at": "2026-04-08T18:28:16.318Z"
 }
