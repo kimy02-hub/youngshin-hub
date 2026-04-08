@@ -486,7 +486,7 @@
     {
       "id": "task_1775623253520",
       "title": "Test 10000",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": null,
       "emailSender": null,
@@ -496,8 +496,10 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T04:40:53.520Z",
-      "type": "manual"
+      "type": "manual",
+      "doneAt": "2026-04-08T16:11:40.406Z",
+      "updatedAt": "2026-04-08T16:11:40.406Z"
     }
   ],
-  "saved_at": "2026-04-08T16:11:38.527Z"
+  "saved_at": "2026-04-08T16:11:40.611Z"
 }
