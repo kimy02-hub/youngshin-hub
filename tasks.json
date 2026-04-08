@@ -192,11 +192,25 @@
       "emailSender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
       "emailDate": "Tue Apr 07 2026 11:41:10 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-14",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "paper selection",
+          "done": false
+        },
+        {
+          "text": "paper review",
+          "done": false
+        },
+        {
+          "text": "discussion with presenter",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-07T16:58:26.440Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-08T18:33:54.804Z"
     },
     {
       "id": "task_1775497111837",
@@ -504,5 +518,5 @@
       "updatedAt": "2026-04-08T16:11:40.406Z"
     }
   ],
-  "saved_at": "2026-04-08T18:28:16.318Z"
+  "saved_at": "2026-04-08T18:33:55.261Z"
 }
