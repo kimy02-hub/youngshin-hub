@@ -38,14 +38,20 @@ async function pushTasks() {
 // -- GITHUB: PULL tasks from GitHub API (bypasses CDN cache) --
 async function pullTasksFromGitHub() {
   const token = localStorage.getItem('gh_token');
-  if (!token) return;
   try {
-    const hdrs = { 'Authorization': 'Bearer ' + token };
-    const res = await fetch(API_BASE + TASKS_FILE, { headers: hdrs });
-    if (!res.ok) return;
-    const fi = await res.json();
-    if (!fi.content) return;
-    const data = JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(fi.content.replace(/\n/g,'')),c=>c.charCodeAt(0))));
+    let data;
+    if (token) {
+      const hdrs = { 'Authorization': 'Bearer ' + token };
+      const res = await fetch(API_BASE + TASKS_FILE, { headers: hdrs });
+      if (!res.ok) return;
+      const fi = await res.json();
+      if (!fi.content) return;
+      data = JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(fi.content.replace(/\n/g,'')),c=>c.charCodeAt(0))));
+    } else {
+      const res = await fetch('tasks.json?_=' + Date.now());
+      if (!res.ok) return;
+      data = await res.json();
+    }
     if (!data.tasks || !data.tasks.length) return;
     // Merge: GitHub is truth + keep any local tasks not yet pushed
     const githubIds = new Set(data.tasks.map(t => t.id));
