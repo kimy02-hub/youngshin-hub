@@ -508,6 +508,7 @@ function startAutoRefresh() {
   setInterval(async () => {
     next = Date.now() + INTERVAL;
     await loadEmails();
+    await syncTasksFromGitHub();
   }, INTERVAL);
 }
 
