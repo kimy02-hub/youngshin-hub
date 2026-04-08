@@ -499,17 +499,7 @@
       "type": "manual",
       "doneAt": "2026-04-08T16:11:40.406Z",
       "updatedAt": "2026-04-08T16:11:40.406Z"
-    },
-    {
-      "id": "sync_1775663902950",
-      "title": "SYNC TEST 10:58:22 AM",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:58:22.950Z"
     }
   ],
-  "saved_at": "2026-04-08T16:15:04.772Z"
+  "saved_at": "2026-04-08T16:15:08.053Z"
 }
