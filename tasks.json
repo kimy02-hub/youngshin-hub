@@ -456,13 +456,14 @@
     {
       "id": "test_1775621960558",
       "title": "SYNC TEST",
-      "done": false,
+      "done": true,
       "flagged": true,
       "type": "manual",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T04:19:20.558Z",
-      "updatedAt": "2026-04-08T04:19:20.558Z"
+      "updatedAt": "2026-04-08T16:10:40.988Z",
+      "doneAt": "2026-04-08T16:10:40.988Z"
     },
     {
       "id": "task_1775622546574",
@@ -495,5 +496,5 @@
       "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T16:07:34.943Z"
+  "saved_at": "2026-04-08T16:10:41.022Z"
 }
