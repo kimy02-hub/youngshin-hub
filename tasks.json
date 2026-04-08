@@ -490,36 +490,6 @@
       "updatedAt": "2026-04-08T04:19:20.558Z"
     },
     {
-      "id": "final_test_1775662937917",
-      "title": "ì¡ê¸ íì¤í¸",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:42:17.917Z"
-    },
-    {
-      "id": "synctest_1775662585721",
-      "title": "Korean test: Ã¬ÂÂÃ«ÂÂÃ­ÂÂÃ¬ÂÂ¸Ã¬ÂÂ",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:36:25.721Z"
-    },
-    {
-      "id": "korean_1775662669915",
-      "title": "Ã­ÂÂÃªÂµÂ­Ã¬ÂÂ´ Ã­ÂÂÃ¬ÂÂ¤Ã­ÂÂ¸",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "Ã¬ÂÂÃ«ÂÂÃ­ÂÂÃ¬ÂÂ¸Ã¬ÂÂ",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:37:49.915Z"
-    },
-    {
       "id": "task_1775622546574",
       "title": "1",
       "done": false,
@@ -550,5 +520,5 @@
       "type": "manual"
     }
   ],
-  "saved_at": "2026-04-08T16:04:34.673Z"
+  "saved_at": "2026-04-08T16:05:18.015098"
 }
