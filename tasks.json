@@ -523,7 +523,7 @@
     {
       "id": "task_1775664274201",
       "title": "한구갈",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": null,
       "emailSender": null,
@@ -533,7 +533,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T16:04:34.201Z",
-      "type": "manual"
+      "type": "manual",
+      "doneAt": "2026-04-08T19:39:04.356Z",
+      "updatedAt": "2026-04-08T19:39:04.356Z"
     },
     {
       "id": "sync_1775663902950",
@@ -584,5 +586,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-08T19:39:01.980Z"
+  "saved_at": "2026-04-08T19:39:04.595Z"
 }
