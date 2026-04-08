@@ -129,9 +129,6 @@ function deleteTask(taskId) {
   showToast('Task deleted');
 }
 
-    );
-  } catch(_) {}
-}
 
 async function pushTasksToGitHub() {
   const token = localStorage.getItem('gh_token');
