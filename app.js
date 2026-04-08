@@ -199,15 +199,20 @@ function addManualTask() {
 // -- TASK ACTIONS ----------------------------------------------
 function deleteTask(taskId) {
   if (!confirm('Delete this task?')) return;
+  // Mark deleted and push FIRST - before removing from local array
   const t = tasks.find(t => t.id === taskId);
   if (t) {
-    t.deleted   = true;
+    t.deleted = true;
     t.deletedAt = new Date().toISOString();
   }
-  saveTasks(); // pushes deleted flag to GitHub
+  // Push with deleted flag before removing locally
+  localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
+  pushTasksToGitHub();
+  // Now remove from local view
   tasks = tasks.filter(t => !t.deleted);
   localStorage.setItem(TASKS_KEY, JSON.stringify(tasks));
   renderTasks();
+  updateMobileBadge();
   showToast('Task deleted');
 }
 
