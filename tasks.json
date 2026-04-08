@@ -11,18 +11,8 @@
       "createdAt": "2026-04-08T15:42:17.917Z"
     },
     {
-      "id": "korean_1775662669915",
-      "title": "íêµ­ì´ íì¤í¸",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "ìëíì¸ì",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:37:49.915Z"
-    },
-    {
       "id": "synctest_1775662585721",
-      "title": "Korean test: Ã¬ÂÂÃ«ÂÂÃ­ÂÂÃ¬ÂÂ¸Ã¬ÂÂ",
+      "title": "Korean test: ìëíì¸ì",
       "done": false,
       "flagged": true,
       "type": "manual",
@@ -62,7 +52,7 @@
     },
     {
       "id": "task_1775543421937",
-      "title": "ÃÂ¬ÃÂÃÂ¡ÃÂªÃÂ¸ÃÂ ÃÂ«ÃÂ°ÃÂ ÃÂ¬ÃÂÃÂÃÂ­ÃÂÃÂÃÂ¬ÃÂ ÃÂÃÂ¬ÃÂÃÂ",
+      "title": "?? ? ????",
       "done": false,
       "flagged": true,
       "emailId": "DM6PR10MB397900D74D2B9DEDBBF10D39FA5AA@DM6PR10MB3979.namprd10.prod.outlook.com",
@@ -395,7 +385,7 @@
     },
     {
       "id": "task_synctest_1775421444289",
-      "title": "ÃÂ°ÃÂÃÂÃÂ Sync test ÃÂ¢ÃÂÃÂ delete me",
+      "title": "Ã°ÂÂÂ Sync test Ã¢ÂÂ delete me",
       "done": true,
       "flagged": false,
       "emailId": null,
@@ -525,5 +515,5 @@
       "updatedAt": "2026-04-08T04:19:20.558Z"
     }
   ],
-  "saved_at": "2026-04-08T15:42:17.925Z"
+  "saved_at": "2026-04-08T15:46:52.293127"
 }
