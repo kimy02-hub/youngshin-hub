@@ -528,16 +528,6 @@
       "createdAt": "2026-04-08T15:58:22.950Z"
     },
     {
-      "id": "final_test_1775662937917",
-      "title": "ì¡ê¸ íì¤í¸",
-      "done": false,
-      "flagged": true,
-      "type": "manual",
-      "note": "",
-      "subtasks": [],
-      "createdAt": "2026-04-08T15:42:17.917Z"
-    },
-    {
       "id": "synctest_1775662585721",
       "title": "Korean test: Ã¬ÂÂÃ«ÂÂÃ­ÂÂÃ¬ÂÂ¸Ã¬ÂÂ",
       "done": true,
@@ -562,5 +552,5 @@
       "updatedAt": "2026-04-08T16:14:18.422Z"
     }
   ],
-  "saved_at": "2026-04-08T16:14:21.767Z"
+  "saved_at": "2026-04-08T16:14:25.891Z"
 }
