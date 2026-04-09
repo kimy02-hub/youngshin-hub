@@ -305,11 +305,12 @@
       "emailSender": "JAACAP Open <em@editorialmanager.com>",
       "emailDate": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-11",
       "createdAt": "2026-04-04T03:51:19.073Z",
       "type": "email",
       "note": "",
-      "subtasks": []
+      "subtasks": [],
+      "updatedAt": "2026-04-09T04:38:32.539Z"
     },
     {
       "id": "task_1775274633143",
@@ -726,5 +727,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:38:25.538Z"
+  "saved_at": "2026-04-09T04:38:32.925Z"
 }
