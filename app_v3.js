@@ -333,9 +333,46 @@ function deleteSubtask(idx) {
 }
 
 // -- TASK RENDERING --------------------------------------------
+
+// -- SORT ------------------------------------------------------
+let currentSort = 'default';
+
+function setSortOrder(order) {
+  currentSort = order;
+  renderTasks();
+}
+
+function sortTasks(taskList) {
+  const sorted = [...taskList];
+  switch (currentSort) {
+    case 'name':
+      sorted.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+      break;
+    case 'due':
+      sorted.sort((a, b) => {
+        if (!a.due && !b.due) return 0;
+        if (!a.due) return 1;
+        if (!b.due) return -1;
+        return a.due.localeCompare(b.due);
+      });
+      break;
+    case 'created':
+      sorted.sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+      break;
+    case 'sender':
+      sorted.sort((a, b) => (parseName(a.emailSender) || a.title || '').localeCompare(parseName(b.emailSender) || b.title || ''));
+      break;
+    default:
+      break;
+  }
+  return sorted;
+}
+
 function renderTasks() {
-  const active    = tasks.filter(t => !t.done && !t.flagged);
-  const flaggedT  = tasks.filter(t => !t.done &&  t.flagged);
+  const activeRaw = tasks.filter(t => !t.done && !t.flagged);
+  const active    = sortTasks(activeRaw);
+  const flaggedRaw = tasks.filter(t => !t.done && t.flagged);
+  const flaggedT   = sortTasks(flaggedRaw);
   const completed = tasks.filter(t =>  t.done).sort((a, b) => new Date(b.doneAt || 0) - new Date(a.doneAt || 0));
 
   const fSec  = document.getElementById('flaggedSection');
