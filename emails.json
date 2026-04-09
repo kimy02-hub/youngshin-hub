@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-09T15:51:12.416924",
+  "fetched_at": "2026-04-09T15:54:10.744774",
   "emails": [
+    {
+      "id": "LV5PR06MB11266C1286183A00D631EFDAEBA582@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "4/8 APT Committee Meeting: Minutes and Action Items",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Thu Apr 09 2026 14:57:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10194A4D6F83ADD98C8E6E684C3582@DS1PR06MB10194.namprd06.prod.outlook.com",
       "subject": "UPDATED PROPOSALS: Paid Psychiatry Call, Psychology Salary Revisions",
