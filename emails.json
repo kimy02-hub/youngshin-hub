@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T21:42:12.174279",
+  "fetched_at": "2026-04-08T21:45:11.076576",
   "emails": [
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
@@ -60,15 +60,6 @@
       "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
       "sender": "Jill Zeigenfus Brafford <jbrafford@aacap.org>",
       "date": "Tue Apr 07 2026 11:48:59 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR0601MB37495F8BC8EC1B109A2399ADD15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "Fw: GR Dinner with Dr. Bishop",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 09:52:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -267,6 +258,15 @@
       "subject": "Social Work Intern Onboarding Follow Up",
       "sender": "Leo N Pratt <prattleo@utexas.edu>",
       "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d0tOf=9kbnXepTGOrSVbAaKFMswb+s8eEgj7W4Lc13VRQ@mail.gmail.com",
+      "subject": "Call Swap",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Fri Apr 03 2026 07:00:57 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
