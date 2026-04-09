@@ -208,10 +208,7 @@ def main():
         print(f'  Mail error: {raw}')
     else:
         emails = parse_emails(raw)
-        if emails:
-            write_emails(emails)
-        else:
-            print('  No flagged emails found or Mail unavailable')
+        write_emails(emails)  # Always write, even if empty - removes unflagged emails
 
     # 2. Sync tasks
     print('Syncing tasks from Chrome...')
