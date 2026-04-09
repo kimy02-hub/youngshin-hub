@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T14:36:25.200907",
+  "fetched_at": "2026-04-09T14:39:22.369384",
   "emails": [
     {
       "id": "DS1PR06MB10194A4D6F83ADD98C8E6E684C3582@DS1PR06MB10194.namprd06.prod.outlook.com",
@@ -92,18 +92,9 @@
       "cc": ""
     },
     {
-      "id": "LV5PR06MB11266050A69CF2E7ED2F2E8D0BA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "APT Pre-Review: Erica Schwarz",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:49:04 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
