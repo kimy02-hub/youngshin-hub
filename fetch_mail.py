@@ -178,6 +178,10 @@ def merge_tasks(chrome_tasks, disk_tasks):
 
 def git_push(files):
     try:
+        # Always reset to origin first to avoid conflicts
+        subprocess.run(['git','-C',REPO,'fetch','origin'], capture_output=True, timeout=30)
+        subprocess.run(['git','-C',REPO,'reset','--hard','origin/main'], capture_output=True, timeout=30)
+        # Now add and commit our files
         for fp in files:
             subprocess.run(['git','-C',REPO,'add', os.path.relpath(fp,REPO)], check=True)
         ts = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
@@ -185,8 +189,6 @@ def git_push(files):
                              capture_output=True, text=True)
         if 'nothing to commit' in res.stdout:
             print('  No changes to push'); return
-        subprocess.run(['git','-C',REPO,'pull','--rebase','origin','main'],
-                       capture_output=True, timeout=30)
         subprocess.run(['git','-C',REPO,'push','--set-upstream','origin','main'],
                        check=True, timeout=30)
         print('  Pushed to GitHub!')
