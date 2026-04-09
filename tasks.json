@@ -74,11 +74,12 @@
       "emailSender": "Puja Patel <pgpatel@ascension.org>",
       "emailDate": "Wed Apr 08 2026 11:13:46 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-10",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-08T20:04:32.683Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-09T04:37:55.773Z"
     },
     {
       "id": "task_1775678530947",
@@ -720,5 +721,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:37:43.768Z"
+  "saved_at": "2026-04-09T04:37:55.915Z"
 }
