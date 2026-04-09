@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T10:42:15.841467",
+  "fetched_at": "2026-04-09T10:45:22.927660",
   "emails": [
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
@@ -94,7 +94,7 @@
     {
       "id": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
-      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
