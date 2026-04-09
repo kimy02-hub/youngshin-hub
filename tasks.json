@@ -9,11 +9,12 @@
       "emailSender": "The Lancet Team <em@editorialmanager.com>",
       "emailDate": "Wed Apr 08 2026 20:56:50 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-12",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-09T04:38:37.402Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-09T04:38:48.245Z"
     },
     {
       "id": "task_1775705551683",
@@ -742,5 +743,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:38:37.585Z"
+  "saved_at": "2026-04-09T04:38:48.428Z"
 }
