@@ -241,11 +241,12 @@
       "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "emailDate": "Sun Apr 05 2026 15:05:05 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-11",
       "createdAt": "2026-04-05T22:21:19.288Z",
       "type": "email",
       "note": "",
-      "subtasks": []
+      "subtasks": [],
+      "updatedAt": "2026-04-09T04:38:10.629Z"
     },
     {
       "id": "task_1775427678521",
@@ -722,5 +723,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:38:04.432Z"
+  "saved_at": "2026-04-09T04:38:10.790Z"
 }
