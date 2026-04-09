@@ -9,11 +9,17 @@
       "emailSender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
       "emailDate": "Thu Apr 09 2026 08:23:26 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-14",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "Discuss with Shuting",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-09T15:37:00.709Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-09T15:38:20.893Z"
     },
     {
       "id": "task_1775709517402",
@@ -760,5 +766,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T15:37:01.067Z"
+  "saved_at": "2026-04-09T15:38:20.916Z"
 }
