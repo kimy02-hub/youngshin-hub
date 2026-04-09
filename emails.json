@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T21:39:11.624593",
+  "fetched_at": "2026-04-08T21:42:12.174279",
   "emails": [
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
@@ -15,15 +15,6 @@
       "subject": "Re: Publication charges for ECHO/Navajo grant?",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Wed Apr 08 2026 12:13:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "PH0PR06MB80155E0556944AF1AB29029AB65B2@PH0PR06MB8015.namprd06.prod.outlook.com",
-      "subject": "Publication charges for ECHO/Navajo grant?",
-      "sender": "\"Altstein, Lily\" <lily.altstein@austin.utexas.edu>",
-      "date": "Wed Apr 08 2026 12:01:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -51,24 +42,6 @@
       "subject": "Posted: R_00045441 Clinical Research Associate I (Open)",
       "sender": "Psychiatry Workforce <psychiatry.workforce@austin.utexas.edu>",
       "date": "Wed Apr 08 2026 10:59:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR0601MB374938CA450ECE0EFF485965D15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "Re: Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 16:03:44 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM5PR0601MB37498A34A2BE9ADEB15DDC1AD15AA@DM5PR0601MB3749.namprd06.prod.outlook.com",
-      "subject": "Dinner Reservation for Monday Night under Dr. Nemeroff's Name",
-      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 15:14:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -267,6 +240,33 @@
       "subject": "purchasing giftcard for research participants on the Navajo project",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Fri Apr 03 2026 16:18:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d5525c175-88ff9eb1-4f8f-4331-9c0a-7a716d6e1b2b-000000@us-east-2.amazonses.com",
+      "subject": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB107119DD7C8BCE8AF1CBB3598B85EA@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Social Work Intern Onboarding Follow Up",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Fri Apr 03 2026 14:19:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANtXoy6EmuctwV1_Q5Uvxb+zQjHfEJLdB58FXMtVWS3VQGyeHA@mail.gmail.com",
+      "subject": "Social Work Intern Onboarding Follow Up",
+      "sender": "Leo N Pratt <prattleo@utexas.edu>",
+      "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
