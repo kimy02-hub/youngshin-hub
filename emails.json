@@ -1,11 +1,29 @@
 {
-  "fetched_at": "2026-04-08T14:57:13.698472",
+  "fetched_at": "2026-04-08T19:51:14.345899",
   "emails": [
     {
-      "id": "IA3PR06MB10711778604A2B2DA964F80B6B85B2@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Comp Eval Request",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Wed Apr 08 2026 14:12:15 GMT-0500 (Central Daylight Time)",
+      "id": "mnqlflip.8e51a4ae-6c43-4b3a-9477-f74a9b77fa26@we.are.superhuman.com",
+      "subject": "Re: Referal question",
+      "sender": "Allison Fabian <allison.fabian@senseye.co>",
+      "date": "Wed Apr 08 2026 17:05:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "9F7ACD1D-16B3-439A-9BA0-BBB74A54C802@austin.utexas.edu",
+      "subject": "Re: Referal question",
+      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
+      "date": "Wed Apr 08 2026 16:59:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CALLNj4cd3mm9ZpeC85yHMwDFH1GdACOz8kbHCrh3XVSFbb4KMA@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] Potential positions at Dell/in Austin",
+      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
+      "date": "Wed Apr 08 2026 15:01:52 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -249,24 +267,6 @@
       "subject": "FW: Papers for JAACAP Open AE Team Meeting on Wednesday?",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Sun Apr 05 2026 15:05:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB10448F6C295C4045CCB94CE93A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: JAACAPOPEN-D-26-00021 Editor Reminder - [EMID:7e33fa90f1a1c74c]",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:13 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB10448607AAC2603F62EB8AB3AA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: JAACAPOPEN-D-25-00163R1 Editor Reminder - [EMID:3cc1d0734bf7e0a6]",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:05 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
