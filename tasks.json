@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1775755217799",
+      "title": "Flight schedule to Kelsey",
+      "done": false,
+      "flagged": true,
+      "emailId": null,
+      "emailSender": null,
+      "emailDate": null,
+      "cc": "URGENT",
+      "due": "2026-04-09",
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-09T17:20:17.799Z",
+      "type": "manual"
+    },
+    {
       "id": "task_1775749020709",
       "title": "Re: [EXTERNAL] Potential positions at Dell/in Austin",
       "done": false,
@@ -774,5 +789,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T15:38:46.996Z"
+  "saved_at": "2026-04-09T17:20:17.838Z"
 }
