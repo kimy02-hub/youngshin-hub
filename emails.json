@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T07:30:22.900590",
+  "fetched_at": "2026-04-09T07:33:22.219461",
   "emails": [
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
@@ -159,15 +159,6 @@
       "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
       "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
       "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR04MB7213262360E8098FA03CADE5DF51A@SJ0PR04MB7213.namprd04.prod.outlook.com",
-      "subject": "TCMHCC Resource Sharing Draft Policy",
-      "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
-      "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
