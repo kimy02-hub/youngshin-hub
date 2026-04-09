@@ -331,7 +331,7 @@
     {
       "id": "task_1775274633143",
       "title": "purchasing giftcard for research participants on the Navajo project",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH2PR06MB67422D6DDFBA5C4E9C4843E7BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
       "emailSender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
@@ -341,7 +341,9 @@
       "createdAt": "2026-04-04T03:50:33.143Z",
       "type": "email",
       "note": "Do we have IRB for reading assessments? UT IRB protocol number is necessary for gift card purchase. Get incentives to our fund we need UT IRB number. Waiver to get the record number.\nBack up plan: YNM pays the incentives and we will pay back with unspent fund.",
-      "subtasks": []
+      "subtasks": [],
+      "doneAt": "2026-04-09T04:39:01.205Z",
+      "updatedAt": "2026-04-09T04:39:01.205Z"
     },
     {
       "id": "task_1775581106440",
@@ -743,5 +745,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:38:48.428Z"
+  "saved_at": "2026-04-09T04:39:01.398Z"
 }
