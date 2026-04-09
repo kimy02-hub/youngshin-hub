@@ -1,15 +1,6 @@
 {
-  "fetched_at": "2026-04-09T10:39:17.463576",
+  "fetched_at": "2026-04-09T10:42:15.841467",
   "emails": [
-    {
-      "id": "CALLNj4cL5z_FTiu2QQNFxDbdG18_VA478mysjCh17hiO5-i5oQ@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] Potential positions at Dell/in Austin",
-      "sender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
-      "date": "Thu Apr 09 2026 08:23:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
       "subject": "Your Submission THELANCET-D-26-01935",
@@ -159,6 +150,24 @@
       "subject": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
+      "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SJ0PR04MB7213262360E8098FA03CADE5DF51A@SJ0PR04MB7213.namprd04.prod.outlook.com",
+      "subject": "TCMHCC Resource Sharing Draft Policy",
+      "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
+      "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
