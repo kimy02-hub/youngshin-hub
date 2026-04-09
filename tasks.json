@@ -267,7 +267,7 @@
     {
       "id": "task_1775427677462",
       "title": "FW: Papers for JAACAP Open AE Team Meeting on Wednesday?",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SA6PR06MB10448061A380BDD16F7370118A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -277,7 +277,9 @@
       "createdAt": "2026-04-05T22:21:17.462Z",
       "type": "email",
       "note": "",
-      "subtasks": []
+      "subtasks": [],
+      "doneAt": "2026-04-09T04:38:25.340Z",
+      "updatedAt": "2026-04-09T04:38:25.340Z"
     },
     {
       "id": "task_1775427675281",
@@ -724,5 +726,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:38:17.646Z"
+  "saved_at": "2026-04-09T04:38:25.538Z"
 }
