@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1775749020709",
+      "title": "Re: [EXTERNAL] Potential positions at Dell/in Austin",
+      "done": false,
+      "flagged": true,
+      "emailId": "CALLNj4cL5z_FTiu2QQNFxDbdG18_VA478mysjCh17hiO5-i5oQ@mail.gmail.com",
+      "emailSender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
+      "emailDate": "Thu Apr 09 2026 08:23:26 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-09T15:37:00.709Z",
+      "type": "email"
+    },
+    {
       "id": "task_1775709517402",
       "title": "Your Submission THELANCET-D-26-01935",
       "done": false,
@@ -745,5 +760,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T04:39:01.398Z"
+  "saved_at": "2026-04-09T15:37:01.067Z"
 }
