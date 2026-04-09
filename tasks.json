@@ -56,11 +56,21 @@
       "emailSender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "emailDate": "Wed Apr 08 2026 12:13:32 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-17",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "Talk with Manpreet about JAACAPOPEN-D-25-00031R2 ",
+          "done": false
+        },
+        {
+          "text": "Aks Elsivir to send an invoice",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-08T20:02:10.947Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-09T02:40:04.271Z"
     },
     {
       "id": "task_1775678528877",
@@ -677,5 +687,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-08T21:35:16.060Z"
+  "saved_at": "2026-04-09T02:40:04.570Z"
 }
