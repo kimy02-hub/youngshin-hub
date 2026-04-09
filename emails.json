@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T21:45:11.076576",
+  "fetched_at": "2026-04-08T21:48:12.676494",
   "emails": [
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
@@ -74,46 +74,10 @@
       "cc": ""
     },
     {
-      "id": "CH2PR06MB67425FABD4F2CD8F37BA3BC7BE5AA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "Re: Journal Club 4/14",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Apr 07 2026 09:40:06 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "DM6PR10MB397900D74D2B9DEDBBF10D39FA5AA@DM6PR10MB3979.namprd10.prod.outlook.com",
       "subject": "FW: 송금 및 상품제안",
       "sender": "Young Shin Kim <kimy02@gmail.com>",
       "date": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB10930484C6A15E7FD05A06E9BC45DA@DS4PR06MB10930.namprd06.prod.outlook.com",
-      "subject": "R01 application needs to be revised",
-      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:23:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR06MB84755BEA1B69822D61CC7D21FB5DA@SJ0PR06MB8475.namprd06.prod.outlook.com",
-      "subject": "RE: Grand Round Speaker Dinner Scheduling",
-      "sender": "\"Barton, Karen M\" <kbarton@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 15:07:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "Re: APT Pre-Review: Erica Schwarz",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 13:58:34 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -130,7 +94,7 @@
     {
       "id": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -150,33 +114,6 @@
       "subject": "FW: UCSF STAR Center Volunteer Application - Selen Karakilic",
       "sender": "Young Shin Kim <kimy02@gmail.com>",
       "date": "Sun Apr 05 2026 20:37:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB10448EA5CA58C16853C19C90DA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: The Lancet: Submission Confirmation",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:44 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB104488A12E1A2F587EB20521CA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: Just a Reminder- Your Texas Medical License expire on 05/31/2026 *** IMPORTANT REGISTRATION INFORMATION ***",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB10448061A380BDD16F7370118A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: Papers for JAACAP Open AE Team Meeting on Wednesday?",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:05:22 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -209,33 +146,6 @@
       "cc": ""
     },
     {
-      "id": "SA6PR06MB1044833484F889AB385B302B6A35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
-      "subject": "FW: 3/26 APT Committee Meeting: Minutes and Action Items",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 15:04:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB674273C103D0666B57ECA544BE5CA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: purchasing giftcard for research participants on the Navajo project",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Sun Apr 05 2026 08:25:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB67422D6DDFBA5C4E9C4843E7BE5EA@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "purchasing giftcard for research participants on the Navajo project",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 16:18:59 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "010f019d5525c175-88ff9eb1-4f8f-4331-9c0a-7a716d6e1b2b-000000@us-east-2.amazonses.com",
       "subject": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
@@ -245,28 +155,28 @@
       "cc": ""
     },
     {
-      "id": "IA3PR06MB107119DD7C8BCE8AF1CBB3598B85EA@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Social Work Intern Onboarding Follow Up",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Fri Apr 03 2026 14:19:22 GMT-0500 (Central Daylight Time)",
+      "id": "SN7PR04MB87409CB430491C993F3D3C55CC51A@SN7PR04MB8740.namprd04.prod.outlook.com",
+      "subject": "RE: Final verification of author information for TD GWAS manuscript submission",
+      "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
+      "date": "Thu Apr 02 2026 10:01:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
     },
     {
-      "id": "CANtXoy6EmuctwV1_Q5Uvxb+zQjHfEJLdB58FXMtVWS3VQGyeHA@mail.gmail.com",
-      "subject": "Social Work Intern Onboarding Follow Up",
-      "sender": "Leo N Pratt <prattleo@utexas.edu>",
-      "date": "Fri Apr 03 2026 12:31:52 GMT-0500 (Central Daylight Time)",
+      "id": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
+      "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
     },
     {
-      "id": "CACwu7d0tOf=9kbnXepTGOrSVbAaKFMswb+s8eEgj7W4Lc13VRQ@mail.gmail.com",
-      "subject": "Call Swap",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Fri Apr 03 2026 07:00:57 GMT-0500 (Central Daylight Time)",
+      "id": "SJ0PR04MB7213262360E8098FA03CADE5DF51A@SJ0PR04MB7213.namprd04.prod.outlook.com",
+      "subject": "TCMHCC Resource Sharing Draft Policy",
+      "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
+      "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
