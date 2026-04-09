@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-09T11:00:11.816718",
+  "fetched_at": "2026-04-09T11:03:14.283854",
   "emails": [
+    {
+      "id": "DS1PR06MB10194A4D6F83ADD98C8E6E684C3582@DS1PR06MB10194.namprd06.prod.outlook.com",
+      "subject": "UPDATED PROPOSALS: Paid Psychiatry Call, Psychology Salary Revisions",
+      "sender": "\"Trammell, Shannon K\" <shannon.trammell@austin.utexas.edu>",
+      "date": "Thu Apr 09 2026 11:00:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
       "subject": "Your Submission THELANCET-D-26-01935",
