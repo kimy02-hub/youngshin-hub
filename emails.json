@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T22:03:14.852921",
+  "fetched_at": "2026-04-08T22:06:12.753056",
   "emails": [
     {
       "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
@@ -150,15 +150,6 @@
       "subject": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN7PR04MB87409CB430491C993F3D3C55CC51A@SN7PR04MB8740.namprd04.prod.outlook.com",
-      "subject": "RE: Final verification of author information for TD GWAS manuscript submission",
-      "sender": "\"Yu, Dongmei\" <DYU2@mgh.harvard.edu>",
-      "date": "Thu Apr 02 2026 10:01:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
