@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T10:18:13.327035",
+  "fetched_at": "2026-04-09T10:21:14.378355",
   "emails": [
     {
       "id": "CALLNj4cL5z_FTiu2QQNFxDbdG18_VA478mysjCh17hiO5-i5oQ@mail.gmail.com",
@@ -159,15 +159,6 @@
       "subject": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
-      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
-      "sender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
-      "date": "Thu Apr 02 2026 09:02:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
