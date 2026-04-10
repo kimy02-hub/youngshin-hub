@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T13:06:12.815334",
+  "fetched_at": "2026-04-10T13:09:12.600033",
   "emails": [
     {
       "id": "PH0PR06MB801557C7C2537914B01FD315B6592@PH0PR06MB8015.namprd06.prod.outlook.com",
@@ -15,6 +15,15 @@
       "subject": "F.R. Progress Note 4/10/26",
       "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
       "date": "Fri Apr 10 2026 12:16:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB7506DC37D5776D3074B1AF05A7592@CO6PR06MB7506.namprd06.prod.outlook.com",
+      "subject": "FW: Baruch Dayan haEmet -- Shirley Rich Tobolowsky (a\"h) -- mother of Mark Tobey",
+      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
+      "date": "Fri Apr 10 2026 12:04:46 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
