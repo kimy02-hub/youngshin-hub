@@ -312,7 +312,7 @@
       "emailDate": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
       "cc": "",
       "due": "2026-04-09",
-      "note": "https://www.dropbox.com/t/l02bz3QIJ6sFi6Ho\n대사관 주소: \n전화: +1-713-961-0186\n업무시간:\n평일 09:00–17:00",
+      "note": "https://www.dropbox.com/t/l02bz3QIJ6sFi6Ho\n대사관 주소: 1990 Post Oak Blvd #1250\nHouston, TX 77056\n전화: +1-713-961-0186\n업무시간:\n평일 09:00–17:00",
       "subtasks": [
         {
           "text": "위임장 준비",
@@ -321,7 +321,7 @@
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-10T19:20:36.646Z"
+      "updatedAt": "2026-04-10T19:21:01.296Z"
     },
     {
       "id": "task_1775516200986",
@@ -885,5 +885,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-10T19:20:37.086Z"
+  "saved_at": "2026-04-10T19:21:01.652Z"
 }
