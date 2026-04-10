@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1775843438192",
+      "title": "Emails",
+      "done": false,
+      "flagged": true,
+      "emailId": "CANYCf67m=7DvnQ14ZXgz05AbaxUWUHbn2K9kgcosT=tr2iZS0Q@mail.gmail.com",
+      "emailSender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "emailDate": "Thu Apr 09 2026 16:54:01 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-10T17:50:38.192Z",
+      "type": "email"
+    },
+    {
       "id": "task_1775842175092",
       "title": "Katie First Step",
       "done": false,
@@ -819,5 +834,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-10T17:29:35.620Z"
+  "saved_at": "2026-04-10T17:50:38.752Z"
 }
