@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1775842175092",
+      "title": "Katie First Step",
+      "done": false,
+      "flagged": true,
+      "emailId": null,
+      "emailSender": null,
+      "emailDate": null,
+      "cc": "katie Ankeman",
+      "due": "2026-04-10",
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-10T17:29:35.092Z",
+      "type": "manual"
+    },
+    {
       "id": "task_1775769152966",
       "title": "Winnie Monthly Check",
       "done": false,
@@ -804,5 +819,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-09T21:12:33.214Z"
+  "saved_at": "2026-04-10T17:29:35.620Z"
 }
