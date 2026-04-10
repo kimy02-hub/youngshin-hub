@@ -313,9 +313,15 @@
       "cc": "",
       "due": "2026-04-09",
       "note": "https://www.dropbox.com/t/l02bz3QIJ6sFi6Ho",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "위임장 준비",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-07T06:30:21.937Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-10T17:51:26.340Z"
     },
     {
       "id": "task_1775516200986",
@@ -879,5 +885,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-10T17:50:53.850Z"
+  "saved_at": "2026-04-10T17:51:26.741Z"
 }
