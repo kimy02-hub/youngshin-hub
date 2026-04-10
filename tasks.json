@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1775843453491",
+      "title": "UPDATED PROPOSALS: Paid Psychiatry Call, Psychology Salary Revisions",
+      "done": false,
+      "flagged": true,
+      "emailId": "DS1PR06MB10194A4D6F83ADD98C8E6E684C3582@DS1PR06MB10194.namprd06.prod.outlook.com",
+      "emailSender": "\"Trammell, Shannon K\" <shannon.trammell@austin.utexas.edu>",
+      "emailDate": "Thu Apr 09 2026 11:00:13 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-10T17:50:53.491Z",
+      "type": "email"
+    },
+    {
       "id": "task_1775843449491",
       "title": "4/8 APT Committee Meeting: Minutes and Action Items",
       "done": false,
@@ -864,5 +879,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-10T17:50:49.709Z"
+  "saved_at": "2026-04-10T17:50:53.850Z"
 }
