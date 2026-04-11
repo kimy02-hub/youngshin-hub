@@ -71,7 +71,7 @@
     {
       "id": "task_1775843438192",
       "title": "Emails",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CANYCf67m=7DvnQ14ZXgz05AbaxUWUHbn2K9kgcosT=tr2iZS0Q@mail.gmail.com",
       "emailSender": "Kari Whatley <Kari.Whatley@ascension.org>",
@@ -81,7 +81,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-10T17:50:38.192Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-11T20:05:58.316Z",
+      "updatedAt": "2026-04-11T20:05:58.316Z"
     },
     {
       "id": "task_1775842175092",
@@ -920,5 +922,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T20:05:47.979Z"
+  "saved_at": "2026-04-11T20:05:58.457Z"
 }
