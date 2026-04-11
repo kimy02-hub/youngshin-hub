@@ -52,7 +52,7 @@
     {
       "id": "task_1775936722170",
       "title": "F.R. Progress Note 4/10/26",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "DS0PR06MB908899C75B686B1CD8FDDBFAD4592@DS0PR06MB9088.namprd06.prod.outlook.com",
       "emailSender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
@@ -64,7 +64,8 @@
       "createdAt": "2026-04-11T19:45:22.170Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-11T21:38:31.017Z"
+      "updatedAt": "2026-04-11T23:07:01.164Z",
+      "doneAt": "2026-04-11T23:07:01.164Z"
     },
     {
       "id": "task_1775843453491",
@@ -991,5 +992,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T22:54:33.163Z"
+  "saved_at": "2026-04-11T23:07:01.511Z"
 }
