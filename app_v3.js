@@ -368,6 +368,36 @@ function sortTasks(taskList) {
   return sorted;
 }
 
+
+// -- COLOR LABELS ----------------------------------------------
+let colorPickerOpen = null;
+
+function toggleColorPicker(taskId) {
+  if (colorPickerOpen === taskId) {
+    closeColorPicker();
+    return;
+  }
+  closeColorPicker();
+  const picker = document.getElementById('cp-' + taskId);
+  if (picker) picker.style.display = 'flex';
+  colorPickerOpen = taskId;
+  // Close on outside click
+  setTimeout(() => document.addEventListener('click', closeColorPicker, { once: true }), 50);
+}
+
+function closeColorPicker() {
+  document.querySelectorAll('.color-dots').forEach(p => p.style.display = 'none');
+  colorPickerOpen = null;
+}
+
+function setTaskColor(taskId, color) {
+  const t = tasks.find(t => t.id === taskId); if (!t) return;
+  t.color = color || null;
+  t.updatedAt = new Date().toISOString();
+  saveTasks(); renderTasks();
+  closeColorPicker();
+}
+
 function renderTasks() {
   const activeRaw = tasks.filter(t => !t.done && !t.flagged);
   const active    = sortTasks(activeRaw);
@@ -402,7 +432,8 @@ function renderTasks() {
 
 function buildTaskCard(task, idx) {
   const card = document.createElement('div');
-  card.className = ['task-card', task.flagged && !task.done ? 'task-flagged' : '', task.done ? 'task-done' : ''].filter(Boolean).join(' ');
+  const colorClass = task.color ? 'color-' + task.color : '';
+  card.className = ['task-card', task.flagged && !task.done ? 'task-flagged' : '', task.done ? 'task-done' : '', colorClass].filter(Boolean).join(' ');
   card.style.animationDelay = (idx * 0.025) + 's';
 
   const tsLabel = task.type === 'email' && task.emailDate
@@ -439,6 +470,18 @@ function buildTaskCard(task, idx) {
     </div>
     <div class="task-actions">
       <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
+      <div class="color-picker" onclick="event.stopPropagation()">
+        <div class="color-dot c-${task.color || 'none'}" style="width:14px;height:14px;margin-top:3px;cursor:pointer;border-radius:50%;${task.color ? '' : 'border:1.5px dashed #aaa;background:none;'}" onclick="toggleColorPicker('${task.id}')" title="Color label"></div>
+        <div class="color-dots" id="cp-${task.id}" style="display:none">
+          <div class="color-dot c-none"   onclick="setTaskColor('${task.id}', '')"       title="None"></div>
+          <div class="color-dot c-red"    onclick="setTaskColor('${task.id}', 'red')"    title="Red"></div>
+          <div class="color-dot c-blue"   onclick="setTaskColor('${task.id}', 'blue')"   title="Blue"></div>
+          <div class="color-dot c-green"  onclick="setTaskColor('${task.id}', 'green')"  title="Green"></div>
+          <div class="color-dot c-purple" onclick="setTaskColor('${task.id}', 'purple')" title="Purple"></div>
+          <div class="color-dot c-orange" onclick="setTaskColor('${task.id}', 'orange')" title="Orange"></div>
+          <div class="color-dot c-pink"   onclick="setTaskColor('${task.id}', 'pink')"   title="Pink"></div>
+        </div>
+      </div>
       ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;</button>` : ''}
       ${task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : ''}
     </div>`;

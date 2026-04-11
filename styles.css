@@ -227,3 +227,25 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .delete-task-btn{font-size:0.82rem;background:none;border:1.5px solid #e4aaaa!important;border-radius:8px;padding:5px 10px;cursor:pointer;transition:all .14s;color:#c08080;line-height:1;min-width:44px;text-align:center;}
 .delete-task-btn:hover{background:#fce8e8!important;border-color:#e4aaaa!important;color:#b03030!important;}
 .sync-setup-btn{font-size:0.75rem;background:none;border:1px solid var(--border);border-radius:8px;padding:4px 8px;cursor:pointer;color:var(--text-ghost);margin-right:6px;}.sync-setup-btn:hover{background:var(--hover);}
+
+/* Task color labels */
+.task-card.color-red    { border-left: 4px solid #e05c5c !important; background: #fef5f5 !important; }
+.task-card.color-blue   { border-left: 4px solid #4a8fc4 !important; background: #f0f6fc !important; }
+.task-card.color-green  { border-left: 4px solid #4caf7d !important; background: #f0faf4 !important; }
+.task-card.color-purple { border-left: 4px solid #9b72cf !important; background: #f7f0fd !important; }
+.task-card.color-orange { border-left: 4px solid #e8924a !important; background: #fff5ed !important; }
+.task-card.color-pink   { border-left: 4px solid #e06b9a !important; background: #fdf0f6 !important; }
+
+/* Color picker popup */
+.color-picker { position:relative; display:inline-block; }
+.color-dots { display:flex; gap:5px; padding:6px 8px; background:var(--card); border:1px solid var(--border); border-radius:10px; box-shadow:0 3px 12px rgba(0,0,0,0.12); position:absolute; right:0; top:28px; z-index:100; }
+.color-dot { width:18px; height:18px; border-radius:50%; cursor:pointer; border:2px solid transparent; transition:transform 0.1s; }
+.color-dot:hover { transform:scale(1.2); }
+.color-dot.active { border-color: #333; }
+.color-dot.c-none   { background:#ccc; }
+.color-dot.c-red    { background:#e05c5c; }
+.color-dot.c-blue   { background:#4a8fc4; }
+.color-dot.c-green  { background:#4caf7d; }
+.color-dot.c-purple { background:#9b72cf; }
+.color-dot.c-orange { background:#e8924a; }
+.color-dot.c-pink   { background:#e06b9a; }
