@@ -243,7 +243,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 
 /* Task color labels */
 .task-card.color-crimson { border-left: 5px solid #DC143C !important; background: #fff0f3 !important; }
-.task-card.color-fuchsia { border-left: 5px solid #FF1493 !important; background: #fff0f9 !important; }
+.task-card.color-fuchsia { border-left: 5px solid #FF00FF !important; background: #fff0f9 !important; }
 .task-card.color-canary  { border-left: 5px solid #FFD700 !important; background: #fffde7 !important; }
 .task-card.color-cobalt  { border-left: 5px solid #0047AB !important; background: #f0f4ff !important; }
 .task-card.color-violet  { border-left: 5px solid #7F00FF !important; background: #f5f0ff !important; }
@@ -259,7 +259,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .color-dot:hover::after { opacity:1; }
 .color-dot.c-none { background:#ddd !important; border:1.5px dashed #999 !important; }
 .color-dot.c-crimson { background:#DC143C; }
-.color-dot.c-fuchsia { background:#FF1493; }
+.color-dot.c-fuchsia { background:#FF00FF; }
 .color-dot.c-canary  { background:#FFD700; }
 .color-dot.c-cobalt  { background:#0047AB; }
 .color-dot.c-violet  { background:#7F00FF; }
