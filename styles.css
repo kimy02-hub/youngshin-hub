@@ -252,3 +252,9 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 
 .unflag-email-btn{font-size:0.75rem;background:none;border:1.5px solid #e4aaaa;border-radius:8px;padding:4px 10px;cursor:pointer;color:#c08080;transition:all .14s;}
 .unflag-email-btn:hover{background:#fce8e8;color:#b03030;}
+
+.unflag-email-btn{font-size:0.75rem;background:none;border:1.5px solid #e4aaaa;border-radius:8px;padding:4px 10px;cursor:pointer;color:#c08080;transition:all .14s;}
+.unflag-email-btn:hover{background:#fce8e8;color:#b03030;}
+
+.delete-email-btn{font-size:0.75rem;background:none;border:1.5px solid #e4aaaa;border-radius:8px;padding:4px 10px;cursor:pointer;color:#c08080;transition:all .14s;}
+.delete-email-btn:hover{background:#fce8e8;color:#b03030;}

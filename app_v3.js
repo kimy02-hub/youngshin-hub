@@ -605,6 +605,88 @@ async function unflagEmail(emailId) {
   }
 }
 
+
+// -- UNFLAG EMAIL IN APPLE MAIL --------------------------------
+async function unflagEmail(emailId) {
+  if (!confirm('Unflag this email in Apple Mail?')) return;
+  // Remove from local view immediately
+  const email = allEmails.find(e => e.id === emailId);
+  if (email) email.flagged = false;
+  renderEmails();
+  showToast('Unflagging in Apple Mail...');
+  // Write unflag request to a pending file on GitHub
+  const token = localStorage.getItem('gh_token');
+  if (!token) { showToast('No token - cannot sync'); return; }
+  try {
+    const api = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/unflag_pending.json';
+    // Get current pending list
+    let pending = [];
+    let sha = null;
+    try {
+      const gr = await fetch(api, { headers: { 'Authorization': 'Bearer ' + token } });
+      if (gr.ok) {
+        const fi = await gr.json();
+        sha = fi.sha;
+        pending = JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(fi.content.replace(/\n/g,'')), c => c.charCodeAt(0))));
+      }
+    } catch(_) {}
+    // Add this email ID to pending
+    if (!pending.includes(emailId)) pending.push(emailId);
+    // Push updated pending list
+    const bytes = new TextEncoder().encode(JSON.stringify(pending));
+    let bin = ''; for (let i=0; i<bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    const body = { message: 'unflag request', content: btoa(bin) };
+    if (sha) body.sha = sha;
+    await fetch(api, {
+      method: 'PUT',
+      headers: { 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    showToast('Will unflag on next sync!');
+  } catch(e) {
+    showToast('Error: ' + e.message);
+  }
+}
+
+
+// -- DELETE EMAIL IN APPLE MAIL --------------------------------
+async function deleteEmail(emailId) {
+  if (!confirm('Delete this email from Apple Mail? This cannot be undone.')) return;
+  // Remove from local view immediately
+  allEmails = allEmails.filter(e => e.id !== emailId);
+  renderEmails();
+  showToast('Deleting in Apple Mail...');
+  // Write delete request to GitHub
+  const token = localStorage.getItem('gh_token');
+  if (!token) { showToast('No token - cannot sync'); return; }
+  try {
+    const api = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/delete_pending.json';
+    let pending = [];
+    let sha = null;
+    try {
+      const gr = await fetch(api, { headers: { 'Authorization': 'Bearer ' + token } });
+      if (gr.ok) {
+        const fi = await gr.json();
+        sha = fi.sha;
+        pending = JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(fi.content.replace(/\n/g,'')), c => c.charCodeAt(0))));
+      }
+    } catch(_) {}
+    if (!pending.includes(emailId)) pending.push(emailId);
+    const bytes = new TextEncoder().encode(JSON.stringify(pending));
+    let bin = ''; for (let i=0; i<bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    const body = { message: 'delete request', content: btoa(bin) };
+    if (sha) body.sha = sha;
+    await fetch(api, {
+      method: 'PUT',
+      headers: { 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    showToast('Will delete on next sync!');
+  } catch(e) {
+    showToast('Error: ' + e.message);
+  }
+}
+
 // -- TOAST -----------------------------------------------------
 let toastTimer;
 function showToast(msg) {

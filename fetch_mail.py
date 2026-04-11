@@ -207,6 +207,90 @@ def git_push(files):
         print(f'  Git error: {e}')
 
 
+
+def process_delete_requests():
+    """Check for pending delete requests and delete emails in Apple Mail."""
+    import json, base64, urllib.request
+    API = 'https://api.github.com/repos/kimy02-hub/youngshin-hub/contents/delete_pending.json'
+    TOKEN = open(os.path.expanduser('~/.git-credentials')).read().split(':')[2].split('@')[0] if os.path.exists(os.path.expanduser('~/.git-credentials')) else ''
+    try:
+        req = urllib.request.Request(API, headers={'Authorization': 'Bearer ' + TOKEN})
+        resp = urllib.request.urlopen(req, timeout=10)
+        data = json.loads(resp.read())
+        pending = json.loads(base64.b64decode(data['content']))
+        sha = data['sha']
+        if not pending:
+            return
+        print(f'  Deleting {len(pending)} emails in Apple Mail...')
+        deleted = []
+        for msg_id in pending:
+            safe_id = msg_id.replace('"', '')
+            script = f'''tell application "Mail"
+    set theMessages to messages of inbox whose message id is "{safe_id}"
+    if (count of theMessages) > 0 then
+        delete item 1 of theMessages
+    end if
+end tell'''
+            r = subprocess.run(['osascript', '-e', script], capture_output=True, timeout=15)
+            if r.returncode == 0:
+                deleted.append(msg_id)
+                print(f'    Deleted: {safe_id[:50]}')
+        remaining = [x for x in pending if x not in deleted]
+        content = json.dumps(remaining)
+        encoded = base64.b64encode(content.encode()).decode()
+        payload = json.dumps({'message': 'delete processed', 'content': encoded, 'sha': sha}).encode()
+        req2 = urllib.request.Request(API, data=payload, method='PUT',
+            headers={'Authorization': 'Bearer ' + TOKEN, 'Content-Type': 'application/json'})
+        urllib.request.urlopen(req2, timeout=10)
+    except Exception as e:
+        if 'HTTP Error 404' not in str(e):
+            print(f'  Delete check: {e}')
+
+def process_unflag_requests():
+    """Check for pending unflag requests and apply them in Apple Mail."""
+    import subprocess, json, base64, urllib.request, urllib.error
+    UNFLAG_FILE = os.path.join(REPO, 'unflag_pending.json')
+    API = 'https://api.github.com/repos/kimy02-hub/youngshin-hub/contents/unflag_pending.json'
+    TOKEN = open(os.path.expanduser('~/.git-credentials')).read().split(':')[2].split('@')[0] if os.path.exists(os.path.expanduser('~/.git-credentials')) else ''
+
+    try:
+        # Read pending unflag list from GitHub
+        req = urllib.request.Request(API, headers={'Authorization': 'Bearer ' + TOKEN})
+        resp = urllib.request.urlopen(req, timeout=10)
+        data = json.loads(resp.read())
+        pending = json.loads(base64.b64decode(data['content']))
+        sha = data['sha']
+        if not pending:
+            return
+        print(f'  Unflagging {len(pending)} emails in Apple Mail...')
+        # Build AppleScript to unflag each message by ID
+        unflagged = []
+        for msg_id in pending:
+            safe_id = msg_id.replace('"', '')
+            script = f'''tell application "Mail"
+    set theMessages to messages of inbox whose message id is "{safe_id}"
+    if (count of theMessages) > 0 then
+        set flagged status of item 1 of theMessages to false
+    end if
+end tell'''
+            r = subprocess.run(['osascript', '-e', script], capture_output=True, timeout=15)
+            if r.returncode == 0:
+                unflagged.append(msg_id)
+                print(f'    Unflagged: {safe_id[:50]}')
+        # Clear processed items from pending list
+        remaining = [x for x in pending if x not in unflagged]
+        # Push updated list back to GitHub
+        content = json.dumps(remaining)
+        encoded = base64.b64encode(content.encode()).decode()
+        payload = json.dumps({'message': 'unflag processed', 'content': encoded, 'sha': sha}).encode()
+        req2 = urllib.request.Request(API, data=payload, method='PUT',
+            headers={'Authorization': 'Bearer ' + TOKEN, 'Content-Type': 'application/json'})
+        urllib.request.urlopen(req2, timeout=10)
+    except Exception as e:
+        if 'HTTP Error 404' not in str(e):
+            print(f'  Unflag check: {e}')
+
+
 def process_unflag_requests():
     """Check for pending unflag requests and apply them in Apple Mail."""
     import subprocess, json, base64, urllib.request, urllib.error
@@ -276,6 +360,12 @@ def main():
 
     # 2b. Process unflag requests
     process_unflag_requests()
+
+    # 2b. Process unflag requests
+    process_unflag_requests()
+
+    # 2c. Process delete requests
+    process_delete_requests()
 
     # 3. Push to GitHub
     print('Pushing to GitHub...')
