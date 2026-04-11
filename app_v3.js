@@ -415,6 +415,19 @@ function setTaskColor(taskId, color) {
 }
 
 function renderTasks() {
+  if (currentSort === 'color') {
+    document.getElementById('flaggedSection').style.display = 'none';
+    const aList2 = document.getElementById('activeTasksList');
+    aList2.innerHTML = '';
+    sortTasks(tasks.filter(t => !t.done)).forEach((t,i) => aList2.appendChild(buildTaskCard(t,i)));
+    const comp2 = tasks.filter(t => t.done).sort((a,b) => new Date(b.doneAt||0)-new Date(a.doneAt||0));
+    const cs2 = document.getElementById('completedSection'), cl2 = document.getElementById('completedTasksList');
+    document.getElementById('completedCount').textContent = comp2.length;
+    if (comp2.length) { cs2.style.display=''; cl2.innerHTML=''; comp2.forEach((t,i)=>cl2.appendChild(buildTaskCard(t,i))); cl2.className='completed-list'+(completedOpen?' open':''); } else { cs2.style.display='none'; }
+    document.getElementById('taskCount').textContent = tasks.filter(t=>!t.done).length;
+    document.getElementById('tasksEmpty').style.display = tasks.length ? 'none' : '';
+    updateMobileBadge(); return;
+  }
   const activeRaw = tasks.filter(t => !t.done && !t.flagged);
   const active    = sortTasks(activeRaw);
   const flaggedRaw = tasks.filter(t => !t.done && t.flagged);
