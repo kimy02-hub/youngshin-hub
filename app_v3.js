@@ -487,7 +487,7 @@ function buildTaskCard(task, idx) {
     <div class="task-actions">
       <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
       <div class="color-picker" onclick="event.stopPropagation()">
-        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#DC143C','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#4B2E2E'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
+        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#FF0000','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#4B2E2E'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
         <div class="color-dots" id="cp-${task.id}" style="display:none">
           <div class="color-dot c-none"     onclick="setTaskColor('${task.id}', '')"         title="None"></div>
           <div class="color-dot c-crimson"  onclick="setTaskColor('${task.id}', 'crimson')"  title="Ruby Red: Today deadline"></div>
