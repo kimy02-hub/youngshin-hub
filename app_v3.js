@@ -346,6 +346,7 @@ function setSortOrder(order) {
 
 function sortTasks(taskList) {
   const sorted = [...taskList];
+  const colorOrder = { crimson:1, fuchsia:2, canary:3, cobalt:4, violet:5, lime:6 };
   switch (currentSort) {
     case 'name':
       sorted.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
@@ -364,6 +365,13 @@ function sortTasks(taskList) {
     case 'sender':
       sorted.sort((a, b) => (parseName(a.emailSender) || a.title || '').localeCompare(parseName(b.emailSender) || b.title || ''));
       break;
+    case 'color':
+      sorted.sort((a, b) => {
+        const ao = colorOrder[a.color] || 99;
+        const bo = colorOrder[b.color] || 99;
+        return ao - bo;
+      });
+      break;
     default:
       break;
   }
@@ -373,6 +381,12 @@ function sortTasks(taskList) {
 
 // -- COLOR LABELS ----------------------------------------------
 let colorPickerOpen = null;
+
+
+function colorLabel(color) {
+  const labels = { crimson:'Crimson: Today deadline', fuchsia:'Fuchsia: Top priority', canary:'Canary: Clinic', cobalt:'Cobalt: Operational', violet:'Violet: Journal editorial', lime:'Lime: Personal' };
+  return labels[color] || color;
+}
 
 function toggleColorPicker(taskId) {
   if (colorPickerOpen === taskId) {
@@ -473,15 +487,15 @@ function buildTaskCard(task, idx) {
     <div class="task-actions">
       <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
       <div class="color-picker" onclick="event.stopPropagation()">
-        <div class="color-dot c-${task.color || 'none'}" style="width:14px;height:14px;margin-top:3px;cursor:pointer;border-radius:50%;${task.color ? '' : 'border:1.5px dashed #aaa;background:none;'}" onclick="toggleColorPicker('${task.id}')" title="Color label"></div>
+        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;${task.color ? '' : 'border:1.5px dashed #aaa;background:none;'}" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
         <div class="color-dots" id="cp-${task.id}" style="display:none">
-          <div class="color-dot c-none"   onclick="setTaskColor('${task.id}', '')"       title="None"></div>
-          <div class="color-dot c-red"    onclick="setTaskColor('${task.id}', 'red')"    title="Red"></div>
-          <div class="color-dot c-blue"   onclick="setTaskColor('${task.id}', 'blue')"   title="Blue"></div>
-          <div class="color-dot c-green"  onclick="setTaskColor('${task.id}', 'green')"  title="Green"></div>
-          <div class="color-dot c-purple" onclick="setTaskColor('${task.id}', 'purple')" title="Purple"></div>
-          <div class="color-dot c-orange" onclick="setTaskColor('${task.id}', 'orange')" title="Orange"></div>
-          <div class="color-dot c-pink"   onclick="setTaskColor('${task.id}', 'pink')"   title="Pink"></div>
+          <div class="color-dot c-none"    onclick="setTaskColor('${task.id}', '')"        title="None"></div>
+          <div class="color-dot c-crimson" onclick="setTaskColor('${task.id}', 'crimson')" title="Crimson: Today deadline"></div>
+          <div class="color-dot c-fuchsia" onclick="setTaskColor('${task.id}', 'fuchsia')" title="Fuchsia: Top priority"></div>
+          <div class="color-dot c-canary"  onclick="setTaskColor('${task.id}', 'canary')"  title="Canary: Clinic"></div>
+          <div class="color-dot c-cobalt"  onclick="setTaskColor('${task.id}', 'cobalt')"  title="Cobalt: Operational"></div>
+          <div class="color-dot c-violet"  onclick="setTaskColor('${task.id}', 'violet')"  title="Violet: Journal editorial"></div>
+          <div class="color-dot c-lime"    onclick="setTaskColor('${task.id}', 'lime')"    title="Lime: Personal"></div>
         </div>
       </div>
       ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;</button>` : ''}
