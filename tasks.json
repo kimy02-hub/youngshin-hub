@@ -122,7 +122,7 @@
     {
       "id": "task_1775755217799",
       "title": "Flight schedule to Kelsey",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": null,
       "emailSender": null,
@@ -132,7 +132,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-09T17:20:17.799Z",
-      "type": "manual"
+      "type": "manual",
+      "doneAt": "2026-04-11T20:06:07.737Z",
+      "updatedAt": "2026-04-11T20:06:07.737Z"
     },
     {
       "id": "task_1775749020709",
@@ -924,5 +926,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T20:06:04.450Z"
+  "saved_at": "2026-04-11T20:06:07.885Z"
 }
