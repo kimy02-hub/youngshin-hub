@@ -257,7 +257,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .color-dot.active { border-color: #333; }
 .color-dot::after { content:attr(title); position:absolute; bottom:24px; left:50%; transform:translateX(-50%); background:#333; color:#fff; font-size:10px; padding:2px 5px; border-radius:4px; white-space:nowrap; opacity:0; pointer-events:none; transition:opacity 0.15s; }
 .color-dot:hover::after { opacity:1; }
-.color-dot.c-none    { background:#e0e0e0; }
+.color-dot.c-none { background:#ddd !important; border:1.5px dashed #999 !important; }
 .color-dot.c-crimson { background:#DC143C; }
 .color-dot.c-fuchsia { background:#FF1493; }
 .color-dot.c-canary  { background:#FFD700; }
