@@ -203,7 +203,7 @@
     {
       "id": "task_1775703447336",
       "title": "Blue Goji IRB Revisions",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH2PR06MB6696F089FF4C0EB822C6EA63ED5AA@CH2PR06MB6696.namprd06.prod.outlook.com",
       "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
@@ -214,7 +214,8 @@
       "subtasks": [],
       "createdAt": "2026-04-09T02:57:27.336Z",
       "type": "email",
-      "updatedAt": "2026-04-09T04:37:36.722Z"
+      "updatedAt": "2026-04-11T20:07:20.291Z",
+      "doneAt": "2026-04-11T20:07:20.291Z"
     },
     {
       "id": "task_1775678844673",
@@ -929,5 +930,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T20:07:13.732Z"
+  "saved_at": "2026-04-11T20:07:20.443Z"
 }
