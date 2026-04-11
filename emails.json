@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T17:45:13.528913",
+  "fetched_at": "2026-04-11T17:48:11.078478",
   "emails": [
     {
       "id": "DS0PR06MB908899C75B686B1CD8FDDBFAD4592@DS0PR06MB9088.namprd06.prod.outlook.com",
@@ -15,6 +15,15 @@
       "subject": "FW: Baruch Dayan haEmet -- Shirley Rich Tobolowsky (a\"h) -- mother of Mark Tobey",
       "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
       "date": "Fri Apr 10 2026 12:04:46 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "uNsMzNB7NReOnHCmH1wfMQK6aKNvZk9bJByWQ5Q@www.watchrepairsusa.com",
+      "subject": "Watch Repairs USA - Estimate Available",
+      "sender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
+      "date": "Fri Apr 10 2026 09:46:35 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
