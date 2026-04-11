@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T16:06:15.014841",
+  "fetched_at": "2026-04-11T16:09:12.592307",
   "emails": [
     {
       "id": "DS0PR06MB908899C75B686B1CD8FDDBFAD4592@DS0PR06MB9088.namprd06.prod.outlook.com",
@@ -42,15 +42,6 @@
       "subject": "Consultation Request",
       "sender": "\"Chee, Wonshik\" <wonshik.chee@austin.utexas.edu>",
       "date": "Thu Apr 09 2026 18:42:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf67m=7DvnQ14ZXgz05AbaxUWUHbn2K9kgcosT=tr2iZS0Q@mail.gmail.com",
-      "subject": "Emails",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Thu Apr 09 2026 16:54:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
