@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-11T14:42:11.279625",
+  "fetched_at": "2026-04-11T14:45:12.386064",
   "emails": [
+    {
+      "id": "BYAPR06MB6200D84AC80BC2EAEB803299CC262@BYAPR06MB6200.namprd06.prod.outlook.com",
+      "subject": "Re: Shadowing Friday",
+      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
+      "date": "Fri Apr 10 2026 22:15:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS0PR06MB908899C75B686B1CD8FDDBFAD4592@DS0PR06MB9088.namprd06.prod.outlook.com",
       "subject": "F.R. Progress Note 4/10/26",
