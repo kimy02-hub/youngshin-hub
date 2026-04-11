@@ -21,7 +21,7 @@ else{
   if(!mb){'ERROR:Mailbox not found';}
   else{
     var msgs=mb.messages(), rows=[];
-    var cutoff = new Date('2026-03-01T00:00:00');
+    var cutoff = new Date("2026-04-01T00:00:00");
     var scanLimit = Math.min(msgs.length, 300);
     for(var i=0; i<scanLimit; i++){
       try{
