@@ -182,6 +182,7 @@ function buildEmailCard(email, idx) {
       <button class="to-task-btn" onclick="emailToTask('${escId(email.id)}')">+ Task</button>
       <a class="open-mail-btn" href="${buildMailUrl(email.id)}" target="_blank">&#9993; Open</a>
       ${email.flagged ? `<button class="unflag-email-btn" onclick="unflagEmail('${escId(email.id)}')">&#9873; Unflag</button>` : ''}
+      <button class="delete-email-btn" onclick="deleteEmail('${escId(email.id)}')">&#10005; Delete</button>
     </div>`;
   return card;
 }
