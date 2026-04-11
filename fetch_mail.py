@@ -226,15 +226,17 @@ def process_delete_requests():
         for msg_id in pending:
             safe_id = msg_id.replace('"', '')
             script = f'''tell application "Mail"
-    set theMessages to messages of inbox whose message id is "{safe_id}"
-    if (count of theMessages) > 0 then
-        delete item 1 of theMessages
-    end if
+    set theMessages to (messages of inbox whose message id is "{safe_id}")
+    repeat with i from 1 to count of theMessages
+        delete item i of theMessages
+    end repeat
 end tell'''
-            r = subprocess.run(['osascript', '-e', script], capture_output=True, timeout=15)
+            r = subprocess.run(['osascript', '-e', script], capture_output=True, timeout=60)
             if r.returncode == 0:
                 deleted.append(msg_id)
                 print(f'    Deleted: {safe_id[:50]}')
+            else:
+                print(f'    Delete failed: {r.stderr.strip()[:80]}')
         remaining = [x for x in pending if x not in deleted]
         content = json.dumps(remaining)
         encoded = base64.b64encode(content.encode()).decode()
@@ -267,16 +269,20 @@ def process_unflag_requests():
         unflagged = []
         for msg_id in pending:
             safe_id = msg_id.replace('"', '')
+            # Use mdfind to locate the email file first, then act on it
             script = f'''tell application "Mail"
-    set theMessages to messages of inbox whose message id is "{safe_id}"
-    if (count of theMessages) > 0 then
-        set flagged status of item 1 of theMessages to false
-    end if
+    set theMessages to (messages of inbox whose message id is "{safe_id}")
+    repeat with i from 1 to count of theMessages
+        set flagged status of item i of theMessages to false
+    end repeat
 end tell'''
-            r = subprocess.run(['osascript', '-e', script], capture_output=True, timeout=15)
+            # Try with longer timeout since Mail is now open
+            r = subprocess.run(['osascript', '-e', script], capture_output=True, timeout=60)
             if r.returncode == 0:
                 unflagged.append(msg_id)
                 print(f'    Unflagged: {safe_id[:50]}')
+            else:
+                print(f'    Unflag failed: {r.stderr.strip()[:80]}')
         # Clear processed items from pending list
         remaining = [x for x in pending if x not in unflagged]
         # Push updated list back to GitHub
