@@ -51,7 +51,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .email-card{background:var(--surface-0);border:1.5px solid var(--surface-2);border-radius:var(--r-md);padding:11px 14px;margin-bottom:8px;transition:all .14s;animation:fadeIn .2s ease both;cursor:default;}
 .email-card:hover{border-color:var(--surface-3);box-shadow:var(--sh-sm);transform:translateY(-1px);}
 .email-card.unread{border-left:4px solid var(--rose);background:#fffbfa;}
-.email-card.flagged-card{background:var(--rose-bg);border-color:var(--rose-border);}
+.email-card.flagged-card{}
 .email-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:3px;}
 .email-sender-row{display:flex;align-items:center;gap:7px;flex:1;min-width:0;}
 .unread-dot{width:8px;height:8px;border-radius:50%;background:var(--rose);flex-shrink:0;}
