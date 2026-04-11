@@ -511,7 +511,7 @@
     {
       "id": "task_1775581106440",
       "title": "Re: Journal Club 4/14",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": "CO1PR06MB8060C1875BFEB6AF74BA4FF6C25AA@CO1PR06MB8060.namprd06.prod.outlook.com",
       "emailSender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
@@ -535,7 +535,8 @@
       ],
       "createdAt": "2026-04-07T16:58:26.440Z",
       "type": "email",
-      "updatedAt": "2026-04-09T02:49:07.443Z"
+      "updatedAt": "2026-04-11T19:52:56.004Z",
+      "doneAt": "2026-04-11T19:52:56.004Z"
     },
     {
       "id": "task_1775497111837",
@@ -908,5 +909,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T19:45:22.525Z"
+  "saved_at": "2026-04-11T19:52:56.535Z"
 }
