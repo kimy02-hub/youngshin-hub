@@ -48,8 +48,8 @@
       "subtasks": [],
       "createdAt": "2026-04-10T17:50:49.491Z",
       "type": "email",
-      "color": "espresso",
-      "updatedAt": "2026-04-11T21:55:35.667Z"
+      "color": "crimson",
+      "updatedAt": "2026-04-11T22:14:09.963Z"
     },
     {
       "id": "task_1775843444141",
@@ -942,5 +942,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T22:13:42.780Z"
+  "saved_at": "2026-04-11T22:14:10.169Z"
 }
