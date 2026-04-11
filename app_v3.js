@@ -346,7 +346,7 @@ function setSortOrder(order) {
 
 function sortTasks(taskList) {
   const sorted = [...taskList];
-  const colorOrder = { crimson:1, fuchsia:2, cobalt:3, canary:4, violet:5, espresso:6, lime:7 };
+  const colorOrder = { fuchsia:1, crimson:2, cobalt:3, canary:4, violet:5, espresso:6, lime:7 };
   switch (currentSort) {
     case 'name':
       sorted.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
@@ -503,8 +503,8 @@ function buildTaskCard(task, idx) {
         <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#FF0000','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#4B2E2E'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
         <div class="color-dots" id="cp-${task.id}" style="display:none">
           <div class="color-dot c-none"     onclick="setTaskColor('${task.id}', '')"         title="None"></div>
-          <div class="color-dot c-crimson"  onclick="setTaskColor('${task.id}', 'crimson')"  title="Ruby Red: Today deadline"></div>
           <div class="color-dot c-fuchsia"  onclick="setTaskColor('${task.id}', 'fuchsia')"  title="Fuchsia: Top priority"></div>
+          <div class="color-dot c-crimson"  onclick="setTaskColor('${task.id}', 'crimson')"  title="Ruby Red: Today deadline"></div>
           <div class="color-dot c-cobalt"   onclick="setTaskColor('${task.id}', 'cobalt')"   title="Royal Blue: Operational"></div>
           <div class="color-dot c-canary"   onclick="setTaskColor('${task.id}', 'canary')"   title="Canary: Clinic"></div>
           <div class="color-dot c-violet"   onclick="setTaskColor('${task.id}', 'violet')"   title="Violet: Journal editorial"></div>
