@@ -264,3 +264,5 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .color-dot.c-cobalt  { background:#0047AB; }
 .color-dot.c-violet  { background:#7F00FF; }
 .color-dot.c-lime    { background:#32CD32; }
+
+.task-card.color-espresso { border-left: 5px solid #4B2E2E !important; background: #fdf6f0 !important; }
