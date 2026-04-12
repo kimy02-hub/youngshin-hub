@@ -227,10 +227,19 @@
       "cc": "",
       "due": "2026-04-12",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "email to the authors the list of the journals we will submit",
+          "done": false
+        },
+        {
+          "text": "Submit to AJP first",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-09T04:38:37.402Z",
       "type": "email",
-      "updatedAt": "2026-04-11T21:55:59.875Z",
+      "updatedAt": "2026-04-12T00:45:29.516Z",
       "color": "crimson"
     },
     {
@@ -992,5 +1001,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-11T23:07:01.511Z"
+  "saved_at": "2026-04-12T00:45:29.823Z"
 }
