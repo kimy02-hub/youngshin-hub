@@ -260,6 +260,50 @@ function editTaskCC(taskId) {
 // -- EDIT MODAL ------------------------------------------------
 let editingTaskId = null;
 
+
+// -- RELATED EMAILS --------------------------------------------
+function populateRelatedEmailPicker() {
+  const picker = document.getElementById('relatedEmailPicker');
+  if (!picker) return;
+  picker.innerHTML = '<option value="">+ Add related email from inbox...</option>';
+  allEmails.forEach(e => {
+    const opt = document.createElement('option');
+    opt.value = e.id;
+    opt.textContent = parseName(e.sender) + ' — ' + (e.subject || '').substring(0, 50);
+    picker.appendChild(opt);
+  });
+}
+
+function addRelatedEmail(emailId) {
+  if (!emailId || !editingTaskId) return;
+  const t = tasks.find(t => t.id === editingTaskId); if (!t) return;
+  if (!t.relatedEmails) t.relatedEmails = [];
+  if (t.relatedEmails.find(r => r.id === emailId)) { showToast('Already added!'); return; }
+  const email = allEmails.find(e => e.id === emailId);
+  if (!email) return;
+  t.relatedEmails.push({ id: emailId, subject: email.subject, sender: email.sender });
+  renderRelatedEmailsEditor(t);
+  document.getElementById('relatedEmailPicker').value = '';
+}
+
+function removeRelatedEmail(emailId) {
+  const t = tasks.find(t => t.id === editingTaskId); if (!t) return;
+  t.relatedEmails = (t.relatedEmails || []).filter(r => r.id !== emailId);
+  renderRelatedEmailsEditor(t);
+}
+
+function renderRelatedEmailsEditor(t) {
+  const list = document.getElementById('relatedEmailsList'); if (!list) return;
+  list.innerHTML = '';
+  (t.relatedEmails || []).forEach(r => {
+    const row = document.createElement('div');
+    row.style.cssText = 'display:flex;align-items:center;gap:6px;margin-bottom:4px;font-size:0.8rem;';
+    row.innerHTML = `<span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">&#9993; ${esc(parseName(r.sender))} — ${esc((r.subject||'').substring(0,40))}</span>
+      <button onclick="removeRelatedEmail('${escId(r.id)}')" style="border:none;background:none;color:#c08080;cursor:pointer;font-size:1rem;">&times;</button>`;
+    list.appendChild(row);
+  });
+}
+
 function openEditTask(taskId) {
   const t = tasks.find(t => t.id === taskId); if (!t) return;
   editingTaskId = taskId;
@@ -267,6 +311,8 @@ function openEditTask(taskId) {
   document.getElementById('editTaskDue').value   = t.due   || '';
   document.getElementById('editTaskNote').value  = t.note  || '';
   renderSubtaskEditor(t);
+  renderRelatedEmailsEditor(t);
+  populateRelatedEmailPicker();
   document.getElementById('editTaskModal').classList.add('open');
   setTimeout(() => document.getElementById('editTaskTitle').focus(), 80);
 }
