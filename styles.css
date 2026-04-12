@@ -81,8 +81,8 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .task-card.task-done .task-checkbox{background:var(--done-strike);border-color:var(--done-strike);box-shadow:none;}
 .task-card.task-done .task-checkbox::after{content:"\2713";color:white;font-size:12px;font-weight:800;}
 .task-body{flex:1;min-width:0;}
-.task-title-row{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:5px;}
-.task-title{font-size:0.95rem;font-weight:600;color:var(--text-primary);line-height:1.35;word-break:break-word;flex:1;min-width:0;overflow-wrap:break-word;}
+.task-title-row{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:5px;min-width:0;}
+.task-title{font-size:0.95rem;font-weight:600;color:var(--text-primary);line-height:1.35;word-break:break-word;overflow-wrap:break-word;flex:1;min-width:0;}
 .task-timestamp{font-size:0.72rem;color:var(--text-ghost);white-space:nowrap;flex-shrink:0;font-style:italic;}
 .task-note-preview{font-size:0.8rem;color:var(--text-tertiary);font-style:italic;margin:3px 0 5px;line-height:1.4;word-break:break-word;}
 .task-sub-preview{font-size:0.76rem;color:var(--text-tertiary);margin:2px 0 5px;}
