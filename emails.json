@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T13:06:11.361150",
+  "fetched_at": "2026-04-12T13:09:22.254926",
   "emails": [
     {
       "id": "CO6PR06MB7506DC37D5776D3074B1AF05A7592@CO6PR06MB7506.namprd06.prod.outlook.com",
@@ -195,15 +195,6 @@
       "subject": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Fri Apr 03 2026 16:00:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR04MB7213262360E8098FA03CADE5DF51A@SJ0PR04MB7213.namprd04.prod.outlook.com",
-      "subject": "TCMHCC Resource Sharing Draft Policy",
-      "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
-      "date": "Thu Apr 02 2026 08:42:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
