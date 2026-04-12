@@ -434,7 +434,7 @@
     {
       "id": "task_1775516200986",
       "title": "Re: APT Pre-Review: Erica Schwarz",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "LV5PR06MB112660AB7DE50C3A00B90E9BCBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
       "emailSender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
@@ -445,8 +445,9 @@
       "subtasks": [],
       "createdAt": "2026-04-06T22:56:40.986Z",
       "type": "email",
-      "updatedAt": "2026-04-11T22:13:19.833Z",
-      "color": "crimson"
+      "updatedAt": "2026-04-12T01:28:08.796Z",
+      "color": "crimson",
+      "doneAt": "2026-04-12T01:28:08.796Z"
     },
     {
       "id": "task_1775516199082",
@@ -1003,5 +1004,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-12T01:23:31.604Z"
+  "saved_at": "2026-04-12T01:28:09.128Z"
 }
