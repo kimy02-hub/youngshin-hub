@@ -20,7 +20,7 @@
     {
       "id": "task_1775947828933",
       "title": "Follow-Up: Transition Clinics and Care Gaps",
-      "done": true,
+      "done": false,
       "flagged": true,
       "emailId": "DM5PR0601MB37499991D679AFD5A78AD8ADD1592@DM5PR0601MB3749.namprd06.prod.outlook.com",
       "emailSender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
@@ -36,8 +36,8 @@
       ],
       "createdAt": "2026-04-11T22:50:28.933Z",
       "type": "email",
-      "updatedAt": "2026-04-12T02:17:25.019Z",
-      "doneAt": "2026-04-12T02:17:25.019Z"
+      "updatedAt": "2026-04-12T02:18:07.295Z",
+      "doneAt": null
     },
     {
       "id": "task_1775947827328",
@@ -1013,5 +1013,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-12T02:17:25.453Z"
+  "saved_at": "2026-04-12T02:18:07.812Z"
 }
