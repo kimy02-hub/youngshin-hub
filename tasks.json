@@ -247,7 +247,7 @@
     {
       "id": "task_1775705551683",
       "title": "ACTION NEEDED: You have time awaiting your approval in Workday.",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "0100019d4e8035b9-a1ef6a12-bd61-49c1-a3de-75c29376f658-000000@email.amazonses.com",
       "emailSender": "Workday@UT - Do Not Reply <utaustin@myworkday.com>",
@@ -258,8 +258,9 @@
       "subtasks": [],
       "createdAt": "2026-04-09T03:32:31.683Z",
       "type": "email",
-      "updatedAt": "2026-04-11T22:12:50.748Z",
-      "color": "crimson"
+      "updatedAt": "2026-04-12T01:28:13.775Z",
+      "color": "crimson",
+      "doneAt": "2026-04-12T01:28:13.775Z"
     },
     {
       "id": "task_1775703447336",
@@ -1004,5 +1005,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-12T01:28:09.128Z"
+  "saved_at": "2026-04-12T01:28:14.049Z"
 }
