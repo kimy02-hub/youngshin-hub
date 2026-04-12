@@ -87,7 +87,7 @@
     {
       "id": "task_1775843449491",
       "title": "4/8 APT Committee Meeting: Minutes and Action Items",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "LV5PR06MB11266C1286183A00D631EFDAEBA582@LV5PR06MB11266.namprd06.prod.outlook.com",
       "emailSender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
@@ -99,7 +99,8 @@
       "createdAt": "2026-04-10T17:50:49.491Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-11T22:18:44.508Z"
+      "updatedAt": "2026-04-12T01:07:48.219Z",
+      "doneAt": "2026-04-12T01:07:48.219Z"
     },
     {
       "id": "task_1775843444141",
@@ -1001,5 +1002,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-12T00:45:29.823Z"
+  "saved_at": "2026-04-12T01:07:48.274Z"
 }
