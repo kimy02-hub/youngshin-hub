@@ -71,7 +71,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .tasks-body{padding:10px 22px 32px;}
 .section-label{font-size:0.74rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:10px 2px 8px;display:flex;align-items:center;gap:8px;}
 .flagged-label{color:var(--amber);}
-.task-card{background:var(--surface-0);border:1.5px solid var(--surface-2);border-radius:var(--r-md);padding:11px 14px;margin-bottom:8px;display:flex;align-items:flex-start;gap:10px;transition:all .14s;animation:fadeIn .2s ease both;max-width:100%;overflow:hidden;box-sizing:border-box;}
+.task-card{background:var(--surface-0);border:1.5px solid var(--surface-2);border-radius:var(--r-md);padding:11px 14px;margin-bottom:8px;display:flex;align-items:flex-start;gap:10px;transition:all .14s;animation:fadeIn .2s ease both;max-width:100%;box-sizing:border-box;}
 .task-card:hover{box-shadow:var(--sh-sm);border-color:var(--surface-3);}
 .task-card.task-flagged{background:var(--amber-bg);border-color:var(--amber-border);border-left:4px solid var(--amber);}
 .task-card.task-done{opacity:.52;border-style:dashed;border-color:var(--surface-3);}
