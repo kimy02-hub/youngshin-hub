@@ -35,7 +35,7 @@ else{
         var cc='';
         try{cc=m.ccAddress()||'';}catch(e){}
         rows.push([id,subj,from,date.toString(),m.readStatus(),m.flaggedStatus(),cc].join('~|~'));
-        if(rows.length>=30) break;
+        if(rows.length>=50) break;
       }catch(e){ continue; }
     }
     rows.join('ROWSEP');
