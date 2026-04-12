@@ -251,7 +251,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 
 /* Color picker popup */
 .color-picker { position:relative; display:inline-block; }
-.color-dots { display:flex; gap:4px; padding:6px 8px; background:var(--card); border:1px solid var(--border); border-radius:10px; box-shadow:0 3px 12px rgba(0,0,0,0.15); position:absolute; right:0; top:28px; z-index:100; flex-wrap:wrap; width:160px; }
+.color-dots { display:flex; gap:4px; padding:6px 8px; background:var(--card); border:1px solid var(--border); border-radius:10px; box-shadow:0 3px 12px rgba(0,0,0,0.15); position:absolute; right:0; top:28px; transform:translateX(0); z-index:100; flex-wrap:wrap; width:160px; }
 .color-dot { width:20px; height:20px; border-radius:50%; cursor:pointer; border:2px solid transparent; transition:transform 0.1s; position:relative; }
 .color-dot:hover { transform:scale(1.25); }
 .color-dot.active { border-color: #333; }
