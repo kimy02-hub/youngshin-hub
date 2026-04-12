@@ -8,7 +8,7 @@ const TASKS_FILE  = 'tasks.json';
 const API_BASE    = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/';
 
 let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
-let localUnflagged = new Set(); // emails unflagged locally, filter from view
+let localUnflagged = new Set(JSON.parse(localStorage.getItem('local_unflagged') || '[]'));
 
 // -- BOOT ------------------------------------------------------
 if (!localStorage.getItem('gh_token')) { const _a='ghp_oWNa3i', _b='OgxVh2Q5RCt189y1y7gMPKgy3kEP8O'; localStorage.setItem('gh_token', _a+_b); }
@@ -736,6 +736,7 @@ async function unflagEmail(emailId) {
   if (!confirm('Unflag this email in Apple Mail?')) return;
   // Remove from local view immediately and permanently
   localUnflagged.add(emailId);
+  localStorage.setItem('local_unflagged', JSON.stringify([...localUnflagged]));
   allEmails = allEmails.filter(e => e.id !== emailId);
   renderEmails();
   showToast('Unflagging in Apple Mail...');
@@ -763,6 +764,7 @@ async function deleteEmail(emailId) {
   if (!confirm('Delete this email from Apple Mail? This cannot be undone.')) return;
   // Remove from local view immediately
   localUnflagged.add(emailId);
+  localStorage.setItem('local_unflagged', JSON.stringify([...localUnflagged]));
   allEmails = allEmails.filter(e => e.id !== emailId);
   renderEmails();
   showToast('Deleting in Apple Mail...');
