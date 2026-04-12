@@ -470,7 +470,7 @@
     {
       "id": "task_1775493814286",
       "title": "FW: UCSF STAR Center Volunteer Application - Selen Karakilic",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "DM6PR10MB39794C318FE90F4C5DA90AECFA5DA@DM6PR10MB3979.namprd10.prod.outlook.com",
       "emailSender": "Young Shin Kim <kimy02@gmail.com>",
@@ -481,8 +481,9 @@
       "subtasks": [],
       "createdAt": "2026-04-06T16:43:34.286Z",
       "type": "email",
-      "updatedAt": "2026-04-11T22:13:23.298Z",
-      "color": "crimson"
+      "updatedAt": "2026-04-12T02:03:32.283Z",
+      "color": "crimson",
+      "doneAt": "2026-04-12T02:03:32.283Z"
     },
     {
       "id": "task_1775427680338",
@@ -1005,5 +1006,5 @@
       "updatedAt": "2026-04-08T19:39:01.748Z"
     }
   ],
-  "saved_at": "2026-04-12T01:49:30.033Z"
+  "saved_at": "2026-04-12T02:03:33.438Z"
 }
