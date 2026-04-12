@@ -1,15 +1,6 @@
 {
-  "fetched_at": "2026-04-11T20:24:12.340860",
+  "fetched_at": "2026-04-11T20:27:12.723228",
   "emails": [
-    {
-      "id": "DS0PR06MB908899C75B686B1CD8FDDBFAD4592@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "F.R. Progress Note 4/10/26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Fri Apr 10 2026 12:16:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
     {
       "id": "CO6PR06MB7506DC37D5776D3074B1AF05A7592@CO6PR06MB7506.namprd06.prod.outlook.com",
       "subject": "FW: Baruch Dayan haEmet -- Shirley Rich Tobolowsky (a\"h) -- mother of Mark Tobey",
@@ -51,15 +42,6 @@
       "subject": "Incomplete Tasks Assigned for Activity Kids Living Well Summit - Awareness to Action: Supporting Children with Developmental Disabilities and Mental Health Challenges.",
       "sender": "Ascension <ce-cme@ascension-ce-cme.cloud-cme.com>",
       "date": "Fri Apr 10 2026 06:38:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "C3E64759-B922-4DDC-8D4B-C37ECC08EB73@austin.utexas.edu",
-      "subject": "Consultation Request",
-      "sender": "\"Chee, Wonshik\" <wonshik.chee@austin.utexas.edu>",
-      "date": "Thu Apr 09 2026 18:42:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
