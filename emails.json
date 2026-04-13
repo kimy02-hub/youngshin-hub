@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-13T11:45:11.424320",
+  "fetched_at": "2026-04-13T11:48:12.944147",
   "emails": [
+    {
+      "id": "010f019d87bdb61a-05f3b07f-3c75-490b-ac7a-e809599a2e9e-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-25-00196R1 Editor Reminder - [EMID:91d45719b321556c]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Apr 13 2026 11:47:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR13MB3179A6A61F0EE9DA2E13C13DEF242@DM6PR13MB3179.namprd13.prod.outlook.com",
+      "subject": "Working at CEHP",
+      "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
+      "date": "Mon Apr 13 2026 11:38:18 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CO1PR06MB806071D782B6E405C7561A8DC2242@CO1PR06MB8060.namprd06.prod.outlook.com",
       "subject": "General Psychiatry Resident Didactics Planning: CAP Faculty",
