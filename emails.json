@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-13T15:33:13.619513",
+  "fetched_at": "2026-04-13T15:36:12.928344",
   "emails": [
     {
       "id": "CAA-Uk7tEXrJN0X7jQNk7g215AJvN=ic8=p7eN9FtmwWuCU-U_A@mail.gmail.com",
@@ -33,6 +33,15 @@
       "subject": "Working at CEHP",
       "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
       "date": "Mon Apr 13 2026 11:38:18 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMmJW1pE3xTE5ibzGX0d7Zanj5+Hs0RNo-irNEKkTi+U+RSB4g@mail.gmail.com",
+      "subject": "Re: Checking in",
+      "sender": "Anita Abure <anitaaburemd@gmail.com>",
+      "date": "Mon Apr 13 2026 09:23:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
