@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-13T09:45:13.174900",
+  "fetched_at": "2026-04-13T09:48:11.756741",
   "emails": [
+    {
+      "id": "CO1PR06MB806071D782B6E405C7561A8DC2242@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "General Psychiatry Resident Didactics Planning: CAP Faculty",
+      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
+      "date": "Mon Apr 13 2026 09:11:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CO6PR06MB7506DC37D5776D3074B1AF05A7592@CO6PR06MB7506.namprd06.prod.outlook.com",
       "subject": "FW: Baruch Dayan haEmet -- Shirley Rich Tobolowsky (a\"h) -- mother of Mark Tobey",
