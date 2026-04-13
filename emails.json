@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-13T13:54:12.183742",
+  "fetched_at": "2026-04-13T13:57:11.964318",
   "emails": [
+    {
+      "id": "DS1PR06MB10655F1361EF96465A14EF36EC5242@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "PLEASE APPROVE OR DENY: PHP/IOP Relaunch at Dell Children's",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Mon Apr 13 2026 13:50:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "010f019d87bdb61a-05f3b07f-3c75-490b-ac7a-e809599a2e9e-000000@us-east-2.amazonses.com",
       "subject": "JAACAPOPEN-D-25-00196R1 Editor Reminder - [EMID:91d45719b321556c]",
@@ -24,6 +33,24 @@
       "subject": "General Psychiatry Resident Didactics Planning: CAP Faculty",
       "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
       "date": "Mon Apr 13 2026 09:11:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAB76nFHwHmR7+NST+pPqeYvhBYwi50GnBcA6oY63oHObHNL3mg@mail.gmail.com",
+      "subject": "Covalent Foundation Quarterly Update - Wednesday April 15th",
+      "sender": "Meredith Mallory <meredith.mallory@ascension.org>",
+      "date": "Mon Apr 13 2026 08:41:45 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAOWh29x_DYkSQhWUKn+6iqmQfT7QZFcsqEnFiAw-vghPjQXV6A@mail.gmail.com",
+      "subject": "Chloe - Guanfacine",
+      "sender": "Pete Curlin <petecurlin@gmail.com>",
+      "date": "Mon Apr 13 2026 08:00:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
