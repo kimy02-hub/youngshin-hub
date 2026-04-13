@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776098616315",
+      "title": "General Psychiatry Resident Didactics Planning: CAP Faculty",
+      "done": false,
+      "flagged": true,
+      "emailId": "CO1PR06MB806071D782B6E405C7561A8DC2242@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "emailSender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
+      "emailDate": "Mon Apr 13 2026 09:11:08 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-13T16:43:36.315Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776019725294",
       "title": "VISTA Grant",
       "done": false,
@@ -1208,5 +1223,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-12T19:09:08.658Z"
+  "saved_at": "2026-04-13T16:43:36.672Z"
 }
