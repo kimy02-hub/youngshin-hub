@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-13T15:30:12.830018",
+  "fetched_at": "2026-04-13T15:33:13.619513",
   "emails": [
+    {
+      "id": "CAA-Uk7tEXrJN0X7jQNk7g215AJvN=ic8=p7eN9FtmwWuCU-U_A@mail.gmail.com",
+      "subject": "Full-time post graduation",
+      "sender": "Adriana Desalos <adriana.desalos@gmail.com>",
+      "date": "Mon Apr 13 2026 15:26:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10655F1361EF96465A14EF36EC5242@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "PLEASE APPROVE OR DENY: PHP/IOP Relaunch at Dell Children's",
