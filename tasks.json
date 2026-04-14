@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776179414208",
+      "title": "Chloe - Guanfacine",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAOWh29x_DYkSQhWUKn+6iqmQfT7QZFcsqEnFiAw-vghPjQXV6A@mail.gmail.com",
+      "emailSender": "Pete Curlin <petecurlin@gmail.com>",
+      "emailDate": "Mon Apr 13 2026 08:00:38 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-14T15:10:14.208Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776179411776",
       "title": "Covalent Foundation Quarterly Update - Wednesday April 15th",
       "done": false,
@@ -1360,5 +1375,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-14T15:10:12.021Z"
+  "saved_at": "2026-04-14T15:10:14.360Z"
 }
