@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T10:54:26.425565",
+  "fetched_at": "2026-04-14T10:57:23.875027",
   "emails": [
     {
       "id": "PH0PR06MB7772430884B9608645AF1771AF252@PH0PR06MB7772.namprd06.prod.outlook.com",
@@ -222,15 +222,6 @@
       "subject": "FW: 송금 및 상품제안",
       "sender": "Young Shin Kim <kimy02@gmail.com>",
       "date": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "7C849AC6-97CF-4753-94A5-0ED3AA6A54F4@austin.utexas.edu",
-      "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
-      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
