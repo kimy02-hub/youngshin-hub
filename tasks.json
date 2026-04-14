@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776179396092",
+      "title": "Full-time post graduation",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAA-Uk7tEXrJN0X7jQNk7g215AJvN=ic8=p7eN9FtmwWuCU-U_A@mail.gmail.com",
+      "emailSender": "Adriana Desalos <adriana.desalos@gmail.com>",
+      "emailDate": "Mon Apr 13 2026 15:26:21 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-14T15:09:56.092Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776179394826",
       "title": "Re: Prospective Medical Student Research Fellow",
       "done": false,
@@ -1270,5 +1285,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-14T15:09:55.005Z"
+  "saved_at": "2026-04-14T15:09:56.251Z"
 }
