@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-14T10:30:22.623445",
+  "fetched_at": "2026-04-14T10:33:28.461587",
   "emails": [
+    {
+      "id": "PH0PR06MB7772430884B9608645AF1771AF252@PH0PR06MB7772.namprd06.prod.outlook.com",
+      "subject": "FW: Posted: R_00045441 Clinical Research Associate I (Open)",
+      "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
+      "date": "Tue Apr 14 2026 08:51:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "LV2PR06MB999734DB7BB7E8ADF0C55F4ACDD2252@LV2PR06MB999734.namprd06.prod.outlook.com",
       "subject": "Re: TCDS ECHO: Please review and submit form",
@@ -182,15 +191,6 @@
       "cc": ""
     },
     {
-      "id": "PH8PR06MB924543F18EB31EE7965A5434CD5B2@PH8PR06MB9245.namprd06.prod.outlook.com",
-      "subject": "Posted: R_00045441 Clinical Research Associate I (Open)",
-      "sender": "Psychiatry Workforce <psychiatry.workforce@austin.utexas.edu>",
-      "date": "Wed Apr 08 2026 10:59:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "1B81B839-0230-491A-BCF1-6ECD16473DC0@austin.utexas.edu",
       "subject": "Rick",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -231,24 +231,6 @@
       "subject": "Fwd: MyTMB Security Enhancement: MFA Now Active",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Mon Apr 06 2026 11:42:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB11266951C3C77C3750FDCD87BBA5DA@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "Re: APT E-Review: Stephen Stayer, MD",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Mon Apr 06 2026 09:01:13 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR10MB39794C318FE90F4C5DA90AECFA5DA@DM6PR10MB3979.namprd10.prod.outlook.com",
-      "subject": "FW: UCSF STAR Center Volunteer Application - Selen Karakilic",
-      "sender": "Young Shin Kim <kimy02@gmail.com>",
-      "date": "Sun Apr 05 2026 20:37:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
