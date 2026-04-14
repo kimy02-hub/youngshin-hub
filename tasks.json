@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776179405042",
+      "title": "Re: Checking in",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAMmJW1pE3xTE5ibzGX0d7Zanj5+Hs0RNo-irNEKkTi+U+RSB4g@mail.gmail.com",
+      "emailSender": "Anita Abure <anitaaburemd@gmail.com>",
+      "emailDate": "Mon Apr 13 2026 09:23:24 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-14T15:10:05.042Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776179403192",
       "title": "Working at CEHP",
       "done": false,
@@ -1330,5 +1345,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-14T15:10:03.344Z"
+  "saved_at": "2026-04-14T15:10:05.229Z"
 }
