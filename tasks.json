@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776179392976",
+      "title": "JAACAP Open Editor Summary - [EMID:bca840687fc5ae2d]",
+      "done": false,
+      "flagged": true,
+      "emailId": "010f019d8b02d40c-c7afd6f3-8c30-404b-8540-8865f5f43af5-000000@us-east-2.amazonses.com",
+      "emailSender": "JAACAP Open <em@editorialmanager.com>",
+      "emailDate": "Tue Apr 14 2026 03:01:56 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-14T15:09:52.976Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776179391560",
       "title": "Re: TCDS ECHO: Please review and submit form",
       "done": false,
@@ -1240,5 +1255,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-14T15:09:51.604Z"
+  "saved_at": "2026-04-14T15:09:53.819Z"
 }
