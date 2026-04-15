@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T23:21:13.167515",
+  "fetched_at": "2026-04-14T23:24:13.585874",
   "emails": [
     {
       "id": "CANvtaWHNPJ7rAt79Yy+BYLZezyimU8h+oJPx-k0F1tMBGJoU0Q@mail.gmail.com",
@@ -51,6 +51,33 @@
       "subject": "Re: application",
       "sender": "\"Johnson, Jenni L\" <jennifer.johnson1@austin.utexas.edu>",
       "date": "Tue Apr 14 2026 12:34:27 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "154fcd$mnlkf@angband.mail.utexas.edu",
+      "subject": "Signup information for UT Medicine Portal",
+      "sender": "Your UT Medicine Portal Care Team <donotreply@utmedicine.org>",
+      "date": "Tue Apr 14 2026 11:53:16 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "358aeb$n2q95@angmar.mail.utexas.edu",
+      "subject": "(no subject)",
+      "sender": "Patricia Garza-Telles <patricia.telles@austin.utexas.edu>",
+      "date": "Tue Apr 14 2026 10:55:00 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "MPCLKUTAPROD4reBBsQ000000fc@mpclkutaprod4.huronclick.com",
+      "subject": "A review of Faculty/PI Eligible has been completed - No further action required",
+      "sender": "no-reply@utexas.edu",
+      "date": "Tue Apr 14 2026 10:50:55 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
