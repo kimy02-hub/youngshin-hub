@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-15T14:48:25.024402",
+  "fetched_at": "2026-04-15T14:51:23.851970",
   "emails": [
     {
       "id": "DM6PR06MB59139CDCD9A6943D0AD48945C5222@DM6PR06MB5913.namprd06.prod.outlook.com",
@@ -285,15 +285,6 @@
       "subject": "Rick",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Tue Apr 07 2026 14:08:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV8PR22MB4740E1B03EA07C38F231471FBE5AA@LV8PR22MB4740.namprd22.prod.outlook.com",
-      "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
-      "sender": "Jill Zeigenfus Brafford <jbrafford@aacap.org>",
-      "date": "Tue Apr 07 2026 11:48:59 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
