@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T23:06:12.040512",
+  "fetched_at": "2026-04-14T23:09:13.157417",
   "emails": [
     {
       "id": "CANvtaWHNPJ7rAt79Yy+BYLZezyimU8h+oJPx-k0F1tMBGJoU0Q@mail.gmail.com",
@@ -258,6 +258,15 @@
       "subject": "Blue Goji IRB Revisions",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Tue Apr 07 2026 09:44:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR10MB397900D74D2B9DEDBBF10D39FA5AA@DM6PR10MB3979.namprd10.prod.outlook.com",
+      "subject": "FW: 송금 및 상품제안",
+      "sender": "Young Shin Kim <kimy02@gmail.com>",
+      "date": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
