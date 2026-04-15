@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T22:39:13.978764",
+  "fetched_at": "2026-04-14T22:42:11.591131",
   "emails": [
     {
       "id": "CANvtaWHNPJ7rAt79Yy+BYLZezyimU8h+oJPx-k0F1tMBGJoU0Q@mail.gmail.com",
@@ -15,6 +15,33 @@
       "subject": "Re: Reading Test",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Tue Apr 14 2026 21:59:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM3PPF569F3D3B396ECD4B8C4D484CA70FCA9252@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
+      "subject": "Re: EO Meet w/ Young Shin",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Tue Apr 14 2026 18:00:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655916E3343A76DB9C4C4D7C5252@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "FW:  Re: Blue Gogi Follow up items",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 14 2026 17:57:40 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD2HhDjbd000000312@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00009102 clarification was requested",
+      "sender": "no-reply@utexas.edu",
+      "date": "Tue Apr 14 2026 17:38:42 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -222,6 +249,15 @@
       "subject": "RE: Showcase Your Institution at AACAP's 2026 Annual Meeting- Sponsorships Now Available",
       "sender": "Jill Zeigenfus Brafford <jbrafford@aacap.org>",
       "date": "Tue Apr 07 2026 11:48:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6696F089FF4C0EB822C6EA63ED5AA@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Blue Goji IRB Revisions",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Tue Apr 07 2026 09:44:13 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
