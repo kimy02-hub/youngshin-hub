@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T23:12:11.903426",
+  "fetched_at": "2026-04-14T23:15:12.692860",
   "emails": [
     {
       "id": "CANvtaWHNPJ7rAt79Yy+BYLZezyimU8h+oJPx-k0F1tMBGJoU0Q@mail.gmail.com",
@@ -42,6 +42,15 @@
       "subject": "STUDY00009102 clarification was requested",
       "sender": "no-reply@utexas.edu",
       "date": "Tue Apr 14 2026 17:38:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB1130673A8F8885B21CB82D37EED252@IA3PR06MB11306.namprd06.prod.outlook.com",
+      "subject": "Re: application",
+      "sender": "\"Johnson, Jenni L\" <jennifer.johnson1@austin.utexas.edu>",
+      "date": "Tue Apr 14 2026 12:34:27 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
