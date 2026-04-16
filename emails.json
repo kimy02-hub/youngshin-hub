@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-16T17:45:15.478760",
+  "fetched_at": "2026-04-16T17:48:18.057641",
   "emails": [
     {
       "id": "CH2PR06MB6742C32E34F7B273C029BAC2BE232@CH2PR06MB6742.namprd06.prod.outlook.com",
@@ -321,6 +321,33 @@
       "subject": "Your Submission THELANCET-D-26-01935",
       "sender": "The Lancet Team <em@editorialmanager.com>",
       "date": "Wed Apr 08 2026 20:56:50 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711744035012C96C669C4CBB85B2@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Publication charges for ECHO/Navajo grant?",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Wed Apr 08 2026 12:13:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz3W4sERh8aP=iwuFJSuiuiqfpJM=H1muXaLXwSjTkvA_w@mail.gmail.com",
+      "subject": "Re: Leadership Assessment",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Wed Apr 08 2026 11:13:46 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM3PPF569F3D3B38113BB86AE6F53CAE820A95B2@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
+      "subject": "RE: Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:0c2d0b0d2f97cd1c]",
+      "sender": "JAACAP Open Editorial Office <JOSupport@jaacap.org>",
+      "date": "Wed Apr 08 2026 11:05:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
