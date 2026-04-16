@@ -37,7 +37,7 @@
     {
       "id": "task_1776179411776",
       "title": "Covalent Foundation Quarterly Update - Wednesday April 15th",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAB76nFHwHmR7+NST+pPqeYvhBYwi50GnBcA6oY63oHObHNL3mg@mail.gmail.com",
       "emailSender": "Meredith Mallory <meredith.mallory@ascension.org>",
@@ -47,7 +47,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-14T15:10:11.776Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-16T17:22:30.231Z",
+      "updatedAt": "2026-04-16T17:22:30.231Z"
     },
     {
       "id": "task_1776179405042",
@@ -1394,5 +1396,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-16T17:22:24.989Z"
+  "saved_at": "2026-04-16T17:22:30.394Z"
 }
