@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-04-17T16:42:18.929896",
+  "fetched_at": "2026-04-17T16:45:25.394403",
   "emails": [
+    {
+      "id": "CALLNj4daBW0aAzp07W=OO0h+Y9aLfAyBxJ7pdS=0VjJafEs-tw@mail.gmail.com",
+      "subject": "-phi- KG ECBI score reports",
+      "sender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
+      "date": "Fri Apr 17 2026 09:51:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0100019d9bbf66f5-a5f81bbf-d1c5-490e-9616-21554254605f-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "\"utaustin@myworkday.com\" <utaustin@myworkday.com>",
+      "date": "Fri Apr 17 2026 09:01:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BN7PR06MB5170B8AFED3431B965A0BD0CB3202@BN7PR06MB5170.namprd06.prod.outlook.com",
+      "subject": "RE: Accepted: Charlie / Carol / Young Shin / Adam @ Mon Apr 27, 2026 2pm - 3pm (CDT) (Nemeroff, Charles B)",
+      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
+      "date": "Fri Apr 17 2026 07:16:10 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d1t6deEoErA8mwyzspF8=j9-uAdvKPRJk=ZBkQDSSu16w@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] Call Swap",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Fri Apr 17 2026 06:06:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "Share-e74ee78c-43db-4a8e-b3ce-9db3d4f508b5;rcid_e8b00aa2-5032-6000-b627-458226ffa3f0;wiid_e5ea5d1d-3c6d-4af6-b1fd-ab12bbd943b1;SendEmail-PreprocessPayload-ObservabilityMessageEnqueuer-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_02ea2258-992d-41fe-b5de-e492fce6d079@odspnotify",
       "subject": "Reiser, Isabella L shared \"INSPIRE-ProtocolV2- UT901 STUDY00009102\" with you",
@@ -267,6 +303,15 @@
       "subject": "Working at CEHP",
       "sender": "Ashley R Wegele <AWegele@salud.unm.edu>",
       "date": "Mon Apr 13 2026 11:38:18 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB66962484B545C1A02674090BED242@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "ECHO Analysis Concepts 1000 & 1001",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Mon Apr 13 2026 10:14:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
