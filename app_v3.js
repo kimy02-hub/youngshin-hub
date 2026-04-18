@@ -81,6 +81,21 @@ function saveTasks() {
   pushTasks();
 }
 
+
+// -- SEARCH ----------------------------------------------------
+let searchQuery = '';
+
+function doSearch(query) {
+  searchQuery = query.trim().toLowerCase();
+  renderEmails();
+  renderTasks();
+}
+
+function matchesSearch(fields) {
+  if (!searchQuery) return true;
+  return fields.some(f => f && String(f).toLowerCase().includes(searchQuery));
+}
+
 // -- EMAIL LOADING ---------------------------------------------
 async function loadEmails() {
   try {
@@ -153,7 +168,10 @@ function getFilteredEmails() {
 
 // -- EMAIL RENDERING -------------------------------------------
 function renderEmails() {
-  const list = getFilteredEmails();
+  let list = getFilteredEmails();
+  if (searchQuery) {
+    list = list.filter(e => matchesSearch([e.subject, e.sender, e.cc]));
+  }
   const el = document.getElementById('emailList');
   document.getElementById('emailCount').textContent = list.length;
   if (!list.length) {
@@ -468,7 +486,8 @@ function renderTasks() {
     document.getElementById('flaggedSection').style.display = 'none';
     const aList2 = document.getElementById('activeTasksList');
     aList2.innerHTML = '';
-    sortTasks(tasks.filter(t => !t.done)).forEach((t,i) => aList2.appendChild(buildTaskCard(t,i)));
+    const tFilter2 = t => !searchQuery || matchesSearch([t.title, t.note, t.emailSender, t.cc]);
+    sortTasks(tasks.filter(t => !t.done && tFilter2(t))).forEach((t,i) => aList2.appendChild(buildTaskCard(t,i)));
     const comp2 = tasks.filter(t => t.done).sort((a,b) => new Date(b.doneAt||0)-new Date(a.doneAt||0));
     const cs2 = document.getElementById('completedSection'), cl2 = document.getElementById('completedTasksList');
     document.getElementById('completedCount').textContent = comp2.length;
@@ -477,9 +496,10 @@ function renderTasks() {
     document.getElementById('tasksEmpty').style.display = tasks.length ? 'none' : '';
     updateMobileBadge(); return;
   }
-  const activeRaw = tasks.filter(t => !t.done && !t.flagged);
+  const tFilter = t => !searchQuery || matchesSearch([t.title, t.note, t.emailSender, t.cc]);
+  const activeRaw = tasks.filter(t => !t.done && !t.flagged && tFilter(t));
   const active    = sortTasks(activeRaw);
-  const flaggedRaw = tasks.filter(t => !t.done && t.flagged);
+  const flaggedRaw = tasks.filter(t => !t.done && t.flagged && tFilter(t));
   const flaggedT   = sortTasks(flaggedRaw);
   const completed = tasks.filter(t =>  t.done).sort((a, b) => new Date(b.doneAt || 0) - new Date(a.doneAt || 0));
 

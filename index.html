@@ -18,11 +18,10 @@
     <span class="logo">&#10022; DMS Mailbox</span>
     <span class="account-pill">Youngshin.Kim@austin.utexas.edu</span>
   </div>
-  <nav class="tab-group" role="tablist">
-    <button class="tab active" data-tab="all"     onclick="switchTab('all')">All</button>
-    <button class="tab"        data-tab="unread"  onclick="switchTab('unread')">Unread</button>
-    <button class="tab"        data-tab="flagged" onclick="switchTab('flagged')">Flagged</button>
-  </nav>
+  
+  <div class="topbar-search">
+    <input type="text" id="globalSearch" placeholder="&#128269; Search emails &amp; tasks..." oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape'){this.value='';doSearch('');}" autocomplete="off">
+  </div>
   <div class="topbar-right"><button class="sync-setup-btn" onclick="setupGitHubToken()" title="Setup mobile sync">&#9881; Sync</button>
     <span class="last-updated" id="lastUpdated">&mdash;</span>
     <button class="refresh-btn" onclick="refreshData()" title="Refresh">
