@@ -105,7 +105,7 @@
     {
       "id": "task_1776529952040",
       "title": "Bonita Springs Itemized Receipt?",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH8PR06MB1110648F916EDC51185B42619C0202@CH8PR06MB11106.namprd06.prod.outlook.com",
       "emailSender": "\"Hannah, Natalie\" <natalie.hannah@austin.utexas.edu>",
@@ -115,7 +115,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:32.040Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T21:06:18.835Z",
+      "updatedAt": "2026-04-18T21:06:18.835Z"
     },
     {
       "id": "task_1776529948320",
@@ -1637,5 +1639,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T21:04:56.562Z"
+  "saved_at": "2026-04-18T21:06:19.211Z"
 }
