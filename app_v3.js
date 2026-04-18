@@ -84,26 +84,15 @@ function saveTasks() {
 
 // -- SEARCH ----------------------------------------------------
 let searchQuery = '';
+let searchTimer = null;
 
 function doSearch(query) {
-  searchQuery = query.trim().toLowerCase();
-  renderEmails();
-  renderTasks();
-}
-
-function matchesSearch(fields) {
-  if (!searchQuery) return true;
-  return fields.some(f => f && String(f).toLowerCase().includes(searchQuery));
-}
-
-
-// -- SEARCH ----------------------------------------------------
-let searchQuery = '';
-
-function doSearch(query) {
-  searchQuery = query.trim().toLowerCase();
-  renderEmails();
-  renderTasks();
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQuery = query.trim().toLowerCase();
+    renderEmails();
+    renderTasks();
+  }, 200);
 }
 
 function matchesSearch(fields) {
