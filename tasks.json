@@ -454,7 +454,7 @@
     {
       "id": "task_1776008741839",
       "title": "TCMHCC Resource Sharing Draft Policy",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SJ0PR04MB7213262360E8098FA03CADE5DF51A@SJ0PR04MB7213.namprd04.prod.outlook.com",
       "emailSender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
@@ -465,8 +465,9 @@
       "subtasks": [],
       "createdAt": "2026-04-12T15:45:41.839Z",
       "type": "email",
-      "updatedAt": "2026-04-12T19:09:08.604Z",
-      "color": "canary"
+      "updatedAt": "2026-04-18T21:04:35.605Z",
+      "color": "canary",
+      "doneAt": "2026-04-18T21:04:35.605Z"
     },
     {
       "id": "task_1775948067121",
@@ -1632,5 +1633,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T21:04:31.122Z"
+  "saved_at": "2026-04-18T21:04:35.916Z"
 }
