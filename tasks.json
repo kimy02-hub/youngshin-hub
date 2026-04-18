@@ -3,7 +3,7 @@
     {
       "id": "task_1776546546071",
       "title": "You've been assigned a task",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "PlannerTaskAssigned-a9c2f133-1a95-466b-8188-a9698535319d;rcid_a5b7181e-6724-4112-b4ad-4dd88074645c;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_561d5f56-2344-4a34-82f6-df269f37dd81@odspnotify",
       "emailSender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
@@ -13,7 +13,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T21:09:06.071Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T21:39:57.487Z",
+      "updatedAt": "2026-04-18T21:39:57.487Z"
     },
     {
       "id": "task_1776546544225",
@@ -1748,5 +1750,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T21:39:53.419Z"
+  "saved_at": "2026-04-18T21:39:57.907Z"
 }
