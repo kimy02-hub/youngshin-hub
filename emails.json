@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T16:27:14.797636",
+  "fetched_at": "2026-04-18T16:33:14.196973",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -33,15 +33,6 @@
       "subject": "FW: Board Eligibility Candidate Question",
       "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
       "date": "Fri Apr 17 2026 15:05:12 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB64049B3E4BD1DE211D0B655288202@BN7PR06MB6404.namprd06.prod.outlook.com",
-      "subject": "FY28-29 NECMHR Timeline",
-      "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <psy_dms_faculty@utlists.utexas.edu>",
-      "date": "Fri Apr 17 2026 10:46:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
