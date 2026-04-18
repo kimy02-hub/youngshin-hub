@@ -227,7 +227,7 @@
     {
       "id": "task_1776179414208",
       "title": "Chloe - Guanfacine",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAOWh29x_DYkSQhWUKn+6iqmQfT7QZFcsqEnFiAw-vghPjQXV6A@mail.gmail.com",
       "emailSender": "Pete Curlin <petecurlin@gmail.com>",
@@ -239,7 +239,8 @@
       "createdAt": "2026-04-14T15:10:14.208Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-16T17:22:24.830Z"
+      "updatedAt": "2026-04-18T21:04:30.701Z",
+      "doneAt": "2026-04-18T21:04:30.701Z"
     },
     {
       "id": "task_1776179411776",
@@ -1631,5 +1632,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T20:27:16.656Z"
+  "saved_at": "2026-04-18T21:04:31.122Z"
 }
