@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T11:36:14.752684",
+  "fetched_at": "2026-04-18T11:39:15.090270",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -13,7 +13,7 @@
     {
       "id": "CAFMPgGQmEP-YearyTALaOihinO6ekuN4u58qYb4ttO=h3Kaqzw@mail.gmail.com",
       "subject": "INSPIRE Protocol Version 2",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Fri Apr 17 2026 16:31:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -85,7 +85,7 @@
     {
       "id": "CALLNj4daBW0aAzp07W=OO0h+Y9aLfAyBxJ7pdS=0VjJafEs-tw@mail.gmail.com",
       "subject": "-phi- KG ECBI score reports",
-      "sender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
+      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
       "date": "Fri Apr 17 2026 09:51:21 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -114,15 +114,6 @@
       "subject": "Re: Re: [EXTERNAL] Call Swap",
       "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
       "date": "Fri Apr 17 2026 06:06:21 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "Share-e74ee78c-43db-4a8e-b3ce-9db3d4f508b5;rcid_e8b00aa2-5032-6000-b627-458226ffa3f0;wiid_e5ea5d1d-3c6d-4af6-b1fd-ab12bbd943b1;SendEmail-PreprocessPayload-ObservabilityMessageEnqueuer-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_02ea2258-992d-41fe-b5de-e492fce6d079@odspnotify",
-      "subject": "Reiser, Isabella L shared \"INSPIRE-ProtocolV2- UT901 STUDY00009102\" with you",
-      "sender": "\"Reiser, Isabella L\" <isabella.reiser@austin.utexas.edu>",
-      "date": "Thu Apr 16 2026 19:40:28 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -238,7 +229,7 @@
     {
       "id": "CANvtaWHNPJ7rAt79Yy+BYLZezyimU8h+oJPx-k0F1tMBGJoU0Q@mail.gmail.com",
       "subject": "Meeting Request - Review Memo",
-      "sender": "\"Debra Brown (Seton Family of Hospitals/Austin)\" <dmbrown1@ascension.org>",
+      "sender": "Debra Brown (Seton Family of Hospitals/Austin) <dmbrown1@ascension.org>",
       "date": "Tue Apr 14 2026 22:18:52 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -447,6 +438,15 @@
       "subject": "Watch Repairs USA - Estimate Available",
       "sender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
       "date": "Fri Apr 10 2026 11:43:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "uNsMzNB7NReOnHCmH1wfMQK6aKNvZk9bJByWQ5Q@www.watchrepairsusa.com",
+      "subject": "Watch Repairs USA - Estimate Available",
+      "sender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
+      "date": "Fri Apr 10 2026 09:46:35 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
