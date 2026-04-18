@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776529948320",
+      "title": "Fw: Clarification for Establishing Funding Source",
+      "done": false,
+      "flagged": true,
+      "emailId": "CH2PR06MB66962B961C206B7E80511F4DED202@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "emailDate": "Fri Apr 17 2026 11:38:11 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-18T16:32:28.320Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776529946935",
       "title": "Appointment Note",
       "done": false,
@@ -1497,5 +1512,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:32:27.137Z"
+  "saved_at": "2026-04-18T16:32:28.709Z"
 }
