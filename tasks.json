@@ -37,7 +37,7 @@
     {
       "id": "task_1776529960124",
       "title": "ACTION NEEDED: You have time awaiting your approval in Workday.",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "0100019d9bbf66f5-a5f81bbf-d1c5-490e-9616-21554254605f-000000@email.amazonses.com",
       "emailSender": "utaustin@myworkday.com",
@@ -47,7 +47,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:40.124Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T19:22:18.175Z",
+      "updatedAt": "2026-04-18T19:22:18.175Z"
     },
     {
       "id": "task_1776529958026",
@@ -1623,5 +1625,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:59:57.664Z"
+  "saved_at": "2026-04-18T19:22:18.584Z"
 }
