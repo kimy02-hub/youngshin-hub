@@ -133,7 +133,7 @@
     {
       "id": "task_1776529946935",
       "title": "Appointment Note",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "BYAPR06MB62004EF2DF07C960AC78E01FCC202@BYAPR06MB6200.namprd06.prod.outlook.com",
       "emailSender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
@@ -143,7 +143,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:26.935Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T20:27:16.356Z",
+      "updatedAt": "2026-04-18T20:27:16.356Z"
     },
     {
       "id": "task_1776529944300",
@@ -1629,5 +1631,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T20:27:02.186Z"
+  "saved_at": "2026-04-18T20:27:16.656Z"
 }
