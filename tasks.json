@@ -544,8 +544,15 @@
       "subtasks": [],
       "createdAt": "2026-04-12T18:47:08.106Z",
       "type": "manual",
-      "updatedAt": "2026-04-12T18:49:02.393Z",
-      "color": "fuchsia"
+      "updatedAt": "2026-04-18T21:27:38.986Z",
+      "color": "fuchsia",
+      "relatedEmails": [
+        {
+          "id": "BN7PR06MB64049B3E4BD1DE211D0B655288202@BN7PR06MB6404.namprd06.prod.outlook.com",
+          "subject": "FY28-29 NECMHR Timeline",
+          "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <psy_dms_faculty@utlists.utexas.edu>"
+        }
+      ]
     },
     {
       "id": "task_1776008741839",
@@ -1729,5 +1736,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T21:27:18.326Z"
+  "saved_at": "2026-04-18T21:27:39.249Z"
 }
