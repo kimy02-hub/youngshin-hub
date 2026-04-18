@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T16:42:13.206542",
+  "fetched_at": "2026-04-18T16:45:14.591802",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -69,33 +69,6 @@
       "subject": "Space at Dell Children's North Campus or DPRI",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu Apr 16 2026 10:24:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "PlannerTaskAssigned-a9c2f133-1a95-466b-8188-a9698535319d;rcid_a5b7181e-6724-4112-b4ad-4dd88074645c;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_561d5f56-2344-4a34-82f6-df269f37dd81@odspnotify",
-      "subject": "You've been assigned a task",
-      "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
-      "date": "Thu Apr 16 2026 09:57:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "PlannerTaskAssigned-fc169af7-da69-4e97-b161-55fa0d879a73;rcid_1fc0dc7e-825f-4596-80b1-fe361e245dd2;DispatchToRecipients-PreprocessPayload-ObservabilityMessageEnqueuer;r0;SendEmail-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_63e267fc-eef3-4d9f-8676-55dab8ea18f6@odspnotify",
-      "subject": "You've been assigned a task",
-      "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
-      "date": "Thu Apr 16 2026 09:57:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAP-diSgGz_tr4WUCVyYK93pt89ndyCP=MGqxgR49F4U3+6=csg@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] New Referral Process",
-      "sender": "Lynn Monnat <lmonnat@ascension.org>",
-      "date": "Wed Apr 15 2026 16:26:40 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
