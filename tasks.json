@@ -20,7 +20,7 @@
     {
       "id": "task_1776529962795",
       "title": "RE: Accepted: Charlie / Carol / Young Shin / Adam @ Mon Apr 27, 2026 2pm - 3pm (CDT) (Nemeroff, Charles B)",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "BN7PR06MB5170B8AFED3431B965A0BD0CB3202@BN7PR06MB5170.namprd06.prod.outlook.com",
       "emailSender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
@@ -30,7 +30,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:42.795Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T16:54:54.689Z",
+      "updatedAt": "2026-04-18T16:54:54.689Z"
     },
     {
       "id": "task_1776529960124",
@@ -1619,5 +1621,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:54:46.097Z"
+  "saved_at": "2026-04-18T16:54:54.954Z"
 }
