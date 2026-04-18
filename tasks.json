@@ -3,7 +3,7 @@
     {
       "id": "task_1776529965253",
       "title": "Re: Re: [EXTERNAL] Call Swap",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CACwu7d1t6deEoErA8mwyzspF8=j9-uAdvKPRJk=ZBkQDSSu16w@mail.gmail.com",
       "emailSender": "Nithya Mani <nithya.mani@ascension-external.org>",
@@ -13,7 +13,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:45.253Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T16:54:45.772Z",
+      "updatedAt": "2026-04-18T16:54:45.772Z"
     },
     {
       "id": "task_1776529962795",
@@ -1617,5 +1619,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:32:45.713Z"
+  "saved_at": "2026-04-18T16:54:46.097Z"
 }
