@@ -462,7 +462,7 @@
     {
       "id": "task_1775948067121",
       "title": "Watch Repairs USA - Estimate Available",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "32zkb4yAgX4As1l4lmWFy4TJbfQB1hXhHDRMS4zA@www.watchrepairsusa.com",
       "emailSender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
@@ -474,7 +474,8 @@
       "createdAt": "2026-04-11T22:54:27.121Z",
       "type": "email",
       "color": "lime",
-      "updatedAt": "2026-04-11T22:54:32.885Z"
+      "updatedAt": "2026-04-18T16:59:16.258Z",
+      "doneAt": "2026-04-18T16:59:16.258Z"
     },
     {
       "id": "task_1775947828933",
@@ -1621,5 +1622,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:54:54.954Z"
+  "saved_at": "2026-04-18T16:59:16.934Z"
 }
