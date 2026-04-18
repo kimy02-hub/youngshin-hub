@@ -96,6 +96,21 @@ function matchesSearch(fields) {
   return fields.some(f => f && String(f).toLowerCase().includes(searchQuery));
 }
 
+
+// -- SEARCH ----------------------------------------------------
+let searchQuery = '';
+
+function doSearch(query) {
+  searchQuery = query.trim().toLowerCase();
+  renderEmails();
+  renderTasks();
+}
+
+function matchesSearch(fields) {
+  if (!searchQuery) return true;
+  return fields.some(f => f && String(f).toLowerCase().includes(searchQuery));
+}
+
 // -- EMAIL LOADING ---------------------------------------------
 async function loadEmails() {
   try {

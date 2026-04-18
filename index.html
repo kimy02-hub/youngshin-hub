@@ -22,6 +22,9 @@
   <div class="topbar-search">
     <input type="text" id="globalSearch" placeholder="&#128269; Search emails &amp; tasks..." oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape'){this.value='';doSearch('');}" autocomplete="off">
   </div>
+  <div class="topbar-search">
+    <input type="text" id="globalSearch" placeholder="&#128269; Search emails &amp; tasks..." oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape'){this.value='';doSearch('');}" autocomplete="off">
+  </div>
   <div class="topbar-right"><button class="sync-setup-btn" onclick="setupGitHubToken()" title="Setup mobile sync">&#9881; Sync</button>
     <span class="last-updated" id="lastUpdated">&mdash;</span>
     <button class="refresh-btn" onclick="refreshData()" title="Refresh">
