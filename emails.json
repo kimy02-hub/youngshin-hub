@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T15:30:16.171559",
+  "fetched_at": "2026-04-18T15:33:15.017262",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -416,37 +416,28 @@
       "cc": ""
     },
     {
-      "id": "CO6PR06MB7506DC37D5776D3074B1AF05A7592@CO6PR06MB7506.namprd06.prod.outlook.com",
-      "subject": "FW: Baruch Dayan haEmet -- Shirley Rich Tobolowsky (a\"h) -- mother of Mark Tobey",
-      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
-      "date": "Fri Apr 10 2026 12:04:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "32zkb4yAgX4As1l4lmWFy4TJbfQB1hXhHDRMS4zA@www.watchrepairsusa.com",
-      "subject": "Watch Repairs USA - Estimate Available",
-      "sender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
-      "date": "Fri Apr 10 2026 11:43:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "uNsMzNB7NReOnHCmH1wfMQK6aKNvZk9bJByWQ5Q@www.watchrepairsusa.com",
-      "subject": "Watch Repairs USA - Estimate Available",
-      "sender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
-      "date": "Fri Apr 10 2026 09:46:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "SDMpAgh0Qbyf3saPaqaEZQ@geopod-ismtpd-77",
       "subject": "Incomplete Tasks Assigned for Activity Kids Living Well Summit - Awareness to Action: Supporting Children with Developmental Disabilities and Mental Health Challenges.",
       "sender": "Ascension <ce-cme@ascension-ce-cme.cloud-cme.com>",
       "date": "Fri Apr 10 2026 06:38:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10194A4D6F83ADD98C8E6E684C3582@DS1PR06MB10194.namprd06.prod.outlook.com",
+      "subject": "UPDATED PROPOSALS: Paid Psychiatry Call, Psychology Salary Revisions",
+      "sender": "\"Trammell, Shannon K\" <shannon.trammell@austin.utexas.edu>",
+      "date": "Thu Apr 09 2026 11:00:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
+      "subject": "Your Submission THELANCET-D-26-01935",
+      "sender": "The Lancet Team <em@editorialmanager.com>",
+      "date": "Wed Apr 08 2026 20:56:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
