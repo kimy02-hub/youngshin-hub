@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776529946935",
+      "title": "Appointment Note",
+      "done": false,
+      "flagged": true,
+      "emailId": "BYAPR06MB62004EF2DF07C960AC78E01FCC202@BYAPR06MB6200.namprd06.prod.outlook.com",
+      "emailSender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
+      "emailDate": "Fri Apr 17 2026 12:20:45 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-18T16:32:26.935Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776529944300",
       "title": "FW: Board Eligibility Candidate Question",
       "done": false,
@@ -1482,5 +1497,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:32:24.475Z"
+  "saved_at": "2026-04-18T16:32:27.137Z"
 }
