@@ -438,11 +438,16 @@
       "cc": "",
       "due": null,
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "JD to Lo",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-14T15:09:56.092Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-16T17:26:20.549Z"
+      "updatedAt": "2026-04-18T21:59:01.823Z"
     },
     {
       "id": "task_1776179394826",
@@ -1754,5 +1759,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T21:51:06.299Z"
+  "saved_at": "2026-04-18T21:59:01.902Z"
 }
