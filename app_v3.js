@@ -298,7 +298,7 @@ function renderRelatedEmailsEditor(t) {
   (t.relatedEmails || []).forEach(r => {
     const row = document.createElement('div');
     row.style.cssText = 'display:flex;align-items:center;gap:6px;margin-bottom:4px;font-size:0.8rem;';
-    row.innerHTML = `<span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">&#9993; ${esc(parseName(r.sender))} — ${esc((r.subject||'').substring(0,40))}</span>
+    row.innerHTML = `<a href="${buildMailUrl(r.id)}" target="_blank" style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text);text-decoration:none;font-size:0.8rem;">&#9993; ${esc(parseName(r.sender))} — ${esc((r.subject||'').substring(0,40))}</a>
       <button onclick="removeRelatedEmail('${escId(r.id)}')" style="border:none;background:none;color:#c08080;cursor:pointer;font-size:1rem;">&times;</button>`;
     list.appendChild(row);
   });
