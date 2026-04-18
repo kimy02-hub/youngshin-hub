@@ -503,7 +503,7 @@
     {
       "id": "task_1775947827328",
       "title": "Watch Repairs USA - Estimate Available",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "uNsMzNB7NReOnHCmH1wfMQK6aKNvZk9bJByWQ5Q@www.watchrepairsusa.com",
       "emailSender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
@@ -515,7 +515,8 @@
       "createdAt": "2026-04-11T22:50:27.328Z",
       "type": "email",
       "color": "lime",
-      "updatedAt": "2026-04-11T22:50:35.098Z"
+      "updatedAt": "2026-04-18T16:59:18.884Z",
+      "doneAt": "2026-04-18T16:59:18.884Z"
     },
     {
       "id": "task_1775936722170",
@@ -891,13 +892,13 @@
           "done": false
         },
         {
-          "text": "",
+          "text": "김문이 샘과 미팅: 일요일 밤 9시",
           "done": false
         }
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-11T22:13:07.952Z",
+      "updatedAt": "2026-04-18T16:59:57.613Z",
       "color": "lime"
     },
     {
@@ -1622,5 +1623,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T16:59:16.934Z"
+  "saved_at": "2026-04-18T16:59:57.664Z"
 }
