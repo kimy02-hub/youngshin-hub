@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T14:45:17.237615",
+  "fetched_at": "2026-04-18T14:54:15.530279",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -87,15 +87,6 @@
       "subject": "-phi- KG ECBI score reports",
       "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
       "date": "Fri Apr 17 2026 09:51:21 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0100019d9bbf66f5-a5f81bbf-d1c5-490e-9616-21554254605f-000000@email.amazonses.com",
-      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
-      "sender": "utaustin@myworkday.com",
-      "date": "Fri Apr 17 2026 09:01:57 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +438,15 @@
       "subject": "Watch Repairs USA - Estimate Available",
       "sender": "Watch Repairs USA Customer Care <customercare@watchrepairsusa.com>",
       "date": "Fri Apr 10 2026 09:46:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SDMpAgh0Qbyf3saPaqaEZQ@geopod-ismtpd-77",
+      "subject": "Incomplete Tasks Assigned for Activity Kids Living Well Summit - Awareness to Action: Supporting Children with Developmental Disabilities and Mental Health Challenges.",
+      "sender": "Ascension <ce-cme@ascension-ce-cme.cloud-cme.com>",
+      "date": "Fri Apr 10 2026 06:38:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
