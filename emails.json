@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T16:09:16.536031",
+  "fetched_at": "2026-04-18T16:12:14.278426",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -38,33 +38,6 @@
       "cc": ""
     },
     {
-      "id": "BYAPR06MB62004EF2DF07C960AC78E01FCC202@BYAPR06MB6200.namprd06.prod.outlook.com",
-      "subject": "Appointment Note",
-      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
-      "date": "Fri Apr 17 2026 12:20:45 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB66962B961C206B7E80511F4DED202@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Fw: Clarification for Establishing Funding Source",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Fri Apr 17 2026 11:38:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH8PR06MB1110648F916EDC51185B42619C0202@CH8PR06MB11106.namprd06.prod.outlook.com",
-      "subject": "Bonita Springs Itemized Receipt?",
-      "sender": "\"Hannah, Natalie\" <natalie.hannah@austin.utexas.edu>",
-      "date": "Fri Apr 17 2026 11:20:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "BN7PR06MB64049B3E4BD1DE211D0B655288202@BN7PR06MB6404.namprd06.prod.outlook.com",
       "subject": "FY28-29 NECMHR Timeline",
       "sender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <psy_dms_faculty@utlists.utexas.edu>",
@@ -78,42 +51,6 @@
       "subject": "Assistant/Associate Professor for Outpatient Child and Adolescent Psychiatry",
       "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
       "date": "Fri Apr 17 2026 10:38:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CALLNj4daBW0aAzp07W=OO0h+Y9aLfAyBxJ7pdS=0VjJafEs-tw@mail.gmail.com",
-      "subject": "-phi- KG ECBI score reports",
-      "sender": "Mariel Cannady (Texas Child Study Center) <mscannady@ascension-external.org>",
-      "date": "Fri Apr 17 2026 09:51:21 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB5170B8AFED3431B965A0BD0CB3202@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "RE: Accepted: Charlie / Carol / Young Shin / Adam @ Mon Apr 27, 2026 2pm - 3pm (CDT) (Nemeroff, Charles B)",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Fri Apr 17 2026 07:16:10 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d1t6deEoErA8mwyzspF8=j9-uAdvKPRJk=ZBkQDSSu16w@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Call Swap",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Fri Apr 17 2026 06:06:21 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "F4D784D2-AA0C-4B7D-9CF2-C77B4BB59A22@austin.utexas.edu",
-      "subject": "Re: Accepted: Charlie / Carol / Young Shin / Adam @ Mon Apr 27, 2026 2pm - 3pm (CDT) (Nemeroff, Charles B)",
-      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
-      "date": "Thu Apr 16 2026 16:31:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
