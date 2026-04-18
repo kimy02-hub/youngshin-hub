@@ -54,7 +54,7 @@
     {
       "id": "task_1776529958026",
       "title": "-phi- KG ECBI score reports",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CALLNj4daBW0aAzp07W=OO0h+Y9aLfAyBxJ7pdS=0VjJafEs-tw@mail.gmail.com",
       "emailSender": "\"Mariel Cannady (Texas Child Study Center)\" <mscannady@ascension-external.org>",
@@ -64,7 +64,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:38.026Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-18T20:26:49.747Z",
+      "updatedAt": "2026-04-18T20:26:49.747Z"
     },
     {
       "id": "task_1776529956391",
@@ -1625,5 +1627,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T19:22:18.584Z"
+  "saved_at": "2026-04-18T20:26:49.861Z"
 }
