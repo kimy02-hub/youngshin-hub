@@ -417,7 +417,7 @@ function setSortOrder(order) {
 
 function sortTasks(taskList) {
   const sorted = [...taskList];
-  const colorOrder = { fuchsia:1, crimson:2, cobalt:3, canary:4, violet:5, espresso:6, lime:7 };
+  const colorOrder = { fuchsia:1, crimson:2, cobalt:3, canary:4, violet:5, espresso:6, lime:7, teal:8 };
   switch (currentSort) {
     case 'name':
       sorted.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
@@ -455,7 +455,7 @@ let colorPickerOpen = null;
 
 
 function colorLabel(color) {
-  const labels = { crimson:'Ruby Red: Today deadline', fuchsia:'Fuchsia: Top priority', canary:'Canary: Clinic', cobalt:'Royal Blue: Operational', violet:'Violet: Journal editorial', lime:'Lime: Personal', espresso:'Espresso: DMS' };
+  const labels = { crimson:'Ruby Red: Today deadline', fuchsia:'Fuchsia: Top priority', canary:'Canary: Clinic', cobalt:'Royal Blue: Operational', violet:'Violet: Journal editorial', lime:'Lime: Personal', teal:'Teal: Lab/Research', espresso:'Tangerine: DMS' };
   return labels[color] || color;
 }
 
@@ -573,7 +573,7 @@ function buildTaskCard(task, idx) {
     <div class="task-actions">
       <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
       <div class="color-picker" onclick="event.stopPropagation()">
-        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#FF0000','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#4B2E2E'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
+        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#FF0000','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#FF6B35','teal':'#2EC4B6'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
         <div class="color-dots" id="cp-${task.id}" style="display:none">
           <div class="color-dot c-none"     onclick="setTaskColor('${task.id}', '')"         title="None"></div>
           <div class="color-dot c-fuchsia"  onclick="setTaskColor('${task.id}', 'fuchsia')"  title="Fuchsia: Top priority"></div>
@@ -583,6 +583,7 @@ function buildTaskCard(task, idx) {
           <div class="color-dot c-violet"   onclick="setTaskColor('${task.id}', 'violet')"   title="Violet: Journal editorial"></div>
           <div class="color-dot c-espresso" onclick="setTaskColor('${task.id}', 'espresso')" title="Espresso: DMS"></div>
           <div class="color-dot c-lime"     onclick="setTaskColor('${task.id}', 'lime')"     title="Lime: Personal"></div>
+          <div class="color-dot c-teal"     onclick="setTaskColor('${task.id}', 'teal')"     title="Teal: Lab/Research"></div>
         </div>
       </div>
       ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;</button>` : ''}
