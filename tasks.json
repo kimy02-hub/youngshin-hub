@@ -1066,8 +1066,25 @@
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-19T02:26:23.676Z",
-      "color": "lime"
+      "updatedAt": "2026-04-19T02:28:35.181Z",
+      "color": "lime",
+      "relatedEmails": [
+        {
+          "id": "BE70D2B6-09F3-44E1-BDEC-83CFD034EE7C@austin.utexas.edu",
+          "subject": "Fwd: 방문예약 완료 알림 메일입니다.",
+          "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>"
+        },
+        {
+          "id": "041DD7B7-8484-41D3-B81C-D8B8C4042A07@austin.utexas.edu",
+          "subject": "Fwd: Booking confirmed | Extended Stay America Suites - Houston - Galleria",
+          "sender": "\"Kim, Young Shin\" <YoungShin.Kim@austin.utexas.edu>"
+        },
+        {
+          "id": "DM6PR10MB3979167D6065FE748EB73C14FA2E2@DM6PR10MB3979.namprd10.prod.outlook.com",
+          "subject": "FW: 해외송금관련",
+          "sender": "Young Shin Kim <kimy02@gmail.com>"
+        }
+      ]
     },
     {
       "id": "task_1775516200986",
@@ -1803,5 +1820,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T02:26:24.010Z"
+  "saved_at": "2026-04-19T02:28:35.225Z"
 }
