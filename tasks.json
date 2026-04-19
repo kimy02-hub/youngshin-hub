@@ -89,7 +89,7 @@
     {
       "id": "task_1776546530426",
       "title": "Review Bob Smith Awared",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAMFZdz3DGc44pVQZ-r61OyJn0MWKbwz8M4fLT8hxjbK8Nhbs=g@mail.gmail.com",
       "emailSender": "Puja Patel <pgpatel@ascension.org>",
@@ -101,7 +101,8 @@
       "createdAt": "2026-04-18T21:08:50.426Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-19T01:35:18.712Z"
+      "updatedAt": "2026-04-19T01:43:17.275Z",
+      "doneAt": "2026-04-19T01:43:17.275Z"
     },
     {
       "id": "task_1776529965253",
@@ -1777,5 +1778,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T01:35:18.991Z"
+  "saved_at": "2026-04-19T01:43:17.656Z"
 }
