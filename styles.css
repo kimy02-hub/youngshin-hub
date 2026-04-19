@@ -34,8 +34,8 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 @keyframes spin{to{transform:rotate(360deg);}}
 
 /* LAYOUT */
-.split{flex:1;display:grid;grid-template-columns:1fr 2fr;overflow:visible;min-height:0;}
-.panel{display:flex;flex-direction:column;overflow:visible;}
+.split{flex:1;display:grid;grid-template-columns:1fr 2fr;overflow:hidden;}
+.panel{display:flex;flex-direction:column;overflow:hidden;}
 .emails-panel{background:var(--surface-1);border-right:1.5px solid var(--surface-2);}
 .tasks-panel{background:var(--surface-0);overflow-y:auto;}
 
@@ -251,7 +251,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 
 /* Color picker popup */
 .color-picker { position:relative; display:inline-block; }
-.color-dots { display:flex; gap:4px; padding:6px 8px; background:var(--card); border:1px solid var(--border); border-radius:10px; box-shadow:0 3px 12px rgba(0,0,0,0.15); position:absolute; right:0; top:28px; transform:translateX(0); z-index:100; flex-wrap:wrap; width:160px; }
+.color-dots { display:flex; gap:4px; padding:6px 8px; background:var(--card); border:1px solid var(--border); border-radius:10px; box-shadow:0 3px 12px rgba(0,0,0,0.15); position:fixed; z-index:9999; flex-wrap:wrap; width:160px; }
 .color-dot { width:20px; height:20px; border-radius:50%; cursor:pointer; border:2px solid transparent; transition:transform 0.1s; position:relative; }
 .color-dot:hover { transform:scale(1.25); }
 .color-dot.active { border-color: #333; }
