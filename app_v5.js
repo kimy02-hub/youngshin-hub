@@ -460,20 +460,17 @@ function colorLabel(color) {
 }
 
 function toggleColorPicker(taskId) {
-  if (colorPickerOpen === taskId) {
-    closeColorPicker();
-    return;
-  }
+  if (colorPickerOpen === taskId) { closeColorPicker(); return; }
   closeColorPicker();
   const picker = document.getElementById('cp-' + taskId);
   if (!picker) return;
-  // Position using fixed coords to escape overflow:hidden containers
   const dot = picker.previousElementSibling;
   if (dot) {
     const r = dot.getBoundingClientRect();
-    picker.style.display = 'flex';
+    picker.style.position = 'fixed';
     picker.style.top = (r.bottom + 4) + 'px';
     picker.style.left = Math.max(4, r.right - 160) + 'px';
+    picker.style.display = 'flex';
   } else {
     picker.style.display = 'flex';
   }
