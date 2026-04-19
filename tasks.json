@@ -512,7 +512,7 @@
     {
       "id": "task_1776179391560",
       "title": "Re: TCDS ECHO: Please review and submit form",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "LV2PR06MB999734DB7BB7E8ADF0C55F4ACDD2252@LV2PR06MB999734.namprd06.prod.outlook.com",
       "emailSender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
@@ -524,7 +524,8 @@
       "createdAt": "2026-04-14T15:09:51.560Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-18T22:01:19.467Z"
+      "updatedAt": "2026-04-19T02:17:47.178Z",
+      "doneAt": "2026-04-19T02:17:47.178Z"
     },
     {
       "id": "task_1776098616315",
@@ -1785,5 +1786,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T02:17:19.997Z"
+  "saved_at": "2026-04-19T02:17:47.326Z"
 }
