@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T20:42:13.917225",
+  "fetched_at": "2026-04-18T20:45:13.749975",
   "emails": [
     {
       "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
@@ -78,15 +78,6 @@
       "subject": "Re: INSPIRE IRB Revision Question",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Wed Apr 15 2026 16:05:12 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz3DGc44pVQZ-r61OyJn0MWKbwz8M4fLT8hxjbK8Nhbs=g@mail.gmail.com",
-      "subject": "Review Bob Smith Awared",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Wed Apr 15 2026 16:00:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
