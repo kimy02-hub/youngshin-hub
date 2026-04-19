@@ -190,7 +190,7 @@
     {
       "id": "task_1776529955100",
       "title": "FY28-29 NECMHR Timeline",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "BN7PR06MB64049B3E4BD1DE211D0B655288202@BN7PR06MB6404.namprd06.prod.outlook.com",
       "emailSender": "Department of Psychiatry & Behavioral Sciences at Dell Medical School <psy_dms_faculty@utlists.utexas.edu>",
@@ -202,7 +202,8 @@
       "createdAt": "2026-04-18T16:32:35.100Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-18T22:00:05.143Z"
+      "updatedAt": "2026-04-19T00:23:16.933Z",
+      "doneAt": "2026-04-19T00:23:16.933Z"
     },
     {
       "id": "task_1776529952040",
@@ -1775,5 +1776,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-18T22:01:58.092Z"
+  "saved_at": "2026-04-19T00:23:17.223Z"
 }
