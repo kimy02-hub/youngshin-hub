@@ -262,7 +262,7 @@
     {
       "id": "task_1776529944300",
       "title": "FW: Board Eligibility Candidate Question",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "PH0PR06MB77720F63D16D58E6320A05ABAF202@PH0PR06MB7772.namprd06.prod.outlook.com",
       "emailSender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
@@ -274,7 +274,8 @@
       "createdAt": "2026-04-18T16:32:24.300Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-18T22:00:10.513Z"
+      "updatedAt": "2026-04-19T02:09:30.647Z",
+      "doneAt": "2026-04-19T02:09:30.647Z"
     },
     {
       "id": "task_1776529943039",
@@ -1779,5 +1780,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T02:09:18.141Z"
+  "saved_at": "2026-04-19T02:09:30.737Z"
 }
