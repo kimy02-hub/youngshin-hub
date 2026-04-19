@@ -111,7 +111,7 @@ async function loadEmails() {
     renderEmails();
   } catch (e) {
     document.getElementById('emailList').innerHTML =
-      `<div class="loading-state"><p style="color:var(--text-ghost)">Could not load emails.<br><small>${e.message}</small></p></div>`;
+      `<div class="loading-state"><p style="color:var(--text-ghost)">Could not load emails.<br><small>${e.message}<\/small><\/p><\/div>`;
   }
 }
 
@@ -179,7 +179,7 @@ function renderEmails() {
   const el = document.getElementById('emailList');
   document.getElementById('emailCount').textContent = list.length;
   if (!list.length) {
-    el.innerHTML = `<div class="loading-state"><p style="font-style:italic;color:var(--text-ghost)">No emails here</p></div>`;
+    el.innerHTML = `<div class="loading-state"><p style="font-style:italic;color:var(--text-ghost)">No emails here<\/p><\/div>`;
     return;
   }
   el.innerHTML = '';
@@ -193,20 +193,20 @@ function buildEmailCard(email, idx) {
   card.innerHTML = `
     <div class="email-top">
       <div class="email-sender-row">
-        ${!email.read ? '<div class="unread-dot"></div>' : ''}
-        ${email.flagged ? '<span class="flagged-star">&#9873;</span>' : ''}
-        <span class="email-sender">${esc(parseName(email.sender))}</span>
-      </div>
-      <span class="email-time">${esc(formatTime(email.date))}</span>
-    </div>
-    <div class="email-subject">${esc(email.subject)}</div>
-    ${email.cc ? `<div class="email-cc">cc: ${esc(formatCC(email.cc))}</div>` : ''}
+        ${!email.read ? '<div class="unread-dot"><\/div>' : ''}
+        ${email.flagged ? '<span class="flagged-star">&#9873;<\/span>' : ''}
+        <span class="email-sender">${esc(parseName(email.sender))}<\/span>
+      <\/div>
+      <span class="email-time">${esc(formatTime(email.date))}<\/span>
+    <\/div>
+    <div class="email-subject">${esc(email.subject)}<\/div>
+    ${email.cc ? `<div class="email-cc">cc: ${esc(formatCC(email.cc))}<\/div>` : ''}
     <div class="email-actions">
-      <button class="to-task-btn" onclick="emailToTask('${escId(email.id)}')">+ Task</button>
-      <a class="open-mail-btn" href="${buildMailUrl(email.id)}" target="_blank">&#9993; Open</a>
-      ${email.flagged ? `<button class="unflag-email-btn" onclick="unflagEmail('${escId(email.id)}')">&#9873; Unflag</button>` : ''}
-      <button class="delete-email-btn" onclick="deleteEmail('${escId(email.id)}')">&#10005; Delete</button>
-    </div>`;
+      <button class="to-task-btn" onclick="emailToTask('${escId(email.id)}')">+ Task<\/button>
+      <a class="open-mail-btn" href="${buildMailUrl(email.id)}" target="_blank">&#9993; Open<\/a>
+      ${email.flagged ? `<button class="unflag-email-btn" onclick="unflagEmail('${escId(email.id)}')">&#9873; Unflag<\/button>` : ''}
+      <button class="delete-email-btn" onclick="deleteEmail('${escId(email.id)}')">&#10005; Delete<\/button>
+    <\/div>`;
   return card;
 }
 
@@ -274,8 +274,8 @@ function editTaskCC(taskId) {
   wrap.innerHTML = `<div class="cc-edit-wrap">
     <input class="task-cc-input" id="cc-input-${taskId}" value="${esc(t.cc || '')}" placeholder="add cc..."
       onkeydown="if(event.key==='Enter')saveTaskCC('${taskId}');if(event.key==='Escape')renderTasks();">
-    <button class="cc-save-btn" onclick="saveTaskCC('${taskId}')">&#10003;</button>
-  </div>`;
+    <button class="cc-save-btn" onclick="saveTaskCC('${taskId}')">&#10003;<\/button>
+  <\/div>`;
   setTimeout(() => { const el = document.getElementById('cc-input-' + taskId); if (el) el.focus(); }, 30);
 }
 
@@ -287,7 +287,7 @@ let editingTaskId = null;
 function populateRelatedEmailPicker() {
   const picker = document.getElementById('relatedEmailPicker');
   if (!picker) return;
-  picker.innerHTML = '<option value="">+ Add related email from inbox...</option>';
+  picker.innerHTML = '<option value="">+ Add related email from inbox...<\/option>';
   allEmails.forEach(e => {
     const opt = document.createElement('option');
     opt.value = e.id;
@@ -320,8 +320,8 @@ function renderRelatedEmailsEditor(t) {
   (t.relatedEmails || []).forEach(r => {
     const row = document.createElement('div');
     row.style.cssText = 'display:flex;align-items:center;gap:6px;margin-bottom:4px;font-size:0.8rem;';
-    row.innerHTML = `<a href="${buildMailUrl(r.id)}" target="_blank" style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text);text-decoration:none;font-size:0.8rem;">&#9993; ${esc(parseName(r.sender))} — ${esc((r.subject||'').substring(0,40))}</a>
-      <button onclick="removeRelatedEmail('${escId(r.id)}')" style="border:none;background:none;color:#c08080;cursor:pointer;font-size:1rem;">&times;</button>`;
+    row.innerHTML = `<a href="${buildMailUrl(r.id)}" target="_blank" style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text);text-decoration:none;font-size:0.8rem;">&#9993; ${esc(parseName(r.sender))} — ${esc((r.subject||'').substring(0,40))}<\/a>
+      <button onclick="removeRelatedEmail('${escId(r.id)}')" style="border:none;background:none;color:#c08080;cursor:pointer;font-size:1rem;">&times;<\/button>`;
     list.appendChild(row);
   });
 }
@@ -370,11 +370,11 @@ function renderSubtaskEditor(t) {
     const row = document.createElement('div');
     row.className = 'subtask-row' + (s.done ? ' subtask-done' : '');
     row.innerHTML = `
-      <div class="subtask-check" onclick="toggleSubtask(${i})">${s.done ? '&#10003;' : ''}</div>
+      <div class="subtask-check" onclick="toggleSubtask(${i})">${s.done ? '&#10003;' : ''}<\/div>
       <input class="subtask-input" value="${esc(s.text)}" placeholder="Sub-task..."
         onchange="updateSubtask(${i}, this.value)"
         onkeydown="if(event.key==='Enter'){event.preventDefault();addSubtask();}">
-      <button class="subtask-del" onclick="deleteSubtask(${i})">&times;</button>`;
+      <button class="subtask-del" onclick="deleteSubtask(${i})">&times;<\/button>`;
     list.appendChild(row);
   });
 }
@@ -552,52 +552,52 @@ function buildTaskCard(task, idx) {
     : task.createdAt ? 'Created ' + formatDateShort(task.createdAt) : '';
 
   const fromHtml = task.type === 'email' && task.emailSender
-    ? `<span class="task-from">From: <strong>${esc(parseName(task.emailSender))}</strong></span>` : '';
+    ? `<span class="task-from">From: <strong>${esc(parseName(task.emailSender))}<\/strong><\/span>` : '';
 
   const ccDisplay = task.cc ? formatCC(task.cc) : '';
   const ccHtml = `<span class="task-cc" id="cc-wrap-${task.id}">
     ${ccDisplay
-      ? `<span>&#128100; ${esc(ccDisplay)}</span><button class="cc-edit-btn" onclick="editTaskCC('${task.id}')">&#9998;</button>`
-      : `<button class="cc-edit-btn" onclick="editTaskCC('${task.id}')" style="opacity:.5">+ cc</button>`
-    }</span>`;
+      ? `<span>&#128100; ${esc(ccDisplay)}<\/span><button class="cc-edit-btn" onclick="editTaskCC('${task.id}')">&#9998;<\/button>`
+      : `<button class="cc-edit-btn" onclick="editTaskCC('${task.id}')" style="opacity:.5">+ cc<\/button>`
+    }<\/span>`;
 
   const note = task.note || '';
   const noteHtml = note.trim()
-    ? `<div class="task-note-preview">${linkify(note.trim().substring(0, 200))}${note.length > 200 ? '...' : ''}</div>` : '';
+    ? `<div class="task-note-preview">${linkify(note.trim().substring(0, 200))}${note.length > 200 ? '...' : ''}<\/div>` : '';
 
   const subs = task.subtasks || [];
   const subHtml = subs.length
-    ? `<div class="task-sub-preview">&#9745; ${subs.filter(s => s.done).length}/${subs.length} sub-task${subs.length > 1 ? 's' : ''}</div>` : '';
+    ? `<div class="task-sub-preview">&#9745; ${subs.filter(s => s.done).length}/${subs.length} sub-task${subs.length > 1 ? 's' : ''}<\/div>` : '';
 
   card.innerHTML = `
-    <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"></div>
+    <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"><\/div>
     <div class="task-body">
       <div class="task-title-row">
-        <span class="task-title">${esc(task.title)}</span>
-        <span class="task-timestamp">${esc(tsLabel)}</span>
-      </div>
+        <span class="task-title">${esc(task.title)}<\/span>
+        <span class="task-timestamp">${esc(tsLabel)}<\/span>
+      <\/div>
       ${noteHtml}${subHtml}
-      <div class="task-meta">${task.due ? buildDueLabel(task.due) : ''}${fromHtml}${ccHtml}</div>
-    </div>
+      <div class="task-meta">${task.due ? buildDueLabel(task.due) : ''}${fromHtml}${ccHtml}<\/div>
+    <\/div>
     <div class="task-actions">
-      <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;</button>
+      <button class="edit-task-btn" onclick="openEditTask('${task.id}')" title="Edit">&#9998;<\/button>
       <div class="color-picker" onclick="event.stopPropagation()">
-        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#FF0000','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#FF6B35','teal':'#2EC4B6'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"></div>
+        <div class="color-dot c-${task.color || 'none'}" style="width:16px;height:16px;margin-top:2px;cursor:pointer;border-radius:50%;background:${task.color ? {'crimson':'#FF0000','fuchsia':'#FF00FF','canary':'#FFD700','cobalt':'#0047AB','violet':'#7F00FF','lime':'#32CD32','espresso':'#FF6B35','teal':'#2EC4B6'}[task.color]||'#ccc' : '#ccc'};border:${task.color ? '2px solid #fff' : '2px dashed #999'};" onclick="toggleColorPicker('${task.id}')" title="${task.color ? colorLabel(task.color) : 'Set color label'}"><\/div>
         <div class="color-dots" id="cp-${task.id}" style="display:none">
-          <div class="color-dot c-none"     onclick="setTaskColor('${task.id}', '')"         title="None"></div>
-          <div class="color-dot c-fuchsia"  onclick="setTaskColor('${task.id}', 'fuchsia')"  title="Fuchsia: Top priority"></div>
-          <div class="color-dot c-crimson"  onclick="setTaskColor('${task.id}', 'crimson')"  title="Ruby Red: Today deadline"></div>
-          <div class="color-dot c-cobalt"   onclick="setTaskColor('${task.id}', 'cobalt')"   title="Royal Blue: Operational"></div>
-          <div class="color-dot c-canary"   onclick="setTaskColor('${task.id}', 'canary')"   title="Canary: Clinic"></div>
-          <div class="color-dot c-violet"   onclick="setTaskColor('${task.id}', 'violet')"   title="Violet: Journal editorial"></div>
-          <div class="color-dot c-espresso" onclick="setTaskColor('${task.id}', 'espresso')" title="Espresso: DMS"></div>
-          <div class="color-dot c-lime"     onclick="setTaskColor('${task.id}', 'lime')"     title="Lime: Personal"></div>
-          <div class="color-dot c-teal"     onclick="setTaskColor('${task.id}', 'teal')"     title="Teal: Lab/Research"></div>
-        </div>
-      </div>
-      ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;</button>` : ''}
-      ${task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : ''}
-    </div>`;
+          <div class="color-dot c-none"     onclick="setTaskColor('${task.id}', '')"         title="None"><\/div>
+          <div class="color-dot c-fuchsia"  onclick="setTaskColor('${task.id}', 'fuchsia')"  title="Fuchsia: Top priority"><\/div>
+          <div class="color-dot c-crimson"  onclick="setTaskColor('${task.id}', 'crimson')"  title="Ruby Red: Today deadline"><\/div>
+          <div class="color-dot c-cobalt"   onclick="setTaskColor('${task.id}', 'cobalt')"   title="Royal Blue: Operational"><\/div>
+          <div class="color-dot c-canary"   onclick="setTaskColor('${task.id}', 'canary')"   title="Canary: Clinic"><\/div>
+          <div class="color-dot c-violet"   onclick="setTaskColor('${task.id}', 'violet')"   title="Violet: Journal editorial"><\/div>
+          <div class="color-dot c-espresso" onclick="setTaskColor('${task.id}', 'espresso')" title="Espresso: DMS"><\/div>
+          <div class="color-dot c-lime"     onclick="setTaskColor('${task.id}', 'lime')"     title="Lime: Personal"><\/div>
+          <div class="color-dot c-teal"     onclick="setTaskColor('${task.id}', 'teal')"     title="Teal: Lab/Research"><\/div>
+        <\/div>
+      <\/div>
+      ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;<\/button>` : ''}
+      ${task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail<\/a>` : ''}
+    <\/div>`;
   return card;
 }
 
@@ -605,7 +605,7 @@ function buildDueLabel(due) {
   const today = new Date().toISOString().split('T')[0];
   const cls = due < today ? 'overdue' : due === today ? 'today' : '';
   const lbl = due === today ? 'Today' : due < today ? 'Overdue' : formatDateShort(due + 'T00:00:00');
-  return `<span class="task-due ${cls}">&#128197; ${lbl}</span>`;
+  return `<span class="task-due ${cls}">&#128197; ${lbl}<\/span>`;
 }
 
 function toggleCompleted() {
@@ -759,19 +759,19 @@ function linkify(text) {
   return esc(text).replace(/(https?:\/\/[^\s<>"]+)/g, url => {
     const clean = url.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"');
     const label = clean.length > 40 ? clean.substring(0, 40) + '...' : clean;
-    return `<a href="${clean}" target="_blank" class="note-link" onclick="event.stopPropagation()">${label}</a>`;
+    return `<a href="${clean}" target="_blank" class="note-link" onclick="event.stopPropagation()">${label}<\/a>`;
   });
 }
 
 function esc(str) {
-  return String(str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  return String(str || '').replace(/&/g, '&amp;').replace(/<\/g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 function escId(id) { return String(id || '').replace(/'/g, "\\'"); }
 
 function parseName(sender) {
   if (!sender) return 'Unknown';
-  const m = sender.match(/^"?([^"<]+)"?\s*</);
+  const m = sender.match(/^"?([^"<]+)"?\s*<\/);
   if (m) return m[1].trim().replace(/^"|"$/g, '');
   const em = sender.match(/([^@<\s]+)@/);
   return em ? em[1] : sender.split('@')[0] || sender;
