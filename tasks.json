@@ -442,11 +442,16 @@
       "cc": "",
       "due": null,
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "waiting for Kari's response",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-14T15:10:00.276Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-18T22:00:58.813Z"
+      "updatedAt": "2026-04-19T02:17:07.673Z"
     },
     {
       "id": "task_1776179396092",
@@ -1780,5 +1785,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T02:09:30.737Z"
+  "saved_at": "2026-04-19T02:17:08.006Z"
 }
