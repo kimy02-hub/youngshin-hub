@@ -471,10 +471,11 @@ function toggleColorPicker(taskId) {
   const dot = picker.previousElementSibling;
   if (dot) {
     const r = dot.getBoundingClientRect();
+    const vTop = Math.min(Math.max(r.bottom + 4, 10), window.innerHeight - 180);
     picker.style.position = 'fixed';
+    picker.style.top = vTop + 'px';
+    picker.style.left = Math.min(Math.max(4, r.right - 160), window.innerWidth - 170) + 'px';
     picker.style.display = 'flex';
-    picker.style.top = (r.bottom + 4) + 'px';
-    picker.style.left = Math.max(4, r.right - 160) + 'px';
   } else {
     picker.style.display = 'flex';
   }
