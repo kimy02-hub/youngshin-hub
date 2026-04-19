@@ -860,7 +860,7 @@
     {
       "id": "task_1775709517402",
       "title": "Your Submission THELANCET-D-26-01935",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
       "emailSender": "The Lancet Team <em@editorialmanager.com>",
@@ -880,8 +880,9 @@
       ],
       "createdAt": "2026-04-09T04:38:37.402Z",
       "type": "email",
-      "updatedAt": "2026-04-19T23:38:23.959Z",
-      "color": "crimson"
+      "updatedAt": "2026-04-19T23:38:26.014Z",
+      "color": "crimson",
+      "doneAt": "2026-04-19T23:38:26.014Z"
     },
     {
       "id": "task_1775705551683",
@@ -1822,5 +1823,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T23:38:24.028Z"
+  "saved_at": "2026-04-19T23:38:26.355Z"
 }
