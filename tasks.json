@@ -175,7 +175,7 @@
     {
       "id": "task_1776529956391",
       "title": "Assistant/Associate Professor for Outpatient Child and Adolescent Psychiatry",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "BLAPR06MB67726D46FE63896872EFE11EDA202@BLAPR06MB6772.namprd06.prod.outlook.com",
       "emailSender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
@@ -187,7 +187,8 @@
       "createdAt": "2026-04-18T16:32:36.391Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-18T21:59:58.977Z"
+      "updatedAt": "2026-04-19T02:09:18.047Z",
+      "doneAt": "2026-04-19T02:09:18.047Z"
     },
     {
       "id": "task_1776529955100",
@@ -1778,5 +1779,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T01:43:17.656Z"
+  "saved_at": "2026-04-19T02:09:18.141Z"
 }
