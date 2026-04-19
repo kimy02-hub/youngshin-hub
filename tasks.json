@@ -440,7 +440,7 @@
       "emailSender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "emailDate": "Mon Apr 13 2026 13:50:51 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-21",
       "note": "",
       "subtasks": [
         {
@@ -451,7 +451,7 @@
       "createdAt": "2026-04-14T15:10:00.276Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-19T02:17:07.673Z"
+      "updatedAt": "2026-04-19T02:17:19.696Z"
     },
     {
       "id": "task_1776179396092",
@@ -1785,5 +1785,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T02:17:08.006Z"
+  "saved_at": "2026-04-19T02:17:19.997Z"
 }
