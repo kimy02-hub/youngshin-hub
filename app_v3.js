@@ -471,6 +471,7 @@ function toggleColorPicker(taskId) {
   const dot = picker.previousElementSibling;
   if (dot) {
     const r = dot.getBoundingClientRect();
+    picker.style.position = 'fixed';
     picker.style.display = 'flex';
     picker.style.top = (r.bottom + 4) + 'px';
     picker.style.left = Math.max(4, r.right - 160) + 'px';
