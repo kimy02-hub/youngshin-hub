@@ -71,7 +71,7 @@
     {
       "id": "task_1776546538826",
       "title": "Orientation - Topic Planning July 2026",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CANYCf64J8h-q8W4mLDr0uUCa7g0-VR5Ve72DucS1Ld78RZg=FQ@mail.gmail.com",
       "emailSender": "Kari Whatley <Kari.Whatley@ascension.org>",
@@ -83,7 +83,8 @@
       "createdAt": "2026-04-18T21:08:58.826Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-18T21:59:44.696Z"
+      "updatedAt": "2026-04-19T01:35:13.150Z",
+      "doneAt": "2026-04-19T01:35:13.150Z"
     },
     {
       "id": "task_1776546530426",
@@ -1776,5 +1777,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T00:23:17.223Z"
+  "saved_at": "2026-04-19T01:35:13.507Z"
 }
