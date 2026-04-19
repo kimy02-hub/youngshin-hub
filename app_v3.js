@@ -460,25 +460,27 @@ function colorLabel(color) {
 }
 
 function toggleColorPicker(taskId) {
-  var allPickers = document.querySelectorAll('.color-dots');
+  var pickers = document.querySelectorAll('.color-dots');
   var picker = document.getElementById('cp-' + taskId);
   if (picker && picker.style.display === 'flex') {
-    allPickers.forEach(function(p){ p.style.display='none'; });
+    pickers.forEach(function(p){ p.style.display='none'; });
     return;
   }
-  allPickers.forEach(function(p){ p.style.display='none'; });
+  pickers.forEach(function(p){ p.style.display='none'; });
   if (!picker) return;
-  // Move picker to body to escape CSS transform stacking context
   if (picker.parentElement !== document.body) document.body.appendChild(picker);
-  var dot = document.querySelector('.color-dot[onclick*="' + taskId + '"]');
-  if (dot) {
-    var r = dot.getBoundingClientRect();
-    var left = Math.max(4, Math.min(r.left - 149 + 16, window.innerWidth - 169));
-    var top = r.bottom + 4;
-    if (top + 80 > window.innerHeight) top = r.top - 84;
-    if (top < 60) top = 60;
-    picker.style.cssText = 'display:flex;position:fixed;z-index:999999;top:' + top + 'px;left:' + left + 'px;background:white;border:1px solid #ccc;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,0.3);gap:5px;padding:8px;flex-wrap:wrap;width:165px;';
-  } else { picker.style.display = 'flex'; }
+  var dot = document.querySelector('[onclick*="' + taskId + '"]');
+  if (!dot) { picker.style.display='flex'; return; }
+  var r = dot.getBoundingClientRect();
+  var W = document.documentElement.clientWidth;
+  var H = document.documentElement.clientHeight;
+  var left = r.left - 149 + 16;
+  if (left < 4) left = 4;
+  if (left + 165 > W) left = W - 169;
+  var top = r.bottom + 4;
+  if (top + 80 > H) top = r.top - 84;
+  if (top < 60) top = 60;
+  picker.style.cssText = 'display:flex;position:fixed;z-index:999999;top:' + top + 'px;left:' + left + 'px;background:white;border:1px solid #ccc;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,0.3);gap:5px;padding:8px;flex-wrap:wrap;width:165px;';
 }
 
 function closeColorPicker() {
