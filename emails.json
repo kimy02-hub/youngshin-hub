@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T17:45:13.010366",
+  "fetched_at": "2026-04-20T17:48:13.293435",
   "emails": [
     {
       "id": "0101019dab8cc275-6f80ca3b-f54f-4546-b252-be617df8217d-000000@us-west-2.amazonses.com",
@@ -303,6 +303,24 @@
       "subject": "ECHO Analysis Concepts 1000 & 1001",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Mon Apr 13 2026 10:14:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMmJW1pE3xTE5ibzGX0d7Zanj5+Hs0RNo-irNEKkTi+U+RSB4g@mail.gmail.com",
+      "subject": "Re: Checking in",
+      "sender": "Anita Abure <anitaaburemd@gmail.com>",
+      "date": "Mon Apr 13 2026 09:23:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO1PR06MB806071D782B6E405C7561A8DC2242@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "General Psychiatry Resident Didactics Planning: CAP Faculty",
+      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
+      "date": "Mon Apr 13 2026 09:11:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
