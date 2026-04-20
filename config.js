@@ -3,14 +3,12 @@
   var p1 = 'ghp_oWNa3i';
   var p2 = 'OgxVh2Q5RC';
   var p3 = 't189y1y7gMPKgy3kEP8O';
-  // Always refresh token on every page load
   localStorage.setItem('gh_token', p1+p2+p3);
 })();
 
-// Load main dashboard script in global scope
+// Load main.js by creating a script tag - runs in global scope
 (function() {
-  var x = new XMLHttpRequest();
-  x.open('GET', 'main.js', false);
-  x.send();
-  if (x.status === 200) { (0, eval)(x.responseText); }
+  var s = document.createElement('script');
+  s.src = 'main.js?t=' + Date.now();
+  document.head.appendChild(s);
 })();
