@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T17:51:13.490916",
+  "fetched_at": "2026-04-20T17:54:13.836073",
   "emails": [
     {
       "id": "0101019dab8cc275-6f80ca3b-f54f-4546-b252-be617df8217d-000000@us-west-2.amazonses.com",
@@ -24,6 +24,15 @@
       "subject": "R01 Due 06/05",
       "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
       "date": "Mon Apr 20 2026 09:39:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BL3P221MB030541F55D59826D5FF133D3A82F2@BL3P221MB0305.NAMP221.PROD.OUTLOOK.COM",
+      "subject": "Dell Pilot",
+      "sender": "Christopher Dunn <cdunn@invisalertsolutions.com>",
+      "date": "Mon Apr 20 2026 08:43:23 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -312,6 +321,33 @@
       "subject": "Re: Checking in",
       "sender": "Anita Abure <anitaaburemd@gmail.com>",
       "date": "Mon Apr 13 2026 09:23:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO1PR06MB806071D782B6E405C7561A8DC2242@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "General Psychiatry Resident Didactics Planning: CAP Faculty",
+      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
+      "date": "Mon Apr 13 2026 09:11:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAB76nFHwHmR7+NST+pPqeYvhBYwi50GnBcA6oY63oHObHNL3mg@mail.gmail.com",
+      "subject": "Covalent Foundation Quarterly Update - Wednesday April 15th",
+      "sender": "Meredith Mallory <meredith.mallory@ascension.org>",
+      "date": "Mon Apr 13 2026 08:41:45 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAOWh29x_DYkSQhWUKn+6iqmQfT7QZFcsqEnFiAw-vghPjQXV6A@mail.gmail.com",
+      "subject": "Chloe - Guanfacine",
+      "sender": "Pete Curlin <petecurlin@gmail.com>",
+      "date": "Mon Apr 13 2026 08:00:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
