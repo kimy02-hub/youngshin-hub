@@ -795,3 +795,39 @@ function buildMailUrl(emailId) {
   if (!emailId) return '#';
   return 'message://%3C' + encodeURIComponent(emailId) + '%3E';
 }
+
+// Expose functions globally
+window.toggleColorPicker = function(taskId) {
+  var pickers = document.querySelectorAll('.color-dots');
+  var picker = document.getElementById('cp-' + taskId);
+  if (picker && picker.style.display === 'flex') {
+    pickers.forEach(function(p){ p.style.display='none'; });
+    return;
+  }
+  pickers.forEach(function(p){ p.style.display='none'; });
+  if (!picker) return;
+  if (picker.parentElement !== document.body) document.body.appendChild(picker);
+  var allDots = document.querySelectorAll('.color-dot[onclick]');
+  var dot = null;
+  for (var i=0; i<allDots.length; i++) {
+    var oc = allDots[i].getAttribute('onclick') || '';
+    if (oc.indexOf(taskId) >= 0) {
+      var tr = allDots[i].getBoundingClientRect();
+      if (tr.width > 0 && tr.height > 0) { dot = allDots[i]; break; }
+    }
+  }
+  if (!dot) return;
+  var r = dot.getBoundingClientRect();
+  var W = document.documentElement.clientWidth;
+  var H = document.documentElement.clientHeight;
+  var left = r.right - 165;
+  if (left < 4) left = 4;
+  if (left + 165 > W) left = W - 169;
+  var top = r.bottom + 4;
+  if (top + 80 > H) top = r.top - 84;
+  if (top < 60) top = 60;
+  picker.style.cssText = 'display:flex;position:fixed;z-index:999999;top:' + top + 'px;left:' + left + 'px;background:white;border:1px solid #ccc;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,0.3);gap:5px;padding:8px;flex-wrap:wrap;width:165px;';
+};
+window.setTaskColor = setTaskColor;
+window.closeColorPicker = function() { document.querySelectorAll('.color-dots').forEach(function(p){ p.style.display='none'; }); };
+document.addEventListener('click', function(e) { if (!e.target.closest('.color-picker') && !e.target.closest('.color-dots')) window.closeColorPicker(); });
