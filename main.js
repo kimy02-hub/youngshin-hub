@@ -1,3 +1,4 @@
+window.dashboardLoaded = true;
 /* DMS Dashboard - app_final.js */
 'use strict';
 
