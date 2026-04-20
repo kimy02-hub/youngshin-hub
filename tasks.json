@@ -1068,12 +1068,12 @@
         },
         {
           "text": "김문이 샘한테 서류 점검",
-          "done": false
+          "done": true
         }
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-20T02:53:58.971Z",
+      "updatedAt": "2026-04-20T03:01:29.154Z",
       "color": "lime",
       "relatedEmails": [
         {
@@ -1827,5 +1827,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T02:54:01.295Z"
+  "saved_at": "2026-04-20T03:01:29.514Z"
 }
