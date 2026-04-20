@@ -529,7 +529,7 @@
     {
       "id": "task_1776179392976",
       "title": "JAACAP Open Editor Summary - [EMID:bca840687fc5ae2d]",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "010f019d8b02d40c-c7afd6f3-8c30-404b-8540-8865f5f43af5-000000@us-east-2.amazonses.com",
       "emailSender": "JAACAP Open <em@editorialmanager.com>",
@@ -541,7 +541,8 @@
       "createdAt": "2026-04-14T15:09:52.976Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-19T04:12:28.941Z"
+      "updatedAt": "2026-04-20T19:59:39.141Z",
+      "doneAt": "2026-04-20T19:59:39.141Z"
     },
     {
       "id": "task_1776179391560",
@@ -1847,5 +1848,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T19:59:28.229Z"
+  "saved_at": "2026-04-20T19:59:39.431Z"
 }
