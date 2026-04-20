@@ -1166,7 +1166,7 @@
     {
       "id": "task_1775427680338",
       "title": "FW: JAACAPOPEN-D-25-00172R1 Editor Reminder - [EMID:cd6e652b955a95da]",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SA6PR06MB104481472C7813EAA328FD46EA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -1177,8 +1177,9 @@
       "type": "email",
       "note": "",
       "subtasks": [],
-      "updatedAt": "2026-04-19T04:12:38.033Z",
-      "color": "crimson"
+      "updatedAt": "2026-04-20T18:51:01.262Z",
+      "color": "crimson",
+      "doneAt": "2026-04-20T18:51:01.262Z"
     },
     {
       "id": "task_1775427679288",
@@ -1844,5 +1845,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T17:20:29.419Z"
+  "saved_at": "2026-04-20T18:51:01.678Z"
 }
