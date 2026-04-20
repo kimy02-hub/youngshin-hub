@@ -1064,12 +1064,12 @@
         },
         {
           "text": "김문이 샘과 미팅: 일요일 밤 9시",
-          "done": false
+          "done": true
         }
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-19T04:11:41.921Z",
+      "updatedAt": "2026-04-20T02:53:28.821Z",
       "color": "lime",
       "relatedEmails": [
         {
@@ -1823,5 +1823,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-19T23:38:26.355Z"
+  "saved_at": "2026-04-20T02:53:28.889Z"
 }
