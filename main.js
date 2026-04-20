@@ -1,17 +1,17 @@
 /* DMS Dashboard - app_final.js */
 'use strict';
 
-const TASKS_KEY   = 'dms_tasks_v3';
-const EMAILS_URL  = 'emails.json';
-const GITHUB_REPO = 'kimy02-hub/youngshin-hub';
-const TASKS_FILE  = 'tasks.json';
-const API_BASE    = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/';
+var TASKS_KEY   = 'dms_tasks_v3';
+var EMAILS_URL  = 'emails.json';
+var GITHUB_REPO = 'kimy02-hub/youngshin-hub';
+var TASKS_FILE  = 'tasks.json';
+var API_BASE    = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/';
 
-let allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
-let localUnflagged = new Set(JSON.parse(localStorage.getItem('local_unflagged') || '[]'));
+var allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
+var localUnflagged = new Set(JSON.parse(localStorage.getItem('local_unflagged') || '[]'));
 
 // -- BOOT ------------------------------------------------------
-if (!localStorage.getItem('gh_token')) { const _a='ghp_oWNa3i', _b='OgxVh2Q5RCt189y1y7gMPKgy3kEP8O'; localStorage.setItem('gh_token', _a+_b); }
+if (!localStorage.getItem('gh_token')) { var _a='ghp_oWNa3i', _b='OgxVh2Q5RCt189y1y7gMPKgy3kEP8O'; localStorage.setItem('gh_token', _a+_b); }
 
 document.addEventListener('DOMContentLoaded', async () => {
   loadTasksFromStorage();
