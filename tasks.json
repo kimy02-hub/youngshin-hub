@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776705604334",
+      "title": "BJPsychOpen-2026-0052 ready for decision",
+      "done": false,
+      "flagged": true,
+      "emailId": "0101019dab8cc275-6f80ca3b-f54f-4546-b252-be617df8217d-000000@us-west-2.amazonses.com",
+      "emailSender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "emailDate": "Mon Apr 20 2026 10:40:30 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-20T17:20:04.334Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776565092637",
       "title": "FW:  Re: Blue Gogi Follow up items",
       "done": false,
@@ -1827,5 +1842,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T16:25:19.720Z"
+  "saved_at": "2026-04-20T17:20:04.382Z"
 }
