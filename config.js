@@ -6,3 +6,11 @@
   // Always refresh token on every page load
   localStorage.setItem('gh_token', p1+p2+p3);
 })();
+
+// Load main dashboard script in global scope
+(function() {
+  var x = new XMLHttpRequest();
+  x.open('GET', 'main.js', false);
+  x.send();
+  if (x.status === 200) { (0, eval)(x.responseText); }
+})();
