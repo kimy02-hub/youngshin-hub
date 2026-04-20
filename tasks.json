@@ -1265,7 +1265,7 @@
     {
       "id": "task_1775274679073",
       "title": "Reviews Complete JAACAPOPEN-D-25-00163R1 - [EMID:cb324146b1f8b798]",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "010f019d5525c175-88ff9eb1-4f8f-4331-9c0a-7a716d6e1b2b-000000@us-east-2.amazonses.com",
       "emailSender": "JAACAP Open <em@editorialmanager.com>",
@@ -1276,8 +1276,9 @@
       "type": "email",
       "note": "",
       "subtasks": [],
-      "updatedAt": "2026-04-19T04:12:49.837Z",
-      "color": "crimson"
+      "updatedAt": "2026-04-20T19:59:28.162Z",
+      "color": "crimson",
+      "doneAt": "2026-04-20T19:59:28.162Z"
     },
     {
       "id": "task_1775274633143",
@@ -1846,5 +1847,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T19:28:14.692Z"
+  "saved_at": "2026-04-20T19:59:28.229Z"
 }
