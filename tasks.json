@@ -356,11 +356,16 @@
       "cc": "",
       "due": null,
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "Kristine Checking on Swanson Review",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-18T16:32:16.487Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-20T20:03:30.849Z"
+      "updatedAt": "2026-04-20T20:04:02.994Z"
     },
     {
       "id": "task_1776360127552",
@@ -1851,5 +1856,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T20:03:31.258Z"
+  "saved_at": "2026-04-20T20:04:03.787Z"
 }
