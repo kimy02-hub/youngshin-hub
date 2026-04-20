@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T09:06:13.510141",
+  "fetched_at": "2026-04-20T09:09:15.713993",
   "emails": [
     {
       "id": "BLAPR06MB67729BA7AD3B0258CD055197DA2E2@BLAPR06MB6772.namprd06.prod.outlook.com",
@@ -330,15 +330,6 @@
       "subject": "UPDATED PROPOSALS: Paid Psychiatry Call, Psychology Salary Revisions",
       "sender": "\"Trammell, Shannon K\" <shannon.trammell@austin.utexas.edu>",
       "date": "Thu Apr 09 2026 11:00:13 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019d6ff49aad-3b97a1b7-5cec-423a-bc78-238db8b02326-000000@us-east-2.amazonses.com",
-      "subject": "Your Submission THELANCET-D-26-01935",
-      "sender": "The Lancet Team <em@editorialmanager.com>",
-      "date": "Wed Apr 08 2026 20:56:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
