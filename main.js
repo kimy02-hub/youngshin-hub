@@ -583,9 +583,7 @@ function buildTaskCard(task, idx) {
           <div class="color-dot c-lime"     onclick="setTaskColor('${task.id}', 'lime')"     title="Lime: Personal"></div>
           <div class="color-dot c-teal"     onclick="setTaskColor('${task.id}', 'teal')"     title="Teal: Lab/Research"></div>
         </div>
-      </div>
-      ${!task.done ? `<button class="flag-task-btn ${task.flagged ? 'is-flagged' : ''}" onclick="toggleTaskFlag('${task.id}')" title="${task.flagged ? 'Unflag' : 'Flag'}">&#9873;</button>` : ''}
-      ${task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : ''}
+      </div>${task.emailId ? `<a class="open-task-mail-btn" href="${buildMailUrl(task.emailId)}" target="_blank">&#9993; Mail</a>` : ''}
     </div>`;
   return card;
 }
