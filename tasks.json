@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776799611418",
+      "title": "FW: Posted: R_00045441 Clinical Research Associate I (Open)",
+      "done": false,
+      "flagged": true,
+      "emailId": "PH0PR06MB7772430884B9608645AF1771AF252@PH0PR06MB7772.namprd06.prod.outlook.com",
+      "emailSender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
+      "emailDate": "Tue Apr 14 2026 08:51:11 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-21T19:26:51.418Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776705604334",
       "title": "BJPsychOpen-2026-0052 ready for decision",
       "done": false,
@@ -1861,5 +1876,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-20T21:18:01.829Z"
+  "saved_at": "2026-04-21T19:26:51.624Z"
 }
