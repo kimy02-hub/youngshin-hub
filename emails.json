@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-21T16:30:13.808577",
+  "fetched_at": "2026-04-21T16:33:14.269864",
   "emails": [
     {
       "id": "DS1PR06MB10655F491F676C4CA642C03A3C52C2@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -15,6 +15,15 @@
       "subject": "Dr. Wang",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Tue Apr 21 2026 16:14:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655BA1A05ECB86D681C1BD8C52C2@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "FW: Term Sheet",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 21 2026 15:58:00 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -159,6 +168,15 @@
       "subject": "Updates to : INC1033403 : Athena - Provider Password Reset- VIP Identity Verification Workflow",
       "sender": "Ascension Technology <ascensionesm@service-now.com>",
       "date": "Thu Apr 16 2026 15:03:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFvG7Uq2Jd_Un_QqL46f14u-gTTSZKtDh55r4xecHnTqcfOH9Q@mail.gmail.com",
+      "subject": "Re: Term Sheet",
+      "sender": "Emily Nguyen <emnhunguyen@gmail.com>",
+      "date": "Thu Apr 16 2026 14:24:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
