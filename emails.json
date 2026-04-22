@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T12:18:12.758585",
+  "fetched_at": "2026-04-22T12:21:13.345095",
   "emails": [
     {
       "id": "Share-904553a0-8844-4f5a-ae35-584d468fe25a;rcid_a74e0ca2-c06f-6000-85c2-135b84291a16;wiid_91ac40b2-fa17-441c-8bdc-76c1035885e6;SendEmail-PreprocessPayload-ObservabilityMessageEnqueuer-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_1c85d807-d508-448b-8e22-4d8b07016e11@odspnotify",
@@ -249,24 +249,6 @@
       "subject": "Re: Reading Test",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Tue Apr 14 2026 21:59:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM3PPF569F3D3B396ECD4B8C4D484CA70FCA9252@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
-      "subject": "Re: EO Meet w/ Young Shin",
-      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
-      "date": "Tue Apr 14 2026 18:00:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655916E3343A76DB9C4C4D7C5252@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "FW:  Re: Blue Gogi Follow up items",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 14 2026 17:57:40 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
