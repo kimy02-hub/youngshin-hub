@@ -365,7 +365,7 @@
     {
       "id": "task_1776529936487",
       "title": "Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:1f31ea9709d54e32]",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
       "emailSender": "JAACAP Open <em@editorialmanager.com>",
@@ -382,7 +382,8 @@
       "createdAt": "2026-04-18T16:32:16.487Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-20T20:04:02.994Z"
+      "updatedAt": "2026-04-22T03:12:12.351Z",
+      "doneAt": "2026-04-22T03:12:12.351Z"
     },
     {
       "id": "task_1776360127552",
@@ -1878,5 +1879,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-21T19:33:25.739Z"
+  "saved_at": "2026-04-22T03:12:12.423Z"
 }
