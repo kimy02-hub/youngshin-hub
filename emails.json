@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T10:57:12.769730",
+  "fetched_at": "2026-04-23T11:00:12.308849",
   "emails": [
     {
       "id": "BY5PR13MB4551F77C458489996CC74161EE2D2@BY5PR13MB4551.namprd13.prod.outlook.com",
@@ -204,15 +204,6 @@
       "subject": "Space at Dell Children's North Campus or DPRI",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu Apr 16 2026 10:24:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6696FDD28C834A8ED4229765ED222@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Re: INSPIRE IRB Revision Question",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Wed Apr 15 2026 16:05:12 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
