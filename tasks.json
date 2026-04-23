@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776976560108",
+      "title": "Re: [EXTERNAL] Journal Club 5/12/26 at 3-3:45 pm",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAFfZsXNpan=Fv2PRA-gAMi8xV11L0RYYo5ppGZF_V=cn9-0GnQ@mail.gmail.com",
+      "emailSender": "Dylan Leblanc <dylan.leblanc@ascension.org>",
+      "emailDate": "Thu Apr 23 2026 14:43:39 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-23T20:36:00.108Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776976549610",
       "title": "Virtual Teen Support Group",
       "done": false,
@@ -1996,5 +2011,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T20:35:49.994Z"
+  "saved_at": "2026-04-23T20:36:00.456Z"
 }
