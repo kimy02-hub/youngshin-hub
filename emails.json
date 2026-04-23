@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-23T11:45:11.962169",
+  "fetched_at": "2026-04-23T11:48:12.149895",
   "emails": [
+    {
+      "id": "BYAPR06MB5461C0AFA6171B3213777642D02F2@BYAPR06MB5461.namprd06.prod.outlook.com",
+      "subject": "FY26 Annual Endowment Reporting: Paige and Mark Blake Endowed Professorship in Psychiatry and Behavioral Health",
+      "sender": "\"Kim, Joanna\" <joanna.kim@austin.utexas.edu>",
+      "date": "Thu Apr 23 2026 11:03:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BY5PR13MB4551F77C458489996CC74161EE2D2@BY5PR13MB4551.namprd13.prod.outlook.com",
       "subject": "Gerber proposal",
