@@ -281,6 +281,6 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .task-card.color-teal { border-left: 5px solid #2EC4B6 !important; background: #f0fafa !important; }
 .color-dot.c-teal { background:#2EC4B6 !important; }
 
-.subtask-due-input { font-size:0.72rem; border:1px solid var(--border); border-radius:6px; padding:2px 5px; background:var(--card); color:var(--text); cursor:pointer; flex-shrink:0; width:130px; }
+.subtask-due-input { font-size:0.72rem; border:1px solid var(--border); border-radius:6px; padding:2px 5px; background:var(--card); color:var(--text); cursor:pointer; width:130px; max-width:130px; min-width:100px; flex:0 0 130px; }
 .subtask-due-input.subtask-overdue { border-color:#e05c5c; color:#e05c5c; }
 .subtask-due-input.subtask-today { border-color:#e8924a; color:#e8924a; }
