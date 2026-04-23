@@ -9,12 +9,17 @@
       "emailSender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
       "emailDate": "Tue Apr 21 2026 13:50:00 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-28",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "Charlie Meeting: Start up funding for Antonio",
+          "done": false
+        }
+      ],
       "createdAt": "2026-04-23T01:35:49.812Z",
       "type": "email",
-      "updatedAt": "2026-04-23T01:36:03.100Z",
+      "updatedAt": "2026-04-23T01:37:12.446Z",
       "color": "espresso"
     },
     {
@@ -1929,5 +1934,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T01:36:19.357Z"
+  "saved_at": "2026-04-23T01:37:13.332Z"
 }
