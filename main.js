@@ -370,11 +370,15 @@ function renderSubtaskEditor(t) {
   (t.subtasks || []).forEach((s, i) => {
     const row = document.createElement('div');
     row.className = 'subtask-row' + (s.done ? ' subtask-done' : '');
+    var today = new Date().toISOString().split('T')[0];
+    var dueClass = s.due ? (s.due < today ? 'subtask-overdue' : s.due === today ? 'subtask-today' : '') : '';
     row.innerHTML = `
       <div class="subtask-check" onclick="toggleSubtask(${i})">${s.done ? '&#10003;' : ''}</div>
       <input class="subtask-input" value="${esc(s.text)}" placeholder="Sub-task..."
         onchange="updateSubtask(${i}, this.value)"
         onkeydown="if(event.key==='Enter'){event.preventDefault();addSubtask();}">
+      <input class="subtask-due-input ${dueClass}" type="date" value="${s.due || ''}"
+        onchange="updateSubtaskDue(${i}, this.value)" title="Sub-task due date">
       <button class="subtask-del" onclick="deleteSubtask(${i})">&times;</button>`;
     list.appendChild(row);
   });
@@ -383,7 +387,7 @@ function renderSubtaskEditor(t) {
 function addSubtask() {
   const t = tasks.find(t => t.id === editingTaskId); if (!t) return;
   if (!t.subtasks) t.subtasks = [];
-  t.subtasks.push({ text: '', done: false });
+  t.subtasks.push({ text: '', done: false, due: null });
   renderSubtaskEditor(t);
   const inputs = document.querySelectorAll('.subtask-input');
   if (inputs.length) inputs[inputs.length - 1].focus();
@@ -392,6 +396,11 @@ function addSubtask() {
 function updateSubtask(idx, val) {
   const t = tasks.find(t => t.id === editingTaskId); if (!t || !t.subtasks) return;
   t.subtasks[idx].text = val;
+}
+
+function updateSubtaskDue(idx, val) {
+  const t = tasks.find(t => t.id === editingTaskId); if (!t || !t.subtasks) return;
+  t.subtasks[idx].due = val || null;
 }
 
 function toggleSubtask(idx) {
@@ -555,8 +564,10 @@ function buildTaskCard(task, idx) {
     ? `<div class="task-note-preview">${linkify(note.trim().substring(0, 200))}${note.length > 200 ? '...' : ''}</div>` : '';
 
   const subs = task.subtasks || [];
+  const today2 = new Date().toISOString().split('T')[0];
+  const overdueSubs = subs.filter(s => !s.done && s.due && s.due < today2).length;
   const subHtml = subs.length
-    ? `<div class="task-sub-preview">&#9745; ${subs.filter(s => s.done).length}/${subs.length} sub-task${subs.length > 1 ? 's' : ''}</div>` : '';
+    ? `<div class="task-sub-preview">&#9745; ${subs.filter(s => s.done).length}/${subs.length} sub-task${subs.length > 1 ? 's' : ''}${overdueSubs > 0 ? ` <span style="color:#e05c5c">(${overdueSubs} overdue)</span>` : ''}</div>` : '';
 
   card.innerHTML = `
     <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"></div>
