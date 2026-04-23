@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T08:45:12.860493",
+  "fetched_at": "2026-04-23T08:48:11.861548",
   "emails": [
     {
       "id": "BY5PR13MB4551F77C458489996CC74161EE2D2@BY5PR13MB4551.namprd13.prod.outlook.com",
@@ -231,15 +231,6 @@
       "subject": "New Referral Process",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Wed Apr 15 2026 12:21:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR06MB59139CDCD9A6943D0AD48945C5222@DM6PR06MB5913.namprd06.prod.outlook.com",
-      "subject": "SECOND Reminder- Your Texas Medical License expire on 05/31/2026 *** IMPORTANT REGISTRATION INFORMATION ***",
-      "sender": "\"Schnurer, Van\" <van.schnurer@austin.utexas.edu>",
-      "date": "Wed Apr 15 2026 11:58:42 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
