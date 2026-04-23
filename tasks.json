@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1776976564399",
+      "title": "Lab Attendees for Navajo",
+      "done": false,
+      "flagged": true,
+      "emailId": "CH2PR06MB6696D04679D99654B7AC7237ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "emailDate": "Thu Apr 23 2026 13:41:32 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-23T20:36:04.399Z",
+      "type": "email"
+    },
+    {
       "id": "task_1776976560108",
       "title": "Re: [EXTERNAL] Journal Club 5/12/26 at 3-3:45 pm",
       "done": false,
@@ -2011,5 +2026,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T20:36:00.456Z"
+  "saved_at": "2026-04-23T20:36:04.704Z"
 }
