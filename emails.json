@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T13:00:18.116222",
+  "fetched_at": "2026-04-23T13:03:12.636950",
   "emails": [
     {
       "id": "BYAPR06MB5461C0AFA6171B3213777642D02F2@BYAPR06MB5461.namprd06.prod.outlook.com",
@@ -186,15 +186,6 @@
       "subject": "RE: Update: UT Austin ADOS-2 introductory training",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu Apr 16 2026 15:17:27 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "1585916490.57791.1776369802131@app134015.bwi201.service-now.com",
-      "subject": "Updates to : INC1033403 : Athena - Provider Password Reset- VIP Identity Verification Workflow",
-      "sender": "Ascension Technology <ascensionesm@service-now.com>",
-      "date": "Thu Apr 16 2026 15:03:26 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
