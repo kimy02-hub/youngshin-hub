@@ -566,9 +566,20 @@ function buildTaskCard(task, idx) {
   const subs = task.subtasks || [];
   const today2 = new Date().toISOString().split('T')[0];
   const overdueSubs = subs.filter(s => !s.done && s.due && s.due < today2).length;
-  const subHtml = subs.length
-    ? `<div class="task-sub-preview">&#9745; ${subs.filter(s => s.done).length}/${subs.length} sub-task${subs.length > 1 ? 's' : ''}${overdueSubs > 0 ? ` <span style="color:#e05c5c">(${overdueSubs} overdue)</span>` : ''}</div>` : '';
-
+    const pendingSubs = subs.filter(function(s){ return !s.done && s.due; }).sort(function(a,b){ return a.due < b.due ? -1 : 1; });
+  const nextDue = pendingSubs.length ? pendingSubs[0] : null;
+  var nextDueHtml = '';
+  if (nextDue) {
+    var dlabel = (nextDue.text || 'Sub-task').substring(0,25);
+    var clr = nextDue.due < today2 ? '#e05c5c' : nextDue.due === today2 ? '#e8924a' : '#888';
+    var dtxt = nextDue.due < today2 ? 'overdue ' + nextDue.due : nextDue.due === today2 ? 'due today' : nextDue.due;
+    nextDueHtml = ' <span style="color:' + clr + ';font-size:0.78rem">&#9650; ' + dlabel + ': ' + dtxt + '</span>';
+  }
+  var doneCnt = subs.filter(function(s){return s.done;}).length;
+  var subStr = '&#9745; ' + doneCnt + '/' + subs.length + ' sub-task' + (subs.length > 1 ? 's' : '');
+  if (overdueSubs > 0) subStr += ' <span style="color:#e05c5c">(' + overdueSubs + ' overdue)</span>';
+  subStr += nextDueHtml;
+  const subHtml = subs.length ? '<div class="task-sub-preview">' + subStr + '</div>' : '';
   card.innerHTML = `
     <div class="task-checkbox" onclick="toggleTaskDone('${task.id}')"></div>
     <div class="task-body">
