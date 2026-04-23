@@ -1456,12 +1456,13 @@
         },
         {
           "text": "Specific aim distribution",
-          "done": false
+          "done": false,
+          "due": "2026-04-25"
         }
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-23T02:35:46.224Z",
+      "updatedAt": "2026-04-23T02:48:09.691Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -1964,5 +1965,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T02:41:37.320Z"
+  "saved_at": "2026-04-23T02:48:09.745Z"
 }
