@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T12:33:12.133460",
+  "fetched_at": "2026-04-23T12:36:12.137435",
   "emails": [
     {
       "id": "BYAPR06MB5461C0AFA6171B3213777642D02F2@BYAPR06MB5461.namprd06.prod.outlook.com",
@@ -204,15 +204,6 @@
       "subject": "Re: Term Sheet",
       "sender": "Emily Nguyen <emnhunguyen@gmail.com>",
       "date": "Thu Apr 16 2026 14:24:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742C32E34F7B273C029BAC2BE232@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "Space at Dell Children's North Campus or DPRI",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Thu Apr 16 2026 10:24:47 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
