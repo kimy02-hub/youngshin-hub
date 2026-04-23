@@ -1163,7 +1163,7 @@
       "emailSender": "Young Shin Kim <kimy02@gmail.com>",
       "emailDate": "Tue Apr 07 2026 00:59:34 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": "2026-04-09",
+      "due": "2026-05-06",
       "note": "https://www.dropbox.com/t/l02bz3QIJ6sFi6Ho\n대사관 주소: 1990 Post Oak Blvd #1250\nHouston, TX 77056\n건물 안 12층 (Suite 1250)\n전화: +1-713-961-0186\n업무시간:\n평일 09:00–17:00",
       "subtasks": [
         {
@@ -1192,7 +1192,7 @@
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-23T02:38:35.497Z",
+      "updatedAt": "2026-04-23T02:41:37.266Z",
       "color": "lime",
       "relatedEmails": [
         {
@@ -1964,5 +1964,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T02:38:36.048Z"
+  "saved_at": "2026-04-23T02:41:37.320Z"
 }
