@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T14:30:12.497136",
+  "fetched_at": "2026-04-23T14:33:13.299154",
   "emails": [
     {
       "id": "CH2PR06MB6696D04679D99654B7AC7237ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
@@ -24,6 +24,15 @@
       "subject": "UT Austin Background Check Authorization Request",
       "sender": "shenina.delfin@austin.utexas.edu",
       "date": "Thu Apr 23 2026 12:43:44 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CABjXDdTisOPp2MrP0Wx4hpKt-YP0YgWBW5SvnPLMgoYXBsc2Vw@mail.gmail.com",
+      "subject": "-PHI-Prolonged Services",
+      "sender": "Kendra White <Kendra.White@ascension.org>",
+      "date": "Thu Apr 23 2026 12:32:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
