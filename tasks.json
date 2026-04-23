@@ -1168,11 +1168,13 @@
       "subtasks": [
         {
           "text": "위임장 준비",
-          "done": false
+          "done": false,
+          "due": "2026-04-30"
         },
         {
           "text": "예약번호 IHU11378C2EF10703206 on 5/5 10:30am",
-          "done": false
+          "done": false,
+          "due": "2026-05-05"
         },
         {
           "text": "김문이 샘과 미팅: 일요일 밤 9시",
@@ -1181,11 +1183,16 @@
         {
           "text": "김문이 샘한테 서류 점검",
           "done": true
+        },
+        {
+          "text": "김문이 샘과 몇가지 서류 작성",
+          "done": false,
+          "due": "2026-04-23"
         }
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-20T03:01:29.154Z",
+      "updatedAt": "2026-04-23T02:38:35.497Z",
       "color": "lime",
       "relatedEmails": [
         {
@@ -1957,5 +1964,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T02:37:09.676Z"
+  "saved_at": "2026-04-23T02:38:36.048Z"
 }
