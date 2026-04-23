@@ -453,6 +453,23 @@ function sortTasks(taskList) {
         return ao - bo;
       });
       break;
+    case 'subduedate':
+      sorted.sort((a, b) => {
+        // Get earliest due date considering task due AND subtask due dates
+        function earliest(t) {
+          var dates = [];
+          if (t.due) dates.push(t.due);
+          (t.subtasks || []).forEach(function(s) { if (!s.done && s.due) dates.push(s.due); });
+          if (!dates.length) return null;
+          return dates.sort()[0];
+        }
+        const ad = earliest(a), bd = earliest(b);
+        if (!ad && !bd) return 0;
+        if (!ad) return 1;
+        if (!bd) return -1;
+        return ad.localeCompare(bd);
+      });
+      break;
     default:
       break;
   }
