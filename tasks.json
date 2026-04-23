@@ -1363,7 +1363,7 @@
       "emailSender": null,
       "emailDate": null,
       "cc": "Ashley, Brandon, Bennett, Deb, Shuting",
-      "due": "2026-06-05",
+      "due": "2026-04-25",
       "note": "PA-25-301 (Parent R01): https://grants.nih.gov/grants/guide/pa-files/PA-25-301.html\nNIEHS Strategic Plan: 2025-2029\nhttps://www.niehs.nih.gov/about/strategicplan\nhttps://www.niehs.nih.gov/about/strategicplan/research\nNIH Research Highlighted Topics: https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/34\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/25\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/58",
       "subtasks": [
         {
@@ -1377,11 +1377,15 @@
         {
           "text": "Proposal submission form",
           "done": true
+        },
+        {
+          "text": "Specific aim distribution",
+          "done": false
         }
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-23T01:33:58.722Z",
+      "updatedAt": "2026-04-23T01:34:25.436Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -1884,5 +1888,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T01:33:58.985Z"
+  "saved_at": "2026-04-23T01:34:25.696Z"
 }
