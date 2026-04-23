@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T09:15:12.257831",
+  "fetched_at": "2026-04-23T09:18:12.877661",
   "emails": [
     {
       "id": "BY5PR13MB4551F77C458489996CC74161EE2D2@BY5PR13MB4551.namprd13.prod.outlook.com",
@@ -222,6 +222,24 @@
       "subject": "Orientation - Topic Planning July 2026",
       "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Wed Apr 15 2026 14:58:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711672DCE2AFA325CDEEA4DB8222@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "New Referral Process",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "date": "Wed Apr 15 2026 12:21:46 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB59139CDCD9A6943D0AD48945C5222@DM6PR06MB5913.namprd06.prod.outlook.com",
+      "subject": "SECOND Reminder- Your Texas Medical License expire on 05/31/2026 *** IMPORTANT REGISTRATION INFORMATION ***",
+      "sender": "\"Schnurer, Van\" <van.schnurer@austin.utexas.edu>",
+      "date": "Wed Apr 15 2026 11:58:42 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
