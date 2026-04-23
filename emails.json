@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T14:27:12.795015",
+  "fetched_at": "2026-04-23T14:30:12.497136",
   "emails": [
     {
       "id": "CH2PR06MB6696D04679D99654B7AC7237ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
@@ -15,6 +15,15 @@
       "subject": "Re: Staff Additional Job Form - Routing in DocuSign",
       "sender": "CRCI Admin <CRCI_admin@austin.utexas.edu>",
       "date": "Thu Apr 23 2026 12:44:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "177696622042.12.9194146105600617760@production-fb9847b68-s5hw6",
+      "subject": "UT Austin Background Check Authorization Request",
+      "sender": "shenina.delfin@austin.utexas.edu",
+      "date": "Thu Apr 23 2026 12:43:44 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -213,6 +222,15 @@
       "subject": "Updates to : INC1033403 : Athena - Provider Password Reset- VIP Identity Verification Workflow",
       "sender": "Ascension Technology <ascensionesm@service-now.com>",
       "date": "Thu Apr 16 2026 15:03:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFvG7Uq2Jd_Un_QqL46f14u-gTTSZKtDh55r4xecHnTqcfOH9Q@mail.gmail.com",
+      "subject": "Re: Term Sheet",
+      "sender": "Emily Nguyen <emnhunguyen@gmail.com>",
+      "date": "Thu Apr 16 2026 14:24:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
