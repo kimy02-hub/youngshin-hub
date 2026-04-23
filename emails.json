@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-22T19:45:12.436356",
+  "fetched_at": "2026-04-22T19:48:15.221789",
   "emails": [
+    {
+      "id": "BY5PR13MB4551F77C458489996CC74161EE2D2@BY5PR13MB4551.namprd13.prod.outlook.com",
+      "subject": "Gerber proposal",
+      "sender": "Brandon J Rennie <brennie@salud.unm.edu>",
+      "date": "Wed Apr 22 2026 18:18:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAPgM_gaf6QggsvEXbQKXvmYCkSwqp_cgzwT9U+s6FRDJxSw-fA@mail.gmail.com",
       "subject": "Drafting Clinic Communication - Initial Thoughts for Discussion",
