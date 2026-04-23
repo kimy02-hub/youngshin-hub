@@ -73,11 +73,17 @@
       "cc": "",
       "due": null,
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "Interview",
+          "done": false,
+          "due": "2026-04-29"
+        }
+      ],
       "createdAt": "2026-04-21T19:26:51.418Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-21T19:33:25.448Z"
+      "updatedAt": "2026-04-23T02:54:13.052Z"
     },
     {
       "id": "task_1776705604334",
@@ -1965,5 +1971,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-23T02:48:09.745Z"
+  "saved_at": "2026-04-23T02:54:13.112Z"
 }
