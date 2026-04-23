@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-23T14:21:12.442946",
+  "fetched_at": "2026-04-23T14:24:11.878916",
   "emails": [
+    {
+      "id": "CH2PR06MB6696D04679D99654B7AC7237ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Lab Attendees for Navajo",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Thu Apr 23 2026 13:41:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DM6PR06MB54504F3D9241577BB723168FBF2A2@DM6PR06MB5450.namprd06.prod.outlook.com",
       "subject": "Re: Staff Additional Job Form - Routing in DocuSign",
