@@ -61,13 +61,13 @@
       "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "emailDate": "Thu Apr 23 2026 13:41:32 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-24",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-23T20:36:04.399Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-24T02:37:26.389Z"
+      "updatedAt": "2026-04-24T02:37:34.594Z"
     },
     {
       "id": "task_1776976560108",
@@ -2082,5 +2082,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:37:26.641Z"
+  "saved_at": "2026-04-24T02:37:34.645Z"
 }
