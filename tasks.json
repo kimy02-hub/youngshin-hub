@@ -996,7 +996,7 @@
     {
       "id": "task_1775842175092",
       "title": "Katie First Step",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": null,
       "emailSender": null,
@@ -1008,7 +1008,8 @@
       "createdAt": "2026-04-10T17:29:35.092Z",
       "type": "manual",
       "color": "canary",
-      "updatedAt": "2026-04-24T02:14:09.007Z"
+      "updatedAt": "2026-04-24T02:22:51.523Z",
+      "doneAt": "2026-04-24T02:22:51.523Z"
     },
     {
       "id": "task_1775769152966",
@@ -2072,5 +2073,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:14:09.190Z"
+  "saved_at": "2026-04-24T02:22:51.615Z"
 }
