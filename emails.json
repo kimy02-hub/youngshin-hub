@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T22:45:12.176688",
+  "fetched_at": "2026-04-23T22:48:12.238876",
   "emails": [
     {
       "id": "CAOywANcczpxwci2QONxyBKSy=X6Jv8+jR6STMbopN7cAYKhmtg@mail.gmail.com",
@@ -87,24 +87,6 @@
       "subject": "Dr. Wang",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Tue Apr 21 2026 16:14:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655BA1A05ECB86D681C1BD8C52C2@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "FW: Term Sheet",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Tue Apr 21 2026 15:58:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "F990C95B-F422-4849-9D25-0F2230B3FDD7@austin.utexas.edu",
-      "subject": "Fwd: Confidential: K99/R00 Awardee Inquiry: Dr. Antonio Pagán (Autism Neuroimaging / Clinical Psychology)",
-      "sender": "\"Nemeroff, Charles B\" <cnemeroff@austin.utexas.edu>",
-      "date": "Tue Apr 21 2026 13:50:00 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
