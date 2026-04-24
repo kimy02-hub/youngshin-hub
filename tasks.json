@@ -37,7 +37,7 @@
     {
       "id": "task_1776976570731",
       "title": "UT Austin Background Check Authorization Request",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "177696622042.12.9194146105600617760@production-fb9847b68-s5hw6",
       "emailSender": "shenina.delfin@austin.utexas.edu",
@@ -49,7 +49,8 @@
       "createdAt": "2026-04-23T20:36:10.731Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-24T02:36:57.092Z"
+      "updatedAt": "2026-04-24T02:37:00.272Z",
+      "doneAt": "2026-04-24T02:37:00.272Z"
     },
     {
       "id": "task_1776976564399",
@@ -2079,5 +2080,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:36:57.661Z"
+  "saved_at": "2026-04-24T02:37:00.558Z"
 }
