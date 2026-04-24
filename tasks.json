@@ -292,13 +292,13 @@
       "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "emailDate": "Wed Apr 15 2026 16:05:12 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-26",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T21:09:00.340Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-23T01:35:14.700Z",
+      "updatedAt": "2026-04-24T02:41:40.234Z",
       "relatedEmails": [
         {
           "id": "Share-904553a0-8844-4f5a-ae35-584d468fe25a;rcid_a74e0ca2-c06f-6000-85c2-135b84291a16;wiid_91ac40b2-fa17-441c-8bdc-76c1035885e6;SendEmail-PreprocessPayload-ObservabilityMessageEnqueuer-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_1c85d807-d508-448b-8e22-4d8b07016e11@odspnotify",
@@ -2086,5 +2086,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:41:31.994Z"
+  "saved_at": "2026-04-24T02:41:40.529Z"
 }
