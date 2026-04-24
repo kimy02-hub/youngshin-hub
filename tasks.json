@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777002343361",
+      "title": "Re: Term Sheet",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAFvG7Uq2Jd_Un_QqL46f14u-gTTSZKtDh55r4xecHnTqcfOH9Q@mail.gmail.com",
+      "emailSender": "Emily Nguyen <emnhunguyen@gmail.com>",
+      "emailDate": "Thu Apr 16 2026 14:24:49 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-24T03:45:43.361Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777001739013",
       "title": "DCMC-BH | Reminder Notice: Approaching Automatic Suspension",
       "done": false,
@@ -2111,5 +2126,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T03:44:42.613Z"
+  "saved_at": "2026-04-24T03:45:43.500Z"
 }
