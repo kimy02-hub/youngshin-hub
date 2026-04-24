@@ -162,13 +162,13 @@
       "emailSender": "Beverly Bernal (DMS) <beverly.bernal@ascension-external.org>",
       "emailDate": "Wed Apr 22 2026 16:41:34 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-27",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-23T01:34:32.080Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-23T01:34:42.207Z"
+      "updatedAt": "2026-04-24T02:41:31.803Z"
     },
     {
       "id": "task_1776799611418",
@@ -2086,5 +2086,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:41:12.318Z"
+  "saved_at": "2026-04-24T02:41:31.994Z"
 }
