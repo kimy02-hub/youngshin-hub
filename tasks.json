@@ -542,13 +542,13 @@
       "emailSender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
       "emailDate": "Fri Apr 17 2026 16:31:18 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-26",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-18T16:32:18.735Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-18T22:00:28.901Z"
+      "updatedAt": "2026-04-24T02:42:03.545Z"
     },
     {
       "id": "task_1776529936487",
@@ -2086,5 +2086,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:41:52.793Z"
+  "saved_at": "2026-04-24T02:42:03.707Z"
 }
