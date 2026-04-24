@@ -731,7 +731,7 @@
     {
       "id": "task_1776179394826",
       "title": "Re: Prospective Medical Student Research Fellow",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CA+2uqrVfghgftJMftoBPgENkPHTzuz2QkbQaC_KdNPUuRdk0pQ@mail.gmail.com",
       "emailSender": "Eshan Sayani <eshansayani@tamu.edu>",
@@ -743,7 +743,8 @@
       "createdAt": "2026-04-14T15:09:54.826Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-24T02:43:05.467Z"
+      "updatedAt": "2026-04-24T02:49:55.123Z",
+      "doneAt": "2026-04-24T02:49:55.123Z"
     },
     {
       "id": "task_1776179392976",
@@ -2092,5 +2093,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:43:05.634Z"
+  "saved_at": "2026-04-24T02:49:55.195Z"
 }
