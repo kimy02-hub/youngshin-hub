@@ -20,7 +20,7 @@
     {
       "id": "task_1776976573773",
       "title": "-PHI-Prolonged Services",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CABjXDdTisOPp2MrP0Wx4hpKt-YP0YgWBW5SvnPLMgoYXBsc2Vw@mail.gmail.com",
       "emailSender": "Kendra White <Kendra.White@ascension.org>",
@@ -30,7 +30,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-23T20:36:13.773Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-24T02:31:40.978Z",
+      "updatedAt": "2026-04-24T02:31:40.978Z"
     },
     {
       "id": "task_1776976570731",
@@ -2075,5 +2077,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T02:27:23.433Z"
+  "saved_at": "2026-04-24T02:31:41.058Z"
 }
