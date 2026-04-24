@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T22:48:12.238876",
+  "fetched_at": "2026-04-23T22:51:11.264543",
   "emails": [
     {
       "id": "CAOywANcczpxwci2QONxyBKSy=X6Jv8+jR6STMbopN7cAYKhmtg@mail.gmail.com",
@@ -173,15 +173,6 @@
       "cc": ""
     },
     {
-      "id": "010f019d9f1b1762-a2da5b44-7bf3-4fce-9d59-08d8c01c71be-000000@us-east-2.amazonses.com",
-      "subject": "Reminder of Late Review for JAACAPOPEN-D-26-00009 - [EMID:1f31ea9709d54e32]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Sat Apr 18 2026 00:40:53 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CAFMPgGQmEP-YearyTALaOihinO6ekuN4u58qYb4ttO=h3Kaqzw@mail.gmail.com",
       "subject": "INSPIRE Protocol Version 2",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
@@ -200,15 +191,6 @@
       "cc": ""
     },
     {
-      "id": "CANYCf67NV7bq3-Pr=eiZmRj9-zz0mm4qO29E-AzgYL0id50dww@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] Journal Club 5/12/26 at 3-3:45 pm",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Fri Apr 17 2026 12:04:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "BLAPR06MB67726D46FE63896872EFE11EDA202@BLAPR06MB6772.namprd06.prod.outlook.com",
       "subject": "Assistant/Associate Professor for Outpatient Child and Adolescent Psychiatry",
       "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
@@ -218,37 +200,10 @@
       "cc": ""
     },
     {
-      "id": "CO1PR06MB8060E938F108A59B0D935E98C2202@CO1PR06MB8060.namprd06.prod.outlook.com",
-      "subject": "Journal Club 5/12/26 at 3-3:45 pm",
-      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
-      "date": "Fri Apr 17 2026 10:30:10 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CH2PR06MB6742D50566CAEA3E4CA4AF45BE232@CH2PR06MB6742.namprd06.prod.outlook.com",
       "subject": "RE: Update: UT Austin ADOS-2 introductory training",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu Apr 16 2026 15:17:27 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "1585916490.57791.1776369802131@app134015.bwi201.service-now.com",
-      "subject": "Updates to : INC1033403 : Athena - Provider Password Reset- VIP Identity Verification Workflow",
-      "sender": "Ascension Technology <ascensionesm@service-now.com>",
-      "date": "Thu Apr 16 2026 15:03:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAFvG7Uq2Jd_Un_QqL46f14u-gTTSZKtDh55r4xecHnTqcfOH9Q@mail.gmail.com",
-      "subject": "Re: Term Sheet",
-      "sender": "Emily Nguyen <emnhunguyen@gmail.com>",
-      "date": "Thu Apr 16 2026 14:24:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
