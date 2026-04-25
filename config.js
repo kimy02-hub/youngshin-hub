@@ -49,35 +49,8 @@
   } else { fixPicker(); }
   setTimeout(fixPicker, 2000);
 })();
-
-// LOAD AND SORT FIX
-(function() {
-  // Load main.js via XHR + eval so functions are global
-  var x = new XMLHttpRequest();
-  x.open('GET', 'main.js', false);
-  x.send();
-  if (x.status === 200) {
-    try { eval(x.responseText); } catch(e) { console.error('main.js eval error:', e); }
-  }
-  // Override sortTasks to handle subduedate
-  var _origSort = typeof sortTasks === 'function' ? sortTasks : null;
-  window.sortTasks = function(taskList) {
-    var cs = typeof currentSort !== 'undefined' ? currentSort : '';
-    if (cs !== 'subduedate') {
-      return _origSort ? _origSort(taskList) : taskList;
-    }
-    return taskList.slice().sort(function(a, b) {
-      function earliest(t) {
-        var d = [];
-        if (t.due) d.push(t.due);
-        (t.subtasks || []).forEach(function(s){ if (!s.done && s.due) d.push(s.due); });
-        return d.length ? d.sort()[0] : null;
-      }
-      var ad = earliest(a), bd = earliest(b);
-      if (!ad && !bd) return 0;
-      if (!ad) return 1;
-      if (!bd) return -1;
-      return ad < bd ? -1 : ad > bd ? 1 : 0;
-    });
-  };
-})();
+// Load main.js at top level so functions become global
+var __xhr = new XMLHttpRequest();
+__xhr.open('GET', 'main.js', false);
+__xhr.send();
+if (__xhr.status === 200) eval(__xhr.responseText);
