@@ -8,7 +8,7 @@ var GITHUB_REPO = 'kimy02-hub/youngshin-hub';
 var TASKS_FILE  = 'tasks.json';
 var API_BASE    = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/';
 
-var allEmails = [], tasks = [], currentTab = 'all', completedOpen = false;
+var allEmails = [], tasks = window.tasks = [], currentTab = 'all', completedOpen = false;
 var localUnflagged = new Set(JSON.parse(localStorage.getItem('local_unflagged') || '[]'));
 
 // -- BOOT ------------------------------------------------------
@@ -85,7 +85,7 @@ function saveTasks() {
 
 // -- SEARCH ----------------------------------------------------
 let searchQuery = '';
-let searchTimer = null;
+var searchTimer = null;
 
 function doSearch(query) {
   clearTimeout(searchTimer);
@@ -282,7 +282,7 @@ function editTaskCC(taskId) {
 
 
 // -- EDIT MODAL ------------------------------------------------
-let editingTaskId = null;
+var editingTaskId = null;
 
 // -- RELATED EMAILS --------------------------------------------
 function populateRelatedEmailPicker() {
@@ -478,7 +478,7 @@ function sortTasks(taskList) {
 
 
 // -- COLOR LABELS ----------------------------------------------
-let colorPickerOpen = null;
+var colorPickerOpen = null;
 
 
 function colorLabel(color) {
@@ -509,7 +509,7 @@ function setTaskColor(taskId, color) {
   closeColorPicker();
 }
 
-function renderTasks() {
+function renderTasks() { window.tasks = tasks; window.currentSort = currentSort;
   if (currentSort === 'color') {
     document.getElementById('flaggedSection').style.display = 'none';
     const aList2 = document.getElementById('activeTasksList');
