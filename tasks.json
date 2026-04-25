@@ -107,7 +107,7 @@
     {
       "id": "task_1776976564399",
       "title": "Lab Attendees for Navajo",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH2PR06MB6696D04679D99654B7AC7237ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
       "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
@@ -119,7 +119,8 @@
       "createdAt": "2026-04-23T20:36:04.399Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-24T02:40:47.630Z"
+      "updatedAt": "2026-04-25T19:10:21.688Z",
+      "doneAt": "2026-04-25T19:10:21.688Z"
     },
     {
       "id": "task_1776976560108",
@@ -2146,5 +2147,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T19:10:13.041Z"
+  "saved_at": "2026-04-25T19:10:22.001Z"
 }
