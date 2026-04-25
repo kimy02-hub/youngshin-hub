@@ -829,7 +829,7 @@
     {
       "id": "task_1776179396092",
       "title": "Full-time post graduation",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAA-Uk7tEXrJN0X7jQNk7g215AJvN=ic8=p7eN9FtmwWuCU-U_A@mail.gmail.com",
       "emailSender": "Adriana Desalos <adriana.desalos@gmail.com>",
@@ -846,7 +846,8 @@
       "createdAt": "2026-04-14T15:09:56.092Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-18T22:01:07.725Z"
+      "updatedAt": "2026-04-25T22:38:24.423Z",
+      "doneAt": "2026-04-25T22:38:24.423Z"
     },
     {
       "id": "task_1776179394826",
@@ -2214,5 +2215,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T22:15:20.949Z"
+  "saved_at": "2026-04-25T22:38:24.503Z"
 }
