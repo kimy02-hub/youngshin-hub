@@ -3,7 +3,7 @@
     {
       "id": "task_1777154812332",
       "title": "A.B. Progress Note 4-24-26",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "DS0PR06MB9088578CACC0C1CC24607C74D42B2@DS0PR06MB9088.namprd06.prod.outlook.com",
       "emailSender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
@@ -15,7 +15,8 @@
       "createdAt": "2026-04-25T22:06:52.332Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-25T22:48:38.769Z"
+      "updatedAt": "2026-04-25T22:48:40.598Z",
+      "doneAt": "2026-04-25T22:48:40.598Z"
     },
     {
       "id": "task_1777154068223",
@@ -2218,5 +2219,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T22:48:39.103Z"
+  "saved_at": "2026-04-25T22:48:40.982Z"
 }
