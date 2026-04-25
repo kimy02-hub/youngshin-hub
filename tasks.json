@@ -1162,7 +1162,7 @@
     {
       "id": "task_1775769152966",
       "title": "Winnie Monthly Check",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": null,
       "emailSender": null,
@@ -1174,7 +1174,8 @@
       "createdAt": "2026-04-09T21:12:32.966Z",
       "type": "manual",
       "color": "cobalt",
-      "updatedAt": "2026-04-11T22:14:47.899Z"
+      "updatedAt": "2026-04-25T23:56:19.059Z",
+      "doneAt": "2026-04-25T23:56:19.059Z"
     },
     {
       "id": "task_1775755217799",
@@ -2221,5 +2222,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T23:56:11.826Z"
+  "saved_at": "2026-04-25T23:56:19.306Z"
 }
