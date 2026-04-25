@@ -424,6 +424,8 @@ function setSortOrder(order) {
   currentSort = order;
   renderTasks();
 }
+window.setSortOrder = setSortOrder;
+
 
 function sortTasks(taskList) {
   const sorted = [...taskList];
