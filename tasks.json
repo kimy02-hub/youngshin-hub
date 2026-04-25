@@ -1597,7 +1597,7 @@
     {
       "id": "task_1775427675281",
       "title": "FW: Just a Reminder- Your Texas Medical License expire on 05/31/2026 *** IMPORTANT REGISTRATION INFORMATION ***",
-      "done": false,
+      "done": true,
       "flagged": false,
       "emailId": "SA6PR06MB104488A12E1A2F587EB20521CA35CA@SA6PR06MB10448.namprd06.prod.outlook.com",
       "emailSender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
@@ -1614,14 +1614,15 @@
         }
       ],
       "color": "fuchsia",
-      "updatedAt": "2026-04-19T18:12:59.938Z",
+      "updatedAt": "2026-04-25T23:56:50.365Z",
       "relatedEmails": [
         {
           "id": "DM6PR06MB59139CDCD9A6943D0AD48945C5222@DM6PR06MB5913.namprd06.prod.outlook.com",
           "subject": "SECOND Reminder- Your Texas Medical License expire on 05/31/2026 *** IMPORTANT REGISTRATION INFORMATION ***",
           "sender": "\"Schnurer, Van\" <van.schnurer@austin.utexas.edu>"
         }
-      ]
+      ],
+      "doneAt": "2026-04-25T23:56:50.365Z"
     },
     {
       "id": "task_1775274679073",
@@ -2223,5 +2224,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T23:56:46.220Z"
+  "saved_at": "2026-04-25T23:56:50.795Z"
 }
