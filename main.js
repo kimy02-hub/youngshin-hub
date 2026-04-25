@@ -1,6 +1,6 @@
 window.dashboardLoaded = true;
 /* DMS Dashboard - app_final.js */
-'use strict';
+
 
 var TASKS_KEY   = 'dms_tasks_v3';
 var EMAILS_URL  = 'emails.json';
