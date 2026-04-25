@@ -49,3 +49,44 @@
   } else { fixPicker(); }
   setTimeout(fixPicker, 2000);
 })();
+
+// SORT FIX
+(function() {
+  function fixSort() {
+    window.setSortOrder = function(order) {
+      if (typeof currentSort !== 'undefined') currentSort = order;
+      else window.currentSort = order;
+      var sel = document.getElementById('taskSort');
+      if (sel) sel.value = order;
+      if (typeof renderTasks === 'function') renderTasks();
+      else if (typeof window.renderTasks === 'function') window.renderTasks();
+    };
+    // Override sortTasks to handle subduedate
+    var origSortTasks = typeof sortTasks === 'function' ? sortTasks : null;
+    window.sortTasks = function(taskList) {
+      var cs = typeof currentSort !== 'undefined' ? currentSort : window.currentSort;
+      if (cs !== 'subduedate') {
+        if (origSortTasks) return origSortTasks(taskList);
+        return taskList;
+      }
+      var sorted = taskList.slice();
+      sorted.sort(function(a, b) {
+        function earliest(t) {
+          var dates = [];
+          if (t.due) dates.push(t.due);
+          (t.subtasks || []).forEach(function(s) { if (!s.done && s.due) dates.push(s.due); });
+          return dates.length ? dates.sort()[0] : null;
+        }
+        var ad = earliest(a), bd = earliest(b);
+        if (!ad && !bd) return 0;
+        if (!ad) return 1;
+        if (!bd) return -1;
+        return ad < bd ? -1 : ad > bd ? 1 : 0;
+      });
+      return sorted;
+    };
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fixSort);
+  else fixSort();
+  setTimeout(fixSort, 2000);
+})();
