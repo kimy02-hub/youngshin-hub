@@ -418,7 +418,7 @@ function deleteSubtask(idx) {
 // -- TASK RENDERING --------------------------------------------
 
 // -- SORT ------------------------------------------------------
-let currentSort = 'default';
+var currentSort = 'default';
 
 function setSortOrder(order) {
   currentSort = order;
