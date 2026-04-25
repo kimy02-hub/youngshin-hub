@@ -37,7 +37,7 @@
     {
       "id": "task_1777001739013",
       "title": "DCMC-BH | Reminder Notice: Approaching Automatic Suspension",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAKgOP6CYtUtB5=Bzp4Xqu01AOmRV4-wSU3eWhDdpyqdhU+MEmw@mail.gmail.com",
       "emailSender": "Michelle Sanchez <msanchez@ascension.org>",
@@ -48,8 +48,9 @@
       "subtasks": [],
       "createdAt": "2026-04-24T03:35:39.013Z",
       "type": "email",
-      "updatedAt": "2026-04-24T03:43:51.772Z",
-      "color": "fuchsia"
+      "updatedAt": "2026-04-25T19:10:12.990Z",
+      "color": "fuchsia",
+      "doneAt": "2026-04-25T19:10:12.990Z"
     },
     {
       "id": "task_1776976577359",
@@ -2145,5 +2146,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-24T03:47:28.086Z"
+  "saved_at": "2026-04-25T19:10:13.041Z"
 }
