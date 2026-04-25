@@ -74,7 +74,7 @@
     {
       "id": "task_1777002436795",
       "title": "Dell Pilot",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "BL3P221MB030541F55D59826D5FF133D3A82F2@BL3P221MB0305.NAMP221.PROD.OUTLOOK.COM",
       "emailSender": "Christopher Dunn <cdunn@invisalertsolutions.com>",
@@ -86,7 +86,8 @@
       "createdAt": "2026-04-24T03:47:16.795Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-24T03:47:27.896Z"
+      "updatedAt": "2026-04-25T22:52:57.491Z",
+      "doneAt": "2026-04-25T22:52:57.491Z"
     },
     {
       "id": "task_1777002343361",
@@ -2219,5 +2220,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T22:48:40.982Z"
+  "saved_at": "2026-04-25T22:52:57.566Z"
 }
