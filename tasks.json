@@ -3,7 +3,7 @@
     {
       "id": "task_1777154068223",
       "title": "I.O. Collateral Information",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "DS0PR06MB9088E6E6858324EB638B58E5D42B2@DS0PR06MB9088.namprd06.prod.outlook.com",
       "emailSender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
@@ -15,7 +15,8 @@
       "createdAt": "2026-04-25T21:54:28.223Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-25T21:55:24.413Z"
+      "updatedAt": "2026-04-25T22:05:46.617Z",
+      "doneAt": "2026-04-25T22:05:46.617Z"
     },
     {
       "id": "task_1777154058221",
@@ -2198,5 +2199,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T21:55:29.582Z"
+  "saved_at": "2026-04-25T22:05:46.685Z"
 }
