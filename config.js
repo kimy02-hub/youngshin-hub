@@ -54,3 +54,24 @@ var __xhr = new XMLHttpRequest();
 __xhr.open('GET', 'main.js', false);
 __xhr.send();
 if (__xhr.status === 200) eval(__xhr.responseText);
+// SORT FIX - must be AFTER eval so it overrides main.js sortTasks
+var _origSortFn = typeof sortTasks === 'function' ? sortTasks : null;
+sortTasks = function(taskList) {
+  if (currentSort !== 'subduedate') {
+    return _origSortFn ? _origSortFn(taskList) : taskList;
+  }
+  return taskList.slice().sort(function(a, b) {
+    function earliest(t) {
+      var d = [];
+      if (t.due) d.push(t.due);
+      (t.subtasks || []).forEach(function(s){ if (!s.done && s.due) d.push(s.due); });
+      return d.length ? d.sort()[0] : null;
+    }
+    var ad = earliest(a), bd = earliest(b);
+    if (!ad && !bd) return 0;
+    if (!ad) return 1;
+    if (!bd) return -1;
+    return ad < bd ? -1 : ad > bd ? 1 : 0;
+  });
+};
+
