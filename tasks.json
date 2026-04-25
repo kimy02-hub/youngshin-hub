@@ -345,7 +345,7 @@
     {
       "id": "task_1776565092637",
       "title": "FW:  Re: Blue Gogi Follow up items",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "DS1PR06MB10655916E3343A76DB9C4C4D7C5252@DS1PR06MB10655.namprd06.prod.outlook.com",
       "emailSender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
@@ -357,7 +357,8 @@
       "createdAt": "2026-04-19T02:18:12.637Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-24T02:39:50.074Z"
+      "updatedAt": "2026-04-25T23:57:25.092Z",
+      "doneAt": "2026-04-25T23:57:25.092Z"
     },
     {
       "id": "task_1776546546071",
@@ -2224,5 +2225,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T23:56:50.795Z"
+  "saved_at": "2026-04-25T23:57:25.160Z"
 }
