@@ -30,7 +30,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-25T21:54:18.221Z",
-      "type": "email"
+      "type": "email",
+      "color": "espresso",
+      "updatedAt": "2026-04-25T21:55:29.261Z"
     },
     {
       "id": "task_1777154056151",
@@ -2196,5 +2198,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T21:55:24.708Z"
+  "saved_at": "2026-04-25T21:55:29.582Z"
 }
