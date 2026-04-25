@@ -214,7 +214,7 @@
     {
       "id": "task_1776976549610",
       "title": "Virtual Teen Support Group",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH2PR06MB6696F3388AA147CC4F087F28ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
       "emailSender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
@@ -225,8 +225,9 @@
       "subtasks": [],
       "createdAt": "2026-04-23T20:35:49.610Z",
       "type": "email",
-      "updatedAt": "2026-04-24T02:38:16.879Z",
-      "color": "teal"
+      "updatedAt": "2026-04-25T23:00:27.967Z",
+      "color": "teal",
+      "doneAt": "2026-04-25T23:00:27.967Z"
     },
     {
       "id": "task_1776908263332",
@@ -2220,5 +2221,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T22:52:57.566Z"
+  "saved_at": "2026-04-25T23:00:28.368Z"
 }
