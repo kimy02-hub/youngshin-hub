@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777154056151",
+      "title": "Re: 환자 정보 전송 요청 드립니다. -신비안",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAH4NO0GbW6nkfxXsUf6RR6qXXGELbXsfozLRbEpRPBDz+94f4A@mail.gmail.com",
+      "emailSender": "Lucy Shim <lucyaustin0212@gmail.com>",
+      "emailDate": "Fri Apr 24 2026 13:59:33 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-25T21:54:16.151Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777002436795",
       "title": "Dell Pilot",
       "done": false,
@@ -2147,5 +2162,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T19:10:22.001Z"
+  "saved_at": "2026-04-25T21:54:16.492Z"
 }
