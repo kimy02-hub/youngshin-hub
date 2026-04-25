@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T17:51:12.890224",
+  "fetched_at": "2026-04-25T17:54:11.260996",
   "emails": [
     {
       "id": "SN7PR06MB7085D2C283A3E596714109E3D82B2@SN7PR06MB7085.namprd06.prod.outlook.com",
@@ -11,46 +11,10 @@
       "cc": ""
     },
     {
-      "id": "CAH4NO0GbW6nkfxXsUf6RR6qXXGELbXsfozLRbEpRPBDz+94f4A@mail.gmail.com",
-      "subject": "Re: 환자 정보 전송 요청 드립니다. -신비안",
-      "sender": "Lucy Shim <lucyaustin0212@gmail.com>",
-      "date": "Fri Apr 24 2026 13:59:33 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS0PR06MB9088578CACC0C1CC24607C74D42B2@DS0PR06MB9088.namprd06.prod.outlook.com",
-      "subject": "A.B. Progress Note 4-24-26",
-      "sender": "\"Stollon, Courtney E\" <ces555@my.utexas.edu>",
-      "date": "Fri Apr 24 2026 12:00:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAH4NO0Ec_tU3MnmzG3RHE-nEYYUWjTM3oT=LnRLNuZRUEOYNhg@mail.gmail.com",
-      "subject": "환자 정보 전송 요청 드립니다. -신비안",
-      "sender": "Lucy Shim <lucyaustin0212@gmail.com>",
-      "date": "Fri Apr 24 2026 10:28:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CH2PR06MB6696F3388AA147CC4F087F28ED2A2@CH2PR06MB6696.namprd06.prod.outlook.com",
       "subject": "Virtual Teen Support Group",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Thu Apr 23 2026 14:56:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB32657599DA0B9F15B3E42189FC2A2@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Follow up on $75 reading gift cards",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Thu Apr 23 2026 14:55:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
