@@ -327,7 +327,7 @@
     {
       "id": "task_1776705604334",
       "title": "BJPsychOpen-2026-0052 ready for decision",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "0101019dab8cc275-6f80ca3b-f54f-4546-b252-be617df8217d-000000@us-west-2.amazonses.com",
       "emailSender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
@@ -339,7 +339,8 @@
       "createdAt": "2026-04-20T17:20:04.334Z",
       "type": "email",
       "color": "crimson",
-      "updatedAt": "2026-04-24T02:38:35.679Z"
+      "updatedAt": "2026-04-25T23:56:40.982Z",
+      "doneAt": "2026-04-25T23:56:40.982Z"
     },
     {
       "id": "task_1776565092637",
@@ -1162,7 +1163,7 @@
     {
       "id": "task_1775769152966",
       "title": "Winnie Monthly Check",
-      "done": true,
+      "done": false,
       "flagged": false,
       "emailId": null,
       "emailSender": null,
@@ -1174,8 +1175,7 @@
       "createdAt": "2026-04-09T21:12:32.966Z",
       "type": "manual",
       "color": "cobalt",
-      "updatedAt": "2026-04-25T23:56:19.059Z",
-      "doneAt": "2026-04-25T23:56:19.059Z"
+      "updatedAt": "2026-04-11T22:14:47.899Z"
     },
     {
       "id": "task_1775755217799",
@@ -2222,5 +2222,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T23:56:19.306Z"
+  "saved_at": "2026-04-25T23:56:41.185Z"
 }
