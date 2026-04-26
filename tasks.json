@@ -1024,17 +1024,18 @@
       "emailSender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
       "emailDate": "Fri Apr 10 2026 08:35:11 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-06-17",
       "note": "Dr. Westover said he would be glad to meet with you. Would you like me to ask Kelsey for some of your availability over the next month and help get something scheduled? I would also be glad to attend the meeting, if helpful.\nOne of the topics Dr. Westover and I have discussed is the need for transition to adulthood clinics for adults with IDD. Baylor has a clinic like this. A few years ago, I had heard about an initiative to open several of these clinics in Texas, but I have not heard any recent updates. Dr. Westover shared that he and some of his UTSW colleagues have been meeting with Baylor recently to discuss this and other opportunities for collaboration. I thought that might be a helpful conversation for you to join as well.",
       "subtasks": [
         {
           "text": "Set up a meeting set up with Westover and Leslie",
-          "done": false
+          "done": true,
+          "due": "2026-04-26"
         }
       ],
       "createdAt": "2026-04-11T22:50:28.933Z",
       "type": "email",
-      "updatedAt": "2026-04-25T22:15:20.608Z",
+      "updatedAt": "2026-04-26T21:02:04.728Z",
       "doneAt": null,
       "color": "canary"
     },
@@ -2227,5 +2228,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T20:51:43.103Z"
+  "saved_at": "2026-04-26T21:02:05.053Z"
 }
