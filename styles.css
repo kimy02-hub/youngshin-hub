@@ -284,3 +284,7 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .subtask-due-input { font-size:0.72rem; border:1px solid var(--border); border-radius:6px; padding:2px 5px; background:var(--card); color:var(--text); cursor:pointer; width:130px; max-width:130px; min-width:100px; flex:0 0 130px; }
 .subtask-due-input.subtask-overdue { border-color:#e05c5c; color:#e05c5c; }
 .subtask-due-input.subtask-today { border-color:#e8924a; color:#e8924a; }
+
+.modal-card-wide { display:flex !important; flex-direction:column !important; max-height:85vh !important; overflow:hidden !important; }
+.modal-body { overflow-y:auto !important; flex:1 1 auto !important; min-height:0 !important; }
+.modal-footer { flex-shrink:0 !important; padding-top:12px !important; border-top:1px solid var(--border); display:flex !important; gap:8px !important; justify-content:flex-end !important; }
