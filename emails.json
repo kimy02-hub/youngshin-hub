@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-26T16:12:10.801703",
+  "fetched_at": "2026-04-26T16:15:10.744131",
   "emails": [
+    {
+      "id": "CAJjz+kC4EN48JWpaWTD=2xC=UK=UPywNLeO2g-aGi-hzy=xwMg@mail.gmail.com",
+      "subject": "CCC panel",
+      "sender": "Tania Michaels <tania.michaels@ascension-external.org>",
+      "date": "Sun Apr 26 2026 15:59:53 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "C8E4A90D-DB55-45C9-90C9-E5148C2B644D@austin.utexas.edu",
       "subject": "Fwd: Request for Clinical Research Position",
