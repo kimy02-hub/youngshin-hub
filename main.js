@@ -422,6 +422,7 @@ var currentSort = 'default';
 
 function setSortOrder(order) {
   currentSort = order;
+  localStorage.setItem('dms_sort_order', order);
   renderTasks();
 }
 window.setSortOrder = setSortOrder;
@@ -430,7 +431,8 @@ window.setSortOrder = setSortOrder;
 function sortTasks(taskList) {
   const sorted = [...taskList];
   const colorOrder = { fuchsia:1, crimson:2, cobalt:3, canary:4, violet:5, espresso:6, lime:7, teal:8 };
-  switch (currentSort) {
+  const _sort = localStorage.getItem('dms_sort_order') || currentSort;
+  switch (_sort) {
     case 'name':
       sorted.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
       break;
