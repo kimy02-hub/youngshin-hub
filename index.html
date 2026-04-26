@@ -114,7 +114,7 @@
 <!-- EDIT TASK MODAL -->
 <div class="modal-overlay" id="editTaskModal" onclick="closeEditTask(event)">
   <div class="modal-card modal-card-wide">
-    <h3 class="modal-title">&#9998; Edit Task</h3>
+    <h3 class="modal-title">&#9998; Edit Task</h3><div class="modal-body">
     <div class="form-group">
       <label>Task <span class="required">*</span></label>
       <input type="text" id="editTaskTitle" autocomplete="off">
@@ -141,7 +141,7 @@
       </label>
       <div id="subtaskList" class="subtask-list"></div>
     </div>
-    <div class="form-actions">
+    </div><div class="modal-footer">
       <button class="btn-cancel" onclick="closeEditTask()">Cancel</button>
       <button class="btn-add" onclick="saveEditTask()">Save &#10022;</button>
     </div>
@@ -160,6 +160,8 @@
     <span>Tasks</span>
   </button>
 </nav>
+
+
 
 
 
