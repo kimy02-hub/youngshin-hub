@@ -1814,6 +1814,12 @@
           "name": "NIH Research Highlights Nutrition on NDDs",
           "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/58",
           "id": "a1777246919997"
+        },
+        {
+          "type": "link",
+          "name": "NIH Research Highlights Neural Exposome and Neurological Disorders",
+          "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/25",
+          "id": "a1777247181893"
         }
       ]
     },
@@ -2295,5 +2301,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T23:42:00.487Z"
+  "saved_at": "2026-04-26T23:46:22.234Z"
 }
