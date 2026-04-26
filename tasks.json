@@ -1726,18 +1726,18 @@
         },
         {
           "text": "Specific aim distribution",
-          "done": false,
+          "done": true,
           "due": "2026-04-25"
         },
         {
-          "text": "",
+          "text": "Draft budget",
           "done": false,
-          "due": null
+          "due": "2026-05-04"
         }
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-26T21:52:33.422Z",
+      "updatedAt": "2026-04-26T21:53:07.024Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -2240,5 +2240,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T21:52:33.779Z"
+  "saved_at": "2026-04-26T21:53:07.505Z"
 }
