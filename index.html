@@ -133,7 +133,7 @@
     <div class="form-group">
       <label>Note</label>
       <textarea id="editTaskNote" class="note-textarea" placeholder="Add notes, context, links, anything useful&hellip;"></textarea>
-    </div>
+    </div><div class="form-group"><label>Attachments <button class="att-btn" onclick="addAttachmentLink(editingTaskId,null)">Link</button><button class="att-btn" onclick="addAttachmentFile(editingTaskId,null)">File</button></label><div id="taskAttachmentList" class="att-list"></div></div>
     <div class="form-group">
       <label>
         Sub-tasks
@@ -160,6 +160,8 @@
     <span>Tasks</span>
   </button>
 </nav>
+
+
 
 
 
@@ -510,6 +512,9 @@ function renderRelatedEmailsEditor(t) {
     row.innerHTML = `<a href="${buildMailUrl(r.id)}" target="_blank" style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text);text-decoration:none;font-size:0.8rem;">&#9993; ${esc(parseName(r.sender))} — ${esc((r.subject||'').substring(0,40))}</a>
       <button onclick="removeRelatedEmail('${escId(r.id)}')" style="border:none;background:none;color:#c08080;cursor:pointer;font-size:1rem;">&times;</button>`;
     list.appendChild(row);
+    var sad=document.createElement("div");
+    sad.innerHTML=_attHtmlForSubtask(editingTaskId,i,s.attachments);
+    list.appendChild(sad);
   });
 }
 
@@ -525,6 +530,7 @@ function openEditTask(taskId) {
   renderRelatedEmailsEditor(t);
   populateRelatedEmailPicker();
   document.getElementById('editTaskModal').classList.add('open');
+  renderAttachments(taskId);
   setTimeout(() => document.getElementById('editTaskTitle').focus(), 80);
 }
 
@@ -583,6 +589,9 @@ function renderSubtaskEditor(t) {
         onchange="updateSubtaskDue(${i}, this.value)" title="Sub-task due date">
       <button class="subtask-del" onclick="deleteSubtask(${i})">&times;</button>`;
     list.appendChild(row);
+    var sad=document.createElement("div");
+    sad.innerHTML=_attHtmlForSubtask(editingTaskId,i,s.attachments);
+    list.appendChild(sad);
   });
 }
 
@@ -627,6 +636,85 @@ function setSortOrder(order) {
   localStorage.setItem('dms_sort_order', order);
   renderTasks();
 }
+
+// -- ATTACHMENTS -----------------------------------------------
+function addAttachmentLink(taskId, subtaskIdx) {
+  var url = prompt('Enter URL (Google Drive, SharePoint, Dropbox, etc.):');
+  if (!url) return;
+  if (!url.startsWith('http')) url = 'https://' + url;
+  var name = prompt('Label for this link (optional):') || url;
+  saveAttachment(taskId, subtaskIdx, {type:'link', name:name, url:url, id:'att_'+Date.now()});
+}
+
+function addAttachmentFile(taskId, subtaskIdx) {
+  var input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '*/*';
+  input.onchange = function() {
+    var file = input.files[0];
+    if (!file) return;
+    if (file.size > 2 * 1024 * 1024) { alert('File too large. Max 2MB. For larger files, upload to Google Drive and use Add Link instead.'); return; }
+    var reader = new FileReader();
+    reader.onload = function(e) {
+      saveAttachment(taskId, subtaskIdx, {type:'file', name:file.name, data:e.target.result, size:file.size, id:'att_'+Date.now()});
+    };
+    reader.readAsDataURL(file);
+  };
+  input.click();
+}
+
+function saveAttachment(taskId, subtaskIdx, att) {
+  var t = tasks.find(function(t){ return t.id === taskId; });
+  if (!t) return;
+  if (subtaskIdx === null || subtaskIdx === undefined) {
+    // Task-level attachment
+    if (!t.attachments) t.attachments = [];
+    t.attachments.push(att);
+  } else {
+    // Subtask-level attachment
+    if (!t.subtasks || !t.subtasks[subtaskIdx]) return;
+    if (!t.subtasks[subtaskIdx].attachments) t.subtasks[subtaskIdx].attachments = [];
+    t.subtasks[subtaskIdx].attachments.push(att);
+  }
+  saveTasks();
+  renderSubtaskEditor(t);
+  renderAttachments(taskId);
+}
+
+function deleteAttachment(taskId, subtaskIdx, attId) {
+  var t = tasks.find(function(t){ return t.id === taskId; });
+  if (!t) return;
+  if (subtaskIdx === null || subtaskIdx === undefined) {
+    t.attachments = (t.attachments || []).filter(function(a){ return a.id !== attId; });
+  } else {
+    if (t.subtasks && t.subtasks[subtaskIdx]) {
+      t.subtasks[subtaskIdx].attachments = (t.subtasks[subtaskIdx].attachments || []).filter(function(a){ return a.id !== attId; });
+    }
+  }
+  saveTasks();
+  renderSubtaskEditor(t);
+  renderAttachments(taskId);
+}
+
+function renderAttachments(taskId) {
+  var container = document.getElementById('taskAttachments');
+  if (!container) return;
+  var t = tasks.find(function(t){ return t.id === taskId; });
+  if (!t) return;
+  var atts = t.attachments || [];
+  container.innerHTML = atts.map(function(a) {
+    var icon = a.type === 'link' ? '🔗' : '📎';
+    var content = a.type === 'link'
+      ? '<a href="' + a.url + '" target="_blank" class="att-link">' + icon + ' ' + escHtml(a.name) + '</a>'
+      : '<a href="' + a.data + '" download="' + escHtml(a.name) + '" class="att-link">' + icon + ' ' + escHtml(a.name) + '</a>';
+    return '<div class="att-item">' + content + '<button class="att-del" onclick="deleteAttachment('' + taskId + '', null, '' + a.id + '')">&times;</button></div>';
+  }).join('');
+}
+
+function escHtml(str) {
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
 window.setSortOrder = setSortOrder;
 
 
