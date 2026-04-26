@@ -530,9 +530,10 @@ function renderTasks() { window.tasks = tasks; window.currentSort = currentSort;
   }
   const tFilter = t => !searchQuery || matchesSearch([t.title, t.note, t.emailSender, t.cc]);
   const activeRaw = tasks.filter(t => !t.done && !t.flagged && tFilter(t));
-  const active    = sortTasks(activeRaw);
   const flaggedRaw = tasks.filter(t => !t.done && t.flagged && tFilter(t));
-  const flaggedT   = sortTasks(flaggedRaw);
+  const _sm = localStorage.getItem('dms_sort_order') || currentSort;
+  const active = _sm === 'subduedate' ? sortTasks([...flaggedRaw, ...activeRaw]) : sortTasks(activeRaw);
+  const flaggedT = _sm === 'subduedate' ? [] : sortTasks(flaggedRaw);
   const completed = tasks.filter(t =>  t.done).sort((a, b) => new Date(b.doneAt || 0) - new Date(a.doneAt || 0));
 
   const fSec  = document.getElementById('flaggedSection');
