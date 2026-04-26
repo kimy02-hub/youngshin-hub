@@ -1735,7 +1735,7 @@
           "due": "2026-04-25"
         },
         {
-          "text": "Subaward budget",
+          "text": "Subaward budget (Monica)",
           "done": false,
           "due": "2026-04-27"
         },
@@ -1743,6 +1743,21 @@
           "text": "DMS Draft budget",
           "done": false,
           "due": "2026-05-04"
+        },
+        {
+          "text": "FInal Subaward Budget and BJ (Monica)",
+          "done": false,
+          "due": "2026-05-18"
+        },
+        {
+          "text": "Final Scope of Work",
+          "done": false,
+          "due": "2026-05-29"
+        },
+        {
+          "text": "Final Budget and BJ",
+          "done": false,
+          "due": "2026-05-29"
         },
         {
           "text": "set up a meeting",
@@ -1762,7 +1777,7 @@
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-26T22:06:01.053Z",
+      "updatedAt": "2026-04-26T22:08:17.752Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -2265,5 +2280,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T22:06:01.114Z"
+  "saved_at": "2026-04-26T22:08:20.234Z"
 }
