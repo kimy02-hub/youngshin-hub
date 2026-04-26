@@ -223,11 +223,17 @@
       "cc": "",
       "due": "2026-04-26",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "123",
+          "done": false,
+          "due": null
+        }
+      ],
       "createdAt": "2026-04-23T20:36:00.108Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-26T23:04:21.931Z"
+      "updatedAt": "2026-04-26T23:29:31.869Z"
     },
     {
       "id": "task_1776976549610",
@@ -2295,5 +2301,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T23:04:41.267Z"
+  "saved_at": "2026-04-26T23:29:31.974Z"
 }
