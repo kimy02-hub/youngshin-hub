@@ -398,7 +398,7 @@
     {
       "id": "task_1776546543055",
       "title": "Re: [EXTERNAL] New Referral Process",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAP-diSgGz_tr4WUCVyYK93pt89ndyCP=MGqxgR49F4U3+6=csg@mail.gmail.com",
       "emailSender": "Lynn Monnat <lmonnat@ascension.org>",
@@ -410,7 +410,8 @@
       "createdAt": "2026-04-18T21:09:03.055Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-24T02:38:50.947Z"
+      "updatedAt": "2026-04-26T21:09:46.064Z",
+      "doneAt": "2026-04-26T21:09:46.064Z"
     },
     {
       "id": "task_1776546540340",
@@ -2234,5 +2235,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T21:03:49.891Z"
+  "saved_at": "2026-04-26T21:09:46.138Z"
 }
