@@ -39,7 +39,7 @@
     {
       "id": "task_1777154058221",
       "title": "TCDS ECHO: Please Review and Submit Form",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SN7PR06MB7085D2C283A3E596714109E3D82B2@SN7PR06MB7085.namprd06.prod.outlook.com",
       "emailSender": "\"Vanegas, Sandra\" <sandra.vanegas@austin.utexas.edu>",
@@ -51,7 +51,8 @@
       "createdAt": "2026-04-25T21:54:18.221Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-25T21:55:29.261Z"
+      "updatedAt": "2026-04-26T00:20:14.615Z",
+      "doneAt": "2026-04-26T00:20:14.615Z"
     },
     {
       "id": "task_1777154056151",
@@ -2225,5 +2226,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-25T23:57:25.160Z"
+  "saved_at": "2026-04-26T00:20:14.926Z"
 }
