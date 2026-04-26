@@ -1802,6 +1802,12 @@
           "name": "PA-25-301 (Parent R01)",
           "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-301.html",
           "id": "a1777246573821"
+        },
+        {
+          "type": "link",
+          "name": "https://www.niehs.nih.gov/about/strategicplan/research",
+          "url": "https://www.niehs.nih.gov/about/strategicplan/research",
+          "id": "a1777246648302"
         }
       ]
     },
@@ -2283,5 +2289,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T23:36:14.278Z"
+  "saved_at": "2026-04-26T23:37:29.289Z"
 }
