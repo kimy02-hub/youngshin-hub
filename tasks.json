@@ -1727,7 +1727,7 @@
       "emailDate": null,
       "cc": "Ashley, Brandon, Bennett, Deb, Shuting",
       "due": "2026-06-05",
-      "note": "PA-25-301 (Parent R01): https://grants.nih.gov/grants/guide/pa-files/PA-25-301.html\nNIEHS Strategic Plan: 2025-2029\nhttps://www.niehs.nih.gov/about/strategicplan\nhttps://www.niehs.nih.gov/about/strategicplan/research\nNIH Research Highlighted Topics: https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/34\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/25\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/58",
+      "note": "NIH Research Highlighted Topics: https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics\n\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-",
       "subtasks": [
         {
           "text": "Subaward budget (Monica)",
@@ -1780,7 +1780,7 @@
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-26T23:04:41.097Z",
+      "updatedAt": "2026-04-26T23:48:50.909Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -2309,5 +2309,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T23:48:40.675Z"
+  "saved_at": "2026-04-26T23:48:51.272Z"
 }
