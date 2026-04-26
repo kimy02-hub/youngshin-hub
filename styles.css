@@ -288,3 +288,11 @@ body{font-family:var(--font);font-size:15px;line-height:1.5;background:var(--sur
 .modal-card-wide { display:flex !important; flex-direction:column !important; max-height:85vh !important; overflow:hidden !important; }
 .modal-body { overflow-y:auto !important; flex:1 1 auto !important; min-height:0 !important; }
 .modal-footer { flex-shrink:0 !important; padding-top:12px !important; border-top:1px solid var(--border); display:flex !important; gap:8px !important; justify-content:flex-end !important; }
+.att-list2,.att-rows{display:flex;flex-direction:column;gap:3px;margin-top:3px;}
+.att-row{display:flex;align-items:center;gap:5px;background:var(--surface-1,#f5f5f5);border-radius:6px;padding:3px 7px;max-width:100%;}
+.att-lnk{font-size:0.8rem;color:#b05c8a;text-decoration:none;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.att-lnk:hover{text-decoration:underline;}
+.att-x{background:none;border:none;color:#bbb;cursor:pointer;flex-shrink:0;}
+.att-sm2{font-size:0.75rem;padding:2px 7px;border:1px solid var(--border);border-radius:6px;background:var(--card);cursor:pointer;margin-left:5px;}
+.att-sm{font-size:0.72rem;padding:1px 5px;border:1px solid var(--border);border-radius:5px;background:var(--card);cursor:pointer;margin:2px 2px 0 0;}
+.sub-att{padding:2px 0 4px 30px;display:flex;flex-wrap:wrap;align-items:center;gap:3px;}

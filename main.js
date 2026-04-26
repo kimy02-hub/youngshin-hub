@@ -339,6 +339,7 @@ function openEditTask(taskId) {
   renderRelatedEmailsEditor(t);
   populateRelatedEmailPicker();
   document.getElementById('editTaskModal').classList.add('open');
+  setTimeout(function(){window._renderAttList(taskId);},30);
   setTimeout(() => document.getElementById('editTaskTitle').focus(), 80);
 }
 
@@ -397,6 +398,9 @@ function renderSubtaskEditor(t) {
         onchange="updateSubtaskDue(${i}, this.value)" title="Sub-task due date">
       <button class="subtask-del" onclick="deleteSubtask(${i})">&times;</button>`;
     list.appendChild(row);
+    var _sd=document.createElement('div');
+    _sd.innerHTML=window._subAttHtml(editingTaskId,i,s.attachments||[]);
+    list.appendChild(_sd);
   });
 }
 
@@ -889,3 +893,61 @@ window.toggleColorPicker = function(taskId) {
 window.setTaskColor = setTaskColor;
 window.closeColorPicker = function() { document.querySelectorAll('.color-dots').forEach(function(p){ p.style.display='none'; }); };
 document.addEventListener('click', function(e) { if (!e.target.closest('.color-picker') && !e.target.closest('.color-dots')) window.closeColorPicker(); });
+
+
+// -- ATTACHMENTS ---
+window.addAttachmentLink = function(taskId, subIdx) {
+  var url = prompt('Paste URL (Google Drive, SharePoint, Dropbox, etc.):');
+  if (!url) return;
+  if (url.indexOf('http') !== 0) url = 'https://' + url;
+  var label = prompt('Label (blank = use URL):') || url;
+  window._saveAtt(taskId, subIdx, {type:'link', name:label, url:url, id:'a'+Date.now()});
+};
+window.addAttachmentFile = function(taskId, subIdx) {
+  var inp = document.createElement('input'); inp.type='file';
+  inp.onchange = function() {
+    var f=inp.files[0]; if(!f) return;
+    if(f.size>2097152){alert('Max 2MB. Use Google Drive link for larger files.');return;}
+    var r=new FileReader();
+    r.onload=function(e){window._saveAtt(taskId,subIdx,{type:'file',name:f.name,data:e.target.result,id:'a'+Date.now()});};
+    r.readAsDataURL(f);
+  }; inp.click();
+};
+window._saveAtt = function(taskId, subIdx, att) {
+  var t=tasks.find(function(x){return x.id===taskId;}); if(!t) return;
+  if(subIdx===null||subIdx===undefined){if(!t.attachments)t.attachments=[];t.attachments.push(att);}
+  else{var si=parseInt(subIdx);if(!t.subtasks||!t.subtasks[si])return;if(!t.subtasks[si].attachments)t.subtasks[si].attachments=[];t.subtasks[si].attachments.push(att);}
+  saveTasks();
+  var te=tasks.find(function(x){return x.id===editingTaskId;});
+  if(te){renderSubtaskEditor(te);window._renderAttList(taskId);}
+};
+window._deleteAtt = function(taskId, subIdx, attId) {
+  var t=tasks.find(function(x){return x.id===taskId;}); if(!t) return;
+  if(subIdx===null||subIdx===undefined){t.attachments=(t.attachments||[]).filter(function(a){return a.id!==attId;});}
+  else{var si=parseInt(subIdx);if(t.subtasks&&t.subtasks[si])t.subtasks[si].attachments=(t.subtasks[si].attachments||[]).filter(function(a){return a.id!==attId;});}
+  saveTasks();
+  var te=tasks.find(function(x){return x.id===editingTaskId;});
+  if(te){renderSubtaskEditor(te);window._renderAttList(taskId);}
+};
+window._renderAttList = function(taskId) {
+  var el=document.getElementById('taskAttachmentList'); if(!el) return;
+  var t=tasks.find(function(x){return x.id===taskId;});
+  var atts=(t&&t.attachments)||[];
+  el.innerHTML=atts.map(function(a){
+    var icon=a.type==='link'?'&#128279;':'&#128206;';
+    var lnk=a.type==='link'?'<a href="'+a.url+'" target="_blank" class="att-lnk">'+icon+' '+a.name+'</a>':'<a href="'+a.data+'" download="'+a.name+'" class="att-lnk">'+icon+' '+a.name+'</a>';
+    return '<div class="att-row">'+lnk+'<button class="att-x" onclick="window._deleteAtt(this.dataset.t,null,this.dataset.a)" data-t="'+taskId+'" data-a="'+a.id+'">&#215;</button></div>';
+  }).join('');
+};
+window._subAttHtml = function(taskId, si, atts) {
+  atts=atts||[];
+  var rows=atts.map(function(a){
+    var icon=a.type==='link'?'&#128279;':'&#128206;';
+    var lnk=a.type==='link'?'<a href="'+a.url+'" target="_blank" class="att-lnk">'+icon+' '+a.name+'</a>':'<a href="'+a.data+'" download="'+a.name+'" class="att-lnk">'+icon+' '+a.name+'</a>';
+    return '<span class="att-row">'+lnk+'<button class="att-x" onclick="window._deleteAtt(this.dataset.t,this.dataset.s,this.dataset.a)" data-t="'+taskId+'" data-s="'+si+'" data-a="'+a.id+'">&#215;</button></span>';
+  }).join('');
+  return '<div class="sub-att">'+(rows?'<div class="att-rows">'+rows+'</div>':'')
+    +'<button class="att-sm" onclick="window.addAttachmentLink(this.dataset.t,this.dataset.s)" data-t="'+taskId+'" data-s="'+si+'">&#128279;</button>'
+    +'<button class="att-sm" onclick="window.addAttachmentFile(this.dataset.t,this.dataset.s)" data-t="'+taskId+'" data-s="'+si+'">&#128206;</button>'
+    +'</div>';
+};
