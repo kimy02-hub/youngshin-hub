@@ -133,7 +133,7 @@
     <div class="form-group">
       <label>Note</label>
       <textarea id="editTaskNote" class="note-textarea" placeholder="Add notes, context, links, anything useful&hellip;"></textarea>
-    </div>
+    </div><div class="form-group"><label>Attachments <button class="att-sm2" onclick="addAttachmentLink(editingTaskId,null)">&#128279; Link</button><button class="att-sm2" onclick="addAttachmentFile(editingTaskId,null)">&#128206; File</button></label><div id="taskAttachmentList" class="att-list2"></div></div>
     <div class="form-group">
       <label>
         Sub-tasks
@@ -160,6 +160,8 @@
     <span>Tasks</span>
   </button>
 </nav>
+
+
 
 
 
@@ -527,6 +529,7 @@ function openEditTask(taskId) {
   renderRelatedEmailsEditor(t);
   populateRelatedEmailPicker();
   document.getElementById('editTaskModal').classList.add('open');
+  setTimeout(function(){_renderAttList(taskId);},30);
   setTimeout(() => document.getElementById('editTaskTitle').focus(), 80);
 }
 
@@ -585,6 +588,9 @@ function renderSubtaskEditor(t) {
         onchange="updateSubtaskDue(${i}, this.value)" title="Sub-task due date">
       <button class="subtask-del" onclick="deleteSubtask(${i})">&times;</button>`;
     list.appendChild(row);
+    var _sd=document.createElement('div');
+    _sd.innerHTML=_subAttHtml(editingTaskId,i,s.attachments||[]);
+    list.appendChild(_sd);
   });
 }
 
@@ -1077,6 +1083,81 @@ window.toggleColorPicker = function(taskId) {
 window.setTaskColor = setTaskColor;
 window.closeColorPicker = function() { document.querySelectorAll('.color-dots').forEach(function(p){ p.style.display='none'; }); };
 document.addEventListener('click', function(e) { if (!e.target.closest('.color-picker') && !e.target.closest('.color-dots')) window.closeColorPicker(); });
+// -- ATTACHMENTS -----------------------------------------------
+function addAttachmentLink(taskId, subIdx) {
+  var url = prompt('Paste URL (Google Drive, SharePoint, Dropbox, etc.):');
+  if (!url) return;
+  if (url.indexOf('http') !== 0) url = 'https://' + url;
+  var label = prompt('Label (leave blank to use URL):') || url;
+  _saveAtt(taskId, subIdx, {type:'link', name:label, url:url, id:'a'+Date.now()});
+}
+function addAttachmentFile(taskId, subIdx) {
+  var inp = document.createElement('input');
+  inp.type = 'file';
+  inp.onchange = function() {
+    var f = inp.files[0]; if (!f) return;
+    if (f.size > 2097152) { alert('Max 2MB. Use Google Drive link for larger files.'); return; }
+    var r = new FileReader();
+    r.onload = function(e) { _saveAtt(taskId, subIdx, {type:'file', name:f.name, data:e.target.result, id:'a'+Date.now()}); };
+    r.readAsDataURL(f);
+  };
+  inp.click();
+}
+function _saveAtt(taskId, subIdx, att) {
+  var t = tasks.find(function(x){ return x.id===taskId; });
+  if (!t) return;
+  if (subIdx===null || subIdx===undefined) {
+    if (!t.attachments) t.attachments = [];
+    t.attachments.push(att);
+  } else {
+    var si = parseInt(subIdx);
+    if (!t.subtasks || !t.subtasks[si]) return;
+    if (!t.subtasks[si].attachments) t.subtasks[si].attachments = [];
+    t.subtasks[si].attachments.push(att);
+  }
+  saveTasks();
+  var te = tasks.find(function(x){ return x.id===editingTaskId; });
+  if (te) { renderSubtaskEditor(te); _renderAttList(taskId); }
+}
+function _deleteAtt(taskId, subIdx, attId) {
+  var t = tasks.find(function(x){ return x.id===taskId; });
+  if (!t) return;
+  if (subIdx===null || subIdx===undefined) {
+    t.attachments = (t.attachments||[]).filter(function(a){ return a.id!==attId; });
+  } else {
+    var si = parseInt(subIdx);
+    if (t.subtasks && t.subtasks[si]) t.subtasks[si].attachments = (t.subtasks[si].attachments||[]).filter(function(a){ return a.id!==attId; });
+  }
+  saveTasks();
+  var te = tasks.find(function(x){ return x.id===editingTaskId; });
+  if (te) { renderSubtaskEditor(te); _renderAttList(taskId); }
+}
+function _renderAttList(taskId) {
+  var el = document.getElementById('taskAttachmentList');
+  if (!el) return;
+  var t = tasks.find(function(x){ return x.id===taskId; });
+  var atts = (t && t.attachments) || [];
+  el.innerHTML = atts.map(function(a) {
+    var icon = a.type==='link' ? '&#128279;' : '&#128206;';
+    var lnk = a.type==='link' ? '<a href="'+a.url+'" target="_blank" class="att-lnk">'+icon+' '+a.name+'</a>' : '<a href="'+a.data+'" download="'+a.name+'" class="att-lnk">'+icon+' '+a.name+'</a>';
+    var tid = taskId.replace(/'/g,''); var aid = a.id.replace(/'/g,'');
+    return '<div class="att-row">'+lnk+'<button class="att-x" onclick="_deleteAtt('+chr(39)+tid+chr(39)+',null,'+chr(39)+aid+chr(39)+')">&#215;</button></div>';
+  }).join('');
+}
+function _subAttHtml(taskId, si, atts) {
+  atts = atts || [];
+  var tid = taskId ? taskId.replace(/'/g,'') : '';
+  var rows = atts.map(function(a) {
+    var icon = a.type==='link' ? '&#128279;' : '&#128206;';
+    var lnk = a.type==='link' ? '<a href="'+a.url+'" target="_blank" class="att-lnk">'+icon+' '+a.name+'</a>' : '<a href="'+a.data+'" download="'+a.name+'" class="att-lnk">'+icon+' '+a.name+'</a>';
+    var aid = a.id.replace(/'/g,'');
+    return '<span class="att-row">'+lnk+'<button class="att-x" onclick="_deleteAtt('+chr(39)+tid+chr(39)+','+si+','+chr(39)+aid+chr(39)+')">&#215;</button></span>';
+  }).join('');
+  return '<div class="sub-att">'+(rows?'<div class="att-rows">'+rows+'</div>':'')
+    +'<button class="att-sm" onclick="addAttachmentLink('+chr(39)+tid+chr(39)+','+si+')">&#128279;</button>'
+    +'<button class="att-sm" onclick="addAttachmentFile('+chr(39)+tid+chr(39)+','+si+')">&#128206;</button>'
+    +'</div>';
+}
 
 </script>
 </body>
