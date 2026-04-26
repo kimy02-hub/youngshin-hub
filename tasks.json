@@ -1730,6 +1730,21 @@
       "note": "PA-25-301 (Parent R01): https://grants.nih.gov/grants/guide/pa-files/PA-25-301.html\nNIEHS Strategic Plan: 2025-2029\nhttps://www.niehs.nih.gov/about/strategicplan\nhttps://www.niehs.nih.gov/about/strategicplan/research\nNIH Research Highlighted Topics: https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/34\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/25\nhttps://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/58",
       "subtasks": [
         {
+          "text": "Specific aim distribution",
+          "done": true,
+          "due": "2026-04-25"
+        },
+        {
+          "text": "Subaward budget",
+          "done": false,
+          "due": "2026-04-27"
+        },
+        {
+          "text": "DMS Draft budget",
+          "done": false,
+          "due": "2026-05-04"
+        },
+        {
           "text": "set up a meeting",
           "done": true,
           "due": null
@@ -1743,26 +1758,11 @@
           "text": "Proposal submission form",
           "done": true,
           "due": null
-        },
-        {
-          "text": "Specific aim distribution",
-          "done": true,
-          "due": "2026-04-25"
-        },
-        {
-          "text": "DMS Draft budget",
-          "done": false,
-          "due": "2026-05-04"
-        },
-        {
-          "text": "Subaward budget",
-          "done": false,
-          "due": "2026-04-27"
         }
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-26T22:04:32.010Z",
+      "updatedAt": "2026-04-26T22:06:01.053Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -2265,5 +2265,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T22:04:32.346Z"
+  "saved_at": "2026-04-26T22:06:01.114Z"
 }
