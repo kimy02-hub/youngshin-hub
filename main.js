@@ -355,6 +355,13 @@ function saveEditTask() {
   t.title = title;
   t.due   = document.getElementById('editTaskDue').value || null;
   t.note  = document.getElementById('editTaskNote').value.trim();
+  // Capture all subtask inputs before saving
+  document.querySelectorAll('.subtask-input').forEach(function(inp, i) {
+    if (t.subtasks && t.subtasks[i] !== undefined) t.subtasks[i].text = inp.value;
+  });
+  document.querySelectorAll('.subtask-due-input').forEach(function(inp, i) {
+    if (t.subtasks && t.subtasks[i] !== undefined) t.subtasks[i].due = inp.value || null;
+  });
   t.updatedAt = new Date().toISOString();
   if (t.due && t.due === new Date().toISOString().split('T')[0]) t.flagged = true;
   saveTasks(); renderTasks();
