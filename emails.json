@@ -1,15 +1,6 @@
 {
-  "fetched_at": "2026-04-25T19:21:11.726299",
+  "fetched_at": "2026-04-25T19:24:11.582255",
   "emails": [
-    {
-      "id": "SN7PR06MB7085D2C283A3E596714109E3D82B2@SN7PR06MB7085.namprd06.prod.outlook.com",
-      "subject": "TCDS ECHO: Please Review and Submit Form",
-      "sender": "\"Vanegas, Sandra\" <sandra.vanegas@austin.utexas.edu>",
-      "date": "Fri Apr 24 2026 16:49:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
     {
       "id": "CAFfZsXNpan=Fv2PRA-gAMi8xV11L0RYYo5ppGZF_V=cn9-0GnQ@mail.gmail.com",
       "subject": "Re: [EXTERNAL] Journal Club 5/12/26 at 3-3:45 pm",
@@ -123,15 +114,6 @@
       "subject": "R01 Due 06/05",
       "sender": "\"Aguilar, Monica R\" <monica.aguilar@austin.utexas.edu>",
       "date": "Mon Apr 20 2026 09:39:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BL3P221MB030541F55D59826D5FF133D3A82F2@BL3P221MB0305.NAMP221.PROD.OUTLOOK.COM",
-      "subject": "Dell Pilot",
-      "sender": "Christopher Dunn <cdunn@invisalertsolutions.com>",
-      "date": "Mon Apr 20 2026 08:43:23 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
