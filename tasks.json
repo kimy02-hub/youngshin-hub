@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777240634175",
+      "title": "CCC panel",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAJjz+kC4EN48JWpaWTD=2xC=UK=UPywNLeO2g-aGi-hzy=xwMg@mail.gmail.com",
+      "emailSender": "Tania Michaels <tania.michaels@ascension-external.org>",
+      "emailDate": "Sun Apr 26 2026 15:59:53 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-26T21:57:14.176Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777154812332",
       "title": "A.B. Progress Note 4-24-26",
       "done": true,
@@ -2240,5 +2255,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T21:54:15.998Z"
+  "saved_at": "2026-04-26T21:57:14.226Z"
 }
