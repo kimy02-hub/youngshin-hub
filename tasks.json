@@ -1805,21 +1805,9 @@
         },
         {
           "type": "link",
-          "name": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/34",
-          "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/34",
-          "id": "a1777246760505"
-        },
-        {
-          "type": "link",
           "name": "NIH Research Highlights Developing and evaluating practice for user of AAC",
           "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/34",
           "id": "a1777246830411"
-        },
-        {
-          "type": "link",
-          "name": "NIH Research Highlights Nutritional Influences on NDDs",
-          "url": "https://grants.nih.gov/funding/find-a-fit-for-your-research/highlighted-topics/58",
-          "id": "a1777246876297"
         }
       ]
     },
@@ -2301,5 +2289,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T23:41:16.692Z"
+  "saved_at": "2026-04-26T23:41:29.334Z"
 }
