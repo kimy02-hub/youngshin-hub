@@ -1740,6 +1740,11 @@
           "due": "2026-04-27"
         },
         {
+          "text": "Specific Aims Distribution to the Main Team",
+          "done": false,
+          "due": "2026-04-29"
+        },
+        {
           "text": "DMS Draft budget",
           "done": false,
           "due": "2026-05-04"
@@ -1787,7 +1792,7 @@
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-26T22:09:46.741Z",
+      "updatedAt": "2026-04-26T22:10:29.405Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -2290,5 +2295,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-26T22:09:47.042Z"
+  "saved_at": "2026-04-26T22:10:30.003Z"
 }
