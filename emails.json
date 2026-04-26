@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T10:09:11.541621",
+  "fetched_at": "2026-04-26T10:12:11.061220",
   "emails": [
     {
       "id": "C8E4A90D-DB55-45C9-90C9-E5148C2B644D@austin.utexas.edu",
@@ -141,6 +141,15 @@
       "subject": "Re: Assistant/Associate Professor for Outpatient Child and Adolescent Psychiatry",
       "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
       "date": "Sun Apr 19 2026 12:27:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGQmEP-YearyTALaOihinO6ekuN4u58qYb4ttO=h3Kaqzw@mail.gmail.com",
+      "subject": "INSPIRE Protocol Version 2",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
+      "date": "Fri Apr 17 2026 16:31:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
