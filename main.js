@@ -362,6 +362,15 @@ function saveEditTask() {
   document.querySelectorAll('.subtask-due-input').forEach(function(inp, i) {
     if (t.subtasks && t.subtasks[i] !== undefined) t.subtasks[i].due = inp.value || null;
   });
+  // Sort subtasks by due date (no date goes to bottom)
+  if (t.subtasks && t.subtasks.length > 1) {
+    t.subtasks.sort(function(a, b) {
+      if (!a.due && !b.due) return 0;
+      if (!a.due) return 1;
+      if (!b.due) return -1;
+      return a.due < b.due ? -1 : a.due > b.due ? 1 : 0;
+    });
+  }
   t.updatedAt = new Date().toISOString();
   if (t.due && t.due === new Date().toISOString().split('T')[0]) t.flagged = true;
   saveTasks(); renderTasks();
