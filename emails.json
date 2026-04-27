@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-27T12:42:12.148118",
+  "fetched_at": "2026-04-27T12:45:13.074480",
   "emails": [
     {
       "id": "20260427144119.74E2B7004D6E@clinentry11.be-md.ncbi.nlm.nih.gov",
       "subject": "ClinicalTrials.gov Records Need Attention",
-      "sender": "\"ClinicalTrials.gov Registration\" <register@clinicaltrials.gov>",
+      "sender": "ClinicalTrials.gov Registration <register@clinicaltrials.gov>",
       "date": "Mon Apr 27 2026 09:41:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -78,42 +78,6 @@
       "subject": "Re: Re: [EXTERNAL] Journal Club 5/12/26 at 3-3:45 pm",
       "sender": "Dylan Leblanc <dylan.leblanc@ascension.org>",
       "date": "Tue Apr 21 2026 11:28:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "Share-d1527bdc-e3f5-465f-acd3-330c82370143;rcid_602c0ca2-f080-6000-b627-4fe62fe82e0f;wiid_f8167d84-575d-42e3-a72e-36dfc6c2943d;SendEmail-PreprocessPayload-ObservabilityMessageEnqueuer-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_efed4f53-8daf-4bf4-9ab9-af16c617ca9d@odspnotify",
-      "subject": "Engbretson, Alison shared the folder \"KW Comprehensive Diagnostic and Treatment Evaluation\" with you",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Tue Apr 21 2026 10:12:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz2Q3gSGtWbgyF46U5KF_6P7WK8=oAL3XUcGNBNh2s2g=w@mail.gmail.com",
-      "subject": "Pediatric Resident In Autism Clinic",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Tue Apr 21 2026 09:50:06 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAEncoAVfFMKruWPq56MgWET3eh1YU4u0F34h_LYLSOZYLNgO7w@mail.gmail.com",
-      "subject": "Fwd: -phi-",
-      "sender": "Grace Brady <grace.brady@ascension.org>",
-      "date": "Tue Apr 21 2026 09:10:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAKgOP6CYtUtB5=Bzp4Xqu01AOmRV4-wSU3eWhDdpyqdhU+MEmw@mail.gmail.com",
-      "subject": "DCMC-BH | Reminder Notice: Approaching Automatic Suspension",
-      "sender": "Michelle Sanchez <msanchez@ascension.org>",
-      "date": "Mon Apr 20 2026 14:35:27 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
