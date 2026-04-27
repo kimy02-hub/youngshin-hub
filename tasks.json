@@ -1738,14 +1738,7 @@
           "text": "Specific Aims Distribution to the Main Team",
           "done": false,
           "due": "2026-04-29",
-          "attachments": [
-            {
-              "type": "link",
-              "name": "Specific Aim",
-              "url": "https://utexas.box.com/s/zyv9k3rknmunqdeoktffrxnc9jmrg201",
-              "id": "a1777248201981"
-            }
-          ]
+          "attachments": []
         },
         {
           "text": "DMS Draft budget",
@@ -2309,5 +2302,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-27T00:05:11.689Z"
+  "saved_at": "2026-04-27T00:06:38.146Z"
 }
