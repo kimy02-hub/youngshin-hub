@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777309886405",
+      "title": "BJPsych Open - BJPsychOpen-2026-0122",
+      "done": false,
+      "flagged": true,
+      "emailId": "0101019dcd9cfc80-789f8b14-79de-45f7-bcf0-8630eb533f71-000000@us-west-2.amazonses.com",
+      "emailSender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "emailDate": "Mon Apr 27 2026 01:25:15 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-27T17:11:26.405Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777309883616",
       "title": "ClinicalTrials.gov Records Need Attention",
       "done": false,
@@ -2332,5 +2347,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-27T17:11:23.671Z"
+  "saved_at": "2026-04-27T17:11:26.864Z"
 }
