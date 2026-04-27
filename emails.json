@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-27T13:00:11.805631",
+  "fetched_at": "2026-04-27T13:03:13.995330",
   "emails": [
+    {
+      "id": "CAFvG7Ur=9PRNfXb--ufFM3g-ZCBpJ5e+Wq_T4B5wymQXFz18Ag@mail.gmail.com",
+      "subject": "Re: Term Sheet",
+      "sender": "Emily Nguyen <emnhunguyen@gmail.com>",
+      "date": "Mon Apr 27 2026 13:01:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV5PR06MB11266E5E8CA8CF35959AB49F3BA362@LV5PR06MB11266.namprd06.prod.outlook.com",
+      "subject": "Reminder: General Monthly APT Committee Meeting",
+      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
+      "date": "Mon Apr 27 2026 13:01:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "A01EADA9-C3F8-4F62-A564-A561BCFDE389@gmail.com",
       "subject": "Fiona Rx Refill",
@@ -15,15 +33,33 @@
       "subject": "RE: TCSC Time!",
       "sender": "\"Wise, Deborah\" <Deborah.Wise@austin.utexas.edu>",
       "date": "Mon Apr 27 2026 10:46:19 GMT-0500 (Central Daylight Time)",
-      "read": false,
+      "read": true,
       "flagged": true,
       "cc": ""
     },
     {
       "id": "CANYCf674Fb010WHETsV3T2gQSpYbo_i4KymfxkRzNpDhxTFbMA@mail.gmail.com",
       "subject": "Re: TCSC Time!",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Mon Apr 27 2026 10:41:30 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR05MB4952D69A85F0BB71D969772A96362@BYAPR05MB4952.namprd05.prod.outlook.com",
+      "subject": "Flight info",
+      "sender": "\"Manoli, Devanand\" <Devanand.Manoli@ucsf.edu>",
+      "date": "Mon Apr 27 2026 10:14:33 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "20260427144347.719827004D6A@clinentry11.be-md.ncbi.nlm.nih.gov",
+      "subject": "ClinicalTrials.gov Records Need Attention",
+      "sender": "\"ClinicalTrials.gov Registration\" <register@clinicaltrials.gov>",
+      "date": "Mon Apr 27 2026 09:43:54 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -74,18 +110,9 @@
       "cc": ""
     },
     {
-      "id": "CAPgM_gaf6QggsvEXbQKXvmYCkSwqp_cgzwT9U+s6FRDJxSw-fA@mail.gmail.com",
-      "subject": "Drafting Clinic Communication - Initial Thoughts for Discussion",
-      "sender": "Beverly Bernal (DMS) <beverly.bernal@ascension-external.org>",
-      "date": "Wed Apr 22 2026 16:41:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CANYCf66cC_T5SnmxRpC+YnDM_HLoVgTyy5DjhAu8QBSOYHUS5Q@mail.gmail.com",
       "subject": "TCSC Time!",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Wed Apr 22 2026 11:18:06 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -119,6 +146,15 @@
       "cc": ""
     },
     {
+      "id": "DS1PR06MB10655BA1A05ECB86D681C1BD8C52C2@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "FW: Term Sheet",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 21 2026 15:58:00 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "CAFfZsXMJPfqE4Br1R8=Pwp_JKgpMAeS8T5GecB1NLkQCsCk1JA@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] Journal Club 5/12/26 at 3-3:45 pm",
       "sender": "Dylan Leblanc <dylan.leblanc@ascension.org>",
@@ -141,6 +177,15 @@
       "subject": "Pediatric Resident In Autism Clinic",
       "sender": "Puja Patel <pgpatel@ascension.org>",
       "date": "Tue Apr 21 2026 09:50:06 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAEncoAVfFMKruWPq56MgWET3eh1YU4u0F34h_LYLSOZYLNgO7w@mail.gmail.com",
+      "subject": "Fwd: -phi-",
+      "sender": "Grace Brady <grace.brady@ascension.org>",
+      "date": "Tue Apr 21 2026 09:10:30 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
