@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-27T10:51:10.763518",
+  "fetched_at": "2026-04-27T10:54:11.615992",
   "emails": [
     {
       "id": "20260427144119.74E2B7004D6E@clinentry11.be-md.ncbi.nlm.nih.gov",
@@ -96,6 +96,15 @@
       "subject": "Fwd: -phi-",
       "sender": "Grace Brady <grace.brady@ascension.org>",
       "date": "Tue Apr 21 2026 09:10:30 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKgOP6CYtUtB5=Bzp4Xqu01AOmRV4-wSU3eWhDdpyqdhU+MEmw@mail.gmail.com",
+      "subject": "DCMC-BH | Reminder Notice: Approaching Automatic Suspension",
+      "sender": "Michelle Sanchez <msanchez@ascension.org>",
+      "date": "Mon Apr 20 2026 14:35:27 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
