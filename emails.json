@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-28T15:52:38.710379",
+  "fetched_at": "2026-04-28T16:09:13.102408",
   "emails": [
     {
       "id": "CAKeQuiJOgPUv24rA6bA0xx3w-Up_ppL9SKmFn+UiWQvb7hCEJg@mail.gmail.com",
@@ -33,6 +33,42 @@
       "subject": "Your new statement is now available",
       "sender": "Ascension Customer Service <notifications@ascension.visitpay.com>",
       "date": "Tue Apr 28 2026 12:44:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SN7PR06MB7085833A90F9966997CD3A33D8372@SN7PR06MB7085.namprd06.prod.outlook.com",
+      "subject": "Re: TCDS ECHO: Please Review and Submit Form",
+      "sender": "\"Vanegas, Sandra\" <sandra.vanegas@austin.utexas.edu>",
+      "date": "Tue Apr 28 2026 09:26:50 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB506897A6DDA1883BC5D1D315E1372@DM6PR06MB5068.namprd06.prod.outlook.com",
+      "subject": "Appointment, Promotion, & Tenure Committee - Promotion Dossier Review Meeting",
+      "sender": "\"Affairs, DellMed Faculty\" <DellMedFacultyAffairs@austin.utexas.edu>",
+      "date": "Tue Apr 28 2026 09:17:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM5PR06MB3177EB0ABE83F0C840E1137ED5372@DM5PR06MB3177.namprd06.prod.outlook.com",
+      "subject": "Re: [EXTERNAL] Best Children’s Hospitals Pediatric Hospital Survey: Section L Follow-up | 6740147",
+      "sender": "\"Malbari, Alefiyah\" <alefiyah.malbari@austin.utexas.edu>",
+      "date": "Tue Apr 28 2026 08:20:49 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMMASR4OFgjvg9xSz4Ze4GNyw0K+65M7H9qe+nNz5dWFfBWyFg@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] Best Children’s Hospitals Pediatric Hospital Survey: Section L Follow-up | 6740147",
+      "sender": "Melissa Cole cammack <melissa.cammack@ascension.org>",
+      "date": "Tue Apr 28 2026 08:17:39 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -204,6 +240,15 @@
       "subject": "FW: NICHE-MED RFP Debrief Follow-up (UT-Austin)",
       "sender": "\"Brumback, Audrey C\" <audrey.brumback@austin.utexas.edu>",
       "date": "Sat Apr 25 2026 02:45:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SN7PR06MB7085D2C283A3E596714109E3D82B2@SN7PR06MB7085.namprd06.prod.outlook.com",
+      "subject": "TCDS ECHO: Please Review and Submit Form",
+      "sender": "\"Vanegas, Sandra\" <sandra.vanegas@austin.utexas.edu>",
+      "date": "Fri Apr 24 2026 16:49:51 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
