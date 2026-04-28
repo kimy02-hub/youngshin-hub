@@ -1485,6 +1485,11 @@
       "note": "https://www.dropbox.com/t/l02bz3QIJ6sFi6Ho\n대사관 주소: 1990 Post Oak Blvd #1250\nHouston, TX 77056\n건물 안 12층 (Suite 1250)\n전화: +1-713-961-0186\n업무시간:\n평일 09:00–17:00",
       "subtasks": [
         {
+          "text": "김문이 샘과 몇가지 서류 작성",
+          "done": true,
+          "due": "2026-04-23"
+        },
+        {
           "text": "위임장 준비",
           "done": false,
           "due": "2026-04-30"
@@ -1496,21 +1501,23 @@
         },
         {
           "text": "김문이 샘과 미팅: 일요일 밤 9시",
-          "done": true
+          "done": true,
+          "due": null
         },
         {
           "text": "김문이 샘한테 서류 점검",
-          "done": true
+          "done": true,
+          "due": null
         },
         {
-          "text": "김문이 샘과 몇가지 서류 작성",
-          "done": true,
-          "due": "2026-04-23"
+          "text": "영사관에서 출입국 관리소 확인증",
+          "done": false,
+          "due": null
         }
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-24T03:31:55.413Z",
+      "updatedAt": "2026-04-28T02:55:14.742Z",
       "color": "lime",
       "relatedEmails": [
         {
@@ -2347,5 +2354,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-27T17:11:26.864Z"
+  "saved_at": "2026-04-28T02:55:15.139Z"
 }
