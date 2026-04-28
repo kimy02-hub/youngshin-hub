@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-04-28T18:39:15.533994",
+  "fetched_at": "2026-04-28T18:42:13.700690",
   "emails": [
+    {
+      "id": "MWHPR06MB331089BDB201D1B31E4B944FDC372@MWHPR06MB3310.namprd06.prod.outlook.com",
+      "subject": "APA Geofencing",
+      "sender": "\"Simien, Karen\" <karen.simien@austin.utexas.edu>",
+      "date": "Tue Apr 28 2026 17:42:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA6PR06MB10664055D8560107807D0463FC5372@SA6PR06MB10664.namprd06.prod.outlook.com",
+      "subject": "RE: JAACAP - Print Journal Ad",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 28 2026 17:03:01 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA6PR06MB10664C82685EEDE45BBD22DBDC5372@SA6PR06MB10664.namprd06.prod.outlook.com",
+      "subject": "FW: LOS Review",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Tue Apr 28 2026 16:45:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CACRBQ8PVohfpChNrNEB8O9qZJ3auf4R584xmb5BwhXuORkH3NQ@mail.gmail.com",
       "subject": "call schedule",
