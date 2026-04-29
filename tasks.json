@@ -9,11 +9,12 @@
       "emailSender": "Dell Med HR <DellMedHR@austin.utexas.edu>",
       "emailDate": "Tue Apr 28 2026 22:01:34 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-05-11",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-29T18:04:03.121Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-29T18:08:08.058Z"
     },
     {
       "id": "task_1777484410154",
@@ -2398,5 +2399,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-29T18:04:03.201Z"
+  "saved_at": "2026-04-29T18:08:09.308Z"
 }
