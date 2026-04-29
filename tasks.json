@@ -24,13 +24,13 @@
       "emailSender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
       "emailDate": "Mon Apr 27 2026 01:25:15 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-05-08",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-27T17:11:26.405Z",
       "type": "email",
       "color": "violet",
-      "updatedAt": "2026-04-29T17:43:27.368Z"
+      "updatedAt": "2026-04-29T17:43:41.798Z"
     },
     {
       "id": "task_1777309883616",
@@ -2376,5 +2376,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-29T17:43:27.413Z"
+  "saved_at": "2026-04-29T17:43:42.018Z"
 }
