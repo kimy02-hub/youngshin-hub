@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-29T17:15:14.481916",
+  "fetched_at": "2026-04-29T17:18:17.487214",
   "emails": [
+    {
+      "id": "LO4P265MB6570EFF32A0C33FF5277D861EA342@LO4P265MB6570.GBRP265.PROD.OUTLOOK.COM",
+      "subject": "Re: BJPsych Open - BJPsychOpen-2026-0122",
+      "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
+      "date": "Wed Apr 29 2026 17:10:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "0101019ddb3aec48-ba24b2a1-9772-4a01-8916-6fc059d6a272-000000@us-west-2.amazonses.com",
       "subject": "BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
@@ -267,15 +276,6 @@
       "subject": "ClinicalTrials.gov Records Need Attention",
       "sender": "ClinicalTrials.gov Registration <register@clinicaltrials.gov>",
       "date": "Mon Apr 27 2026 09:41:24 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0101019dcd9cfc80-789f8b14-79de-45f7-bcf0-8630eb533f71-000000@us-west-2.amazonses.com",
-      "subject": "BJPsych Open - BJPsychOpen-2026-0122",
-      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
-      "date": "Mon Apr 27 2026 01:25:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
