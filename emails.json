@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-04-29T17:00:12.885333",
+  "fetched_at": "2026-04-29T17:03:15.742826",
   "emails": [
+    {
+      "id": "0101019ddb3aec48-ba24b2a1-9772-4a01-8916-6fc059d6a272-000000@us-west-2.amazonses.com",
+      "subject": "BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Wed Apr 29 2026 16:52:49 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019ddb36febe-8259c5df-dbc2-47da-aba3-635c88e7a1f8-000000@us-west-2.amazonses.com",
+      "subject": "New Handling Editor Assignment - BJPsychOpen-2026-0281",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Wed Apr 29 2026 16:48:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAHoda2ifvdebBn-OwDpB_2pekKbH+fAP8_JBEwCGL0U=huFcPQ@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] Question on cameras/microphones for rooms",
