@@ -1541,7 +1541,7 @@
       ],
       "createdAt": "2026-04-07T06:30:21.937Z",
       "type": "email",
-      "updatedAt": "2026-04-29T17:44:53.813Z",
+      "updatedAt": "2026-04-29T18:02:34.217Z",
       "color": "lime",
       "relatedEmails": [
         {
@@ -1558,6 +1558,11 @@
           "id": "DM6PR10MB3979167D6065FE748EB73C14FA2E2@DM6PR10MB3979.namprd10.prod.outlook.com",
           "subject": "FW: 해외송금관련",
           "sender": "Young Shin Kim <kimy02@gmail.com>"
+        },
+        {
+          "id": "7A4149A1-F4F3-4772-AEFA-B035B365709C@austin.utexas.edu",
+          "subject": "Fwd: 해외송금을 위한 서식",
+          "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>"
         }
       ]
     },
@@ -2378,5 +2383,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-29T17:44:53.989Z"
+  "saved_at": "2026-04-29T18:02:34.283Z"
 }
