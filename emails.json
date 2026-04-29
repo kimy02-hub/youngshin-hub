@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-29T12:57:15.272540",
+  "fetched_at": "2026-04-29T13:00:13.443477",
   "emails": [
+    {
+      "id": "7A4149A1-F4F3-4772-AEFA-B035B365709C@austin.utexas.edu",
+      "subject": "Fwd: 해외송금을 위한 서식",
+      "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
+      "date": "Wed Apr 29 2026 12:45:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "LV5PR06MB11266F6933CEEB21C10273C3CBA342@LV5PR06MB11266.namprd06.prod.outlook.com",
       "subject": "APT Pre-Review: Sunyang Fu",
