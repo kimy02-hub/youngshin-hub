@@ -1,20 +1,11 @@
 {
-  "fetched_at": "2026-04-29T13:00:13.443477",
+  "fetched_at": "2026-04-29T13:03:12.609970",
   "emails": [
     {
       "id": "7A4149A1-F4F3-4772-AEFA-B035B365709C@austin.utexas.edu",
       "subject": "Fwd: 해외송금을 위한 서식",
       "sender": "\"Kim, Young Shin\" <youngshin.kim@austin.utexas.edu>",
       "date": "Wed Apr 29 2026 12:45:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV5PR06MB11266F6933CEEB21C10273C3CBA342@LV5PR06MB11266.namprd06.prod.outlook.com",
-      "subject": "APT Pre-Review: Sunyang Fu",
-      "sender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
-      "date": "Wed Apr 29 2026 10:15:53 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -173,15 +164,6 @@
       "cc": ""
     },
     {
-      "id": "CH2PR06MB6742337D1B154C76613925E3BE362@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "connection between Dell Children's and Woolfolk Center",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Mon Apr 27 2026 16:47:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "DS4PR07MB11298A88E50D58C4FBEFB8050A3362@DS4PR07MB11298.namprd07.prod.outlook.com",
       "subject": "Best Children’s Hospitals Pediatric Hospital Survey: Section L Follow-up | 6740147",
       "sender": "Pediatric Hospital Survey <PediatricHospSurvey@rti.org>",
@@ -245,24 +227,6 @@
       "cc": ""
     },
     {
-      "id": "DS1PR06MB106554CA22AA09EB4E8689897C5362@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: TCSC Time!",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Mon Apr 27 2026 10:46:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf674Fb010WHETsV3T2gQSpYbo_i4KymfxkRzNpDhxTFbMA@mail.gmail.com",
-      "subject": "Re: TCSC Time!",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon Apr 27 2026 10:41:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "BYAPR05MB4952D69A85F0BB71D969772A96362@BYAPR05MB4952.namprd05.prod.outlook.com",
       "subject": "Flight info",
       "sender": "\"Manoli, Devanand\" <Devanand.Manoli@ucsf.edu>",
@@ -285,15 +249,6 @@
       "subject": "ClinicalTrials.gov Records Need Attention",
       "sender": "ClinicalTrials.gov Registration <register@clinicaltrials.gov>",
       "date": "Mon Apr 27 2026 09:41:24 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d2m+Xdo4FQZm7i=WnVZTSD18LZCv0rknQgm4OCu9nQhTg@mail.gmail.com",
-      "subject": "Re: TCSC Time!",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Mon Apr 27 2026 06:01:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
