@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-29T11:51:15.480590",
+  "fetched_at": "2026-04-29T11:54:13.921793",
   "emails": [
+    {
+      "id": "DS4PR06MB107633D392CD9E4A96301318BC9342@DS4PR06MB10763.namprd06.prod.outlook.com",
+      "subject": "Simons Foundation RFA on Autism",
+      "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
+      "date": "Wed Apr 29 2026 11:50:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAMFZdz3VRsdZ3uaGUr+3SA6kppcjwfqgNESLQ4FxDazJqb9jqA@mail.gmail.com",
       "subject": "Update",
