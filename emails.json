@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-29T13:39:14.124910",
+  "fetched_at": "2026-04-29T13:42:14.180559",
   "emails": [
+    {
+      "id": "DS1PR06MB10655815C212B574DF0B4B89FC5342@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "FW: Paid On Call and Psychology Salary Increase",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Wed Apr 29 2026 13:24:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "7A4149A1-F4F3-4772-AEFA-B035B365709C@austin.utexas.edu",
       "subject": "Fwd: 해외송금을 위한 서식",
