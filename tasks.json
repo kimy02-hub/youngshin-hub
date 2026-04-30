@@ -32,11 +32,12 @@
       "emailSender": "\"Copeland, Adrienne\" <adrienne.copeland@austin.utexas.edu>",
       "emailDate": "Mon Apr 27 2026 13:01:12 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-30",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:20:27.300Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-30T04:22:18.027Z"
     },
     {
       "id": "task_1777522810174",
@@ -2705,5 +2706,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:22:06.859Z"
+  "saved_at": "2026-04-30T04:22:18.304Z"
 }
