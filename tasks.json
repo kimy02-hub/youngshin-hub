@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777522613416",
+      "title": "New Handling Editor Assignment - BJPsychOpen-2026-0281",
+      "done": false,
+      "flagged": true,
+      "emailId": "0101019ddb36febe-8259c5df-dbc2-47da-aba3-635c88e7a1f8-000000@us-west-2.amazonses.com",
+      "emailSender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "emailDate": "Wed Apr 29 2026 16:48:32 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-30T04:16:53.416Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777522610190",
       "title": "BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
       "done": false,
@@ -2452,5 +2467,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:16:50.227Z"
+  "saved_at": "2026-04-30T04:16:53.806Z"
 }
