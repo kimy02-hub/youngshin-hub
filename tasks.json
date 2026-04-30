@@ -2157,7 +2157,7 @@
       ],
       "createdAt": "2026-04-06T17:38:31.837Z",
       "type": "manual",
-      "updatedAt": "2026-04-27T00:09:12.187Z",
+      "updatedAt": "2026-04-30T04:21:14.084Z",
       "color": "fuchsia",
       "relatedEmails": [
         {
@@ -2178,6 +2178,11 @@
         {
           "id": "BY5PR13MB4551F77C458489996CC74161EE2D2@BY5PR13MB4551.namprd13.prod.outlook.com",
           "subject": "Gerber proposal",
+          "sender": "Brandon J Rennie <brennie@salud.unm.edu>"
+        },
+        {
+          "id": "BY5PR13MB45516BD29C8903B06C6E9E96EE362@BY5PR13MB4551.namprd13.prod.outlook.com",
+          "subject": "RE: Specific aims",
           "sender": "Brandon J Rennie <brennie@salud.unm.edu>"
         }
       ],
@@ -2692,5 +2697,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:20:39.125Z"
+  "saved_at": "2026-04-30T04:21:14.461Z"
 }
