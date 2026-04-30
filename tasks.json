@@ -43,7 +43,7 @@
     {
       "id": "task_1777522810174",
       "title": "Fiona Rx Refill",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "A01EADA9-C3F8-4F62-A564-A561BCFDE389@gmail.com",
       "emailSender": "Jessica Rodriguez <j355icarod14@gmail.com>",
@@ -55,7 +55,8 @@
       "createdAt": "2026-04-30T04:20:10.174Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-30T04:22:58.365Z"
+      "updatedAt": "2026-04-30T17:15:51.594Z",
+      "doneAt": "2026-04-30T17:15:51.594Z"
     },
     {
       "id": "task_1777522784984",
@@ -2716,5 +2717,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:23:37.145Z"
+  "saved_at": "2026-04-30T17:15:51.900Z"
 }
