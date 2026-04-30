@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777522610190",
+      "title": "BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
+      "done": false,
+      "flagged": true,
+      "emailId": "0101019ddb3aec48-ba24b2a1-9772-4a01-8916-6fc059d6a272-000000@us-west-2.amazonses.com",
+      "emailSender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "emailDate": "Wed Apr 29 2026 16:52:49 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-30T04:16:50.190Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777522516875",
       "title": "Re: BJPsych Open - BJPsychOpen-2026-0122",
       "done": false,
@@ -2437,5 +2452,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:16:29.201Z"
+  "saved_at": "2026-04-30T04:16:50.227Z"
 }
