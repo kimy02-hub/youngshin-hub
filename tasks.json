@@ -686,7 +686,7 @@
     {
       "id": "task_1776799611418",
       "title": "FW: Posted: R_00045441 Clinical Research Associate I (Open)",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "PH0PR06MB7772430884B9608645AF1771AF252@PH0PR06MB7772.namprd06.prod.outlook.com",
       "emailSender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
@@ -709,7 +709,8 @@
       "createdAt": "2026-04-21T19:26:51.418Z",
       "type": "email",
       "color": "teal",
-      "updatedAt": "2026-04-26T20:48:33.246Z"
+      "updatedAt": "2026-04-30T04:22:26.128Z",
+      "doneAt": "2026-04-30T04:22:26.128Z"
     },
     {
       "id": "task_1776705604334",
@@ -2706,5 +2707,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:22:18.304Z"
+  "saved_at": "2026-04-30T04:22:26.380Z"
 }
