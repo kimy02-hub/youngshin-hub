@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777522516875",
+      "title": "Re: BJPsych Open - BJPsychOpen-2026-0122",
+      "done": false,
+      "flagged": true,
+      "emailId": "LO4P265MB6570EFF32A0C33FF5277D861EA342@LO4P265MB6570.GBRP265.PROD.OUTLOOK.COM",
+      "emailSender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
+      "emailDate": "Wed Apr 29 2026 17:10:04 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-30T04:15:16.875Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777499620277",
       "title": "FW: Paid On Call and Psychology Salary Increase",
       "done": false,
@@ -2415,5 +2430,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:15:13.065Z"
+  "saved_at": "2026-04-30T04:15:17.335Z"
 }
