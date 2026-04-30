@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777522623721",
+      "title": "Re: Re: [EXTERNAL] Question on cameras/microphones for rooms",
+      "done": false,
+      "flagged": true,
+      "emailId": "CAHoda2ifvdebBn-OwDpB_2pekKbH+fAP8_JBEwCGL0U=huFcPQ@mail.gmail.com",
+      "emailSender": "Christopher Gwaldo <christopher.gwaldo@ascension.org>",
+      "emailDate": "Wed Apr 29 2026 16:27:33 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-04-30T04:17:03.721Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777522613416",
       "title": "New Handling Editor Assignment - BJPsychOpen-2026-0281",
       "done": false,
@@ -2467,5 +2482,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:16:53.806Z"
+  "saved_at": "2026-04-30T04:17:04.135Z"
 }
