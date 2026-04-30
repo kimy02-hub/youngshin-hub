@@ -9,11 +9,18 @@
       "emailSender": "ClinicalTrials.gov Registration <register@clinicaltrials.gov>",
       "emailDate": "Mon Apr 27 2026 09:43:54 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-05-01",
       "note": "",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "text": "",
+          "done": false,
+          "due": null
+        }
+      ],
       "createdAt": "2026-04-30T04:20:38.654Z",
-      "type": "email"
+      "type": "email",
+      "updatedAt": "2026-04-30T04:21:58.871Z"
     },
     {
       "id": "task_1777522827300",
@@ -2697,5 +2704,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:21:14.461Z"
+  "saved_at": "2026-04-30T04:21:59.417Z"
 }
