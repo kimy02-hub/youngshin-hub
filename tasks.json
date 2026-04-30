@@ -105,7 +105,7 @@
     {
       "id": "task_1777240634175",
       "title": "CCC panel",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CAJjz+kC4EN48JWpaWTD=2xC=UK=UPywNLeO2g-aGi-hzy=xwMg@mail.gmail.com",
       "emailSender": "Tania Michaels <tania.michaels@ascension-external.org>",
@@ -117,7 +117,8 @@
       "createdAt": "2026-04-26T21:57:14.176Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-26T21:57:35.025Z"
+      "updatedAt": "2026-04-30T04:16:28.785Z",
+      "doneAt": "2026-04-30T04:16:28.785Z"
     },
     {
       "id": "task_1777154812332",
@@ -2436,5 +2437,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:16:22.283Z"
+  "saved_at": "2026-04-30T04:16:29.201Z"
 }
