@@ -66,13 +66,13 @@
       "emailSender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
       "emailDate": "Mon Apr 27 2026 15:59:52 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-30",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:19:44.984Z",
       "type": "email",
       "color": "espresso",
-      "updatedAt": "2026-04-30T04:23:06.013Z"
+      "updatedAt": "2026-04-30T04:23:10.943Z"
     },
     {
       "id": "task_1777522780093",
@@ -2712,5 +2712,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:23:06.688Z"
+  "saved_at": "2026-04-30T04:23:11.434Z"
 }
