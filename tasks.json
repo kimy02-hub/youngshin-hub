@@ -100,13 +100,13 @@
       "emailSender": "utaustin@myworkday.com",
       "emailDate": "Mon Apr 27 2026 23:33:48 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-04-30",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:19:21.418Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-04-30T04:23:30.837Z"
+      "updatedAt": "2026-04-30T04:23:36.717Z"
     },
     {
       "id": "task_1777522737973",
@@ -2716,5 +2716,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:23:31.178Z"
+  "saved_at": "2026-04-30T04:23:37.145Z"
 }
