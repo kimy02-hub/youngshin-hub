@@ -77,7 +77,7 @@
     {
       "id": "task_1777522780093",
       "title": "FW: Woolfolk Center- Texas Autism Walk Follow-Up",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH2PR06MB6742F9BB319CBB6178154D4CBE362@CH2PR06MB6742.namprd06.prod.outlook.com",
       "emailSender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
@@ -87,7 +87,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:19:40.093Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-04-30T04:23:20.188Z",
+      "updatedAt": "2026-04-30T04:23:20.188Z"
     },
     {
       "id": "task_1777522761418",
@@ -2712,5 +2714,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-04-30T04:23:11.434Z"
+  "saved_at": "2026-04-30T04:23:20.650Z"
 }
