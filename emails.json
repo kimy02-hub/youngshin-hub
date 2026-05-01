@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-01T12:00:18.729198",
+  "fetched_at": "2026-05-01T12:03:17.101893",
   "emails": [
     {
       "id": "MN2PR18MB30561AEE8F6BD1CA16761911A4322@MN2PR18MB3056.namprd18.prod.outlook.com",
@@ -330,15 +330,6 @@
       "subject": "Re: Thank you / visit to Austin",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 23 2026 10:30:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB3918F6AB967E28BD9BF12CA1E22A2@SN6PR06MB3918.namprd06.prod.outlook.com",
-      "subject": "RE: Thank you / visit to Austin",
-      "sender": "\"Magana, Sandy\" <smagana@austin.utexas.edu>",
-      "date": "Thu Apr 23 2026 10:28:35 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
