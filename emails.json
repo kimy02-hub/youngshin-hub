@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T21:45:12.541967",
+  "fetched_at": "2026-04-30T21:48:13.678990",
   "emails": [
     {
       "id": "DS1PR06MB10655B0E6E4414E10FD624AD9C5352@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -159,6 +159,15 @@
       "subject": "Re: Re: [EXTERNAL] INSPIRE Protocol Version 2",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Wed Apr 29 2026 07:30:30 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz3VRsdZ3uaGUr+3SA6kppcjwfqgNESLQ4FxDazJqb9jqA@mail.gmail.com",
+      "subject": "Update",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Tue Apr 28 2026 22:35:37 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
