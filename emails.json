@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T21:30:10.353231",
+  "fetched_at": "2026-04-30T21:33:11.115012",
   "emails": [
     {
       "id": "DS1PR06MB10655B0E6E4414E10FD624AD9C5352@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -60,6 +60,15 @@
       "subject": "RE: Thank you / visit to Austin",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu Apr 30 2026 11:47:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "51d5a2e9-8eb7-48ed-bce2-26ae32fb6e0f@new-innov.com",
+      "subject": "ACTION REQUIRED: APE Faculty Survey",
+      "sender": "Vanessa Castillo <support@new-innov.com>",
+      "date": "Thu Apr 30 2026 11:05:53 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
