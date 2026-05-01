@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T21:54:12.920489",
+  "fetched_at": "2026-04-30T21:57:13.872344",
   "emails": [
     {
       "id": "DS1PR06MB10655B0E6E4414E10FD624AD9C5352@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -173,10 +173,28 @@
       "cc": ""
     },
     {
+      "id": "EA2PR16MB6299525F9872FF958032C7F9A0372@EA2PR16MB6299.namprd16.prod.outlook.com",
+      "subject": "RE: Donor brochures",
+      "sender": "Brad Johl <bjohl@acaciapartnersllc.com>",
+      "date": "Tue Apr 28 2026 18:19:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "SA6PR06MB10664055D8560107807D0463FC5372@SA6PR06MB10664.namprd06.prod.outlook.com",
       "subject": "RE: JAACAP - Print Journal Ad",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Tue Apr 28 2026 17:03:01 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKeQuiJOgPUv24rA6bA0xx3w-Up_ppL9SKmFn+UiWQvb7hCEJg@mail.gmail.com",
+      "subject": "Two referral questions",
+      "sender": "Liz Krainman <mama2ablizzard@gmail.com>",
+      "date": "Tue Apr 28 2026 13:48:42 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
