@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-05-01T14:54:13.292305",
+  "fetched_at": "2026-05-01T14:57:14.066661",
   "emails": [
+    {
+      "id": "DM5PR0601MB37494AC996609C2282271153D1322@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "subject": "Re: Restaurant for Dinner w/ Dev Manoli",
+      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "date": "Fri May 01 2026 14:00:02 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0.0.3.ADE.1DCD994BE659A86.378501@rspmtadfw-02.alchemer.com",
+      "subject": "AACAP 2026 Election Begins!",
+      "sender": "AACAP <AACAP@intelliscanvotes.com>",
+      "date": "Fri May 01 2026 13:03:06 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAMFZdz0r+dQ7TM7=hqHFoinfQv+zLp-uT9Cg5MhEzQkDJhGdzA@mail.gmail.com",
       "subject": "Fwd: [EXTERNAL] Leave Announcement — Support for Mara Makasiar and Integrated Care Needs",
@@ -285,6 +303,15 @@
       "subject": "Re: Thank you / visit to Austin",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Apr 23 2026 11:34:45 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "31B84F32-F68A-4AF8-9B06-ECE923953990@austin.utexas.edu",
+      "subject": "Re: Thank you / visit to Austin",
+      "sender": "\"Magana, Sandy\" <smagana@austin.utexas.edu>",
+      "date": "Thu Apr 23 2026 11:32:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
