@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-04-30T22:03:13.698228",
+  "fetched_at": "2026-04-30T22:06:15.453220",
   "emails": [
+    {
+      "id": "CH5PR06MB105497CBEA964F242E6904510CA322@CH5PR06MB10549.namprd06.prod.outlook.com",
+      "subject": "Yessenia Rojas has submitted Self Appraisal",
+      "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
+      "date": "Thu Apr 30 2026 22:01:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10655B0E6E4414E10FD624AD9C5352@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "FW: TCHATT Dell Children's Medical Group, Second Amendment",
