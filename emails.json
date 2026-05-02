@@ -1,11 +1,38 @@
 {
-  "fetched_at": "2026-05-02T00:00:26.659000",
+  "fetched_at": "2026-05-02T00:06:13.974457",
   "emails": [
+    {
+      "id": "BLAPR05MB744123FDA9E6675834956F8287322@BLAPR05MB7441.namprd05.prod.outlook.com",
+      "subject": "RE: Hello from Austin Family",
+      "sender": "\"Ankenman, Katy\" <Katy.Ankenman@ucsf.edu>",
+      "date": "Fri May 01 2026 18:30:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "0102019de5931772-8236c937-e145-48eb-a36a-a629a71cdfb2-000000@eu-west-1.amazonses.com",
       "subject": "IMPORTANT – Track your article [JAACOP_235]",
       "sender": "JAACAP Open <jaacop@elsevier.com>",
       "date": "Fri May 01 2026 17:05:27 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "18.57.26006.F6025F96@i-0caf141b90c26113f.mta1vrest.sd.prd.sparkpost",
+      "subject": "Check in now and request Digital Key for your stay",
+      "sender": "Hilton Hotels & Resorts <noreply@h6.hilton.com>",
+      "date": "Fri May 01 2026 16:51:50 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV3PR16MB6320BE9B56888DF008E0CB57A0322@LV3PR16MB6320.namprd16.prod.outlook.com",
+      "subject": "RE: [External] Donor brochures",
+      "sender": "Brad Johl <bjohl@acaciapartnersllc.com>",
+      "date": "Fri May 01 2026 16:38:58 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
