@@ -189,7 +189,7 @@
     {
       "id": "task_1777522670053",
       "title": "FW: LOS Review",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SA6PR06MB10664C82685EEDE45BBD22DBDC5372@SA6PR06MB10664.namprd06.prod.outlook.com",
       "emailSender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
@@ -199,7 +199,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:17:50.053Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-05-03T20:26:43.798Z",
+      "updatedAt": "2026-05-03T20:26:43.798Z"
     },
     {
       "id": "task_1777522662779",
@@ -2735,5 +2737,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:22:51.552Z"
+  "saved_at": "2026-05-03T20:26:43.917Z"
 }
