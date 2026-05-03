@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777840790030",
+      "title": "Re: Restaurant for Dinner w/ Dev Manoli",
+      "done": false,
+      "flagged": true,
+      "emailId": "DM5PR0601MB37494AC996609C2282271153D1322@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "emailSender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "emailDate": "Fri May 01 2026 14:00:02 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-05-03T20:39:50.030Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777840786680",
       "title": "Decision JAACAPOPEN-D-25-00031R2 - [EMID:31d71bc56694fe24]",
       "done": false,
@@ -2820,5 +2835,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:39:46.801Z"
+  "saved_at": "2026-05-03T20:39:50.145Z"
 }
