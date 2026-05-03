@@ -217,7 +217,7 @@
     {
       "id": "task_1777522656043",
       "title": "APA Geofencing",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "MWHPR06MB331089BDB201D1B31E4B944FDC372@MWHPR06MB3310.namprd06.prod.outlook.com",
       "emailSender": "\"Simien, Karen\" <karen.simien@austin.utexas.edu>",
@@ -227,7 +227,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:17:36.043Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-05-03T19:17:21.170Z",
+      "updatedAt": "2026-05-03T19:17:21.170Z"
     },
     {
       "id": "task_1777522623721",
@@ -2720,5 +2722,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T19:16:44.435Z"
+  "saved_at": "2026-05-03T19:17:21.385Z"
 }
