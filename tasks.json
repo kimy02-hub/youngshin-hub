@@ -180,13 +180,13 @@
       "emailSender": "Jane Ripperger-Suhler <JARippergersuhler@ascension.org>",
       "emailDate": "Tue Apr 28 2026 16:14:01 GMT-0500 (Central Daylight Time)",
       "cc": "",
-      "due": null,
+      "due": "2026-05-06",
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:17:55.877Z",
       "type": "email",
       "color": "canary",
-      "updatedAt": "2026-05-03T20:26:47.330Z"
+      "updatedAt": "2026-05-03T20:26:58.113Z"
     },
     {
       "id": "task_1777522670053",
@@ -2739,5 +2739,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:26:47.492Z"
+  "saved_at": "2026-05-03T20:26:58.264Z"
 }
