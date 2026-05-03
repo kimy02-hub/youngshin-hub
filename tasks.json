@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777840792364",
+      "title": "AACAP 2026 Election Begins!",
+      "done": false,
+      "flagged": true,
+      "emailId": "0.0.3.ADE.1DCD994BE659A86.378501@rspmtadfw-02.alchemer.com",
+      "emailSender": "AACAP <AACAP@intelliscanvotes.com>",
+      "emailDate": "Fri May 01 2026 13:03:06 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-05-03T20:39:52.364Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777840790030",
       "title": "Re: Restaurant for Dinner w/ Dev Manoli",
       "done": false,
@@ -2835,5 +2850,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:39:50.145Z"
+  "saved_at": "2026-05-03T20:39:52.492Z"
 }
