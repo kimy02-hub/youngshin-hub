@@ -159,7 +159,7 @@
     {
       "id": "task_1777522685219",
       "title": "secure PHI: next steps for patients in the queue",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "CH2PR06MB67425065E15C2A9D9A0C82C7BE372@CH2PR06MB6742.namprd06.prod.outlook.com",
       "emailSender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
@@ -169,7 +169,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:18:05.219Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-05-03T20:37:48.529Z",
+      "updatedAt": "2026-05-03T20:37:48.529Z"
     },
     {
       "id": "task_1777522675877",
@@ -2739,5 +2741,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:26:58.264Z"
+  "saved_at": "2026-05-03T20:37:48.589Z"
 }
