@@ -1,6 +1,21 @@
 {
   "tasks": [
     {
+      "id": "task_1777840786680",
+      "title": "Decision JAACAPOPEN-D-25-00031R2 - [EMID:31d71bc56694fe24]",
+      "done": false,
+      "flagged": true,
+      "emailId": "010f019de5400cd9-a6f25cd6-3a55-4d76-aa2b-24ee0beb6a4d-000000@us-east-2.amazonses.com",
+      "emailSender": "JAACAP Open <em@editorialmanager.com>",
+      "emailDate": "Fri May 01 2026 15:34:39 GMT-0500 (Central Daylight Time)",
+      "cc": "",
+      "due": null,
+      "note": "",
+      "subtasks": [],
+      "createdAt": "2026-05-03T20:39:46.680Z",
+      "type": "email"
+    },
+    {
       "id": "task_1777840778747",
       "title": "IMPORTANT – Track your article [JAACOP_235]",
       "done": false,
@@ -2805,5 +2820,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:39:38.858Z"
+  "saved_at": "2026-05-03T20:39:46.801Z"
 }
