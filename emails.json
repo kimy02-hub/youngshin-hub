@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T12:48:16.662143",
+  "fetched_at": "2026-05-03T12:54:21.050160",
   "emails": [
     {
       "id": "FD6F2C83-FC05-40C3-A450-A562786A461E@austin.utexas.edu",
@@ -65,15 +65,6 @@
       "cc": ""
     },
     {
-      "id": "LV3PR16MB6320BE9B56888DF008E0CB57A0322@LV3PR16MB6320.namprd16.prod.outlook.com",
-      "subject": "RE: [External] Donor brochures",
-      "sender": "Brad Johl <bjohl@acaciapartnersllc.com>",
-      "date": "Fri May 01 2026 16:38:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "010f019de5400cd9-a6f25cd6-3a55-4d76-aa2b-24ee0beb6a4d-000000@us-east-2.amazonses.com",
       "subject": "Decision JAACAPOPEN-D-25-00031R2 - [EMID:31d71bc56694fe24]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
@@ -105,15 +96,6 @@
       "subject": "Fwd: [EXTERNAL] Leave Announcement — Support for Mara Makasiar and Integrated Care Needs",
       "sender": "Puja Patel <pgpatel@ascension.org>",
       "date": "Fri May 01 2026 12:04:09 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "MN2PR18MB30561AEE8F6BD1CA16761911A4322@MN2PR18MB3056.namprd18.prod.outlook.com",
-      "subject": "Re: Donor brochures",
-      "sender": "Sandy Gottesman <sandy@gottesmanco.com>",
-      "date": "Thu Apr 30 2026 22:18:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
