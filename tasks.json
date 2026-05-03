@@ -127,7 +127,7 @@
     {
       "id": "task_1777522706822",
       "title": "Weekly Report_4/20/26",
-      "done": false,
+      "done": true,
       "flagged": true,
       "emailId": "SA6PR06MB10664F7A46EEBA62FB4D97D19C5372@SA6PR06MB10664.namprd06.prod.outlook.com",
       "emailSender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
@@ -137,7 +137,9 @@
       "note": "",
       "subtasks": [],
       "createdAt": "2026-04-30T04:18:26.822Z",
-      "type": "email"
+      "type": "email",
+      "doneAt": "2026-05-03T20:38:03.030Z",
+      "updatedAt": "2026-05-03T20:38:03.030Z"
     },
     {
       "id": "task_1777522698749",
@@ -2741,5 +2743,5 @@
       "updatedAt": "2026-04-08T19:59:26.308Z"
     }
   ],
-  "saved_at": "2026-05-03T20:37:48.589Z"
+  "saved_at": "2026-05-03T20:38:03.201Z"
 }
