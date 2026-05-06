@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T19:27:15.082558",
+  "fetched_at": "2026-05-05T19:30:14.091771",
   "emails": [
     {
       "id": "calendar-c66d0c7a-e99d-4c41-a622-bcac1110f5d7@google.com",
@@ -31,7 +31,7 @@
     {
       "id": "CAFMPgGRxLkOSW2vM60YC=oWX8F=W_WaEgEZAEJpF9GZ2cLHJhw@mail.gmail.com",
       "subject": "TCSC Sage Flyer Posting",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Tue May 05 2026 12:51:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -175,7 +175,7 @@
     {
       "id": "CANYCf64kk2a_t1wyNFJnLaS5BJVheURxxvD1bbMJ-pVw=u-LBA@mail.gmail.com",
       "subject": "Information on Nikita Patel",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
       "date": "Mon May 04 2026 11:16:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
