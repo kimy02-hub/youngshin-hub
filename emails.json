@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T13:12:15.367924",
+  "fetched_at": "2026-05-06T13:15:15.095210",
   "emails": [
     {
       "id": "BN8PR11MB37615E93FE489B8FF36EBD65C13F2@BN8PR11MB3761.namprd11.prod.outlook.com",
@@ -22,8 +22,35 @@
     {
       "id": "CAFMPgGQcuask_LouwgDZ28K4VGuSgeONv9bcTJOnG-tKT2=+0g@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] INSPIRE Protocol Version 2",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Wed May 06 2026 08:16:16 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019dfc7b6c8c-674f9c36-751b-414b-846b-78f0df4c59ee-000000@us-west-2.amazonses.com",
+      "subject": "BJPsych Open - BJPsychOpen-2026-0122 - Paper moved to a decision",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Wed May 06 2026 03:50:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019dfc76f0fe-9175198e-adee-4302-ac19-6798535ebb29-000000@us-west-2.amazonses.com",
+      "subject": "BJPsychOpen-2026-0122 ready for decision",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Wed May 06 2026 03:45:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LO0P265MB4621B5DDF90BB1905AEF9342C63F2@LO0P265MB4621.GBRP265.PROD.OUTLOOK.COM",
+      "subject": "Next BJPsych Open Editorial Board Meeting: Monday 1 June at 1.00 pm - 2.30 pm UK time",
+      "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
+      "date": "Wed May 06 2026 03:37:22 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -420,33 +447,6 @@
       "subject": "Yessenia Rojas has submitted Self Appraisal",
       "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
       "date": "Thu Apr 30 2026 22:01:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN6PR13MB326522134E5E14201B06A700FC322@BN6PR13MB3265.namprd13.prod.outlook.com",
-      "subject": "Re: Good morning, We purchased several gift cards for a research study on9/30/2024 and have realized that the ones we have left are now expired (...",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Thu Apr 30 2026 21:34:42 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655B0E6E4414E10FD624AD9C5352@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "FW: TCHATT Dell Children's Medical Group, Second Amendment",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Thu Apr 30 2026 18:21:04 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655BBAD1724564C720272C5C5352@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "TCHATT Dell Children's Medical Group, Second Amendment",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Thu Apr 30 2026 18:19:22 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
