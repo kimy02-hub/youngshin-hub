@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-06T17:27:16.393058",
+  "fetched_at": "2026-05-06T17:30:17.388708",
   "emails": [
+    {
+      "id": "SJ4PPF573A2A57245B5F08489954F59CE2CA93F2@SJ4PPF573A2A572.namprd22.prod.outlook.com",
+      "subject": "contacts for Journal masthead recruitment outreach",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Wed May 06 2026 17:24:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BN8PR11MB37615E93FE489B8FF36EBD65C13F2@BN8PR11MB3761.namprd11.prod.outlook.com",
       "subject": "[UTEXAS: SUSPECTED SPAM] AADCAP: AIRE Pilot",
@@ -438,15 +447,6 @@
       "subject": "RE: Good morning, We purchased several gift cards for a research study on9/30/2024 and have realized that the ones we have left are now expired (...",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Fri May 01 2026 07:53:16 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH5PR06MB105497CBEA964F242E6904510CA322@CH5PR06MB10549.namprd06.prod.outlook.com",
-      "subject": "Yessenia Rojas has submitted Self Appraisal",
-      "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
-      "date": "Thu Apr 30 2026 22:01:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
