@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-05-05T20:36:14.414772",
+  "fetched_at": "2026-05-05T20:39:14.208201",
   "emails": [
+    {
+      "id": "CAMFZdz1JR=7kHws=0JPjHYRzvTC1HxE_sSoTPwY9eBAD_tAR+Q@mail.gmail.com",
+      "subject": "Re: FW: Re: [EXTERNAL] Policy Update",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Tue May 05 2026 16:53:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAJ6O+mCcX9OxVfbRCOiTP9dbzZDbxQsqpGSm670Db-mD2JL4mQ@mail.gmail.com",
+      "subject": "Re: FW: Re: [EXTERNAL] Policy Update",
+      "sender": "Krystle Pleitz <krystle.pleitz@ascension.org>",
+      "date": "Tue May 05 2026 16:40:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB63481D0BEDD9033517914D72BA3E2@DM6PR06MB6348.namprd06.prod.outlook.com",
+      "subject": "FW: Re: [EXTERNAL] Policy Update",
+      "sender": "\"Jain, Ritika\" <ritika.jain@austin.utexas.edu>",
+      "date": "Tue May 05 2026 16:27:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BN8PR06MB62270CA685D483EE7FD1EA4BE13E2@BN8PR06MB6227.namprd06.prod.outlook.com",
       "subject": "RE: CPAN/PeriPAN Leadership Monthly Meeting",
@@ -420,33 +447,6 @@
       "subject": "Tax Receipt - The University of Texas at Austin",
       "sender": "The University of Texas at Austin <giftadmn@austin.utexas.edu>",
       "date": "Wed Apr 29 2026 18:11:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655C622F5F698DFE9C30FC1C5342@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: PLEASE APPROVE OR DENY: PHP/IOP Relaunch at Dell Children's",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Wed Apr 29 2026 17:22:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LO4P265MB6570EFF32A0C33FF5277D861EA342@LO4P265MB6570.GBRP265.PROD.OUTLOOK.COM",
-      "subject": "Re: BJPsych Open - BJPsychOpen-2026-0122",
-      "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
-      "date": "Wed Apr 29 2026 17:10:04 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0101019ddb3aec48-ba24b2a1-9772-4a01-8916-6fc059d6a272-000000@us-west-2.amazonses.com",
-      "subject": "BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
-      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
-      "date": "Wed Apr 29 2026 16:52:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
