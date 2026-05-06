@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T19:26:00.620700",
+  "fetched_at": "2026-05-05T19:27:15.082558",
   "emails": [
     {
       "id": "calendar-c66d0c7a-e99d-4c41-a622-bcac1110f5d7@google.com",
@@ -103,7 +103,7 @@
     {
       "id": "CAJ28Zxhem+QjQKhRJQA37+PRwp0_qxDcztOD8EXLGhqHM+98yQ@mail.gmail.com",
       "subject": "Disclosures needed",
-      "sender": "Mary Setterquist <msetterquist@ascension.org>",
+      "sender": "Mary Setterquist <MSetterquist@ascension.org>",
       "date": "Mon May 04 2026 16:46:07 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -247,7 +247,7 @@
     {
       "id": "CAFMPgGQvWsyN+rTBMUmv-QH37BTsF85sYDzfiwMpvwab2q_s0w@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] INSPIRE Protocol Version 2",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Mon May 04 2026 08:42:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
