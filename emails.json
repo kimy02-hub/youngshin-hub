@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T12:33:14.378841",
+  "fetched_at": "2026-05-06T12:36:16.082727",
   "emails": [
     {
       "id": "CAMFZdz1JR=7kHws=0JPjHYRzvTC1HxE_sSoTPwY9eBAD_tAR+Q@mail.gmail.com",
@@ -438,6 +438,15 @@
       "subject": "Re: Re: [EXTERNAL] INSPIRE Protocol Version 2",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Thu Apr 30 2026 16:08:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB674739CD6D178F752BD58AE9BE352@DM6PR06MB6747.namprd06.prod.outlook.com",
+      "subject": "Fw: Nian Chen’s info and insurance",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Wed Apr 29 2026 19:57:53 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
