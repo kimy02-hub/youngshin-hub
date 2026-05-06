@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T20:39:14.208201",
+  "fetched_at": "2026-05-05T20:42:15.516818",
   "emails": [
     {
       "id": "CAMFZdz1JR=7kHws=0JPjHYRzvTC1HxE_sSoTPwY9eBAD_tAR+Q@mail.gmail.com",
@@ -74,6 +74,15 @@
       "cc": ""
     },
     {
+      "id": "LV8PR07MB105838A33004F56372A0194CAC63E2@LV8PR07MB10583.namprd07.prod.outlook.com",
+      "subject": "Re: connection related to Dine in NM",
+      "sender": "Candi Running Bear <cr2322@unm.edu>",
+      "date": "Tue May 05 2026 13:46:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "010f019df957729b-5426ea18-3864-46e5-a710-534be205d4bf-000000@us-east-2.amazonses.com",
       "subject": "Your BPS Submission: BPS-D-26-00491 - [EMID:8091995757ff8bdd]",
       "sender": "Biological Psychiatry <em@editorialmanager.com>",
@@ -130,7 +139,7 @@
     {
       "id": "CAJ28ZxhoTkGhh-KjZkbBes7kU6sYx04nkoTBqKp49xNkU2XYDg@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] Disclosures needed",
-      "sender": "Mary Setterquist <msetterquist@ascension.org>",
+      "sender": "Mary Setterquist <MSetterquist@ascension.org>",
       "date": "Tue May 05 2026 07:52:03 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -139,7 +148,7 @@
     {
       "id": "HRSPUTAPROD2b4N23b00000021b@hrsputaprod2.HuronClick.com",
       "subject": "STUDY00008537 is waiting for clarification",
-      "sender": "\"no-reply@utexas.edu\" <no-reply@utexas.edu>",
+      "sender": "no-reply@utexas.edu",
       "date": "Tue May 05 2026 01:00:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -166,7 +175,7 @@
     {
       "id": "BN8PR06MB622724AD3EF45E50F8FE1F6EE1312@BN8PR06MB6227.namprd06.prod.outlook.com",
       "subject": "RE: CPAN/PeriPAN Leadership Monthly Meeting",
-      "sender": "\"Griffiths, Amber\" <Amber.Griffiths@bcm.edu>",
+      "sender": "\"Griffiths, Amber\" <amber.griffiths@bcm.edu>",
       "date": "Mon May 04 2026 15:35:58 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -438,15 +447,6 @@
       "subject": "Fw: Nian Chen’s info and insurance",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Wed Apr 29 2026 19:57:53 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "177750425849.34172.7429615281332532013@production-7d495997c-cjth6",
-      "subject": "Tax Receipt - The University of Texas at Austin",
-      "sender": "The University of Texas at Austin <giftadmn@austin.utexas.edu>",
-      "date": "Wed Apr 29 2026 18:11:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
