@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-07T10:42:19.197503",
+  "fetched_at": "2026-05-07T10:45:19.758511",
   "emails": [
     {
       "id": "mov118xj.-1t05pefh9aj77@dellmed-utexas.secureemailportal.com",
@@ -420,15 +420,6 @@
       "subject": "IMPORTANT – Track your article [JAACOP_235]",
       "sender": "JAACAP Open <jaacop@elsevier.com>",
       "date": "Fri May 01 2026 17:05:27 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019de5400cd9-a6f25cd6-3a55-4d76-aa2b-24ee0beb6a4d-000000@us-east-2.amazonses.com",
-      "subject": "Decision JAACAPOPEN-D-25-00031R2 - [EMID:31d71bc56694fe24]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Fri May 01 2026 15:34:39 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
