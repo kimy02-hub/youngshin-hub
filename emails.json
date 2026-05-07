@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-07T15:18:27.627782",
+  "fetched_at": "2026-05-07T15:21:17.319872",
   "emails": [
+    {
+      "id": "calendar-216a1c37-d6f0-4799-9ef8-bfcc9a79a30e@google.com",
+      "subject": "Updated invitation: ‼️Review memo from the state  @ Thu May 7, 2026 2pm - 2:30pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "\"Debra Brown (Seton Family of Hospitals/Austin)\" <dmbrown1@ascension.org>",
+      "date": "Thu May 07 2026 14:31:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAFMPgGSMke_VJXhTrsPSv+VVGuCBbVpXQy4Y3vdL=cqU8K7s3w@mail.gmail.com",
       "subject": "Fwd: Texas Child Study Center (TCSC) Supplemental Paperwork",
@@ -375,6 +384,24 @@
       "subject": "Re: A new R01 application",
       "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
       "date": "Mon May 04 2026 10:38:30 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d3_=ZFUPZ=WRi+T6kXoXrf9rK_nyh-fa8FhbQxywQZcgA@mail.gmail.com",
+      "subject": "Follow up on TCMHP Clinical Structure",
+      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
+      "date": "Mon May 04 2026 09:58:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA1PR06MB82415921A2E0A97F496E2BA3A8312@SA1PR06MB8241.namprd06.prod.outlook.com",
+      "subject": "Declined: Dinner with Dev Manoli",
+      "sender": "\"Lippard, Elizabeth T\" <Elizabeth.Lippard@austin.utexas.edu>",
+      "date": "Mon May 04 2026 09:31:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
