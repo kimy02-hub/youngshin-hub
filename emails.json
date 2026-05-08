@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-07T22:33:15.755731",
+  "fetched_at": "2026-05-07T22:36:15.348980",
   "emails": [
     {
       "id": "LV3PR16MB6320FACCE6F49E085D7BC9BDA03D2@LV3PR16MB6320.namprd16.prod.outlook.com",
@@ -33,6 +33,15 @@
       "subject": "Verbal Offer : Clinical Research Associate I Jennifer Leigh Johnson",
       "sender": "\"Reed, Anna M\" <a.reed@austin.utexas.edu>",
       "date": "Thu May 07 2026 11:38:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "Share-cbff113b-8363-4bdf-9500-318716f14012;rcid_de5411a2-3013-6000-d1c0-e62309ea2604;wiid_96b31801-e18c-4771-acb7-8430dcd1e9df-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_b86860ff-0eae-4570-997a-995c7b3ebc67@odspnotify",
+      "subject": "Wise, Deborah shared \"Updated_ Second Amendment to TCHATT Service Agreement DCMG - April 2026 (2) (003)_YSK2\" with you",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Thu May 07 2026 10:49:25 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -429,6 +438,15 @@
       "subject": "Re: Re: [EXTERNAL] INSPIRE Protocol Version 2",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Mon May 04 2026 08:42:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "D8FB431B-4AD9-4F50-9506-B0226779AB45@me.com",
+      "subject": "Introduction",
+      "sender": "\"Gabrielle Shapiro, M.D.\" <gabrielleshapiro@me.com>",
+      "date": "Mon May 04 2026 05:42:02 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
