@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-08T12:27:23.200038",
+  "fetched_at": "2026-05-08T12:30:24.774624",
   "emails": [
+    {
+      "id": "CH2PR06MB67422157C8A63DAA03F4A6B7BE3D2@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: [EXTERNAL] no RT appointments on my schedule",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Fri May 08 2026 12:25:46 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10655D25403B66A9A953EE0BFC53D2@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "FW: TCMHP Position Alignment SBAR",
@@ -371,6 +380,15 @@
       "cc": ""
     },
     {
+      "id": "CH2PR06MB6742EC4CB8398B2C880A9F37BE312@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: [EXTERNAL] no RT appointments on my schedule",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Mon May 04 2026 16:25:06 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "BN8PR06MB622724AD3EF45E50F8FE1F6EE1312@BN8PR06MB6227.namprd06.prod.outlook.com",
       "subject": "RE: CPAN/PeriPAN Leadership Monthly Meeting",
       "sender": "\"Griffiths, Amber\" <amber.griffiths@bcm.edu>",
@@ -429,24 +447,6 @@
       "subject": "[peds-division-directors] 5/5/26 - Peds Division Director Meeting Agenda",
       "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
       "date": "Mon May 04 2026 11:32:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf64kk2a_t1wyNFJnLaS5BJVheURxxvD1bbMJ-pVw=u-LBA@mail.gmail.com",
-      "subject": "Information on Nikita Patel",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Mon May 04 2026 11:16:24 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR13MB32740297DA169D6AC7CD4D5BFC312@DM6PR13MB3274.namprd13.prod.outlook.com",
-      "subject": "Re: Good morning, We purchased several gift cards for a research study on9/30/2024 and have realized that the ones we have left are now expired (...",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Mon May 04 2026 11:13:16 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
