@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-08T15:45:24.176131",
+  "fetched_at": "2026-05-08T15:48:15.993037",
   "emails": [
     {
       "id": "DM6PR04MB6283B473C7C7BDB981D9A23F973D2@DM6PR04MB6283.namprd04.prod.outlook.com",
@@ -438,15 +438,6 @@
       "subject": "Editor Assignment JAACAPOPEN-D-25-00196R2 - [EMID:d27d3c91622ba4b2]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Mon May 04 2026 13:10:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB5170ED5CBA66DDE803B6C9DAB3312@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "TCMHCC EC Prep Meeting",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Mon May 04 2026 11:47:28 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
