@@ -1,6 +1,60 @@
 {
-  "fetched_at": "2026-05-08T18:04:31.551469",
+  "fetched_at": "2026-05-08T18:25:06.578340",
   "emails": [
+    {
+      "id": "CAB+P=v4+a0EdbBeRPJd2GX68y4ZV-C5AcKgpEHYXb-fp00cssQ@mail.gmail.com",
+      "subject": "Re: DMS contract",
+      "sender": "Elise Scipioni <elise@bluegoji.com>",
+      "date": "Fri May 08 2026 16:47:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR08MB592688B086E6BDD08EBA2FF4B93D2@BYAPR08MB5926.namprd08.prod.outlook.com",
+      "subject": "Re: Interest in AACAP AIRE pilot project",
+      "sender": "\"Hunt, Jeffrey I, MD\" <JHunt@brownhealth.org>",
+      "date": "Fri May 08 2026 16:32:44 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR13MB4555048C6AD8B0960B29D8108D3D2@CH2PR13MB4555.namprd13.prod.outlook.com",
+      "subject": "Re: NBCS+Reading",
+      "sender": "Li Luo <LLuo@salud.unm.edu>",
+      "date": "Fri May 08 2026 15:59:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BN8PR06MB6227BA2C175EF4F03A9D2F1CE13D2@BN8PR06MB6227.namprd06.prod.outlook.com",
+      "subject": "Scheduling Request: CPAN/TCHATT HB18 Updates",
+      "sender": "\"Griffiths, Amber\" <amber.griffiths@bcm.edu>",
+      "date": "Fri May 08 2026 14:03:54 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAM5mVUGV9ZtPjPhxnBiP+7szEFyOuWmhAZbik0FG+CkGZgff5A@mail.gmail.com",
+      "subject": "-phi- subpoena",
+      "sender": "Victoria Felkl (DMS) <victoria.felkl@ascension-external.org>",
+      "date": "Fri May 08 2026 14:03:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SN4PR0601MB3680DC0659CF0DE342E21B21863D2@SN4PR0601MB3680.namprd06.prod.outlook.com",
+      "subject": "Meeting Request: Updates on Collaboration Between CPAN and TCHATT related to HB18",
+      "sender": "\"Espinoza, Candy\" <candy.espinoza@bcm.edu>",
+      "date": "Fri May 08 2026 13:52:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DM6PR04MB6283B473C7C7BDB981D9A23F973D2@DM6PR04MB6283.namprd04.prod.outlook.com",
       "subject": "RE: Kids Living Well Summit",
@@ -393,51 +447,6 @@
       "subject": "Disclosures needed",
       "sender": "Mary Setterquist <MSetterquist@ascension.org>",
       "date": "Mon May 04 2026 16:46:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742EC4CB8398B2C880A9F37BE312@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: [EXTERNAL] no RT appointments on my schedule",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Mon May 04 2026 16:25:06 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN8PR06MB622724AD3EF45E50F8FE1F6EE1312@BN8PR06MB6227.namprd06.prod.outlook.com",
-      "subject": "RE: CPAN/PeriPAN Leadership Monthly Meeting",
-      "sender": "\"Griffiths, Amber\" <amber.griffiths@bcm.edu>",
-      "date": "Mon May 04 2026 15:35:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR13MB3274949D7966547FC567E9C9FC312@DM6PR13MB3274.namprd13.prod.outlook.com",
-      "subject": "Fw: Tremendous Refund Credits",
-      "sender": "Carolyn W Roman <cwroman@salud.unm.edu>",
-      "date": "Mon May 04 2026 14:23:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019df433027d-d55fd1f5-0d1c-4f7f-aced-4f9efb1b1aa0-000000@us-east-2.amazonses.com",
-      "subject": "Editor Assignment JAACAPOPEN-D-25-00131R1 - [EMID:b7469edb0dab51b3]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Mon May 04 2026 13:14:46 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019df42f6ffc-679c3510-182b-464e-a5de-68772cfe7c63-000000@us-east-2.amazonses.com",
-      "subject": "Editor Assignment JAACAPOPEN-D-25-00196R2 - [EMID:d27d3c91622ba4b2]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Mon May 04 2026 13:10:47 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
