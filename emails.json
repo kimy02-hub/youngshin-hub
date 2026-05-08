@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-07T22:21:19.110413",
+  "fetched_at": "2026-05-07T22:24:17.140555",
   "emails": [
+    {
+      "id": "LV3PR16MB6320FACCE6F49E085D7BC9BDA03D2@LV3PR16MB6320.namprd16.prod.outlook.com",
+      "subject": "RE: Thank you!",
+      "sender": "Brad Johl <bjohl@acaciapartnersllc.com>",
+      "date": "Thu May 07 2026 20:49:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "calendar-216a1c37-d6f0-4799-9ef8-bfcc9a79a30e@google.com",
       "subject": "Updated invitation: ‼️Review memo from the state  @ Thu May 7, 2026 2pm - 2:30pm (CDT) (youngshin.kim@austin.utexas.edu)",
@@ -24,6 +33,15 @@
       "subject": "Verbal Offer : Clinical Research Associate I Jennifer Leigh Johnson",
       "sender": "\"Reed, Anna M\" <a.reed@austin.utexas.edu>",
       "date": "Thu May 07 2026 11:38:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "MN2PR18MB30561C4E9B6CB79D27260A99A43C2@MN2PR18MB3056.namprd18.prod.outlook.com",
+      "subject": "RE: Thank you!",
+      "sender": "Sandy Gottesman <sandy@gottesmanco.com>",
+      "date": "Thu May 07 2026 07:30:02 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
