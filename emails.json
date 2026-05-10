@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-10T10:45:17.907070",
+  "fetched_at": "2026-05-10T10:48:19.124041",
   "emails": [
+    {
+      "id": "0101019e107fe426-9437e409-b6fe-4da0-9b90-eea2d16fec45-000000@us-west-2.amazonses.com",
+      "subject": "Reviewers required - BJPsychOpen-2026-0281 now due",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Sun May 10 2026 01:08:02 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAPjAibqOM8djgk65u5oLB1DM2LuXTKpsB1UD=HYGkxbW4YeVfQ@mail.gmail.com",
       "subject": "RE: CR-26-087 (INSPIRE Data Bank) || Site Approval Submission Follow Up (Contract Request)",
@@ -438,15 +447,6 @@
       "subject": "STUDY00008537 is waiting for clarification",
       "sender": "no-reply@utexas.edu",
       "date": "Tue May 05 2026 01:00:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAOWh29yELu8NxnMxmi5roPgpOz_gwf=kb_wAGCOWHNL1gBcLjA@mail.gmail.com",
-      "subject": "Fwd: Chloe - Guanfacine",
-      "sender": "Pete Curlin <petecurlin@gmail.com>",
-      "date": "Mon May 04 2026 16:57:37 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
