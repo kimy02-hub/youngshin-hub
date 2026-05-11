@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-11T10:48:15.954600",
+  "fetched_at": "2026-05-11T10:51:15.331527",
   "emails": [
+    {
+      "id": "CH2PR06MB6696DC6FCA9C0C0C84D0E55BED382@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Re: Clarification for Establishing Funding Source",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Mon May 11 2026 10:14:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "0101019e107fe426-9437e409-b6fe-4da0-9b90-eea2d16fec45-000000@us-west-2.amazonses.com",
       "subject": "Reviewers required - BJPsychOpen-2026-0281 now due",
@@ -438,15 +447,6 @@
       "subject": "Re: Re: [EXTERNAL] Disclosures needed",
       "sender": "Mary Setterquist <MSetterquist@ascension.org>",
       "date": "Tue May 05 2026 07:52:03 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD2b4N23b00000021b@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00008537 is waiting for clarification",
-      "sender": "no-reply@utexas.edu",
-      "date": "Tue May 05 2026 01:00:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
