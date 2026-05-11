@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T10:45:20.015554",
+  "fetched_at": "2026-05-11T10:48:15.954600",
   "emails": [
     {
       "id": "0101019e107fe426-9437e409-b6fe-4da0-9b90-eea2d16fec45-000000@us-west-2.amazonses.com",
@@ -175,7 +175,7 @@
     {
       "id": "calendar-216a1c37-d6f0-4799-9ef8-bfcc9a79a30e@google.com",
       "subject": "Updated invitation: ‼️Review memo from the state  @ Thu May 7, 2026 2pm - 2:30pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "\"Debra Brown (Seton Family of Hospitals/Austin)\" <dmbrown1@ascension.org>",
+      "sender": "Debra Brown (Seton Family of Hospitals/Austin) <dmbrown1@ascension.org>",
       "date": "Thu May 07 2026 14:31:31 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -355,7 +355,7 @@
     {
       "id": "calendar-c66d0c7a-e99d-4c41-a622-bcac1110f5d7@google.com",
       "subject": "Updated invitation: Monthly Pediatrics Division Director Meeting  @ Tue May 5, 2026 12pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "\"Esteban De Santiago (Dell Medical School)\" <esteban.de.santiago@ascension-external.org>",
+      "sender": "Esteban De Santiago (Dell Medical School) <esteban.de.santiago@ascension-external.org>",
       "date": "Tue May 05 2026 14:34:58 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
