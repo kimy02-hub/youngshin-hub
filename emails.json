@@ -1,11 +1,38 @@
 {
-  "fetched_at": "2026-05-11T13:30:14.285084",
+  "fetched_at": "2026-05-11T13:33:14.718978",
   "emails": [
+    {
+      "id": "calendar-194e75eb-ad5d-4391-b42c-0e603907694d@google.com",
+      "subject": "Updated invitation: CAP Journal Club | TBD @ Tue Jun 9, 2026 3pm - 3:45pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "\"c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com\" <c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com>",
+      "date": "Mon May 11 2026 13:31:14 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "calendar-52b7f695-41b7-4095-a698-4f15580bf4d2@google.com",
+      "subject": "Updated invitation with note: CAP Journal Club | YSK-LeBlanc @ Tue Jun 9, 2026 3pm - 3:45pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "\"c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com\" <c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com>",
+      "date": "Mon May 11 2026 13:30:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAFMPgGTYkU7fkm-a1qLXb24O67o0eacvno=BQWbzgpsm43FELA@mail.gmail.com",
       "subject": "Fwd: CR-26-087 (INSPIRE Data Bank) || Site Approval Submission Follow Up (Contract Request)",
       "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
       "date": "Mon May 11 2026 12:48:01 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAJjz+kBuX__NG1czbENkOGxR+3LbbuuVU0UGM-pLdpNAhfAM_g@mail.gmail.com",
+      "subject": "Patient sign out",
+      "sender": "Tania Michaels <tania.michaels@ascension-external.org>",
+      "date": "Mon May 11 2026 12:07:25 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -420,33 +447,6 @@
       "subject": "Reviewer Nominations for Cycle 2 - Due Thursday (5/7)",
       "sender": "\"Guerra, Lo\" <lo.guerra@austin.utexas.edu>",
       "date": "Tue May 05 2026 09:58:17 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742C628A8C17A642E2ED98FBE3E2@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "IRB CTRN",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue May 05 2026 07:54:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR08MB56186387DD5ABB8E7165B3E3F53E2@BN7PR08MB5618.namprd08.prod.outlook.com",
-      "subject": "Acetaminophen - JAMA Peds, again",
-      "sender": "Bennett Leventhal <Bennett.Leventhal@outlook.com>",
-      "date": "Tue May 05 2026 07:53:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAJ28ZxhoTkGhh-KjZkbBes7kU6sYx04nkoTBqKp49xNkU2XYDg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Disclosures needed",
-      "sender": "Mary Setterquist <MSetterquist@ascension.org>",
-      "date": "Tue May 05 2026 07:52:03 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
