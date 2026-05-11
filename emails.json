@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T15:54:14.554235",
+  "fetched_at": "2026-05-11T15:57:15.361338",
   "emails": [
     {
       "id": "BE.23.18960.2E8220A6@i-081001d3ec33265b3.mta1vrest.sd.prd.sparkpost",
@@ -31,7 +31,7 @@
     {
       "id": "CAFMPgGTYkU7fkm-a1qLXb24O67o0eacvno=BQWbzgpsm43FELA@mail.gmail.com",
       "subject": "Fwd: CR-26-087 (INSPIRE Data Bank) || Site Approval Submission Follow Up (Contract Request)",
-      "sender": "\"Isabella Reiser (DMS)\" <isabella.reiser@ascension-external.org>",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Mon May 11 2026 12:48:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
