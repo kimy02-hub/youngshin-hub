@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T23:21:14.300043",
+  "fetched_at": "2026-05-11T23:24:17.911284",
   "emails": [
     {
       "id": "CAKeQuiJ8HO64G2OFQid6uR94OoV8W7vUhQOaCT3xHeMfBsxK0w@mail.gmail.com",
@@ -94,8 +94,35 @@
     {
       "id": "CH5PR06MB105491B26A6D87D3DB6E7E184CA382@CH5PR06MB10549.namprd06.prod.outlook.com",
       "subject": "Action Required: 2025-2026 Supervisor Annual Performance Appraisal Submission Window Begins",
-      "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
+      "sender": "Dell Med HR <DellMedHR@austin.utexas.edu>",
       "date": "Mon May 11 2026 09:22:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB67426277C5892DDAEA82365FBE3B2@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "TCSC Clinical Space Scheduling & Request for Session Preparation Buffers",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Mon May 11 2026 08:00:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD2vAauNjV00000111@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00009102 is waiting for clarification",
+      "sender": "no-reply@utexas.edu",
+      "date": "Mon May 11 2026 01:03:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD28s4KWiG00000085@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00008537 is waiting for clarification",
+      "sender": "no-reply@utexas.edu",
+      "date": "Mon May 11 2026 01:01:41 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -420,33 +447,6 @@
       "subject": "RE: CPAN/PeriPAN Leadership Monthly Meeting",
       "sender": "\"Griffiths, Amber\" <Amber.Griffiths@bcm.edu>",
       "date": "Tue May 05 2026 16:16:01 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV2PR06MB9997340FBB0D2F18952E437F7BD23E2@LV2PR06MB999734.namprd06.prod.outlook.com",
-      "subject": "ECHO session 6 slides and content review form",
-      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
-      "date": "Tue May 05 2026 15:37:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAHomBRxPQQWm2Nvr4bXrBJLKGv7+KN=5D1n4FpzL6AUpVAN55w@mail.gmail.com",
-      "subject": "WAVE integral care approval",
-      "sender": "Yoon jae Cho <yoon.jae.cho@ascension.org>",
-      "date": "Tue May 05 2026 15:26:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "calendar-c66d0c7a-e99d-4c41-a622-bcac1110f5d7@google.com",
-      "subject": "Updated invitation: Monthly Pediatrics Division Director Meeting  @ Tue May 5, 2026 12pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "Esteban De Santiago (Dell Medical School) <esteban.de.santiago@ascension-external.org>",
-      "date": "Tue May 05 2026 14:34:58 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
