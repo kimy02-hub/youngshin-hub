@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-05-11T23:09:19.593181",
+  "fetched_at": "2026-05-11T23:12:16.665344",
   "emails": [
+    {
+      "id": "CAKeQuiJ8HO64G2OFQid6uR94OoV8W7vUhQOaCT3xHeMfBsxK0w@mail.gmail.com",
+      "subject": "Re: Reports for Sammy and Ethan",
+      "sender": "Liz Krainman <mama2ablizzard@gmail.com>",
+      "date": "Mon May 11 2026 16:54:14 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR06MB99973406FE8B9F71536AF2B9E0D2382@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "ECHO session 7, slides and content review form",
+      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
+      "date": "Mon May 11 2026 16:50:25 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BE.23.18960.2E8220A6@i-081001d3ec33265b3.mta1vrest.sd.prd.sparkpost",
       "subject": "ACTION REQUIRED: Student Evaluation",
@@ -429,24 +447,6 @@
       "subject": "Your BPS Submission: BPS-D-26-00491 - [EMID:8091995757ff8bdd]",
       "sender": "Biological Psychiatry <em@editorialmanager.com>",
       "date": "Tue May 05 2026 13:13:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGRxLkOSW2vM60YC=oWX8F=W_WaEgEZAEJpF9GZ2cLHJhw@mail.gmail.com",
-      "subject": "TCSC Sage Flyer Posting",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Tue May 05 2026 12:51:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB391808187B03D820842741BBE23E2@SN6PR06MB3918.namprd06.prod.outlook.com",
-      "subject": "connection related to Dine in NM",
-      "sender": "\"Magana, Sandy\" <smagana@austin.utexas.edu>",
-      "date": "Tue May 05 2026 11:36:56 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
