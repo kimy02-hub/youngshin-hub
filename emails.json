@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T23:15:14.861966",
+  "fetched_at": "2026-05-11T23:18:17.090144",
   "emails": [
     {
       "id": "CAKeQuiJ8HO64G2OFQid6uR94OoV8W7vUhQOaCT3xHeMfBsxK0w@mail.gmail.com",
@@ -15,6 +15,15 @@
       "subject": "ECHO session 7, slides and content review form",
       "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
       "date": "Mon May 11 2026 16:50:25 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV8PR06MB10045BCD7A5320C61D6203346DC382@LV8PR06MB10045.namprd06.prod.outlook.com",
+      "subject": "Program Director Outreach Email Template",
+      "sender": "\"Simien, Karen\" <karen.simien@austin.utexas.edu>",
+      "date": "Mon May 11 2026 15:02:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -438,15 +447,6 @@
       "subject": "Re: connection related to Dine in NM",
       "sender": "Candi Running Bear <cr2322@unm.edu>",
       "date": "Tue May 05 2026 13:46:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019df957729b-5426ea18-3864-46e5-a710-534be205d4bf-000000@us-east-2.amazonses.com",
-      "subject": "Your BPS Submission: BPS-D-26-00491 - [EMID:8091995757ff8bdd]",
-      "sender": "Biological Psychiatry <em@editorialmanager.com>",
-      "date": "Tue May 05 2026 13:13:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
