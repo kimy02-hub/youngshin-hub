@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T23:18:17.090144",
+  "fetched_at": "2026-05-11T23:21:14.300043",
   "emails": [
     {
       "id": "CAKeQuiJ8HO64G2OFQid6uR94OoV8W7vUhQOaCT3xHeMfBsxK0w@mail.gmail.com",
@@ -78,6 +78,24 @@
       "subject": "Re: Clarification for Establishing Funding Source",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Mon May 11 2026 10:14:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB76200869EC2B9F8F066A58D68E382@CO6PR06MB7620.namprd06.prod.outlook.com",
+      "subject": "Fw: TCHATT Policies for Feedback - Due May 12th",
+      "sender": "\"Cole, Jenn\" <Jennipher.Cole@bcm.edu>",
+      "date": "Mon May 11 2026 09:22:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH5PR06MB105491B26A6D87D3DB6E7E184CA382@CH5PR06MB10549.namprd06.prod.outlook.com",
+      "subject": "Action Required: 2025-2026 Supervisor Annual Performance Appraisal Submission Window Begins",
+      "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
+      "date": "Mon May 11 2026 09:22:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -429,24 +447,6 @@
       "subject": "Updated invitation: Monthly Pediatrics Division Director Meeting  @ Tue May 5, 2026 12pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
       "sender": "Esteban De Santiago (Dell Medical School) <esteban.de.santiago@ascension-external.org>",
       "date": "Tue May 05 2026 14:34:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB1093030D349BB707DC84298D6C43E2@DS4PR06MB10930.namprd06.prod.outlook.com",
-      "subject": "Re: A new R01 application",
-      "sender": "\"Im, Eun Ok\" <eunok.im@austin.utexas.edu>",
-      "date": "Tue May 05 2026 14:10:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV8PR07MB105838A33004F56372A0194CAC63E2@LV8PR07MB10583.namprd07.prod.outlook.com",
-      "subject": "Re: connection related to Dine in NM",
-      "sender": "Candi Running Bear <cr2322@unm.edu>",
-      "date": "Tue May 05 2026 13:46:26 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
