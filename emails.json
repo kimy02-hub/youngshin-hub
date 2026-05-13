@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-13T14:09:13.421046",
+  "fetched_at": "2026-05-13T14:12:14.277811",
   "emails": [
     {
       "id": "CANYCf66GcH7Nf9M_2A=-w7wD=RtnSduXxaJ8wXE73FfZ=3LNiQ@mail.gmail.com",
@@ -299,15 +299,6 @@
       "cc": ""
     },
     {
-      "id": "SN4PR0601MB3680DC0659CF0DE342E21B21863D2@SN4PR0601MB3680.namprd06.prod.outlook.com",
-      "subject": "Meeting Request: Updates on Collaboration Between CPAN and TCHATT related to HB18",
-      "sender": "\"Espinoza, Candy\" <candy.espinoza@bcm.edu>",
-      "date": "Fri May 08 2026 13:52:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "DM6PR04MB6283B473C7C7BDB981D9A23F973D2@DM6PR04MB6283.namprd04.prod.outlook.com",
       "subject": "RE: Kids Living Well Summit",
       "sender": "Mary Dodd <Mary.Dodd@IntegralCare.org>",
@@ -447,6 +438,15 @@
       "subject": "RE: Re: Colton Kalage",
       "sender": "shannakalage@yahoo.com",
       "date": "Thu May 07 2026 00:12:18 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SJ4PPF573A2A57245B5F08489954F59CE2CA93F2@SJ4PPF573A2A572.namprd22.prod.outlook.com",
+      "subject": "contacts for Journal masthead recruitment outreach",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Wed May 06 2026 17:24:47 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
