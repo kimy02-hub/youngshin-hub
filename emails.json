@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-14T11:57:13.935425",
+  "fetched_at": "2026-05-14T12:00:14.532210",
   "emails": [
+    {
+      "id": "CH2PR06MB6742E1B96717C07D3EFCB4CBBE072@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Helen's visit",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Thu May 14 2026 11:31:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "PH8PR22MB4116F893B2C3970CB6858770D0072@PH8PR22MB4116.namprd22.prod.outlook.com",
       "subject": "RE: Publication fee",
@@ -317,15 +326,6 @@
       "cc": ""
     },
     {
-      "id": "BN8PR06MB6227BA2C175EF4F03A9D2F1CE13D2@BN8PR06MB6227.namprd06.prod.outlook.com",
-      "subject": "Scheduling Request: CPAN/TCHATT HB18 Updates",
-      "sender": "\"Griffiths, Amber\" <amber.griffiths@bcm.edu>",
-      "date": "Fri May 08 2026 14:03:54 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CAM5mVUGV9ZtPjPhxnBiP+7szEFyOuWmhAZbik0FG+CkGZgff5A@mail.gmail.com",
       "subject": "-phi- subpoena",
       "sender": "Victoria Felkl (DMS) <victoria.felkl@ascension-external.org>",
@@ -362,10 +362,55 @@
       "cc": ""
     },
     {
+      "id": "CO1PR06MB8060E9300496E914EDED64D8DA3D2@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "Re: Helen's visit",
+      "sender": "\"Hampton, Lauren H\" <Lauren.Hampton@austin.utexas.edu>",
+      "date": "Fri May 08 2026 11:43:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS4PR06MB10763F56CFC9507DAA4F46906C93D2@DS4PR06MB10763.namprd06.prod.outlook.com",
+      "subject": "Re: Helen's visit",
+      "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
+      "date": "Fri May 08 2026 11:30:25 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742B99D1B8B779455908A44BE3D2@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Helen's visit",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Fri May 08 2026 11:21:45 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "DS1PR06MB10655D25403B66A9A953EE0BFC53D2@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "FW: TCMHP Position Alignment SBAR",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Fri May 08 2026 10:44:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SN6PR06MB391847FF475A92AA9CB1AB4EE23D2@SN6PR06MB3918.namprd06.prod.outlook.com",
+      "subject": "RE: Helen's visit",
+      "sender": "\"Magana, Sandy\" <smagana@austin.utexas.edu>",
+      "date": "Fri May 08 2026 09:26:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO1PR06MB80604207160FC733AAF2B61FDA3D2@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "FW: Helen's visit",
+      "sender": "\"Hampton, Lauren H\" <Lauren.Hampton@austin.utexas.edu>",
+      "date": "Fri May 08 2026 09:13:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -402,51 +447,6 @@
       "subject": "RE: Question",
       "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
       "date": "Fri May 08 2026 03:37:12 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "8CC75C61-252E-4F4A-A36C-9E461499C538@icloud.com",
-      "subject": "Re: Colton and Prozac",
-      "sender": "Shanna Kalage <heavensangel20x@icloud.com>",
-      "date": "Fri May 08 2026 00:22:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV3PR16MB6320FACCE6F49E085D7BC9BDA03D2@LV3PR16MB6320.namprd16.prod.outlook.com",
-      "subject": "RE: Thank you!",
-      "sender": "Brad Johl <bjohl@acaciapartnersllc.com>",
-      "date": "Thu May 07 2026 20:49:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "E1EB0D42-6BE0-4919-B954-ED220063B02C@icloud.com",
-      "subject": "Colton and Prozac",
-      "sender": "Shanna Kalage <heavensangel20x@icloud.com>",
-      "date": "Thu May 07 2026 16:16:53 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "calendar-216a1c37-d6f0-4799-9ef8-bfcc9a79a30e@google.com",
-      "subject": "Updated invitation: ‼️Review memo from the state  @ Thu May 7, 2026 2pm - 2:30pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "Debra Brown (Seton Family of Hospitals/Austin) <dmbrown1@ascension.org>",
-      "date": "Thu May 07 2026 14:31:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGSMke_VJXhTrsPSv+VVGuCBbVpXQy4Y3vdL=cqU8K7s3w@mail.gmail.com",
-      "subject": "Fwd: Texas Child Study Center (TCSC) Supplemental Paperwork",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Thu May 07 2026 11:52:55 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
