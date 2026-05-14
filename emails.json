@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-13T22:51:14.098939",
+  "fetched_at": "2026-05-13T22:54:13.666060",
   "emails": [
     {
       "id": "4915338A-3DAB-430C-A250-9AA519458DF1@yuhs.ac",
       "subject": "Re: Author Confirmation for TS GWAS manuscript",
-      "sender": "천근아 Keun-Ah Cheon(소아정신과) <KACHEON@yuhs.ac>",
+      "sender": "\"천근아 Keun-Ah Cheon(소아정신과)\" <KACHEON@yuhs.ac>",
       "date": "Wed May 13 2026 16:25:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -87,15 +87,6 @@
       "subject": "FW: Department Draft Strategy for your Review.",
       "sender": "Rick Ortiz <enrique.ortizjr@austin.utexas.edu>",
       "date": "Tue May 12 2026 09:56:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAEfnC-r2HhAGZ0_FazNfCAG-F4GXO5_MoYwH7JT5Y3DkeR5Vsw@mail.gmail.com",
-      "subject": "Re: RE: [EXTERNAL] Background Check Coverage for Psychology Trainees",
-      "sender": "Sasha Jaquez <SDJaquez@ascension.org>",
-      "date": "Tue May 12 2026 09:48:22 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +438,15 @@
       "subject": "RE: Thank you!",
       "sender": "Sandy Gottesman <sandy@gottesmanco.com>",
       "date": "Thu May 07 2026 07:30:02 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "mov118xj.-1t05pefh9aj77@dellmed-utexas.secureemailportal.com",
+      "subject": "RE: Re: Colton Kalage",
+      "sender": "shannakalage@yahoo.com",
+      "date": "Thu May 07 2026 00:12:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
