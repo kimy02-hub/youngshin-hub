@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-14T01:42:14.017587",
+  "fetched_at": "2026-05-14T01:45:16.270307",
   "emails": [
+    {
+      "id": "0101019e251dcd7f-14ebba5a-742c-43e4-b5eb-d229df65998f-000000@us-west-2.amazonses.com",
+      "subject": "Decision Now Due on BJPsychOpen-2026-0122",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Thu May 14 2026 01:12:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "4915338A-3DAB-430C-A250-9AA519458DF1@yuhs.ac",
       "subject": "Re: Author Confirmation for TS GWAS manuscript",
@@ -438,15 +447,6 @@
       "subject": "RE: Thank you!",
       "sender": "Sandy Gottesman <sandy@gottesmanco.com>",
       "date": "Thu May 07 2026 07:30:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "mov118xj.-1t05pefh9aj77@dellmed-utexas.secureemailportal.com",
-      "subject": "RE: Re: Colton Kalage",
-      "sender": "shannakalage@yahoo.com",
-      "date": "Thu May 07 2026 00:12:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
