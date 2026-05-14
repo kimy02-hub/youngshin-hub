@@ -1,11 +1,20 @@
 {
-  "fetched_at": "2026-05-14T08:36:16.409928",
+  "fetched_at": "2026-05-14T08:39:14.203864",
   "emails": [
     {
       "id": "PH8PR22MB4116F893B2C3970CB6858770D0072@PH8PR22MB4116.namprd22.prod.outlook.com",
       "subject": "RE: Publication fee",
       "sender": "Mariel Gambino <mgambino@aacap.org>",
       "date": "Thu May 14 2026 08:19:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKrvT3ZAo0GM+8QOpa5F-oqYfQxLHgXO95LSe-tP2Hf1t68j_Q@mail.gmail.com",
+      "subject": "Invitation: Reception Honoring Dr. Z. Leah Harris • May 27, 2026",
+      "sender": "Patti Woods <pewoods@ascension.org>",
+      "date": "Thu May 14 2026 05:02:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -438,15 +447,6 @@
       "subject": "Fwd: Texas Child Study Center (TCSC) Supplemental Paperwork",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Thu May 07 2026 11:52:55 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "Share-cbff113b-8363-4bdf-9500-318716f14012;rcid_de5411a2-3013-6000-d1c0-e62309ea2604;wiid_96b31801-e18c-4771-acb7-8430dcd1e9df-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_b86860ff-0eae-4570-997a-995c7b3ebc67@odspnotify",
-      "subject": "Wise, Deborah shared \"Updated_ Second Amendment to TCHATT Service Agreement DCMG - April 2026 (2) (003)_YSK2\" with you",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Thu May 07 2026 10:49:25 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
