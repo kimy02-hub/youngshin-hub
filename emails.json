@@ -1,11 +1,38 @@
 {
-  "fetched_at": "2026-05-14T12:00:14.532210",
+  "fetched_at": "2026-05-14T12:03:18.182643",
   "emails": [
     {
       "id": "CH2PR06MB6742E1B96717C07D3EFCB4CBBE072@CH2PR06MB6742.namprd06.prod.outlook.com",
       "subject": "RE: Helen's visit",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu May 14 2026 11:31:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SN6PR06MB49096C1FB0C8491A74C0BB71A7072@SN6PR06MB4909.namprd06.prod.outlook.com",
+      "subject": "Re: Introduction: Shirley Cohen & Sensory Tech Project",
+      "sender": "\"Brumback, Audrey C\" <audrey.brumback@austin.utexas.edu>",
+      "date": "Thu May 14 2026 10:52:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "PH0PR06MB7334D74A8B4A2A8A21674ACEA5072@PH0PR06MB7334.namprd06.prod.outlook.com",
+      "subject": "Research Assistant (Undergraduate) Inquiry",
+      "sender": "\"Ahuja, Aarav\" <aa82586@my.utexas.edu>",
+      "date": "Thu May 14 2026 10:24:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR06MB62004471E9D4F62041FCD77ACC072@BYAPR06MB6200.namprd06.prod.outlook.com",
+      "subject": "Shadowing tomorrow",
+      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
+      "date": "Thu May 14 2026 10:23:27 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -420,33 +447,6 @@
       "subject": "Re: Term sheet preparation",
       "sender": "Sophia Wang <wangsophiah@gmail.com>",
       "date": "Fri May 08 2026 08:54:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA1PR06MB8453E23DD56A81E93BE13C26DB3D2@SA1PR06MB8453.namprd06.prod.outlook.com",
-      "subject": "University of New Mexico Modification; AWD00004200-MOD003; UT Account 26352296. Credit authorized",
-      "sender": "\"Ramachandra, Vorani S\" <Vorani.Ramachandra@austin.utexas.edu>",
-      "date": "Fri May 08 2026 08:42:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d0a_6wfNJpKvqVj5JbCqm-uSwvbt_dsxFp+_uz9ZZ1QCA@mail.gmail.com",
-      "subject": "TCHATT performance Measures Feeback",
-      "sender": "Nithya Mani <nithya.mani@ascension-external.org>",
-      "date": "Fri May 08 2026 06:12:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LO0P265MB46215ACBCD0D7EE32C74A332C63D2@LO0P265MB4621.GBRP265.PROD.OUTLOOK.COM",
-      "subject": "RE: Question",
-      "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
-      "date": "Fri May 08 2026 03:37:12 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
