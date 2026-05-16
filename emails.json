@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T15:12:19.769795",
+  "fetched_at": "2026-05-16T15:15:18.806198",
   "emails": [
     {
       "id": "BN7PR06MB5170B4897890EA60CB04DBC2B3042@BN7PR06MB5170.namprd06.prod.outlook.com",
@@ -236,15 +236,6 @@
       "cc": ""
     },
     {
-      "id": "CAFMPgGTYkU7fkm-a1qLXb24O67o0eacvno=BQWbzgpsm43FELA@mail.gmail.com",
-      "subject": "Fwd: CR-26-087 (INSPIRE Data Bank) || Site Approval Submission Follow Up (Contract Request)",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Mon May 11 2026 12:48:01 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CAFMPgGQ+Spj6=qmYpPNjd-ze2sY+pYFOpNur8U4g0VtDR13DdQ@mail.gmail.com",
       "subject": "INSPIRE Script Comments",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
@@ -321,15 +312,6 @@
       "subject": "Reviewers required - BJPsychOpen-2026-0281 now due",
       "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
       "date": "Sun May 10 2026 01:08:02 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAPjAibqOM8djgk65u5oLB1DM2LuXTKpsB1UD=HYGkxbW4YeVfQ@mail.gmail.com",
-      "subject": "RE: CR-26-087 (INSPIRE Data Bank) || Site Approval Submission Follow Up (Contract Request)",
-      "sender": "TXAUS-MB Site Approval <txaus-mb-siteapproval@ascension.org>",
-      "date": "Fri May 08 2026 22:18:51 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +429,24 @@
       "subject": "FW: Helen's visit",
       "sender": "\"Hampton, Lauren H\" <Lauren.Hampton@austin.utexas.edu>",
       "date": "Fri May 08 2026 09:13:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAJKitxwN1ATqsFBfqY1++5_WwScubDM1qztWo8MvwkqMVu_6-g@mail.gmail.com",
+      "subject": "Re: Term sheet preparation",
+      "sender": "Sophia Wang <wangsophiah@gmail.com>",
+      "date": "Fri May 08 2026 08:54:40 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA1PR06MB8453E23DD56A81E93BE13C26DB3D2@SA1PR06MB8453.namprd06.prod.outlook.com",
+      "subject": "University of New Mexico Modification; AWD00004200-MOD003; UT Account 26352296. Credit authorized",
+      "sender": "\"Ramachandra, Vorani S\" <Vorani.Ramachandra@austin.utexas.edu>",
+      "date": "Fri May 08 2026 08:42:39 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
