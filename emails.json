@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-17T22:24:20.459917",
+  "fetched_at": "2026-05-17T22:27:20.190123",
   "emails": [
+    {
+      "id": "CAOywANe2_vu08tT5-EcpdbnqgU2RYU2g=SKkOF6+asBAAs6MKA@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] Policy Update",
+      "sender": "Meena Iyer <miyer@ascension.org>",
+      "date": "Sun May 17 2026 21:57:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "PU4P216MB212620C122B4E019787FE999A4022@PU4P216MB2126.KORP216.PROD.OUTLOOK.COM",
       "subject": "Application for International Editor-at-Large, JAACAP Open",
@@ -15,6 +24,24 @@
       "subject": "Comp Eval - Kaitlyn W",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
       "date": "Fri May 15 2026 14:41:44 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz3UdSs+hjuRC_DdwcvMVN0Ky9KKDxkHBWb0rYMPQ-kMoA@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Policy Update",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Fri May 15 2026 13:41:06 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANvtaWH6_GJzwTDwMAufgksmjbn5CmFNY_q6e6hGO78vZeH0og@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Policy Update",
+      "sender": "Debra Brown (Seton Family of Hospitals/Austin) <dmbrown1@ascension.org>",
+      "date": "Thu May 14 2026 17:56:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -78,6 +105,24 @@
       "subject": "Decision Now Due on BJPsychOpen-2026-0122",
       "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
       "date": "Thu May 14 2026 01:12:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMFZdz22XpbaDNYQVjPcmN3SNmvuBBG1Y7EGnaXD32Pay+-kyQ@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Policy Update",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Wed May 13 2026 21:46:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANvtaWGQ6REB+w5vA9qd-vJu3A0DPTiizZ0r1sUadviyq9J1UQ@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Policy Update",
+      "sender": "Debra Brown (Seton Family of Hospitals/Austin) <dmbrown1@ascension.org>",
+      "date": "Wed May 13 2026 21:24:46 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -402,51 +447,6 @@
       "subject": "Re: Helen's visit",
       "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
       "date": "Fri May 08 2026 11:30:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742B99D1B8B779455908A44BE3D2@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Helen's visit",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri May 08 2026 11:21:45 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655D25403B66A9A953EE0BFC53D2@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "FW: TCMHP Position Alignment SBAR",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Fri May 08 2026 10:44:23 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB391847FF475A92AA9CB1AB4EE23D2@SN6PR06MB3918.namprd06.prod.outlook.com",
-      "subject": "RE: Helen's visit",
-      "sender": "\"Magana, Sandy\" <smagana@austin.utexas.edu>",
-      "date": "Fri May 08 2026 09:26:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CO1PR06MB80604207160FC733AAF2B61FDA3D2@CO1PR06MB8060.namprd06.prod.outlook.com",
-      "subject": "FW: Helen's visit",
-      "sender": "\"Hampton, Lauren H\" <Lauren.Hampton@austin.utexas.edu>",
-      "date": "Fri May 08 2026 09:13:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAJKitxwN1ATqsFBfqY1++5_WwScubDM1qztWo8MvwkqMVu_6-g@mail.gmail.com",
-      "subject": "Re: Term sheet preparation",
-      "sender": "Sophia Wang <wangsophiah@gmail.com>",
-      "date": "Fri May 08 2026 08:54:40 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
