@@ -1,15 +1,6 @@
 {
-  "fetched_at": "2026-05-19T06:39:14.143887",
+  "fetched_at": "2026-05-19T06:42:14.586230",
   "emails": [
-    {
-      "id": "010f019e3e8842d2-d6a667e3-0cce-4e93-ba5b-c426b26b353d-000000@us-east-2.amazonses.com",
-      "subject": "Your Revised Submission BPS-D-26-00491",
-      "sender": "Biological Psychiatry <em@editorialmanager.com>",
-      "date": "Mon May 18 2026 23:39:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
     {
       "id": "IA3PR06MB10711D68F5643849ADDC41A85B8032@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
@@ -447,6 +438,15 @@
       "subject": "STUDY00009102 is waiting for clarification",
       "sender": "no-reply@utexas.edu",
       "date": "Mon May 11 2026 01:03:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD28s4KWiG00000085@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00008537 is waiting for clarification",
+      "sender": "no-reply@utexas.edu",
+      "date": "Mon May 11 2026 01:01:41 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
