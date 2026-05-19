@@ -1,11 +1,29 @@
 {
-  "fetched_at": "2026-05-19T11:30:15.558535",
+  "fetched_at": "2026-05-19T11:33:14.374549",
   "emails": [
     {
       "id": "BY5PR13MB4551B1EAF5AE48CD54F626C7EE002@BY5PR13MB4551.namprd13.prod.outlook.com",
       "subject": "FW: Concept Paper Decision",
       "sender": "Brandon J Rennie <brennie@salud.unm.edu>",
       "date": "Tue May 19 2026 09:25:53 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0100019e408ae44e-23087fcd-b2c1-4dd7-816b-821ba71172cf-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "utaustin@myworkday.com",
+      "date": "Tue May 19 2026 09:02:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKEHNFNf5QQtZ1VvJeEDeGHEBhc6vaWAB4db7V14vmbULZyo-Q@mail.gmail.com",
+      "subject": "Re: Psychologist for NICU position at SMCA",
+      "sender": "Derek Curlee <derek.curlee@ascension.org>",
+      "date": "Tue May 19 2026 08:39:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -344,6 +362,15 @@
       "cc": ""
     },
     {
+      "id": "CAMFZdz34haRRcqrgxY5n+yeE_jF1EW=tJ5DiJ056rfQ+o3TJXg@mail.gmail.com",
+      "subject": "Re: Psychologist for NICU position at SMCA",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Mon May 11 2026 16:57:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "CAKeQuiJ8HO64G2OFQid6uR94OoV8W7vUhQOaCT3xHeMfBsxK0w@mail.gmail.com",
       "subject": "Re: Reports for Sammy and Ethan",
       "sender": "Liz Krainman <mama2ablizzard@gmail.com>",
@@ -362,10 +389,28 @@
       "cc": ""
     },
     {
+      "id": "CAD4rh03SPm0XX-RPUWB8tgkhk8v6R84Lhj_c-BkB9DETqANy4w@mail.gmail.com",
+      "subject": "Re: Psychologist for NICU position at SMCA",
+      "sender": "John Loyd <john.loyd@ascension-external.org>",
+      "date": "Mon May 11 2026 15:13:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "LV8PR06MB10045BCD7A5320C61D6203346DC382@LV8PR06MB10045.namprd06.prod.outlook.com",
       "subject": "Program Director Outreach Email Template",
       "sender": "\"Simien, Karen\" <karen.simien@austin.utexas.edu>",
       "date": "Mon May 11 2026 15:02:50 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKEHNFOcF+M3FZe1m9skxeDjex1s86Nedt1ud9HuBdr0rE-5FA@mail.gmail.com",
+      "subject": "Re: Psychologist for NICU position at SMCA",
+      "sender": "Derek Curlee <derek.curlee@ascension.org>",
+      "date": "Mon May 11 2026 14:47:49 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -402,51 +447,6 @@
       "subject": "INSPIRE Script Comments",
       "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
       "date": "Mon May 11 2026 12:09:12 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAJjz+kBuX__NG1czbENkOGxR+3LbbuuVU0UGM-pLdpNAhfAM_g@mail.gmail.com",
-      "subject": "Patient sign out",
-      "sender": "Tania Michaels <tania.michaels@ascension-external.org>",
-      "date": "Mon May 11 2026 12:07:25 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6696DC6FCA9C0C0C84D0E55BED382@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Re: Clarification for Establishing Funding Source",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Mon May 11 2026 10:14:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CO6PR06MB76200869EC2B9F8F066A58D68E382@CO6PR06MB7620.namprd06.prod.outlook.com",
-      "subject": "Fw: TCHATT Policies for Feedback - Due May 12th",
-      "sender": "\"Cole, Jenn\" <Jennipher.Cole@bcm.edu>",
-      "date": "Mon May 11 2026 09:22:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH5PR06MB105491B26A6D87D3DB6E7E184CA382@CH5PR06MB10549.namprd06.prod.outlook.com",
-      "subject": "Action Required: 2025-2026 Supervisor Annual Performance Appraisal Submission Window Begins",
-      "sender": "Dell Med HR <DellMedHR@austin.utexas.edu>",
-      "date": "Mon May 11 2026 09:22:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB67426277C5892DDAEA82365FBE3B2@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "TCSC Clinical Space Scheduling & Request for Session Preparation Buffers",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Mon May 11 2026 08:00:28 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
