@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-19T14:51:31.375578",
+  "fetched_at": "2026-05-19T14:57:11.853014",
   "emails": [
+    {
+      "id": "MW9PR06MB999756C23BF61373B9058385BBBE002@MW9PR06MB999756.namprd06.prod.outlook.com",
+      "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
+      "sender": "Tara Upchurch <tara.upchurch@austin.utexas.edu>",
+      "date": "Tue May 19 2026 14:14:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BY5PR13MB4551B1EAF5AE48CD54F626C7EE002@BY5PR13MB4551.namprd13.prod.outlook.com",
       "subject": "FW: Concept Paper Decision",
@@ -24,6 +33,15 @@
       "subject": "Re: Psychologist for NICU position at SMCA",
       "sender": "Derek Curlee <derek.curlee@ascension.org>",
       "date": "Tue May 19 2026 08:39:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LO4P265MB685604C817829C9E6427D460EA002@LO4P265MB6856.GBRP265.PROD.OUTLOOK.COM",
+      "subject": "Re: BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
+      "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
+      "date": "Tue May 19 2026 08:35:10 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -429,24 +447,6 @@
       "subject": "Updated invitation: CAP Journal Club | TBD @ Tue Jun 9, 2026 3pm - 3:45pm (CDT) (youngshin.kim@austin.utexas.edu)",
       "sender": "c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com",
       "date": "Mon May 11 2026 13:31:14 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "calendar-52b7f695-41b7-4095-a698-4f15580bf4d2@google.com",
-      "subject": "Updated invitation with note: CAP Journal Club | YSK-LeBlanc @ Tue Jun 9, 2026 3pm - 3:45pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com",
-      "date": "Mon May 11 2026 13:30:47 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAFMPgGQ+Spj6=qmYpPNjd-ze2sY+pYFOpNur8U4g0VtDR13DdQ@mail.gmail.com",
-      "subject": "INSPIRE Script Comments",
-      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
-      "date": "Mon May 11 2026 12:09:12 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
