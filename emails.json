@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-05-19T16:36:14.688700",
+  "fetched_at": "2026-05-19T16:39:14.688424",
   "emails": [
+    {
+      "id": "BL4PR06MB95751FAC35601913D9A636AC9D002@BL4PR06MB9575.namprd06.prod.outlook.com",
+      "subject": "[peds-division-directors] Reminder: Dr. Harris Farewell Event & Photo Mat Signature Request",
+      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
+      "date": "Tue May 19 2026 16:25:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "358aeb$old5i@angmar.mail.utexas.edu",
+      "subject": "New Test Result Message",
+      "sender": "Your UT Medicine Portal Care Team <donotreply@utmedicine.org>",
+      "date": "Tue May 19 2026 15:29:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR12MB999097002AFBBFEAB700B3D9D981002@LV2PR12MB999097.namprd12.prod.outlook.com",
+      "subject": "AADCAP: Question about departmental structure for psychiatry and psychology",
+      "sender": "Rajeev Krishna <Rajeev.Krishna@sheppardpratt.org>",
+      "date": "Tue May 19 2026 14:59:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "MW9PR06MB999756C23BF61373B9058385BBBE002@MW9PR06MB999756.namprd06.prod.outlook.com",
       "subject": "[Psy Research Faculty] Potential Research Funding Opportunities",
@@ -420,33 +447,6 @@
       "subject": "Program Director Outreach Email Template",
       "sender": "\"Simien, Karen\" <karen.simien@austin.utexas.edu>",
       "date": "Mon May 11 2026 15:02:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAKEHNFOcF+M3FZe1m9skxeDjex1s86Nedt1ud9HuBdr0rE-5FA@mail.gmail.com",
-      "subject": "Re: Psychologist for NICU position at SMCA",
-      "sender": "Derek Curlee <derek.curlee@ascension.org>",
-      "date": "Mon May 11 2026 14:47:49 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BE.23.18960.2E8220A6@i-081001d3ec33265b3.mta1vrest.sd.prd.sparkpost",
-      "subject": "ACTION REQUIRED: Student Evaluation",
-      "sender": "Ascension via Smartsheet <automation@smartsheet.ascension.org>",
-      "date": "Mon May 11 2026 14:07:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "calendar-194e75eb-ad5d-4391-b42c-0e603907694d@google.com",
-      "subject": "Updated invitation: CAP Journal Club | TBD @ Tue Jun 9, 2026 3pm - 3:45pm (CDT) (youngshin.kim@austin.utexas.edu)",
-      "sender": "c_bfe5557b58729f8a633641378709459c4b7db3ef32cc9c528cb40a3c9e4834f8@group.calendar.google.com",
-      "date": "Mon May 11 2026 13:31:14 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
