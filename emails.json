@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-19T11:00:15.614428",
+  "fetched_at": "2026-05-19T11:03:15.472053",
   "emails": [
+    {
+      "id": "CADTkpULkX_41LhSiV3M+bjAaJRQSfzG033+h7y2uo8rnvMcYQA@mail.gmail.com",
+      "subject": "Great team",
+      "sender": "Debra Rodriguez <drodriguez4@ascension.org>",
+      "date": "Tue May 19 2026 07:41:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "IA3PR06MB10711D68F5643849ADDC41A85B8032@IA3PR06MB10711.namprd06.prod.outlook.com",
       "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
@@ -438,15 +447,6 @@
       "subject": "STUDY00009102 is waiting for clarification",
       "sender": "no-reply@utexas.edu",
       "date": "Mon May 11 2026 01:03:22 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "HRSPUTAPROD28s4KWiG00000085@hrsputaprod2.HuronClick.com",
-      "subject": "STUDY00008537 is waiting for clarification",
-      "sender": "no-reply@utexas.edu",
-      "date": "Mon May 11 2026 01:01:41 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
