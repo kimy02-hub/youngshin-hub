@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T20:42:15.594455",
+  "fetched_at": "2026-05-18T20:45:15.885181",
   "emails": [
     {
       "id": "IA3PR06MB10711D68F5643849ADDC41A85B8032@IA3PR06MB10711.namprd06.prod.outlook.com",
@@ -24,6 +24,15 @@
       "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
       "sender": "Mike Carr <mike@autismlabs.com>",
       "date": "Mon May 18 2026 16:51:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e3c5617cf-25175c8d-195c-4a7f-b5aa-5d56fc1f3364-000000@us-east-2.amazonses.com",
+      "subject": "Editor Assignment JAACAPOPEN-D-26-00013R1 - [EMID:13503baad57bb63e]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon May 18 2026 13:25:40 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -438,15 +447,6 @@
       "subject": "STUDY00008537 is waiting for clarification",
       "sender": "no-reply@utexas.edu",
       "date": "Mon May 11 2026 01:01:41 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "0101019e107fe426-9437e409-b6fe-4da0-9b90-eea2d16fec45-000000@us-west-2.amazonses.com",
-      "subject": "Reviewers required - BJPsychOpen-2026-0281 now due",
-      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
-      "date": "Sun May 10 2026 01:08:02 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
