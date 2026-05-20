@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20T13:15:18.888653",
+  "fetched_at": "2026-05-20T13:18:18.272366",
   "emails": [
     {
       "id": "CAOywANdjui0N6mbFdymX4DEFUpVJ5ojrsAkgVBmzvxRuw3GC+Q@mail.gmail.com",
@@ -33,6 +33,15 @@
       "subject": "Re: MHU Admissions - Face to Face",
       "sender": "Meena Iyer <miyer@ascension.org>",
       "date": "Wed May 20 2026 11:43:36 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e462ca84b-e7980ba7-1d15-4b19-bcad-2bfac7f9795a-000000@us-east-2.amazonses.com",
+      "subject": "Editor Assignment JAACAPOPEN-D-26-00009R1 - [EMID:274abb24a2393c01]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Wed May 20 2026 11:16:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -438,15 +447,6 @@
       "subject": "Navigator (added to Roster)",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Tue May 12 2026 13:21:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CO6PR06MB7506352FE90BC1E497B4B883A7392@CO6PR06MB7506.namprd06.prod.outlook.com",
-      "subject": "Discussion re psychologist for CV program?",
-      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
-      "date": "Tue May 12 2026 11:45:55 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
