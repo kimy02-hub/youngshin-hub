@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-19T22:15:16.112621",
+  "fetched_at": "2026-05-19T22:18:15.844099",
   "emails": [
+    {
+      "id": "CAMFZdz1Bga6pCNp37yJ3Ki=w-4yxu3QnxNrkqqRVmFcuEy_=8A@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Potential recruit",
+      "sender": "Puja Patel <pgpatel@ascension.org>",
+      "date": "Tue May 19 2026 22:13:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BL4PR06MB95751FAC35601913D9A636AC9D002@BL4PR06MB9575.namprd06.prod.outlook.com",
       "subject": "[peds-division-directors] Reminder: Dr. Harris Farewell Event & Photo Mat Signature Request",
@@ -438,15 +447,6 @@
       "subject": "Re: Psychologist for NICU position at SMCA",
       "sender": "John Loyd <john.loyd@ascension-external.org>",
       "date": "Mon May 11 2026 15:13:12 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "LV8PR06MB10045BCD7A5320C61D6203346DC382@LV8PR06MB10045.namprd06.prod.outlook.com",
-      "subject": "Program Director Outreach Email Template",
-      "sender": "\"Simien, Karen\" <karen.simien@austin.utexas.edu>",
-      "date": "Mon May 11 2026 15:02:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
