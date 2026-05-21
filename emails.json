@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T14:27:13.803114",
+  "fetched_at": "2026-05-21T14:30:14.048464",
   "emails": [
     {
       "id": "DS1PR06MB106554253BCBA38602DFCB53FC50E2@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -294,6 +294,15 @@
       "subject": "RE: Helen's visit",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Thu May 14 2026 11:31:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SN6PR06MB49096C1FB0C8491A74C0BB71A7072@SN6PR06MB4909.namprd06.prod.outlook.com",
+      "subject": "Re: Introduction: Shirley Cohen & Sensory Tech Project",
+      "sender": "\"Brumback, Audrey C\" <audrey.brumback@austin.utexas.edu>",
+      "date": "Thu May 14 2026 10:52:09 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
