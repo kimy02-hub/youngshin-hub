@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T15:12:13.916229",
+  "fetched_at": "2026-05-21T15:15:15.945992",
   "emails": [
     {
       "id": "DS1PR06MB106554253BCBA38602DFCB53FC50E2@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -285,15 +285,6 @@
       "subject": "FW: Thank you and Follow up",
       "sender": "\"Poler, Gabriela\" <gabriela.poler@austin.utexas.edu>",
       "date": "Thu May 14 2026 14:44:01 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6742E1B96717C07D3EFCB4CBBE072@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "RE: Helen's visit",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Thu May 14 2026 11:31:24 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
