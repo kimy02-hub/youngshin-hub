@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T04:03:14.002803",
+  "fetched_at": "2026-05-22T04:06:15.489387",
   "emails": [
     {
       "id": "aAngltsYFBmlLCNF8XDqVegUw1yoBQdZvIp1pwSaAW4@redcap.ascension.org",
@@ -303,15 +303,6 @@
       "subject": "Re: [EXTERNAL] Policy Update",
       "sender": "Debra Brown (Seton Family of Hospitals/Austin) <dmbrown1@ascension.org>",
       "date": "Thu May 14 2026 17:56:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB106899C72539FDB8EA5CB29BFC9072@SA6PR06MB10689.namprd06.prod.outlook.com",
-      "subject": "FW: Thank you and Follow up",
-      "sender": "\"Poler, Gabriela\" <gabriela.poler@austin.utexas.edu>",
-      "date": "Thu May 14 2026 14:44:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
