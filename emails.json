@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-22T10:45:13.110061",
+  "fetched_at": "2026-05-22T10:48:15.084530",
   "emails": [
+    {
+      "id": "PlannerDueDate-f6daaf52-5fee-4968-9b1f-afce775fe6f4;rcid_6b9312a6-16eb-48bc-9975-7803ef2b0b94;r0-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_2e9b32fd-3e76-41d5-ba50-865f9be68e39@odspnotify",
+      "subject": "You have upcoming tasks due",
+      "sender": "UT Austin (Do Not Reply) <noreply@utexas.edu>",
+      "date": "Fri May 22 2026 09:56:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "aAngltsYFBmlLCNF8XDqVegUw1yoBQdZvIp1pwSaAW4@redcap.ascension.org",
       "subject": "Ascension Observer Sponsor Form",
