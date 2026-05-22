@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-22T11:57:14.638932",
+  "fetched_at": "2026-05-22T12:00:14.688383",
   "emails": [
+    {
+      "id": "CAMvR-cpqjEOERQaR7yhYhHUpM9gcm_iKw9ay2oVZq4yRcHwJaA@mail.gmail.com",
+      "subject": "Get well soon",
+      "sender": "idil yazgan <idilyazgan19@gmail.com>",
+      "date": "Fri May 22 2026 11:41:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "PlannerDueDate-f6daaf52-5fee-4968-9b1f-afce775fe6f4;rcid_6b9312a6-16eb-48bc-9975-7803ef2b0b94;r0-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cac_notifyp-aid_2e9b32fd-3e76-41d5-ba50-865f9be68e39@odspnotify",
       "subject": "You have upcoming tasks due",
