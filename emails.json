@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T18:36:16.691147",
+  "fetched_at": "2026-05-25T18:39:15.005168",
   "emails": [
     {
       "id": "22177960136867@scheduler.ejpress.com",
@@ -213,15 +213,6 @@
       "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
       "sender": "Mike Carr <mike@autismlabs.com>",
       "date": "Mon May 18 2026 16:51:28 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019e3c5617cf-25175c8d-195c-4a7f-b5aa-5d56fc1f3364-000000@us-east-2.amazonses.com",
-      "subject": "Editor Assignment JAACAPOPEN-D-26-00013R1 - [EMID:13503baad57bb63e]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Mon May 18 2026 13:25:40 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
