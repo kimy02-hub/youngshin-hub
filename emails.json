@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T17:42:12.994722",
+  "fetched_at": "2026-05-25T17:45:12.934482",
   "emails": [
     {
       "id": "22177960136867@scheduler.ejpress.com",
@@ -231,15 +231,6 @@
       "subject": "Editor Assignment JAACAPOPEN-D-26-00013R1 - [EMID:13503baad57bb63e]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Mon May 18 2026 13:25:40 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711C06D211FBA09AB675BF2B8032@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon May 18 2026 12:38:08 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
