@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-25T13:54:19.829888",
+  "fetched_at": "2026-05-25T13:57:20.421331",
   "emails": [
+    {
+      "id": "22177960136867@scheduler.ejpress.com",
+      "subject": "Partial Submission to JAMA Pediatrics Pending",
+      "sender": "\"jamapeds@jamanetwork.org\" <jamapeds@jamanetwork.org>",
+      "date": "Sun May 24 2026 00:42:55 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAMvR-cpqjEOERQaR7yhYhHUpM9gcm_iKw9ay2oVZq4yRcHwJaA@mail.gmail.com",
       "subject": "Get well soon",
@@ -213,6 +222,33 @@
       "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
       "sender": "Mike Carr <mike@autismlabs.com>",
       "date": "Mon May 18 2026 16:51:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e3c5617cf-25175c8d-195c-4a7f-b5aa-5d56fc1f3364-000000@us-east-2.amazonses.com",
+      "subject": "Editor Assignment JAACAPOPEN-D-26-00013R1 - [EMID:13503baad57bb63e]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon May 18 2026 13:25:40 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711C06D211FBA09AB675BF2B8032@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon May 18 2026 12:38:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAHexhQsSHDSuShox8rfw+ThTMAg+T27NLMY7Ce+77bzwVPSsxQ@mail.gmail.com",
+      "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
+      "sender": "Mike Carr <mike@autismlabs.com>",
+      "date": "Mon May 18 2026 12:33:05 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
