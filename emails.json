@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T10:18:11.909768",
+  "fetched_at": "2026-05-26T10:21:11.840614",
   "emails": [
     {
       "id": "22177960136867@scheduler.ejpress.com",
@@ -159,15 +159,6 @@
       "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
       "sender": "utaustin@myworkday.com",
       "date": "Tue May 19 2026 09:02:15 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAKEHNFNf5QQtZ1VvJeEDeGHEBhc6vaWAB4db7V14vmbULZyo-Q@mail.gmail.com",
-      "subject": "Re: Psychologist for NICU position at SMCA",
-      "sender": "Derek Curlee <derek.curlee@ascension.org>",
-      "date": "Tue May 19 2026 08:39:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
