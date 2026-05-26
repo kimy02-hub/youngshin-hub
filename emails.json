@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T11:42:11.660243",
+  "fetched_at": "2026-05-26T11:45:12.654060",
   "emails": [
     {
       "id": "22177960136867@scheduler.ejpress.com",
@@ -150,6 +150,42 @@
       "subject": "FW: Concept Paper Decision",
       "sender": "Brandon J Rennie <brennie@salud.unm.edu>",
       "date": "Tue May 19 2026 09:25:53 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0100019e408ae44e-23087fcd-b2c1-4dd7-816b-821ba71172cf-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "utaustin@myworkday.com",
+      "date": "Tue May 19 2026 09:02:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAKEHNFNf5QQtZ1VvJeEDeGHEBhc6vaWAB4db7V14vmbULZyo-Q@mail.gmail.com",
+      "subject": "Re: Psychologist for NICU position at SMCA",
+      "sender": "Derek Curlee <derek.curlee@ascension.org>",
+      "date": "Tue May 19 2026 08:39:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LO4P265MB685604C817829C9E6427D460EA002@LO4P265MB6856.GBRP265.PROD.OUTLOOK.COM",
+      "subject": "Re: BJPsych Open - BJPsychOpen-2026-0281  Message from EIC",
+      "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
+      "date": "Tue May 19 2026 08:35:10 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CADTkpULkX_41LhSiV3M+bjAaJRQSfzG033+h7y2uo8rnvMcYQA@mail.gmail.com",
+      "subject": "Great team",
+      "sender": "Debra Rodriguez <drodriguez4@ascension.org>",
+      "date": "Tue May 19 2026 07:41:48 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
