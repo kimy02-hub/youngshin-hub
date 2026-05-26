@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-05-26T15:57:14.119106",
+  "fetched_at": "2026-05-26T16:00:13.979705",
   "emails": [
     {
       "id": "SN6PR06MB52000433A7EF81ED4486A118D70B2@SN6PR06MB5200.namprd06.prod.outlook.com",
       "subject": "Re:  [Psy Research Faculty] IT Issues – Faculty Experience (Follow-up and Coordination)",
       "sender": "\"Farrington, Julie\" <julie.farrington@austin.utexas.edu>",
       "date": "Tue May 26 2026 15:41:20 GMT-0500 (Central Daylight Time)",
-      "read": false,
+      "read": true,
       "flagged": true,
       "cc": ""
     },
@@ -22,7 +22,7 @@
     {
       "id": "MPCLKUTAPROD4hQdOgl000000ce@mpclkutaprod4.huronclick.com",
       "subject": "A new research project requires a COI Disclosure Profile update",
-      "sender": "\"no-reply@utexas.edu\" <no-reply@utexas.edu>",
+      "sender": "no-reply@utexas.edu",
       "date": "Tue May 26 2026 13:30:27 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -49,7 +49,7 @@
     {
       "id": "CAEYM0C0_-yuZ1sGRH9iOzrbYASCneC0hems+wv_9Ytdk4eKNPA@mail.gmail.com",
       "subject": "Re: [EXTERNAL] Clarification Regarding Physician Delegation Authority",
-      "sender": "\"Rachel Alhanti (DMS)\" <rachel.alhanti@ascension-external.org>",
+      "sender": "Rachel Alhanti (DMS) <rachel.alhanti@ascension-external.org>",
       "date": "Tue May 26 2026 08:16:32 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -76,7 +76,7 @@
     {
       "id": "22177960136867@scheduler.ejpress.com",
       "subject": "Partial Submission to JAMA Pediatrics Pending",
-      "sender": "\"jamapeds@jamanetwork.org\" <jamapeds@jamanetwork.org>",
+      "sender": "jamapeds@jamanetwork.org",
       "date": "Sun May 24 2026 00:42:55 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
