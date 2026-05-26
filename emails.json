@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T15:30:15.015612",
+  "fetched_at": "2026-05-26T15:33:25.772334",
   "emails": [
     {
       "id": "MPCLKUTAPROD4hQdOgl000000ce@mpclkutaprod4.huronclick.com",
@@ -240,24 +240,6 @@
       "subject": "Great team",
       "sender": "Debra Rodriguez <drodriguez4@ascension.org>",
       "date": "Tue May 19 2026 07:41:48 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711D68F5643849ADDC41A85B8032@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon May 18 2026 17:29:41 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAHexhQt2YyaxmYbQWF3dRZLoxQvXUtJGWhLm5y70Wg7hygA9dg@mail.gmail.com",
-      "subject": "Re: Phone Appointment with Dr. Young Shin Kim",
-      "sender": "Mike Carr <mike@autismlabs.com>",
-      "date": "Mon May 18 2026 17:10:56 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
