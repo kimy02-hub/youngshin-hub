@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-05-26T15:54:14.385767",
+  "fetched_at": "2026-05-26T15:57:14.119106",
   "emails": [
+    {
+      "id": "SN6PR06MB52000433A7EF81ED4486A118D70B2@SN6PR06MB5200.namprd06.prod.outlook.com",
+      "subject": "Re:  [Psy Research Faculty] IT Issues – Faculty Experience (Follow-up and Coordination)",
+      "sender": "\"Farrington, Julie\" <julie.farrington@austin.utexas.edu>",
+      "date": "Tue May 26 2026 15:41:20 GMT-0500 (Central Daylight Time)",
+      "read": false,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BY3PR06MB79081D06B3842D13D1F1A80FD00B2@BY3PR06MB7908.namprd06.prod.outlook.com",
+      "subject": "Fw:  [Psy Research Faculty] IT Issues – Faculty Experience (Follow-up and Coordination)",
+      "sender": "Lief Fenno <lief.fenno@austin.utexas.edu>",
+      "date": "Tue May 26 2026 14:36:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "MPCLKUTAPROD4hQdOgl000000ce@mpclkutaprod4.huronclick.com",
       "subject": "A new research project requires a COI Disclosure Profile update",
