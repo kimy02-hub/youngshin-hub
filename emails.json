@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-27T16:33:13.539393",
+  "fetched_at": "2026-05-27T16:36:15.300226",
   "emails": [
     {
       "id": "SN6PR06MB486103F7FA8CCDAEE21B52D9D1082@SN6PR06MB4861.namprd06.prod.outlook.com",
@@ -195,15 +195,6 @@
       "subject": "Checking in about potential position",
       "sender": "Monica Trevino <monicatrevino.2424@gmail.com>",
       "date": "Wed May 20 2026 19:02:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB4861216C2E421E4DCB53E606D1012@SN6PR06MB4861.namprd06.prod.outlook.com",
-      "subject": "Family Medical Leave Request",
-      "sender": "HRS Leave Management <HRS-LM@austin.utexas.edu>",
-      "date": "Wed May 20 2026 15:21:30 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
