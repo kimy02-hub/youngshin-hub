@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-27T15:45:20.202941",
+  "fetched_at": "2026-05-27T15:48:23.167646",
   "emails": [
     {
       "id": "SN6PR06MB486103F7FA8CCDAEE21B52D9D1082@SN6PR06MB4861.namprd06.prod.outlook.com",
@@ -204,15 +204,6 @@
       "subject": "Family Medical Leave Request",
       "sender": "HRS Leave Management <HRS-LM@austin.utexas.edu>",
       "date": "Wed May 20 2026 15:21:30 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "358aeb$on095@angmar.mail.utexas.edu",
-      "subject": "New message",
-      "sender": "Your UT Medicine Portal Care Team <donotreply@utmedicine.org>",
-      "date": "Wed May 20 2026 13:24:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
