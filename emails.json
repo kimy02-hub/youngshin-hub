@@ -1,11 +1,20 @@
 {
-  "fetched_at": "2026-05-27T14:09:23.913825",
+  "fetched_at": "2026-05-27T14:12:23.243251",
   "emails": [
     {
       "id": "DS4PR06MB10763358AAC1EBDFD2270B3E3C9082@DS4PR06MB10763.namprd06.prod.outlook.com",
       "subject": "CDMRP Autism Research Program Funding Opportunity Announced",
       "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
       "date": "Wed May 27 2026 13:54:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS4PR08MB107519644A99E0B4AA301CE82A5082@DS4PR08MB10751.namprd08.prod.outlook.com",
+      "subject": "catching up",
+      "sender": "\"Ryan, Neal\" <Ryannd@upmc.edu>",
+      "date": "Wed May 27 2026 13:48:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
