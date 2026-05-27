@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-05-27T15:36:15.137950",
+  "fetched_at": "2026-05-27T15:39:12.716918",
   "emails": [
+    {
+      "id": "SN6PR06MB486103F7FA8CCDAEE21B52D9D1082@SN6PR06MB4861.namprd06.prod.outlook.com",
+      "subject": "Family Medical Leave Documents",
+      "sender": "HRS Leave Management <HRS-LM@austin.utexas.edu>",
+      "date": "Wed May 27 2026 15:08:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS4PR06MB10763358AAC1EBDFD2270B3E3C9082@DS4PR06MB10763.namprd06.prod.outlook.com",
       "subject": "CDMRP Autism Research Program Funding Opportunity Announced",
@@ -213,24 +222,6 @@
       "subject": "New message",
       "sender": "Your UT Medicine Portal Care Team <donotreply@utmedicine.org>",
       "date": "Wed May 20 2026 13:22:21 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf67V6LA4pKZ6HtyHysOZGV2groj0YzwtBYyXk8BT=-XFRg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Faculty Mentor Volunteers 2026-2027",
-      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
-      "date": "Wed May 20 2026 12:11:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019e462ca84b-e7980ba7-1d15-4b19-bcad-2bfac7f9795a-000000@us-east-2.amazonses.com",
-      "subject": "Editor Assignment JAACAPOPEN-D-26-00009R1 - [EMID:274abb24a2393c01]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Wed May 20 2026 11:16:36 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
