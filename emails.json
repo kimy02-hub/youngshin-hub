@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-27T15:42:13.219604",
+  "fetched_at": "2026-05-27T15:45:20.202941",
   "emails": [
     {
       "id": "SN6PR06MB486103F7FA8CCDAEE21B52D9D1082@SN6PR06MB4861.namprd06.prod.outlook.com",
@@ -213,15 +213,6 @@
       "subject": "New message",
       "sender": "Your UT Medicine Portal Care Team <donotreply@utmedicine.org>",
       "date": "Wed May 20 2026 13:24:01 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "358aeb$on07m@angmar.mail.utexas.edu",
-      "subject": "New message",
-      "sender": "Your UT Medicine Portal Care Team <donotreply@utmedicine.org>",
-      "date": "Wed May 20 2026 13:22:21 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
