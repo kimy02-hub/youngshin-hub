@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T11:24:20.384384",
+  "fetched_at": "2026-05-28T11:27:20.694456",
   "emails": [
     {
       "id": "CAMFZdz1dHD40SWFH-KHENjFY8a-YaotgYADRhwuhF9-S5iz+Lg@mail.gmail.com",
@@ -15,6 +15,15 @@
       "subject": "BJPsych Open Editorial Board Meeting and Strategy Session Monday 1 June 2026 - please complete the feedback form asap",
       "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
       "date": "Thu May 28 2026 10:42:45 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM3PPF569F3D3B39F8DFF5B4D9CF7345E2AA9092@DM3PPF569F3D3B3.namprd22.prod.outlook.com",
+      "subject": "AACAP’s New Conflict of Interest Policy Coming Soon",
+      "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
+      "date": "Thu May 28 2026 10:23:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -222,6 +231,15 @@
       "subject": "Re: connection between Dell Children's and Woolfolk Center",
       "sender": "\"Neal, Corinne N\" <corinne.neal@austin.utexas.edu>",
       "date": "Thu May 21 2026 15:40:14 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB106554253BCBA38602DFCB53FC50E2@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "RE: Updating TCHATT Job Descriptions",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Thu May 21 2026 12:39:37 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
