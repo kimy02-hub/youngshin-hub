@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T14:30:12.203560",
+  "fetched_at": "2026-05-28T14:33:14.143639",
   "emails": [
     {
       "id": "CAMFZdz1dHD40SWFH-KHENjFY8a-YaotgYADRhwuhF9-S5iz+Lg@mail.gmail.com",
@@ -42,6 +42,15 @@
       "subject": "Fwd: Problem with Bluebonnet Trails",
       "sender": "Puja Patel <pgpatel@ascension.org>",
       "date": "Thu May 28 2026 09:33:16 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "MPCLKUTAPROD3IIZS2T00000020@mpclkutaprod3.huronclick.com",
+      "subject": "FP00015109: Specialist Requests Changes",
+      "sender": "\"no-reply@utexas.edu\" <no-reply@utexas.edu>",
+      "date": "Thu May 28 2026 08:17:20 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
