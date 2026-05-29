@@ -1,6 +1,60 @@
 {
-  "fetched_at": "2026-05-29T04:45:12.919659",
+  "fetched_at": "2026-05-29T04:48:15.277412",
   "emails": [
+    {
+      "id": "4617800333726@scheduler.ejpress.com",
+      "subject": "Partial Submission to JAMA Pediatrics Pending",
+      "sender": "\"jamapeds@jamanetwork.org\" <jamapeds@jamanetwork.org>",
+      "date": "Fri May 29 2026 00:42:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "E5ECA77F-1644-454C-A575-918CC57D381F@yahoo.com",
+      "subject": "Colton Jornay",
+      "sender": "Shanna Kalage <shannakalage@yahoo.com>",
+      "date": "Fri May 29 2026 00:13:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "calendar-7b7b508a-5a83-449c-a3cc-3949e1f26c14@google.com",
+      "subject": "Updated invitation with note: Virtual Only - Monthly Pediatrics Division Director Meeting  @ Tue Jun 2, 2026 12pm - 1pm (CDT) (youngshin.kim@austin.utexas.edu)",
+      "sender": "\"Esteban De Santiago (Dell Medical School)\" <esteban.de.santiago@ascension-external.org>",
+      "date": "Thu May 28 2026 18:47:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BL0PR06MB48503F3ED6A8A686738AB2BAA6092@BL0PR06MB4850.namprd06.prod.outlook.com",
+      "subject": "update/ info",
+      "sender": "\"Mian, Amir\" <amir.mian@austin.utexas.edu>",
+      "date": "Thu May 28 2026 16:53:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BN7PR06MB5236E1D1D6ED4B2A9CE6DBA3C0092@BN7PR06MB5236.namprd06.prod.outlook.com",
+      "subject": "I2R Course _ Applications Open",
+      "sender": "\"Moser, Leta R\" <leta.moser@austin.utexas.edu>",
+      "date": "Thu May 28 2026 16:41:02 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf65CkdfQ5Fav6nBEMSw17a2Z8jdA9gN-mYkWYoWRmttvbw@mail.gmail.com",
+      "subject": "Fwd: CAP Fellowship Psychopharm/Psychopathology Course Planning!",
+      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "date": "Thu May 28 2026 16:30:00 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAMFZdz1dHD40SWFH-KHENjFY8a-YaotgYADRhwuhF9-S5iz+Lg@mail.gmail.com",
       "subject": "Re: Re: [EXTERNAL] Problem with Bluebonnet Trails",
