@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-29T16:06:13.246502",
+  "fetched_at": "2026-05-29T16:09:14.246599",
   "emails": [
     {
       "id": "4617800333726@scheduler.ejpress.com",
@@ -267,6 +267,24 @@
       "subject": "Partial Submission to JAMA Pediatrics Pending",
       "sender": "jamapeds@jamanetwork.org",
       "date": "Sun May 24 2026 00:42:55 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAAXYbwjShtHpZC994TY1m806ex=J3QXS2TzjB-ztmwoLWCQu2Q@mail.gmail.com",
+      "subject": "Re: Get well soon",
+      "sender": "Yanki Yazgan <yanki.yazgan@gmail.com>",
+      "date": "Sat May 23 2026 03:51:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMvR-cpqjEOERQaR7yhYhHUpM9gcm_iKw9ay2oVZq4yRcHwJaA@mail.gmail.com",
+      "subject": "Get well soon",
+      "sender": "idil yazgan <idilyazgan19@gmail.com>",
+      "date": "Fri May 22 2026 11:41:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
