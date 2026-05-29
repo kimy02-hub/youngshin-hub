@@ -1,20 +1,29 @@
 {
-  "fetched_at": "2026-05-29T16:09:14.246599",
+  "fetched_at": "2026-05-29T16:12:14.947724",
   "emails": [
     {
-      "id": "4617800333726@scheduler.ejpress.com",
-      "subject": "Partial Submission to JAMA Pediatrics Pending",
-      "sender": "\"jamapeds@jamanetwork.org\" <jamapeds@jamanetwork.org>",
-      "date": "Fri May 29 2026 00:42:59 GMT-0500 (Central Daylight Time)",
+      "id": "SJ0PR06MB7392CEA515A67AC837452EF0C0162@SJ0PR06MB7392.namprd06.prod.outlook.com",
+      "subject": "Re: Action Needed by May 27 - Staff Extensions",
+      "sender": "Psychiatry Workforce <psychiatry.workforce@austin.utexas.edu>",
+      "date": "Fri May 29 2026 09:17:18 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
     },
     {
-      "id": "E5ECA77F-1644-454C-A575-918CC57D381F@yahoo.com",
-      "subject": "Colton Jornay",
-      "sender": "Shanna Kalage <shannakalage@yahoo.com>",
-      "date": "Fri May 29 2026 00:13:07 GMT-0500 (Central Daylight Time)",
+      "id": "728C380E-86C4-4789-AE94-B7B7871E33C6@gmail.com",
+      "subject": "Re: Get well soon",
+      "sender": "sule yazgan <suleyazgan@gmail.com>",
+      "date": "Fri May 29 2026 03:18:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "4617800333726@scheduler.ejpress.com",
+      "subject": "Partial Submission to JAMA Pediatrics Pending",
+      "sender": "\"jamapeds@jamanetwork.org\" <jamapeds@jamanetwork.org>",
+      "date": "Fri May 29 2026 00:42:59 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -294,33 +303,6 @@
       "subject": "You have upcoming tasks due",
       "sender": "UT Austin (Do Not Reply) <noreply@utexas.edu>",
       "date": "Fri May 22 2026 09:56:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "aAngltsYFBmlLCNF8XDqVegUw1yoBQdZvIp1pwSaAW4@redcap.ascension.org",
-      "subject": "Ascension Observer Sponsor Form",
-      "sender": "txobservers@ascension.org",
-      "date": "Thu May 21 2026 15:49:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CO1PR06MB8076BA033B69392476450AD7CE0E2@CO1PR06MB8076.namprd06.prod.outlook.com",
-      "subject": "Re: connection between Dell Children's and Woolfolk Center",
-      "sender": "\"Neal, Corinne N\" <corinne.neal@austin.utexas.edu>",
-      "date": "Thu May 21 2026 15:40:14 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB106554253BCBA38602DFCB53FC50E2@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Updating TCHATT Job Descriptions",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Thu May 21 2026 12:39:37 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
