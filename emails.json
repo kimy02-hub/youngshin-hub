@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-31T22:15:19.729497",
+  "fetched_at": "2026-05-31T22:18:16.805331",
   "emails": [
     {
       "id": "MmrJD8ftJHxR7xeB0s9VjYTiSb2i4CBC2ktOSR0HQ@andc1lweb0004",
@@ -330,6 +330,15 @@
       "subject": "Re: Get well soon",
       "sender": "Yanki Yazgan <yanki.yazgan@gmail.com>",
       "date": "Sat May 23 2026 03:51:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAMvR-cpqjEOERQaR7yhYhHUpM9gcm_iKw9ay2oVZq4yRcHwJaA@mail.gmail.com",
+      "subject": "Get well soon",
+      "sender": "idil yazgan <idilyazgan19@gmail.com>",
+      "date": "Fri May 22 2026 11:41:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
