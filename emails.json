@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-02T01:39:24.756141",
+  "fetched_at": "2026-06-02T01:42:25.227228",
   "emails": [
     {
       "id": "DS1PR06MB10655A2F507862D79BE0BE3A9C5152@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -60,6 +60,15 @@
       "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:6c50a138092d061a]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Mon Jun 01 2026 14:42:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019e848684e9-d324229d-40db-4e13-88d3-ca9cd60fd7f6-000000@us-west-2.amazonses.com",
+      "subject": "New Handling Editor Assignment - BJPsychOpen-2026-0394",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Mon Jun 01 2026 13:51:16 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
