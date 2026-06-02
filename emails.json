@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-02T09:42:30.630975",
+  "fetched_at": "2026-06-02T09:45:27.793152",
   "emails": [
+    {
+      "id": "LV2PR06MB999734AC12F5E30C5A766D375FD2122@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "Re: ECHO Autism Slides for Review",
+      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
+      "date": "Tue Jun 02 2026 09:18:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e87aab948-93cfc7f7-5710-41f6-862d-87c339189820-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:83128ff63b3cc064]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Jun 02 2026 04:29:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "DS1PR06MB10655A2F507862D79BE0BE3A9C5152@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "RE: DRAFT: Advance Notice of Upcoming Hires to Support Onboarding",
@@ -33,15 +51,6 @@
       "subject": "Re: RE: [EXTERNAL] Clinician Award nominations now open",
       "sender": "Kari Whatley <kari.whatley@ascension.org>",
       "date": "Mon Jun 01 2026 15:50:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SJ0PR04MB7213CCA001A2694931E1CC0CDF152@SJ0PR04MB7213.namprd04.prod.outlook.com",
-      "subject": "Texas Child Mental Health Care Consortium Executive Committee Meeting",
-      "sender": "Texas Child Mental Health Care Consortium <tcmhcc@utsystem.edu>",
-      "date": "Mon Jun 01 2026 15:47:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -209,15 +218,6 @@
       "cc": ""
     },
     {
-      "id": "CAMFZdz1dHD40SWFH-KHENjFY8a-YaotgYADRhwuhF9-S5iz+Lg@mail.gmail.com",
-      "subject": "Re: Re: [EXTERNAL] Problem with Bluebonnet Trails",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Thu May 28 2026 10:53:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "CWXP265MB3495BD3EAF3C24773174A07BC6092@CWXP265MB3495.GBRP265.PROD.OUTLOOK.COM",
       "subject": "BJPsych Open Editorial Board Meeting and Strategy Session Monday 1 June 2026 - please complete the feedback form asap",
       "sender": "BJPsych Open <BJPOpen@rcpsych.ac.uk>",
@@ -231,24 +231,6 @@
       "subject": "AACAP’s New Conflict of Interest Policy Coming Soon",
       "sender": "Kristine Pumphrey <kpumphrey@aacap.org>",
       "date": "Thu May 28 2026 10:23:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR06MB61394A8BF59491490EA0CD80AC092@DM6PR06MB6139.namprd06.prod.outlook.com",
-      "subject": "Re: Problem with Bluebonnet Trails",
-      "sender": "\"Sawhney, Rishi\" <Rishi.Sawhney@austin.utexas.edu>",
-      "date": "Thu May 28 2026 09:50:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAMFZdz0xdALKc4BZ4fV7LnCwnaBRwvbxSum-nTstr7hw=c97sQ@mail.gmail.com",
-      "subject": "Fwd: Problem with Bluebonnet Trails",
-      "sender": "Puja Patel <pgpatel@ascension.org>",
-      "date": "Thu May 28 2026 09:33:16 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -411,6 +393,15 @@
       "subject": "Collaboration Opportunity — ADI-R Expertise & Global ADHD Network Training in Austin, Texas",
       "sender": "Global ADHD Network <info@globaladhdnetwork.com>",
       "date": "Tue May 26 2026 07:39:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM5PR0601MB3749FD11CF5E13F8F662C157D10B2@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "subject": "New Resource for families with Autistic children/adults with sudden onset severe challenging behaviors",
+      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "date": "Tue May 26 2026 06:14:55 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
