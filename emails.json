@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-02T01:24:16.935876",
+  "fetched_at": "2026-06-02T01:27:24.404721",
   "emails": [
     {
       "id": "DM6PR04MB3850E7CB093A497E5F337D5EC4152@DM6PR04MB3850.namprd04.prod.outlook.com",
@@ -321,6 +321,33 @@
       "subject": "NECMHR 2027 - Interest and Pre-Application Guidance",
       "sender": "\"Wee, Sharyl E\" <sharyl.wee@austin.utexas.edu>",
       "date": "Tue May 26 2026 13:05:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAEYM0C0_-yuZ1sGRH9iOzrbYASCneC0hems+wv_9Ytdk4eKNPA@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Clarification Regarding Physician Delegation Authority",
+      "sender": "Rachel Alhanti (DMS) <rachel.alhanti@ascension-external.org>",
+      "date": "Tue May 26 2026 08:16:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CW1P265MB8880C025CA5F4499D2D7A84BC70B2@CW1P265MB8880.GBRP265.PROD.OUTLOOK.COM",
+      "subject": "Collaboration Opportunity — ADI-R Expertise & Global ADHD Network Training in Austin, Texas",
+      "sender": "Global ADHD Network <info@globaladhdnetwork.com>",
+      "date": "Tue May 26 2026 07:39:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM5PR0601MB3749FD11CF5E13F8F662C157D10B2@DM5PR0601MB3749.namprd06.prod.outlook.com",
+      "subject": "New Resource for families with Autistic children/adults with sudden onset severe challenging behaviors",
+      "sender": "\"Jackson, Leslie\" <leslie.jackson@austin.utexas.edu>",
+      "date": "Tue May 26 2026 06:14:55 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
