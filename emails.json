@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-02T01:36:21.205497",
+  "fetched_at": "2026-06-02T01:39:24.756141",
   "emails": [
     {
       "id": "DS1PR06MB10655A2F507862D79BE0BE3A9C5152@DS1PR06MB10655.namprd06.prod.outlook.com",
@@ -51,6 +51,15 @@
       "subject": "Fw: UPDATED: Project Tracker",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Mon Jun 01 2026 15:20:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e84b58844-e00e0d9f-09bb-41f1-aa2f-3e12600a415d-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:6c50a138092d061a]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 01 2026 14:42:34 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
