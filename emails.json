@@ -1,11 +1,128 @@
 {
-  "fetched_at": "2026-06-03T19:45:14.032945",
+  "fetched_at": "2026-06-03T19:48:18.467434",
   "emails": [
+    {
+      "id": "PH0PR06MB7871280EE8610A907EE98BF7D5132@PH0PR06MB7871.namprd06.prod.outlook.com",
+      "subject": "RE: AACAP Booth",
+      "sender": "\"Young, Dannette\" <dannette.young@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 16:45:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO1PR06MB8060E1609B6C3CE4F9AAC1A2C2132@CO1PR06MB8060.namprd06.prod.outlook.com",
+      "subject": "CAP Fellowship Course Directors Planning: June through September",
+      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 15:57:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "a3SvHrKjurBmW9ouSkVfUCAD9gXEof3IjnZK2jdRE4@andc1lweb0004",
+      "subject": "[Reminder] Ascension Observer Sponsor Form",
+      "sender": "\"txobservers@ascension.org\" <txobservers@ascension.org>",
+      "date": "Wed Jun 03 2026 15:52:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "46558251-27f6-4deb-a211-55b0f6a55d96",
+      "subject": "View your health reminder, Young Shin",
+      "sender": "Digestive Health <noreply@patient-message.com>",
+      "date": "Wed Jun 03 2026 15:29:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA6PR06MB102738C955C5B98149D209E4DBA132@SA6PR06MB10273.namprd06.prod.outlook.com",
+      "subject": "RE: Wed Leadership Meeting Minutes and Action Items",
+      "sender": "\"Jain, Ritika\" <ritika.jain@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 12:47:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANyjHyvKxR8pX95Jt-a1tiyzMNvY6gZkemW2WiPwcrcPzsr3-Q@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] FY28-29 NECMHR Timeline",
+      "sender": "Alexandra Lamari-Fisher <alamari-fisher@ascension.org>",
+      "date": "Wed Jun 03 2026 12:28:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB67429C1DBD648878663A49CCBE132@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: [EXTERNAL] request to meet about sleep research",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 11:18:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB6983F512C5445E0AD64672A1D5132@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "Antonio Pagan Recruitment",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 10:44:14 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANrqWCiLFn3kodAoMM54yvK2tz2PoH+d5jDhtt2mbjgZKjVOXw@mail.gmail.com",
+      "subject": "Question Regarding Regulating Together Group Billing",
+      "sender": "Mitchell Todd <mitchell.todd@ascension-external.org>",
+      "date": "Wed Jun 03 2026 08:43:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "MPCLKUTAPROD4AOsXuV000001f0@mpclkutaprod4.huronclick.com",
+      "subject": "Reminder: You are required to complete an update of your COI Disclosure Profile",
+      "sender": "\"no-reply@utexas.edu\" <no-reply@utexas.edu>",
+      "date": "Wed Jun 03 2026 02:00:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD21Fjxe0y00000391@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00009102 is waiting for clarification",
+      "sender": "\"no-reply@utexas.edu\" <no-reply@utexas.edu>",
+      "date": "Wed Jun 03 2026 01:00:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "010f019e8be6ec1b-1438c809-d16a-4df7-a590-c826a07d62e8-000000@us-east-2.amazonses.com",
       "subject": "Your Submission BPS-D-26-00491",
       "sender": "Biological Psychiatry <em@editorialmanager.com>",
       "date": "Wed Jun 03 2026 00:13:54 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BL4PR06MB9575D755765851CC768F12649D122@BL4PR06MB9575.namprd06.prod.outlook.com",
+      "subject": "Peds Division Directors Annual Report (Action requested by June 30)",
+      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
+      "date": "Tue Jun 02 2026 15:55:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB69833B5285A5926792B971B9D5122@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: SAAP - Search Analysis and Action Plan   Child & Adolescent Psychiatry searches.",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Tue Jun 02 2026 14:59:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -33,6 +150,15 @@
       "subject": "Site Approval Form – PI Signature Needed",
       "sender": "\"Johnson, Jenni L\" <jennifer.johnson1@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 11:40:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB67423AB9EB436866D4203386BE122@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "Re: RE: [EXTERNAL] SAGE Research Recruitment through Pediatric Neurology",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Tue Jun 02 2026 11:40:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -321,24 +447,6 @@
       "subject": "catching up",
       "sender": "\"Ryan, Neal\" <Ryannd@upmc.edu>",
       "date": "Wed May 27 2026 13:48:50 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf65YhM6aMY1o+TvgK4JSKb8nut-wHoEdeiHqLg0Pumb+fg@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] Clarification Regarding Physician Delegation Authority",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
-      "date": "Wed May 27 2026 11:27:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CAKrvT3bsKikixCY2_8wcf+yjA4_xnU5x_sDcC4KgXb9Zv=sttw@mail.gmail.com",
-      "subject": "🌸 REMINDER: Reception Honoring Dr. Z. Leah Harris • Wednesday, May 27, 2026",
-      "sender": "Patti Woods <pewoods@ascension.org>",
-      "date": "Wed May 27 2026 09:47:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
