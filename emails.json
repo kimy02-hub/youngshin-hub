@@ -1,6 +1,33 @@
 {
-  "fetched_at": "2026-06-04T22:15:16.004294",
+  "fetched_at": "2026-06-04T22:18:16.308796",
   "emails": [
+    {
+      "id": "IA3PR06MB10711EB9982B2ACE40AAD98A8B8102@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "REMINDER: Woolfolk Referrals",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 14:12:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BY3PR05MB827499D8C7C3EB390BD030AAF1102@BY3PR05MB8274.namprd05.prod.outlook.com",
+      "subject": "Fw: 2027 AHA Predoctoral and Postdoctoral Fellowships",
+      "sender": "\"Demopoulos, Carly\" <Carly.Demopoulos@ucsf.edu>",
+      "date": "Thu Jun 04 2026 12:57:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BY3PR06MB79081083D384CBDFC8C4A1AED0102@BY3PR06MB7908.namprd06.prod.outlook.com",
+      "subject": "Re: [Psy Research Faculty] Office 365 Migration Discussion (Onsite: HDB 3.112)",
+      "sender": "Lief Fenno <lief.fenno@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 22:30:40 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "PH0PR06MB7871280EE8610A907EE98BF7D5132@PH0PR06MB7871.namprd06.prod.outlook.com",
       "subject": "RE: AACAP Booth",
@@ -420,33 +447,6 @@
       "subject": "FP00015109: Specialist Requests Changes",
       "sender": "no-reply@utexas.edu",
       "date": "Thu May 28 2026 08:17:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SN6PR06MB486103F7FA8CCDAEE21B52D9D1082@SN6PR06MB4861.namprd06.prod.outlook.com",
-      "subject": "Family Medical Leave Documents",
-      "sender": "HRS Leave Management <HRS-LM@austin.utexas.edu>",
-      "date": "Wed May 27 2026 15:08:26 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR06MB10763358AAC1EBDFD2270B3E3C9082@DS4PR06MB10763.namprd06.prod.outlook.com",
-      "subject": "CDMRP Autism Research Program Funding Opportunity Announced",
-      "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
-      "date": "Wed May 27 2026 13:54:52 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR08MB107519644A99E0B4AA301CE82A5082@DS4PR08MB10751.namprd08.prod.outlook.com",
-      "subject": "catching up",
-      "sender": "\"Ryan, Neal\" <Ryannd@upmc.edu>",
-      "date": "Wed May 27 2026 13:48:50 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
