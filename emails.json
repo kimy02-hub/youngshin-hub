@@ -1,6 +1,60 @@
 {
-  "fetched_at": "2026-06-08T15:03:23.546009",
+  "fetched_at": "2026-06-08T15:06:18.137911",
   "emails": [
+    {
+      "id": "010f019ea8601a0b-87fa529f-b4b9-4bf6-a240-b7bb152d2055-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:cc4ee2ea090b0ecc]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ea8601a0c-78df42ad-4a64-45bc-b287-4ff0793a0bed-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00009R1 Editor Reminder - [EMID:943f792a355cfa67]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR06MB620071F844377051B7FFA760CC1C2@BYAPR06MB6200.namprd06.prod.outlook.com",
+      "subject": "Shadowing this Friday",
+      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
+      "date": "Mon Jun 08 2026 12:12:16 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH5PR06MB10549D7F9BD3AC2E31EE7044BCA1C2@CH5PR06MB10549.namprd06.prod.outlook.com",
+      "subject": "Action Required: Complete Annual Appraisal Reminder",
+      "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
+      "date": "Mon Jun 08 2026 11:06:44 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "178091204877.12.11971830634839410041@production-5db4df86b4-hhgcz",
+      "subject": "[ERP Reports] A new report is available",
+      "sender": "\"erp_reports@austin.utexas.edu\" <erp_reports@austin.utexas.edu>",
+      "date": "Mon Jun 08 2026 04:47:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA3PR06MB9443166DEE6F1F3426D633F8D91F2@SA3PR06MB9443.namprd06.prod.outlook.com",
+      "subject": "Research Assistant Appointment Extension and Summer Availability",
+      "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
+      "date": "Sun Jun 07 2026 17:08:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "38D80DF7-B9EF-4E39-8790-25CBC38CC2EB@gmail.com",
       "subject": "Re: Ascension Portal",
@@ -20,15 +74,6 @@
       "cc": ""
     },
     {
-      "id": "CH2PR06MB6742E81488BB85FA75AD67A5BE112@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "Re: Blue Gogi",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Fri Jun 05 2026 17:04:16 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
       "id": "LV9PR06MB11293E12CBC32C6E057809EBCFD112@LV9PR06MB11293.namprd06.prod.outlook.com",
       "subject": "ACTION REQUIRED: Problems on your ClinicalTrials.gov record",
       "sender": "IRB Quality Assurance <irbqa@austin.utexas.edu>",
@@ -42,15 +87,6 @@
       "subject": "[Reminder] Ascension Observer Sponsor Form",
       "sender": "\"txobservers@ascension.org\" <txobservers@ascension.org>",
       "date": "Fri Jun 05 2026 15:52:14 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655A4F6A663449F66ACD2C8C5112@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: Blue Gogi",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Fri Jun 05 2026 15:03:01 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -411,42 +447,6 @@
       "subject": "Re: Ascension Portal",
       "sender": "Ashley Giles <ashleygilestx@gmail.com>",
       "date": "Mon Jun 01 2026 11:17:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DM6PR04MB3850E7CB093A497E5F337D5EC4152@DM6PR04MB3850.namprd04.prod.outlook.com",
-      "subject": "DDPC meeting June 10 - manuscript attached",
-      "sender": "\"Vaaler, Margaret\" <mvaaler@utsystem.edu>",
-      "date": "Mon Jun 01 2026 10:45:00 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS4PR05MB998430733F64F53D6FDECCE5E1F0152@DS4PR05MB998430.namprd05.prod.outlook.com",
-      "subject": "Reminder - Honoring Somer and Her Incredible Legacy at STAR",
-      "sender": "\"Ence, Whitney\" <Whitney.Ence@ucsf.edu>",
-      "date": "Sun May 31 2026 22:09:57 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CA+2uqrVrFeuBaDPjhX9YYO5ZVR-zPyhi9sFqKNgfymrEE-Xy+Q@mail.gmail.com",
-      "subject": "Re: Prospective Medical Student Research Fellow",
-      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
-      "date": "Sun May 31 2026 19:12:29 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "MmrJD8ftJHxR7xeB0s9VjYTiSb2i4CBC2ktOSR0HQ@andc1lweb0004",
-      "subject": "[Reminder] Ascension Observer Sponsor Form",
-      "sender": "txobservers@ascension.org",
-      "date": "Sat May 30 2026 15:52:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
