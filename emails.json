@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-09T15:30:19.006593",
+  "fetched_at": "2026-06-09T15:33:15.736888",
   "emails": [
+    {
+      "id": "MW4PR06MB7834A03B5A5BB777A9077F98D21D2@MW4PR06MB7834.namprd06.prod.outlook.com",
+      "subject": "Re: General residency didactic teaching request",
+      "sender": "\"Bartow, Christine\" <christine.bartow@austin.utexas.edu>",
+      "date": "Tue Jun 09 2026 14:20:18 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "78225183-CC35-4DF4-8258-9314E043AE5F@gmail.com",
       "subject": "Re: Fiona Rx Refill",
@@ -438,15 +447,6 @@
       "subject": "JAACAP Open Editor Summary - [EMID:83128ff63b3cc064]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Tue Jun 02 2026 04:29:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655A2F507862D79BE0BE3A9C5152@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: DRAFT: Advance Notice of Upcoming Hires to Support Onboarding",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Mon Jun 01 2026 16:50:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
