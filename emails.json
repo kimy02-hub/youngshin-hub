@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-09T13:57:25.105444",
+  "fetched_at": "2026-06-09T14:00:28.950953",
   "emails": [
+    {
+      "id": "78225183-CC35-4DF4-8258-9314E043AE5F@gmail.com",
+      "subject": "Re: Fiona Rx Refill",
+      "sender": "Jessica Rodriguez <j355icarod14@gmail.com>",
+      "date": "Tue Jun 09 2026 13:29:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BLAPR06MB6772BCA14BAF527A11C85EFFDA1D2@BLAPR06MB6772.namprd06.prod.outlook.com",
+      "subject": "PracticeMatch Marketing, Review and Approval",
+      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
+      "date": "Tue Jun 09 2026 12:55:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "010f019eac16be4f-3c7e6f16-a88b-4bf9-addf-28f9c7afcc25-000000@us-east-2.amazonses.com",
       "subject": "JAACAP Open Editor Summary - [EMID:824325a55d117d47]",
@@ -47,10 +65,37 @@
       "cc": ""
     },
     {
+      "id": "IA3PR06MB10711348F08870968E9513426B81C2@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Re: Fiona Rx Refill",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Jun 08 2026 11:14:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "CH5PR06MB10549D7F9BD3AC2E31EE7044BCA1C2@CH5PR06MB10549.namprd06.prod.outlook.com",
       "subject": "Action Required: Complete Annual Appraisal Reminder",
       "sender": "Dell Med HR <dellmedhr@austin.utexas.edu>",
       "date": "Mon Jun 08 2026 11:06:44 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAE7WYkNO6O7fgRL0QrV80S5AO-PR5+Ne-gW649N8grjF9U4H2A@mail.gmail.com",
+      "subject": "Re: Fiona Rx Refill",
+      "sender": "Anthony Rodriguez <agr4259@gmail.com>",
+      "date": "Mon Jun 08 2026 11:06:33 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAE7WYkOds6MWK4QJVUDi2Xy8Mn6CHThiCj7YKCXKdztVGGO-Ow@mail.gmail.com",
+      "subject": "Re: Fiona Rx Refill",
+      "sender": "Anthony Rodriguez <agr4259@gmail.com>",
+      "date": "Mon Jun 08 2026 10:56:46 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -402,51 +447,6 @@
       "subject": "RE: DRAFT: Advance Notice of Upcoming Hires to Support Onboarding",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Mon Jun 01 2026 16:50:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "ozIe9NGdcWa5e4opQccZpsRfEfphBMEbkut1Kcmww@andc1lweb0004",
-      "subject": "[Reminder] Ascension Observer Sponsor Form",
-      "sender": "\"txobservers@ascension.org\" <txobservers@ascension.org>",
-      "date": "Mon Jun 01 2026 15:52:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf6562+mDN0oMs+sO4MSbcF7bkU+yGRbM071f+3fGYRzRog@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] Call for Faculty Awards & Posters- Dell Med Educational innovation, Research, and Awards Symposium 2026",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
-      "date": "Mon Jun 01 2026 15:51:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf66kSVZgJ3Wrs=8eWGGBe1pM_7eujo9RkRJNFqROA01kUQ@mail.gmail.com",
-      "subject": "Re: RE: [EXTERNAL] Clinician Award nominations now open",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
-      "date": "Mon Jun 01 2026 15:50:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107117F5DB89120A4B5CB1BC6B8152@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Fw: UPDATED: Project Tracker",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Jun 01 2026 15:20:29 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019e84b58844-e00e0d9f-09bb-41f1-aa2f-3e12600a415d-000000@us-east-2.amazonses.com",
-      "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:6c50a138092d061a]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Mon Jun 01 2026 14:42:34 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
