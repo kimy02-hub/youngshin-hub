@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-09T21:57:20.949138",
+  "fetched_at": "2026-06-09T22:00:24.868359",
   "emails": [
+    {
+      "id": "CAChydSLxt+fUCg+vw1exL9COGM=znu9uzqu+=R5gLvqnce5E_g@mail.gmail.com",
+      "subject": "RE: CR-26-143 || Blue Goji || Follow-up Questions - Contract Determination",
+      "sender": "TXAUS-MB TXContractliaison <txcontractliaison@ascension.org>",
+      "date": "Tue Jun 09 2026 21:04:29 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CH2PR06MB6696E39942C879213C64367DED1D2@CH2PR06MB6696.namprd06.prod.outlook.com",
       "subject": "CTRN Questions Before IRB Resubmission",
@@ -438,15 +447,6 @@
       "subject": "Comp Eval Request - PA",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 09:58:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019e87aab948-93cfc7f7-5710-41f6-862d-87c339189820-000000@us-east-2.amazonses.com",
-      "subject": "JAACAP Open Editor Summary - [EMID:83128ff63b3cc064]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Tue Jun 02 2026 04:29:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
