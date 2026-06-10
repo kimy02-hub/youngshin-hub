@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-10T01:36:19.820293",
+  "fetched_at": "2026-06-10T01:39:14.499786",
   "emails": [
+    {
+      "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
+      "subject": "Training Information Security Awareness is Due on 6/16/2026",
+      "sender": "noreply@utlearn.utexas.edu",
+      "date": "Wed Jun 10 2026 00:23:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR05MB597373C8B5FE63A9564B7BA4EF1A2@BYAPR05MB5973.namprd05.prod.outlook.com",
+      "subject": "Re: Reminder - Honoring Somer and Her Incredible Legacy at STAR",
+      "sender": "\"Salzman, Emma\" <Emma.Salzman@ucsf.edu>",
+      "date": "Tue Jun 09 2026 23:32:48 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAChydSLxt+fUCg+vw1exL9COGM=znu9uzqu+=R5gLvqnce5E_g@mail.gmail.com",
       "subject": "RE: CR-26-143 || Blue Goji || Follow-up Questions - Contract Determination",
@@ -429,24 +447,6 @@
       "subject": "Re: RE: [EXTERNAL] SAGE Research Recruitment through Pediatric Neurology",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 11:40:17 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA1PR06MB8436C4DAD3D6B5CA47DD05A3D6122@SA1PR06MB8436.namprd06.prod.outlook.com",
-      "subject": "Re: Comp Eval Request - PA",
-      "sender": "\"Shahidullah, Jeffrey D\" <Jeff.Shahidullah@austin.utexas.edu>",
-      "date": "Tue Jun 02 2026 10:20:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB51708BE857BA6132376E7190B3122@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "Comp Eval Request - PA",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Tue Jun 02 2026 09:58:05 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
