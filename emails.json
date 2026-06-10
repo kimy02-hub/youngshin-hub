@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-10T14:12:20.327508",
+  "fetched_at": "2026-06-10T14:15:24.151967",
   "emails": [
+    {
+      "id": "DS4PR06MB107638A7B614F6268DE36096FC91A2@DS4PR06MB10763.namprd06.prod.outlook.com",
+      "subject": "Audrey's Farewell Gift",
+      "sender": "\"Shinn, Lauren\" <lauren.shinn@austin.utexas.edu>",
+      "date": "Wed Jun 10 2026 13:55:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAA1QGrQium8Y6fhmcEy0SqqXkONJiVAB=H6Jt2ayYtgy3wQe3w@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] FY28-29 NECMHR Timeline",
+      "sender": "Jasmine Thomas (Dell Children's) <jasmine.thomas3@ascension-external.org>",
+      "date": "Wed Jun 10 2026 13:43:25 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "MPCLKUTAPROD48FNpyL000001ec@mpclkutaprod4.huronclick.com",
       "subject": "Reminder: You are required to complete an update of your COI Disclosure Profile",
@@ -429,24 +447,6 @@
       "subject": "Engbretson, Alison shared the folder \"PA CDTEP\" with you",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 14:47:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d0cmGPv+pBZuyOnz6u2r3U1d=wHPNW7V9Bi5ETtHniunw@mail.gmail.com",
-      "subject": "Fwd: [EXTERNAL] OWE Budgets/PCRs",
-      "sender": "Nithya Mani (DMS) <nithya.mani@ascension-external.org>",
-      "date": "Tue Jun 02 2026 14:25:03 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB11306AE39D2ADF8CBAC4280ABED122@IA3PR06MB11306.namprd06.prod.outlook.com",
-      "subject": "Site Approval Form – PI Signature Needed",
-      "sender": "\"Johnson, Jenni L\" <jennifer.johnson1@austin.utexas.edu>",
-      "date": "Tue Jun 02 2026 11:40:51 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
