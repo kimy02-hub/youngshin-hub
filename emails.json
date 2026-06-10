@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-10T12:21:21.254940",
+  "fetched_at": "2026-06-10T12:24:15.823754",
   "emails": [
+    {
+      "id": "LV9PR06MB108952134DF373700ADC0423FA91A2@LV9PR06MB10895.namprd06.prod.outlook.com",
+      "subject": "Dr. Mani, Dr. Kim, Debbie and Rick: job standardization mtg",
+      "sender": "Rick Ortiz <enrique.ortizjr@austin.utexas.edu>",
+      "date": "Wed Jun 10 2026 11:10:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "MPCLKUTAPROD48FNpyL000001ec@mpclkutaprod4.huronclick.com",
       "subject": "Reminder: You are required to complete an update of your COI Disclosure Profile",
@@ -438,15 +447,6 @@
       "subject": "Fwd: [EXTERNAL] OWE Budgets/PCRs",
       "sender": "Nithya Mani (DMS) <nithya.mani@ascension-external.org>",
       "date": "Tue Jun 02 2026 14:25:03 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB11306AE39D2ADF8CBAC4280ABED122@IA3PR06MB11306.namprd06.prod.outlook.com",
-      "subject": "Site Approval Form – PI Signature Needed",
-      "sender": "\"Johnson, Jenni L\" <jennifer.johnson1@austin.utexas.edu>",
-      "date": "Tue Jun 02 2026 11:40:51 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
