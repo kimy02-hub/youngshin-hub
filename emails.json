@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-10T16:24:18.264322",
+  "fetched_at": "2026-06-10T16:27:19.422258",
   "emails": [
+    {
+      "id": "15D06FEC-3733-40F4-A91A-AD7B703D6F6D@yahoo.com",
+      "subject": "Colton Kalage",
+      "sender": "Shanna Kalage <shannakalage@yahoo.com>",
+      "date": "Wed Jun 10 2026 16:16:41 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
       "subject": "Training Information Security Awareness is Due on 6/16/2026",
@@ -438,15 +447,6 @@
       "subject": "Site Approval Form – PI Signature Needed",
       "sender": "\"Johnson, Jenni L\" <jennifer.johnson1@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 11:40:51 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB67423AB9EB436866D4203386BE122@CH2PR06MB6742.namprd06.prod.outlook.com",
-      "subject": "Re: RE: [EXTERNAL] SAGE Research Recruitment through Pediatric Neurology",
-      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
-      "date": "Tue Jun 02 2026 11:40:17 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
