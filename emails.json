@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T14:00:15.140763",
+  "fetched_at": "2026-06-11T14:03:22.524476",
   "emails": [
     {
       "id": "DS4PR06MB10930EF3FB0D050C2B9D1E754F71B2@DS4PR06MB10930.namprd06.prod.outlook.com",
@@ -339,6 +339,15 @@
       "subject": "Your Submission BPS-D-26-00491",
       "sender": "Biological Psychiatry <em@editorialmanager.com>",
       "date": "Wed Jun 03 2026 00:13:54 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BL4PR06MB9575D755765851CC768F12649D122@BL4PR06MB9575.namprd06.prod.outlook.com",
+      "subject": "Peds Division Directors Annual Report (Action requested by June 30)",
+      "sender": "\"Desantiago, Esteban\" <desantiago@austin.utexas.edu>",
+      "date": "Tue Jun 02 2026 15:55:31 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
