@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T22:06:15.546819",
+  "fetched_at": "2026-06-10T22:09:16.164532",
   "emails": [
     {
       "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
@@ -15,15 +15,6 @@
       "subject": "CTRN Questions Before IRB Resubmission",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Tue Jun 09 2026 15:56:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BLAPR06MB6772BCA14BAF527A11C85EFFDA1D2@BLAPR06MB6772.namprd06.prod.outlook.com",
-      "subject": "PracticeMatch Marketing, Review and Approval",
-      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
-      "date": "Tue Jun 09 2026 12:55:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +438,15 @@
       "subject": "RE: DRAFT: Advance Notice of Upcoming Hires to Support Onboarding",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Mon Jun 01 2026 16:50:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "ozIe9NGdcWa5e4opQccZpsRfEfphBMEbkut1Kcmww@andc1lweb0004",
+      "subject": "[Reminder] Ascension Observer Sponsor Form",
+      "sender": "\"txobservers@ascension.org\" <txobservers@ascension.org>",
+      "date": "Mon Jun 01 2026 15:52:11 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
