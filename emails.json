@@ -1,11 +1,20 @@
 {
-  "fetched_at": "2026-06-11T16:45:25.357960",
+  "fetched_at": "2026-06-11T16:48:20.434355",
   "emails": [
     {
       "id": "DS1PR06MB10655FDD8CD8F554019F2A7D8C51B2@DS1PR06MB10655.namprd06.prod.outlook.com",
       "subject": "FW: Ascension Seton, Dell Children's Medical Center Paid Call Proposal",
       "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
       "date": "Thu Jun 11 2026 16:37:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAM5mVUEdk8mu3OJDZ-WQZSBk2JQWg=+DoRznq4zcThF2EB6h5Q@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] Physician: Victoria Isabel Felkl, M.D.; TMB Log No. 26-4336",
+      "sender": "Victoria Felkl (DMS) <victoria.felkl@ascension-external.org>",
+      "date": "Thu Jun 11 2026 15:42:37 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -321,6 +330,15 @@
       "subject": "RE: [EXTERNAL] request to meet about sleep research",
       "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
       "date": "Wed Jun 03 2026 11:18:22 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB6983F512C5445E0AD64672A1D5132@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "Antonio Pagan Recruitment",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Wed Jun 03 2026 10:44:14 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
