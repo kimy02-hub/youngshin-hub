@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T21:57:19.467291",
+  "fetched_at": "2026-06-10T22:00:16.532880",
   "emails": [
     {
       "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
@@ -15,24 +15,6 @@
       "subject": "CTRN Questions Before IRB Resubmission",
       "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
       "date": "Tue Jun 09 2026 15:56:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "MW4PR06MB7834A03B5A5BB777A9077F98D21D2@MW4PR06MB7834.namprd06.prod.outlook.com",
-      "subject": "Re: General residency didactic teaching request",
-      "sender": "\"Bartow, Christine\" <christine.bartow@austin.utexas.edu>",
-      "date": "Tue Jun 09 2026 14:20:18 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "78225183-CC35-4DF4-8258-9314E043AE5F@gmail.com",
-      "subject": "Re: Fiona Rx Refill",
-      "sender": "Jessica Rodriguez <j355icarod14@gmail.com>",
-      "date": "Tue Jun 09 2026 13:29:21 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +429,24 @@
       "subject": "Comp Eval Request - PA",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 09:58:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e87aab948-93cfc7f7-5710-41f6-862d-87c339189820-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:83128ff63b3cc064]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Jun 02 2026 04:29:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655A2F507862D79BE0BE3A9C5152@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "RE: DRAFT: Advance Notice of Upcoming Hires to Support Onboarding",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Mon Jun 01 2026 16:50:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
