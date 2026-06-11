@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T09:48:15.685620",
+  "fetched_at": "2026-06-11T09:51:15.818906",
   "emails": [
     {
       "id": "BLAPR06MB6772B95369974EA1D3AF1101DA1B2@BLAPR06MB6772.namprd06.prod.outlook.com",
@@ -420,15 +420,6 @@
       "subject": "Re: Comp Eval Request - PA",
       "sender": "\"Shahidullah, Jeffrey D\" <Jeff.Shahidullah@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 10:20:36 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BN7PR06MB51708BE857BA6132376E7190B3122@BN7PR06MB5170.namprd06.prod.outlook.com",
-      "subject": "Comp Eval Request - PA",
-      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
-      "date": "Tue Jun 02 2026 09:58:05 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
