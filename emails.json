@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-11T01:27:20.176757",
+  "fetched_at": "2026-06-11T01:30:23.782904",
   "emails": [
+    {
+      "id": "56E205B5-36BF-47FB-A70B-2D9108005E9C@yahoo.com",
+      "subject": "Re: Colton Kalage",
+      "sender": "Shanna Kalage <shannakalage@yahoo.com>",
+      "date": "Thu Jun 11 2026 01:22:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
       "subject": "Training Information Security Awareness is Due on 6/16/2026",
