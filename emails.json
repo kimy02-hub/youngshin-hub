@@ -1,11 +1,101 @@
 {
-  "fetched_at": "2026-06-11T09:45:28.890969",
+  "fetched_at": "2026-06-11T09:48:15.685620",
   "emails": [
+    {
+      "id": "BLAPR06MB6772B95369974EA1D3AF1101DA1B2@BLAPR06MB6772.namprd06.prod.outlook.com",
+      "subject": "Re: PracticeMatch Marketing, Review and Approval",
+      "sender": "\"Moehnke, Brittany\" <brittany.moehnke@austin.utexas.edu>",
+      "date": "Thu Jun 11 2026 09:32:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGRs=9E63MC3jqJ-WrNNBOsiV5-k+=QFz52w6f5m6-b=LA@mail.gmail.com",
+      "subject": "Request for Dell Medical School Computer",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
+      "date": "Thu Jun 11 2026 09:28:47 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655471509FA9B20F6A7F845C51B2@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "FW: Scheduling a lunch and learn for One of the Kids, pediatric clinic",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Thu Jun 11 2026 09:21:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB66961AF55B85F784D96F01E2ED1B2@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Re: Lydia 6 Month Review Notes",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Thu Jun 11 2026 09:13:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB69832B5DE0EA9186D6717D99D51B2@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "RE: [ERP Reports] A new report is available",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Thu Jun 11 2026 08:34:21 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742EAF4DC1033592FC94175BE1B2@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "FW: pilot study on autism diagnosis in CTRN participants",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Thu Jun 11 2026 08:30:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "05A40686-F98C-4AB8-8492-CBA755E69C94@yahoo.com",
+      "subject": "Colton",
+      "sender": "Shanna Kalage <shannakalage@yahoo.com>",
+      "date": "Thu Jun 11 2026 06:24:00 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d17jhV1dmAuarxGXjmu-WU8JBf_UPh-XFTdK15k_OvqEA@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] For Review Ahead of Discussion: CoCM Incubator Concept (Draft)",
+      "sender": "Nithya Mani (DMS) <nithya.mani@ascension-external.org>",
+      "date": "Thu Jun 11 2026 06:19:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "56E205B5-36BF-47FB-A70B-2D9108005E9C@yahoo.com",
       "subject": "Re: Colton Kalage",
       "sender": "Shanna Kalage <shannakalage@yahoo.com>",
       "date": "Thu Jun 11 2026 01:22:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742C3CC33CEB81752A07730BE1A2@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Lydia 6 Month Review Notes",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Wed Jun 10 2026 16:41:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB669619C923505451F034DE1AED1A2@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Lydia 6 Month Review Notes",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Wed Jun 10 2026 15:50:38 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -67,7 +157,7 @@
     {
       "id": "178091204877.12.11971830634839410041@production-5db4df86b4-hhgcz",
       "subject": "[ERP Reports] A new report is available",
-      "sender": "\"erp_reports@austin.utexas.edu\" <erp_reports@austin.utexas.edu>",
+      "sender": "erp_reports@austin.utexas.edu",
       "date": "Mon Jun 08 2026 04:47:32 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
@@ -339,60 +429,6 @@
       "subject": "Comp Eval Request - PA",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
       "date": "Tue Jun 02 2026 09:58:05 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019e87aab948-93cfc7f7-5710-41f6-862d-87c339189820-000000@us-east-2.amazonses.com",
-      "subject": "JAACAP Open Editor Summary - [EMID:83128ff63b3cc064]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Tue Jun 02 2026 04:29:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "DS1PR06MB10655A2F507862D79BE0BE3A9C5152@DS1PR06MB10655.namprd06.prod.outlook.com",
-      "subject": "RE: DRAFT: Advance Notice of Upcoming Hires to Support Onboarding",
-      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
-      "date": "Mon Jun 01 2026 16:50:19 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "ozIe9NGdcWa5e4opQccZpsRfEfphBMEbkut1Kcmww@andc1lweb0004",
-      "subject": "[Reminder] Ascension Observer Sponsor Form",
-      "sender": "\"txobservers@ascension.org\" <txobservers@ascension.org>",
-      "date": "Mon Jun 01 2026 15:52:11 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf6562+mDN0oMs+sO4MSbcF7bkU+yGRbM071f+3fGYRzRog@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] Call for Faculty Awards & Posters- Dell Med Educational innovation, Research, and Awards Symposium 2026",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
-      "date": "Mon Jun 01 2026 15:51:07 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANYCf66kSVZgJ3Wrs=8eWGGBe1pM_7eujo9RkRJNFqROA01kUQ@mail.gmail.com",
-      "subject": "Re: RE: [EXTERNAL] Clinician Award nominations now open",
-      "sender": "Kari Whatley <kari.whatley@ascension.org>",
-      "date": "Mon Jun 01 2026 15:50:20 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB107117F5DB89120A4B5CB1BC6B8152@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Fw: UPDATED: Project Tracker",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Jun 01 2026 15:20:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
