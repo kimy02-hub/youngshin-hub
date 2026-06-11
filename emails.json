@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T22:27:19.882003",
+  "fetched_at": "2026-06-10T22:30:19.432779",
   "emails": [
     {
       "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
@@ -42,24 +42,6 @@
       "subject": "JAACAPOPEN-D-26-00009R1 Editor Reminder - [EMID:943f792a355cfa67]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BYAPR06MB620071F844377051B7FFA760CC1C2@BYAPR06MB6200.namprd06.prod.outlook.com",
-      "subject": "Shadowing this Friday",
-      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
-      "date": "Mon Jun 08 2026 12:12:16 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "IA3PR06MB10711348F08870968E9513426B81C2@IA3PR06MB10711.namprd06.prod.outlook.com",
-      "subject": "Re: Fiona Rx Refill",
-      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
-      "date": "Mon Jun 08 2026 11:14:19 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +429,24 @@
       "subject": "Re: [EXTERNAL] Call for Faculty Awards & Posters- Dell Med Educational innovation, Research, and Awards Symposium 2026",
       "sender": "Kari Whatley <kari.whatley@ascension.org>",
       "date": "Mon Jun 01 2026 15:51:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf66kSVZgJ3Wrs=8eWGGBe1pM_7eujo9RkRJNFqROA01kUQ@mail.gmail.com",
+      "subject": "Re: RE: [EXTERNAL] Clinician Award nominations now open",
+      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "date": "Mon Jun 01 2026 15:50:20 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB107117F5DB89120A4B5CB1BC6B8152@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "Fw: UPDATED: Project Tracker",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Mon Jun 01 2026 15:20:29 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
