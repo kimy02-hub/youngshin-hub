@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T15:00:20.000742",
+  "fetched_at": "2026-06-11T15:03:14.401666",
   "emails": [
     {
       "id": "DS4PR06MB10930EF3FB0D050C2B9D1E754F71B2@DS4PR06MB10930.namprd06.prod.outlook.com",
@@ -312,15 +312,6 @@
       "subject": "Question Regarding Regulating Together Group Billing",
       "sender": "Mitchell Todd <mitchell.todd@ascension-external.org>",
       "date": "Wed Jun 03 2026 08:43:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "MPCLKUTAPROD4AOsXuV000001f0@mpclkutaprod4.huronclick.com",
-      "subject": "Reminder: You are required to complete an update of your COI Disclosure Profile",
-      "sender": "no-reply@utexas.edu",
-      "date": "Wed Jun 03 2026 02:00:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
