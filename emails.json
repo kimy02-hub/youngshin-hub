@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T22:12:15.320210",
+  "fetched_at": "2026-06-10T22:15:17.700439",
   "emails": [
     {
       "id": "c41f7a80-d5ad-4099-a52d-745d7665d297@4a4cd9bb82e4",
@@ -24,15 +24,6 @@
       "subject": "JAACAP Open Editor Summary - [EMID:824325a55d117d47]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Tue Jun 09 2026 06:13:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CACwu7d0sO1-f-DkBiZBY01LXwG=57gHZirgRLakyi7JEfNF6gQ@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] For Review Ahead of Discussion: CoCM Incubator Concept (Draft)",
-      "sender": "Nithya Mani (DMS) <nithya.mani@ascension-external.org>",
-      "date": "Mon Jun 08 2026 16:41:37 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -447,6 +438,15 @@
       "subject": "[Reminder] Ascension Observer Sponsor Form",
       "sender": "\"txobservers@ascension.org\" <txobservers@ascension.org>",
       "date": "Mon Jun 01 2026 15:52:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf6562+mDN0oMs+sO4MSbcF7bkU+yGRbM071f+3fGYRzRog@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] Call for Faculty Awards & Posters- Dell Med Educational innovation, Research, and Awards Symposium 2026",
+      "sender": "Kari Whatley <kari.whatley@ascension.org>",
+      "date": "Mon Jun 01 2026 15:51:07 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
