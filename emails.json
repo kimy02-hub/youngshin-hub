@@ -1,11 +1,29 @@
 {
-  "fetched_at": "2026-06-12T11:12:28.221594",
+  "fetched_at": "2026-06-12T11:15:25.454791",
   "emails": [
     {
       "id": "CANyjHysj03m1VJ7stSTnQhaKjf8u5fQQiuoPTBJAVZtzTg87_Q@mail.gmail.com",
       "subject": "Re: [EXTERNAL] FY28-29 NECMHR Timeline",
       "sender": "Alexandra Lamari-Fisher <alamari-fisher@ascension.org>",
       "date": "Fri Jun 12 2026 09:58:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "V1D1o8UxV2M4yju8R5Bm0zNxhzm9udBMr2FEW1tmNk@redcap.ascension.org",
+      "subject": "RE: CR-26-154 || Site Approval Request - Track Your Submission",
+      "sender": "txaus-mb-siteapproval@ascension.org",
+      "date": "Fri Jun 12 2026 07:57:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019eba72af56-13be09fe-e839-4a5b-8bf7-5da4c2bba98c-000000@us-west-2.amazonses.com",
+      "subject": "Reviewers required - BJPsychOpen-2026-0394 now due",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Fri Jun 12 2026 01:09:09 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
