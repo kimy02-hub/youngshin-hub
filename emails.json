@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T10:45:18.743726",
+  "fetched_at": "2026-06-12T10:48:18.439701",
   "emails": [
     {
       "id": "PH8PR06MB92454687EA248EBF37A980F0CD1B2@PH8PR06MB9245.namprd06.prod.outlook.com",
@@ -168,24 +168,6 @@
       "subject": "RE: AACAP Booth",
       "sender": "\"Young, Dannette\" <dannette.young@austin.utexas.edu>",
       "date": "Wed Jun 03 2026 16:45:34 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CO1PR06MB8060E1609B6C3CE4F9AAC1A2C2132@CO1PR06MB8060.namprd06.prod.outlook.com",
-      "subject": "CAP Fellowship Course Directors Planning: June through September",
-      "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
-      "date": "Wed Jun 03 2026 15:57:31 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "a3SvHrKjurBmW9ouSkVfUCAD9gXEof3IjnZK2jdRE4@andc1lweb0004",
-      "subject": "[Reminder] Ascension Observer Sponsor Form",
-      "sender": "txobservers@ascension.org",
-      "date": "Wed Jun 03 2026 15:52:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
