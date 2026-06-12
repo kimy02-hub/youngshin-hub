@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T12:57:20.662312",
+  "fetched_at": "2026-06-12T13:00:21.681246",
   "emails": [
     {
       "id": "HRSPUTAPROD2dcDjoYA0000024a@hrsputaprod2.HuronClick.com",
@@ -240,6 +240,15 @@
       "subject": "CAP Fellowship Course Directors Planning: June through September",
       "sender": "\"Helekar, Anuradha\" <anuradha.helekar@austin.utexas.edu>",
       "date": "Wed Jun 03 2026 15:57:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "a3SvHrKjurBmW9ouSkVfUCAD9gXEof3IjnZK2jdRE4@andc1lweb0004",
+      "subject": "[Reminder] Ascension Observer Sponsor Form",
+      "sender": "txobservers@ascension.org",
+      "date": "Wed Jun 03 2026 15:52:15 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
