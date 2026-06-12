@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T08:36:22.480727",
+  "fetched_at": "2026-06-12T08:39:13.734799",
   "emails": [
     {
       "id": "PH8PR06MB92454687EA248EBF37A980F0CD1B2@PH8PR06MB9245.namprd06.prod.outlook.com",
@@ -195,24 +195,6 @@
       "subject": "View your health reminder, Young Shin",
       "sender": "Digestive Health <noreply@patient-message.com>",
       "date": "Wed Jun 03 2026 15:29:39 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA6PR06MB102738C955C5B98149D209E4DBA132@SA6PR06MB10273.namprd06.prod.outlook.com",
-      "subject": "RE: Wed Leadership Meeting Minutes and Action Items",
-      "sender": "\"Jain, Ritika\" <ritika.jain@austin.utexas.edu>",
-      "date": "Wed Jun 03 2026 12:47:04 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CANyjHyvKxR8pX95Jt-a1tiyzMNvY6gZkemW2WiPwcrcPzsr3-Q@mail.gmail.com",
-      "subject": "Re: [EXTERNAL] FY28-29 NECMHR Timeline",
-      "sender": "Alexandra Lamari-Fisher <alamari-fisher@ascension.org>",
-      "date": "Wed Jun 03 2026 12:28:07 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
