@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T12:09:20.571126",
+  "fetched_at": "2026-06-12T12:12:18.924257",
   "emails": [
     {
       "id": "BYAPR06MB6200CB0D740EFDD28D449FFDCC182@BYAPR06MB6200.namprd06.prod.outlook.com",
@@ -222,15 +222,6 @@
       "subject": "[Reminder] Ascension Observer Sponsor Form",
       "sender": "txobservers@ascension.org",
       "date": "Wed Jun 03 2026 15:52:15 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "46558251-27f6-4deb-a211-55b0f6a55d96",
-      "subject": "View your health reminder, Young Shin",
-      "sender": "Digestive Health <noreply@patient-message.com>",
-      "date": "Wed Jun 03 2026 15:29:39 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
