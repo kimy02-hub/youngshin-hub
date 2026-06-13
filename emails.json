@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-13T14:27:22.714564",
+  "fetched_at": "2026-06-13T14:30:22.582740",
   "emails": [
+    {
+      "id": "SA3PR06MB9443A763AA89EF53E06EFEB1D9192@SA3PR06MB9443.namprd06.prod.outlook.com",
+      "subject": "Re: Research Assistant Appointment Extension and Summer Availability",
+      "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
+      "date": "Sat Jun 13 2026 14:05:23 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "SA1PR06MB785801563EF93C3E85195247D5182@SA1PR06MB7858.namprd06.prod.outlook.com",
       "subject": "CA-PBS Weekly Report - 6/12/26",
@@ -92,6 +101,15 @@
       "cc": ""
     },
     {
+      "id": "SA3PR06MB9443CC8C4C523B6D92EF6A78D91B2@SA3PR06MB9443.namprd06.prod.outlook.com",
+      "subject": "Re: Research Assistant Appointment Extension and Summer Availability",
+      "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
+      "date": "Thu Jun 11 2026 12:42:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
       "id": "PH8PR06MB92454687EA248EBF37A980F0CD1B2@PH8PR06MB9245.namprd06.prod.outlook.com",
       "subject": "Lydia contract extension and raise",
       "sender": "\"Reed, Anna M\" <a.reed@austin.utexas.edu>",
@@ -168,6 +186,15 @@
       "subject": "[ERP Reports] A new report is available",
       "sender": "erp_reports@austin.utexas.edu",
       "date": "Mon Jun 08 2026 04:47:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "SA3PR06MB9443166DEE6F1F3426D633F8D91F2@SA3PR06MB9443.namprd06.prod.outlook.com",
+      "subject": "Research Assistant Appointment Extension and Summer Availability",
+      "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
+      "date": "Sun Jun 07 2026 17:08:39 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
