@@ -1,6 +1,15 @@
 {
-  "fetched_at": "2026-06-12T20:06:29.911812",
+  "fetched_at": "2026-06-12T20:09:21.866085",
   "emails": [
+    {
+      "id": "SA1PR06MB785801563EF93C3E85195247D5182@SA1PR06MB7858.namprd06.prod.outlook.com",
+      "subject": "CA-PBS Weekly Report - 6/12/26",
+      "sender": "\"Young, Dannette\" <dannette.young@austin.utexas.edu>",
+      "date": "Fri Jun 12 2026 17:30:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "010f019ebdc20f44-0540aaf0-18be-41ab-805a-a70502a435de-000000@us-east-2.amazonses.com",
       "subject": "Your JAACAP Open Manuscript - Author Video (#JAACAPOPEN-D-25-00031R2) - [EMID:fbee74e679c2ffd3]",
