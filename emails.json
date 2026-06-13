@@ -1,4 +1,248 @@
 {
-  "fetched_at": "2026-06-13T11:48:32.112002",
-  "emails": []
+  "fetched_at": "2026-06-13T11:51:25.823312",
+  "emails": [
+    {
+      "id": "SA1PR06MB785801563EF93C3E85195247D5182@SA1PR06MB7858.namprd06.prod.outlook.com",
+      "subject": "CA-PBS Weekly Report - 6/12/26",
+      "sender": "\"Young, Dannette\" <dannette.young@austin.utexas.edu>",
+      "date": "Fri Jun 12 2026 17:30:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ebdc20f44-0540aaf0-18be-41ab-805a-a70502a435de-000000@us-east-2.amazonses.com",
+      "subject": "Your JAACAP Open Manuscript - Author Video (#JAACAPOPEN-D-25-00031R2) - [EMID:fbee74e679c2ffd3]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Fri Jun 12 2026 16:34:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAEfnC-pD2AkbxkthjtDjYYXYrupMzX26NPGs+oQVtwUJ0k6pVw@mail.gmail.com",
+      "subject": "Psychology Expectations for Training",
+      "sender": "Sasha Jaquez <SDJaquez@ascension.org>",
+      "date": "Fri Jun 12 2026 15:47:11 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "HRSPUTAPROD2dcDjoYA0000024a@hrsputaprod2.HuronClick.com",
+      "subject": "STUDY00009102 clarification was requested",
+      "sender": "no-reply@utexas.edu",
+      "date": "Fri Jun 12 2026 12:33:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DU0PR03MB824248D3FF5C5D71B01ABA70BA182@DU0PR03MB8242.eurprd03.prod.outlook.com",
+      "subject": "Re: Hello and introducing you to a brilliant medical student",
+      "sender": "Matthew Severyn <matthew.severyn@kcl.ac.uk>",
+      "date": "Fri Jun 12 2026 12:12:16 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DU0PR03MB82422593A8C13961DB20AA6EBA182@DU0PR03MB8242.eurprd03.prod.outlook.com",
+      "subject": "Re: Hello and introducing you to a brilliant medical student",
+      "sender": "Matthew Severyn <matthew.severyn@kcl.ac.uk>",
+      "date": "Fri Jun 12 2026 11:58:53 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BYAPR06MB6200CB0D740EFDD28D449FFDCC182@BYAPR06MB6200.namprd06.prod.outlook.com",
+      "subject": "Re: Shadowing this Friday",
+      "sender": "\"Kim, Chloe H\" <chk679@my.utexas.edu>",
+      "date": "Fri Jun 12 2026 11:47:15 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANyjHysj03m1VJ7stSTnQhaKjf8u5fQQiuoPTBJAVZtzTg87_Q@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] FY28-29 NECMHR Timeline",
+      "sender": "Alexandra Lamari-Fisher <alamari-fisher@ascension.org>",
+      "date": "Fri Jun 12 2026 09:58:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "V1D1o8UxV2M4yju8R5Bm0zNxhzm9udBMr2FEW1tmNk@redcap.ascension.org",
+      "subject": "RE: CR-26-154 || Site Approval Request - Track Your Submission",
+      "sender": "txaus-mb-siteapproval@ascension.org",
+      "date": "Fri Jun 12 2026 07:57:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0101019eba72af56-13be09fe-e839-4a5b-8bf7-5da4c2bba98c-000000@us-west-2.amazonses.com",
+      "subject": "Reviewers required - BJPsychOpen-2026-0394 now due",
+      "sender": "BJPsych Open <onbehalfof@manuscriptcentral.com>",
+      "date": "Fri Jun 12 2026 01:09:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "PH8PR06MB92454687EA248EBF37A980F0CD1B2@PH8PR06MB9245.namprd06.prod.outlook.com",
+      "subject": "Lydia contract extension and raise",
+      "sender": "\"Reed, Anna M\" <a.reed@austin.utexas.edu>",
+      "date": "Thu Jun 11 2026 10:48:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742EAF4DC1033592FC94175BE1B2@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "FW: pilot study on autism diagnosis in CTRN participants",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Thu Jun 11 2026 08:30:13 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CACwu7d17jhV1dmAuarxGXjmu-WU8JBf_UPh-XFTdK15k_OvqEA@mail.gmail.com",
+      "subject": "Fwd: [EXTERNAL] For Review Ahead of Discussion: CoCM Incubator Concept (Draft)",
+      "sender": "Nithya Mani (DMS) <nithya.mani@ascension-external.org>",
+      "date": "Thu Jun 11 2026 06:19:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB669619C923505451F034DE1AED1A2@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Lydia 6 Month Review Notes",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Wed Jun 10 2026 15:50:38 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6696E39942C879213C64367DED1D2@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "CTRN Questions Before IRB Resubmission",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Tue Jun 09 2026 15:56:08 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019eac16be4f-3c7e6f16-a88b-4bf9-addf-28f9c7afcc25-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:824325a55d117d47]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Jun 09 2026 06:13:58 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ea8601a0b-87fa529f-b4b9-4bf6-a240-b7bb152d2055-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:cc4ee2ea090b0ecc]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ea8601a0c-78df42ad-4a64-45bc-b287-4ff0793a0bed-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00009R1 Editor Reminder - [EMID:943f792a355cfa67]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "178091204877.12.11971830634839410041@production-5db4df86b4-hhgcz",
+      "subject": "[ERP Reports] A new report is available",
+      "sender": "erp_reports@austin.utexas.edu",
+      "date": "Mon Jun 08 2026 04:47:32 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV9PR06MB11293E12CBC32C6E057809EBCFD112@LV9PR06MB11293.namprd06.prod.outlook.com",
+      "subject": "ACTION REQUIRED: Problems on your ClinicalTrials.gov record",
+      "sender": "IRB Quality Assurance <irbqa@austin.utexas.edu>",
+      "date": "Fri Jun 05 2026 16:23:56 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB10655ADF8FFC3DB33E64B27EAC5112@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "TCMHP Leadership Tracker",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Fri Jun 05 2026 08:26:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019e94cba033-33155fc2-076e-4109-a011-e6c783f50860-000000@us-east-2.amazonses.com",
+      "subject": "Editor Assignment JAACAPOPEN-D-25-00163R2 - [EMID:74cb5d75b96da426]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Thu Jun 04 2026 17:40:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB106553507851676A8559FE44BC5102@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "PCR, Dell Med and Central Support Request",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 17:19:37 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742EB8DD197B21D9EBA5111BE102@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "TALK RFA",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 16:18:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAHVVXfwRzHmnowk1EF915o=Yn0u_sE5twzfVXXuBcqO5DcqG1w@mail.gmail.com",
+      "subject": "Young Shin Kim — Interest in Kim Lab",
+      "sender": "Aadit Lehther <alehther@gmail.com>",
+      "date": "Thu Jun 04 2026 15:41:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711EB9982B2ACE40AAD98A8B8102@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "REMINDER: Woolfolk Referrals",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 14:12:43 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "BY3PR05MB827499D8C7C3EB390BD030AAF1102@BY3PR05MB8274.namprd05.prod.outlook.com",
+      "subject": "Fw: 2027 AHA Predoctoral and Postdoctoral Fellowships",
+      "sender": "\"Demopoulos, Carly\" <Carly.Demopoulos@ucsf.edu>",
+      "date": "Thu Jun 04 2026 12:57:09 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    }
+  ]
 }
