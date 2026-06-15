@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-06-15T14:30:15.050884",
+  "fetched_at": "2026-06-15T14:33:18.901958",
   "emails": [
+    {
+      "id": "CAPTOthjPdYwsjz2fObzp_u40Wzki3DSsLNozW7kFfYc+1JG+Sw@mail.gmail.com",
+      "subject": "Re: 2 patients being transferred back to CCC for psych",
+      "sender": "Edith Borja <eborja@ascension.org>",
+      "date": "Mon Jun 15 2026 14:06:27 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf66HGPJRDaYeSqc-ZzkpEgxefUW6aRtohUA6Q4kLHVNKdg@mail.gmail.com",
+      "subject": "Re: 📎NEW ADMISSIONS FORM - PSC-17 📎",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Mon Jun 15 2026 13:44:27 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ecc9053b4-c20d2cd0-1861-4dcc-87e8-be0306500f82-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:8f5bea3fbf63d2a1]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 15 2026 13:34:37 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ecc9052df-8f76cb08-b429-4f60-b060-fea4e7b43df9-000000@us-east-2.amazonses.com",
+      "subject": "JAACAPOPEN-D-26-00009R1 Editor Reminder - [EMID:8da1134e4fded3d4]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Mon Jun 15 2026 13:34:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "BYAPR06MB51766DE425470DA3841EE96DB3E62@BYAPR06MB5176.namprd06.prod.outlook.com",
       "subject": "Comp Eval Notes",
@@ -150,6 +186,15 @@
       "subject": "Research Assistant Appointment Extension and Summer Availability",
       "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
       "date": "Sun Jun 07 2026 17:08:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV9PR06MB11293E12CBC32C6E057809EBCFD112@LV9PR06MB11293.namprd06.prod.outlook.com",
+      "subject": "ACTION REQUIRED: Problems on your ClinicalTrials.gov record",
+      "sender": "IRB Quality Assurance <irbqa@austin.utexas.edu>",
+      "date": "Fri Jun 05 2026 16:23:56 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
