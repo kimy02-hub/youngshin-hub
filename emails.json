@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T14:33:18.901958",
+  "fetched_at": "2026-06-15T14:36:13.446737",
   "emails": [
     {
       "id": "CAPTOthjPdYwsjz2fObzp_u40Wzki3DSsLNozW7kFfYc+1JG+Sw@mail.gmail.com",
@@ -33,6 +33,24 @@
       "subject": "JAACAPOPEN-D-26-00009R1 Editor Reminder - [EMID:8da1134e4fded3d4]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Mon Jun 15 2026 13:34:34 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGSiyV9EvrmH99goh=UTb+JK1M3FfP58oG+wd7gOMyYihg@mail.gmail.com",
+      "subject": "Regulating Together Group 2",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
+      "date": "Mon Jun 15 2026 12:55:41 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "LV2PR06MB999734A469ED7A39E701EC1CE9D2E62@LV2PR06MB999734.namprd06.prod.outlook.com",
+      "subject": "Re: ECHO Autism Slides for Review",
+      "sender": "\"Lewin, Caroline\" <caroline.lewin@austin.utexas.edu>",
+      "date": "Mon Jun 15 2026 12:51:16 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
