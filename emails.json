@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T21:36:16.825266",
+  "fetched_at": "2026-06-14T21:39:15.683036",
   "emails": [
     {
       "id": "SA1PR06MB785801563EF93C3E85195247D5182@SA1PR06MB7858.namprd06.prod.outlook.com",
@@ -177,15 +177,6 @@
       "subject": "REMINDER: Woolfolk Referrals",
       "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
       "date": "Thu Jun 04 2026 14:12:43 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "BY3PR05MB827499D8C7C3EB390BD030AAF1102@BY3PR05MB8274.namprd05.prod.outlook.com",
-      "subject": "Fw: 2027 AHA Predoctoral and Postdoctoral Fellowships",
-      "sender": "\"Demopoulos, Carly\" <Carly.Demopoulos@ucsf.edu>",
-      "date": "Thu Jun 04 2026 12:57:09 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
