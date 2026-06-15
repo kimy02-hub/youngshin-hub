@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-06-15T10:09:16.134485",
+  "fetched_at": "2026-06-15T10:12:17.570167",
   "emails": [
     {
       "id": "BYAPR06MB51760DFD1F6776D82D2AB442B3E62@BYAPR06MB5176.namprd06.prod.outlook.com",
       "subject": "Comp Eval Consensus - Paloma A",
       "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
       "date": "Mon Jun 15 2026 10:03:17 GMT-0500 (Central Daylight Time)",
-      "read": false,
+      "read": true,
       "flagged": true,
       "cc": ""
     },
