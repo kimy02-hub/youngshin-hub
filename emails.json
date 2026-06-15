@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-15T09:24:20.589419",
+  "fetched_at": "2026-06-15T09:27:13.912608",
   "emails": [
+    {
+      "id": "BYAPR06MB51767EDA2DE9948C76CCA079B3E62@BYAPR06MB5176.namprd06.prod.outlook.com",
+      "subject": "Comp Eval Consensus - KW",
+      "sender": "\"Engbretson, Alison\" <alison.engbretson@austin.utexas.edu>",
+      "date": "Mon Jun 15 2026 09:10:42 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB7506C01FBED6986C5553A86DA7E62@CO6PR06MB7506.namprd06.prod.outlook.com",
+      "subject": "FW: Patient question",
+      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
+      "date": "Mon Jun 15 2026 08:09:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "SA1PR06MB785801563EF93C3E85195247D5182@SA1PR06MB7858.namprd06.prod.outlook.com",
       "subject": "CA-PBS Weekly Report - 6/12/26",
@@ -132,6 +150,33 @@
       "subject": "Editor Assignment JAACAPOPEN-D-25-00163R2 - [EMID:74cb5d75b96da426]",
       "sender": "JAACAP Open <em@editorialmanager.com>",
       "date": "Thu Jun 04 2026 17:40:39 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS1PR06MB106553507851676A8559FE44BC5102@DS1PR06MB10655.namprd06.prod.outlook.com",
+      "subject": "PCR, Dell Med and Central Support Request",
+      "sender": "\"Wise, Deborah\" <deborah.wise@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 17:19:37 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6742EB8DD197B21D9EBA5111BE102@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "TALK RFA",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 16:18:05 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAHVVXfwRzHmnowk1EF915o=Yn0u_sE5twzfVXXuBcqO5DcqG1w@mail.gmail.com",
+      "subject": "Young Shin Kim — Interest in Kim Lab",
+      "sender": "Aadit Lehther <alehther@gmail.com>",
+      "date": "Thu Jun 04 2026 15:41:28 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
