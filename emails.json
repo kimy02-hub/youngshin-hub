@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T09:27:13.912608",
+  "fetched_at": "2026-06-15T09:30:20.688613",
   "emails": [
     {
       "id": "BYAPR06MB51767EDA2DE9948C76CCA079B3E62@BYAPR06MB5176.namprd06.prod.outlook.com",
@@ -15,6 +15,15 @@
       "subject": "FW: Patient question",
       "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
       "date": "Mon Jun 15 2026 08:09:07 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CA+2uqrV127jtzwj09PNBHQcZ3nOqRfxzJshz0y8fG1Doe2JrQw@mail.gmail.com",
+      "subject": "Re: Prospective Medical Student Research Fellow",
+      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
+      "date": "Mon Jun 15 2026 05:36:45 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
@@ -177,6 +186,15 @@
       "subject": "Young Shin Kim — Interest in Kim Lab",
       "sender": "Aadit Lehther <alehther@gmail.com>",
       "date": "Thu Jun 04 2026 15:41:28 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "IA3PR06MB10711EB9982B2ACE40AAD98A8B8102@IA3PR06MB10711.namprd06.prod.outlook.com",
+      "subject": "REMINDER: Woolfolk Referrals",
+      "sender": "\"Koch, Kelsey\" <kelsey.koch@austin.utexas.edu>",
+      "date": "Thu Jun 04 2026 14:12:43 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
