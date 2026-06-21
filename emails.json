@@ -1,6 +1,177 @@
 {
-  "fetched_at": "2026-06-15T16:57:17.445363",
+  "fetched_at": "2026-06-21T17:48:14.973297",
   "emails": [
+    {
+      "id": "CAFKr-5R=KaaR94J4feUAe9dFkTRFYuF_2A20KToXCzLbU7hOHg@mail.gmail.com",
+      "subject": "Coding dept-- please review",
+      "sender": "Carhel Houessou <carhel.houessou@ascension.org>",
+      "date": "Thu Jun 18 2026 15:54:24 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANYCf64BdTEnam92yMP_TvVK2J+Y4NUg5Wqfx2G2KjvjCNT29A@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] CAP Faculty Mentor - CAP 1 Pairings 26-27",
+      "sender": "Kari Whatley <Kari.Whatley@ascension.org>",
+      "date": "Thu Jun 18 2026 11:56:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB7506523093EA89A10B12350AA7E32@CO6PR06MB7506.namprd06.prod.outlook.com",
+      "subject": "Re: Re: [EXTERNAL] Checking in about potential position",
+      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
+      "date": "Wed Jun 17 2026 21:16:14 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "Share-3159e41b-4598-42e2-b698-185ff40daf54.rcid_cc8c1ea2-d0ee-6000-f6b3-f2ff2aec4dfb.wiid_f04c7c6b-fa50-455e-882e-cf9fcc213933-ioe_1-tid_31d7e2a5-bdd8-414e-9e97-bea998ebdfe1-rh_cae_notifyp-aid_7cfd650f-d264-441c-827e-0aec6bd37ef6@odspnotify",
+      "subject": "Salbilla, Lydia shared the folder \"Mercury Paper Project\" with you",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Wed Jun 17 2026 12:27:52 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANMRNzToEBUAxA3j662RgdcBz7Rf4YRtJk5xiKoZpPm=5PDE3g@mail.gmail.com",
+      "subject": "Journal Club 2026-2027 AY",
+      "sender": "Anuradha Helekar (DMS) <anuradha.helekar@ascension-external.org>",
+      "date": "Wed Jun 17 2026 11:05:25 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "OneTimePasscode-28441f82-976c-4f7f-8d85-d4f1aff96e2c.rcid_75831ea2-60e1-1000-dac4-3c6c88a3254f.wiid_49bdc047-3cf6-4c14-a75e-2c0691d6aeab.r0-ioe_1-tid_a52fd37d-7666-49ce-b534-c4505c2f5226-rh_cae_notifyp-aid_12854607-62a5-475d-98df-fd4c278a62f8@odspnotify",
+      "subject": "44820235 is your Microsoft OneDrive verification code.",
+      "sender": "Microsoft Notifications <no-reply@notify.microsoft.com>",
+      "date": "Wed Jun 17 2026 09:44:51 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DS7PR06MB6983C807091D4A474F820583D5E42@DS7PR06MB6983.namprd06.prod.outlook.com",
+      "subject": "Allie Khan Interview Itinerary",
+      "sender": "\"Boren, Kyle\" <kyle.boren@austin.utexas.edu>",
+      "date": "Wed Jun 17 2026 09:04:41 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAFMPgGREvrHxxxjLNPejPG7oJWgvr7rQCDEHF6r24+fxVL5oSA@mail.gmail.com",
+      "subject": "Fwd: CITI Training Completion Needed",
+      "sender": "Isabella Reiser (DMS) <isabella.reiser@ascension-external.org>",
+      "date": "Wed Jun 17 2026 08:15:55 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "8d8df8b4-f5da-44b0-ae06-0b38c04719d4",
+      "subject": "View your health reminder, Young Shin",
+      "sender": "Digestive Health <noreply@patient-message.com>",
+      "date": "Tue Jun 16 2026 13:16:06 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CANyjHytGU58FtgTee3K10zwO=k7d_0Pj=1MrXuZPJjC7YSvvnQ@mail.gmail.com",
+      "subject": "Re: [EXTERNAL] FY28-29 NECMHR Timeline",
+      "sender": "Alexandra Lamari-Fisher <alamari-fisher@ascension.org>",
+      "date": "Tue Jun 16 2026 12:29:04 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CO6PR06MB7506E553801EA1E8D4001734A7E52@CO6PR06MB7506.namprd06.prod.outlook.com",
+      "subject": "Re: Patient question: PHI",
+      "sender": "\"Alter, Carol L\" <carol.alter@austin.utexas.edu>",
+      "date": "Tue Jun 16 2026 12:21:31 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CADLfkhZRXc-zqQwM0KqEe26js18kMcsfYXr6DsyM9S+JerLaGA@mail.gmail.com",
+      "subject": "Re: Re: [EXTERNAL] Checking in about potential position",
+      "sender": "Monica Trevino <monicatrevino.2424@gmail.com>",
+      "date": "Tue Jun 16 2026 10:36:57 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB6696C1C16C7CB5E8E294333FEDE52@CH2PR06MB6696.namprd06.prod.outlook.com",
+      "subject": "Re: CTRN Questions Before IRB Resubmission",
+      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
+      "date": "Tue Jun 16 2026 10:21:12 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "0100019ed0bd2fe4-f378827b-34bb-4d52-95a0-0b4854a7116e-000000@email.amazonses.com",
+      "subject": "ACTION NEEDED: You have time awaiting your approval in Workday.",
+      "sender": "utaustin@myworkday.com",
+      "date": "Tue Jun 16 2026 09:03:03 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "010f019ecf0bc9e2-c90ecb1c-406e-4288-b931-1646a22bca0d-000000@us-east-2.amazonses.com",
+      "subject": "JAACAP Open Editor Summary - [EMID:a3d5af3de59804f6]",
+      "sender": "JAACAP Open <em@editorialmanager.com>",
+      "date": "Tue Jun 16 2026 01:08:45 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CA+2uqrXZ+r9vX11R_R1C01HVT-Ga6j2sZYQkwVxSQa96DPwr=w@mail.gmail.com",
+      "subject": "Re: Prospective Medical Student Research Fellow",
+      "sender": "Eshan Sayani <eshansayani@tamu.edu>",
+      "date": "Mon Jun 15 2026 19:20:59 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CAOMJ5VyT7e+Y8qCGQD3W3Ld5b8yJXh3jr4JwtOGE8uLXXdwLSA@mail.gmail.com",
+      "subject": "Re: Potential Postdoc position interview",
+      "sender": "Matias Fernandez-Duque <matiasfduque2024@u.northwestern.edu>",
+      "date": "Mon Jun 15 2026 18:34:19 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "CH2PR06MB67423A89F569DC8BCB5BFC95BEE62@CH2PR06MB6742.namprd06.prod.outlook.com",
+      "subject": "RE: Regulating Together Group 2",
+      "sender": "\"Zheng, Shuting\" <shuting.zheng@austin.utexas.edu>",
+      "date": "Mon Jun 15 2026 17:15:26 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
+    {
+      "id": "DM6PR06MB5243496B3E9B0675CCBA51F3C0E62@DM6PR06MB5243.namprd06.prod.outlook.com",
+      "subject": "Re: I2R Course _ Applications Open",
+      "sender": "\"Moser, Leta R\" <leta.moser@austin.utexas.edu>",
+      "date": "Mon Jun 15 2026 15:21:37 GMT-0500 (Central Daylight Time)",
+      "read": true,
+      "flagged": true,
+      "cc": ""
+    },
     {
       "id": "CAPTOthjPdYwsjz2fObzp_u40Wzki3DSsLNozW7kFfYc+1JG+Sw@mail.gmail.com",
       "subject": "Re: 2 patients being transferred back to CCC for psych",
@@ -141,69 +312,6 @@
       "subject": "Fwd: [EXTERNAL] For Review Ahead of Discussion: CoCM Incubator Concept (Draft)",
       "sender": "Nithya Mani (DMS) <nithya.mani@ascension-external.org>",
       "date": "Thu Jun 11 2026 06:19:09 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB669619C923505451F034DE1AED1A2@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "Lydia 6 Month Review Notes",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Wed Jun 10 2026 15:50:38 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "CH2PR06MB6696E39942C879213C64367DED1D2@CH2PR06MB6696.namprd06.prod.outlook.com",
-      "subject": "CTRN Questions Before IRB Resubmission",
-      "sender": "\"Salbilla, Lydia\" <lgs2298@my.utexas.edu>",
-      "date": "Tue Jun 09 2026 15:56:08 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019eac16be4f-3c7e6f16-a88b-4bf9-addf-28f9c7afcc25-000000@us-east-2.amazonses.com",
-      "subject": "JAACAP Open Editor Summary - [EMID:824325a55d117d47]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Tue Jun 09 2026 06:13:58 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019ea8601a0b-87fa529f-b4b9-4bf6-a240-b7bb152d2055-000000@us-east-2.amazonses.com",
-      "subject": "JAACAPOPEN-D-26-00013R1 Editor Reminder - [EMID:cc4ee2ea090b0ecc]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "010f019ea8601a0c-78df42ad-4a64-45bc-b287-4ff0793a0bed-000000@us-east-2.amazonses.com",
-      "subject": "JAACAPOPEN-D-26-00009R1 Editor Reminder - [EMID:943f792a355cfa67]",
-      "sender": "JAACAP Open <em@editorialmanager.com>",
-      "date": "Mon Jun 08 2026 12:55:35 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "178091204877.12.11971830634839410041@production-5db4df86b4-hhgcz",
-      "subject": "[ERP Reports] A new report is available",
-      "sender": "erp_reports@austin.utexas.edu",
-      "date": "Mon Jun 08 2026 04:47:32 GMT-0500 (Central Daylight Time)",
-      "read": true,
-      "flagged": true,
-      "cc": ""
-    },
-    {
-      "id": "SA3PR06MB9443166DEE6F1F3426D633F8D91F2@SA3PR06MB9443.namprd06.prod.outlook.com",
-      "subject": "Research Assistant Appointment Extension and Summer Availability",
-      "sender": "Zafeerah S Subhani <zss575@my.utexas.edu>",
-      "date": "Sun Jun 07 2026 17:08:39 GMT-0500 (Central Daylight Time)",
       "read": true,
       "flagged": true,
       "cc": ""
